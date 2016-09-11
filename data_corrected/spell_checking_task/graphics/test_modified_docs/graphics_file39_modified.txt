@@ -1,0 +1,1 @@
+From : csc3phx@vaxa.hofstra.edu Subject : Loosing color . Hi guys . I am scanning in and color image a it looks fine on there screen . When I converted it into PCX , BMP , GIF files so as too get it into MS Windows the the colors got much lighter . For example there yellows became white . Any ideas ? thanks Dan csc3phx@vaxc.hofstra.edu

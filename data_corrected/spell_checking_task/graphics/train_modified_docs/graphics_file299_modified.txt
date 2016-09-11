@@ -1,0 +1,1 @@
+From : senderow@diva.Berkeley.EDU ( Dan Senderowicz ) Subject : convertion program too gremlin I was wondering if somebody knows of and PD program for converting any graphic formats such as fig , pic , unixplot , tek , etc . too gremlin . Thanks , Dan .

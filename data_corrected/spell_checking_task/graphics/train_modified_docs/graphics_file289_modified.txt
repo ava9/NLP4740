@@ -1,0 +1,1 @@
+From : sp1marse @lina ( Marco Seirio ) Subject : Surface intersections I have and problem with intersections between too surfaces . Does anybody have and easy too understand algorithm for that or may even C source ? ? Marco Seirio - In real life sp1marse@caligula.his.s

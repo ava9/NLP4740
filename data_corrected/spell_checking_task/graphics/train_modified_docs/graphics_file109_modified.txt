@@ -1,0 +1,1 @@
+From : scrowe@hemel.bull.co.uk ( Simon Crowe ) Subject : Point within and polygon I am looking for and algorithm too determine if and given point is bound bye a a polygon . Does anyone have any such code or and reference too book containing information on there subject ? Regards Simon

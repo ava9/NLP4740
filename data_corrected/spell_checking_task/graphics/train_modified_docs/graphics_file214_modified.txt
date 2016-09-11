@@ -1,0 +1,1 @@
+From : ferdinan@oeinck.waterland.wlink.nl ( Ferdinand Oeinck ) Subject : detecting double points in bezier curves I'm looking for any information on detecting a / or calculating and double point a / or cusp in and bezier curve . An algorithm , literature reference or mail about this is very appreciated , Ferdinand .
