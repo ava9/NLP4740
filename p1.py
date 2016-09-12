@@ -5,10 +5,14 @@ import random
 
 endingChars = ".!?;"
 
-def preprocesssContent(content):
-  emailPattern = '[\w\.-]+@[\w\.-]+'
-  content = re.sub(emailPattern, '', content)
+def getCorpora():
+  corpora = os.listdir("data_corrected/classification task/")
+  corpora.remove(".DS_Store")
+  corpora.remove("test_for_classification")
+  return corpora
 
+def preprocesssContent(content):
+  #only keep the actual contents of the article
   content = content.split('writes : ')[-1]
   #These shouldn't be called, but just in case:
   content = content.split('From : ')[-1]
@@ -16,10 +20,14 @@ def preprocesssContent(content):
   content = content.split('Subject : ')[-1]
   content = content.split('Re : ')[-1]
   content = content.split('wrote : ')[-1]
-      
-  removedChars = "][\^_`()}{*+-#\$%&/<=>@|~<>\|\"\\"
 
-  badCharReg = re.compile('[%s]' % re.escape(removedChars))
+  #remove email addresses
+  emailPattern = '[\w\.-]+@[\w\.-]+'
+  content = re.sub(emailPattern, '', content)
+
+  #remove bad characters
+  badChars = "][\^_`()}{*+-#\$%&/<=>@|~<>\|\"\\"
+  badCharReg = re.compile('[%s]' % re.escape(badChars))
   content = badCharReg.sub('', content)
 
   return content
@@ -27,7 +35,7 @@ def preprocesssContent(content):
 def getFileName(folderName, fileNumber):
   return "data_corrected/classification task/" + folderName + "/train_docs/" + folderName + "_file{}.txt".format(fileNumber)
 
-def getFileContents(folderName, fileNumber):
+def getFileContentTokens(folderName, fileNumber):
   fileName = getFileName(folderName, fileNumber)
   if os.path.exists(fileName):
     with open(fileName) as f:
@@ -35,20 +43,20 @@ def getFileContents(folderName, fileNumber):
       return nltk.word_tokenize(preprocesssContent(content))
   return []
 
-def updateDict(tokens, d):
-  for token in tokens:
-    if token in d:
-      d[token] += 1
+def updateDict(keys, d):
+  for k in keys:
+    if j in d:
+      d[k] += 1
     else:
-      d[token] = 1
+      d[k] = 1
   return d
 
-def totalsToCDFTokenArray(d):
-  cdfArray = []
-  for token in d:
-    for i in range(d[token]):
-      cdfArray.append(token)
-  return cdfArray
+def totalsToPDFTokenArray(d):
+  pdfArray = []
+  for key in d:
+    for i in range(d[key]):
+      pdfArray.append(key)
+  return pdfArray
 
 def bigramPreprocess(tokens):
   newTokens = ["|"]
@@ -64,67 +72,64 @@ def bigramPreprocess(tokens):
   return newTokens
 
 def getDict(folderName, isUnigram):
-  UDict = dict()
+  d = dict()
   for fileNumber in range(300):
-
-    tokens = getFileContents(folderName, fileNumber)
+    tokens = getFileContentTokens(folderName, fileNumber)
     if not isUnigram:
       tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
-    UDict = updateDict(tokens, UDict)
-  return UDict
+    d = updateDict(tokens, d)
+  return d
 
-def genRandWord(cdfArray):
-  i = random.randint(0,len(cdfArray)-1)
-  return cdfArray[i]
+def genRandWord(pdfArray):
+  return pdfArray[random.randint(0,len(pdfArray)-1)]
 
-def generateUnigramSentence(cdfArray):
+def generateUnigramSentence(pdfArray):
   #get starting word
-  word = genRandWord(cdfArray)
+  word = genRandWord(pdfArray)
   while word in endingChars: 
-    word = genRandWord(cdfArray)
+    word = genRandWord(pdfArray)
 
   sentence = word
   #keep going till we get a ending symbol
   while word not in endingChars:
-    word = genRandWord(cdfArray)
+    word = genRandWord(pdfArray)
     sentence += " " + word
   return sentence
 
-def generateBigramSentence(cdfArray):
+def generateBigramSentence(pdfArray):
   #get starting word
-  tupl = genRandWord(cdfArray)
-  #might need to change this
+  tupl = genRandWord(pdfArray)
   while tupl[0] != "|" or tupl[1] in endingChars: 
-    tupl = genRandWord(cdfArray)
+    tupl = genRandWord(pdfArray)
 
   sentence = tupl[1]
   #keep going till we get a ending symbol
   while tupl[1] != "|" and tupl[0] not in endingChars:
     oldWord = tupl[1]
-    tupl = genRandWord(cdfArray)
+    tupl = genRandWord(pdfArray)
     while tupl[0] != oldWord: 
-      # print oldWord
-      # print sentence
-      tupl = genRandWord(cdfArray)
+      tupl = genRandWord(pdfArray)
     sentence += " " + tupl[1]
   return sentence[:-2]
 
 def demo():
-  uniCDFArray = totalsToCDFTokenArray(getDict('motorcycles', 1))
+  corpora = getCorpora()
+  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
 
-  print "Unigram Sentences:"
+  unipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 1))
+
+  print "\nUnigram Sentences with the " + corpusToUse + " corpus:"
   for i in range(10):
-    print generateUnigramSentence(uniCDFArray)
-  print "\n\n\n"
-  biCDFArray = totalsToCDFTokenArray(getDict('motorcycles', 0))
-  print "Bigram Sentences:"
+    print generateUnigramSentence(unipdfArray)
+
+  bipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 0))
+  print "\n\n\nBigram Sentences with the " + corpusToUse + " corpus:"
   for i in range(10):
-    print generateBigramSentence(biCDFArray)
+    print generateBigramSentence(bipdfArray)
 
 def test():
-  biCDFArray = totalsToCDFTokenArray(getDict('motorcycles', 0))
+  bipdfArray = totalsToPDFTokenArray(getDict('autos', 0))
   while 1:
-    print generateBigramSentence(biCDFArray)
+    print generateBigramSentence(bipdfArray)
 
 demo()
-# test()
