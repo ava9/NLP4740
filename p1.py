@@ -1,6 +1,11 @@
 from nltk import word_tokenize
 import re
 import os
+import random
+
+endingChars = ".!?;"
+
+
 
 def preprocesssContent(content):
   emailPattern = '[\w\.-]+@[\w\.-]+'
@@ -14,9 +19,9 @@ def preprocesssContent(content):
   content = content.split('Re : ')[-1]
   content = content.split('wrote : ')[-1]
       
-  Bad_symbols = "[\]^_`()}{*+-#\$%&/<=>@|~<>\|\\"
+  removedChars = ",][\^_`()}{*+-#\$%&/<=>@|~<>\|\\"
 
-  badCharReg = re.compile('[%s]' % re.escape(Bad_symbols))
+  badCharReg = re.compile('[%s]' % re.escape(removedChars))
   content = badCharReg.sub('', content)
 
   multipleSpaces = '[\s]+'
@@ -37,19 +42,44 @@ def getFileContents(folderName, fileNumber):
 
 def updateDict(tokens, d):
   for token in tokens:
-    if token not in d:
-      d[token] = 1
-    else:
+    if token in d:
       d[token] += 1
-  return d
+    else:
+      d[token] = 1
 
+def totalsToCDFTokenArray(d):
+  cdfArray = []
+  for token in d:
+    for i in range(d[token]-1):
+      cdfArray.append(token)
+  return cdfArray
 
-def getAllFilesForUnigram(folderName):
+def getUnigramDict(folderName):
   UDict = dict()
   for fileNumber in range(300):
     tokens = getFileContents(folderName, fileNumber)
     updateDict(tokens, UDict)
   return UDict
 
+def unaryGenRandWord(cdfArray):
+  i = random.randint(0,len(cdfArray)-1)
+  return cdfArray[i]
 
-print getAllFilesForUnigram('motorcycles')
+
+def generateUnigramSentence(folderName):
+  cdfArray = totalsToCDFTokenArray(getUnigramDict(folderName))
+
+  #get starting word
+  word = unaryGenRandWord(cdfArray)
+  while word in endingChars: 
+    word = unaryGenRandWord(cdfArray)
+
+  sentence = word
+  #keep going till we get a ending symbol
+  while word not in endingChars:
+    word = unaryGenRandWord(cdfArray)
+    sentence += " " + word
+  return sentence
+
+mydict = generateUnigramSentence('motorcycles')
+print mydict
