@@ -169,7 +169,7 @@ def computePerplexity(dictionary, fileNumber, isUnigram):
     else:
       #support bigrams here
       pass
-  return math.exp(-total/len(dictionary))
+  return math.exp(-total/len(tokens))
 
 #main demo of sentence generation
 def demo():
@@ -191,8 +191,9 @@ def demo():
     print generateBigramSentence(bipdfArray)
 
 def test():
-  corpora = getCorpora()
-  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+  # corpora = getCorpora()
+  # corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+  corpusToUse = "space"
   dic = getDict(corpusToUse,1)
   print computePerplexity(dic, 0, 1)
 
