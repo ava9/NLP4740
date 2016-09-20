@@ -11,7 +11,8 @@ SMOOTHING = 1
 #gets the corpora for the sentence generation task, removes OSX hidden file and classification task for now
 def getCorpora():
   corpora = os.listdir("data_corrected/classification task/")
-  corpora.remove(".DS_Store")
+  if ".DS_Store" in corpora:
+    corpora.remove(".DS_Store")
   corpora.remove("test_for_classification")
   return corpora
 
@@ -85,21 +86,22 @@ def bigramPreprocess(tokens):
 
 #use unknowns in dictionary. Does this by converting all words/tokens
 def convertUnknowns(d, isUnigram):
+  newD = dict(d)
   for tk, c in d.iteritems():
     if c == 1:
-      del d[tk]
       if isUnigram:
-        if unkToken in d:
-          d[unkToken] += 1
+        if unkToken in newD:
+          newD[unkToken] += 1
         else:
-          d[unkToken] += 1
+          newD[unkToken] = 1
       else:
         unkTupl = (tk[0],unkToken)
-        if unkTupl in d:
-          d[unkTupl] += 1
+        if unkTupl in newD:
+          newD[unkTupl] += 1
         else:
-          d[unkTupl] += 1
-  return d
+          newD[unkTupl] = 1
+      del newD[tk]
+  return newD
 
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
@@ -110,8 +112,8 @@ def getDict(folderName, isUnigram):
       tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
     d = updateDict(tokens, d)
 
-  # if UNKNOWNS:
-  #   d = convertUnknowns(d, isUnigram)
+  if UNKNOWNS:
+    d = convertUnknowns(d, isUnigram)
   return d
 
 #gets a random (uniform) word from a pdf array as described above
@@ -149,6 +151,7 @@ def generateBigramSentence(pdfArray):
     while tupl[0] != oldWord: 
       tupl = genRandWord(pdfArray)
     sentence += " " + tupl[1]
+    print sentence
   return sentence[:-2]
 
 #main demo of sentence generation
@@ -172,8 +175,12 @@ def demo():
 
 #testing how reliable our corpus is. Test function, can be ignored
 def test():
-  bipdfArray = totalsToPDFTokenArray(getDict('autos', 0))
-  while 1:
-    print generateBigramSentence(bipdfArray)
+  # unipdfArray = totalsToPDFTokenArray(getDict('autos', 1))
+  # while 1:
+  #   print generateBigramSentence(bipdfArray)
+  corpora = getCorpora()
+  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+  dic = getDict(corpusToUse,1)
+  print dic[unkToken]
 
 demo()
