@@ -1,6 +1,9 @@
 # NLP4740
 
-In order to run the demo, please run:
+Python 2.7 is used to run this project.
+In order to run the demo, please run (on Unix):
 >> python p1.py
 
-This will generate 10 unigram sentences and 10 bigram sentences from a random corpus
+or on Windows:
+>> py p1.py
+
