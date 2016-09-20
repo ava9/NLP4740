@@ -4,6 +4,9 @@ import os
 import random
 
 endingChars = ".!?;"
+unkToken = "<unk>"
+UNKNOWNS = 1
+SMOOTHING = 1
 
 #gets the corpora for the sentence generation task, removes OSX hidden file and classification task for now
 def getCorpora():
@@ -52,7 +55,7 @@ def getFileContentTokens(folderName, fileNumber):
 #returns the new dictionary
 def updateDict(keys, d):
   for k in keys:
-    if j in d:
+    if k in d:
       d[k] += 1
     else:
       d[k] = 1
@@ -80,6 +83,24 @@ def bigramPreprocess(tokens):
     newTokens.append("|")
   return newTokens
 
+#use unknowns in dictionary. Does this by converting all words/tokens
+def convertUnknowns(d, isUnigram):
+  for tk, c in d.iteritems():
+    if c == 1:
+      del d[tk]
+      if isUnigram:
+        if unkToken in d:
+          d[unkToken] += 1
+        else:
+          d[unkToken] += 1
+      else:
+        unkTupl = (tk[0],unkToken)
+        if unkTupl in d:
+          d[unkTupl] += 1
+        else:
+          d[unkTupl] += 1
+  return d
+
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
   d = dict()
@@ -88,6 +109,9 @@ def getDict(folderName, isUnigram):
     if not isUnigram:
       tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
     d = updateDict(tokens, d)
+
+  # if UNKNOWNS:
+  #   d = convertUnknowns(d, isUnigram)
   return d
 
 #gets a random (uniform) word from a pdf array as described above
