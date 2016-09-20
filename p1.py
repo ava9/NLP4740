@@ -2,19 +2,25 @@ import nltk
 import re
 import os
 import random
+import math
 
 endingChars = ".!?;"
 smoothingConstant = 5;
+unkToken = "<unk>"
+UNKNOWNS = 1
+SMOOTHING = 1
+VERBOSE = 0
 
 #gets the corpora for the sentence generation task, removes OSX hidden file and classification task for now
 def getCorpora():
   corpora = os.listdir("data_corrected/classification task/")
-  corpora.remove(".DS_Store")
+  if ".DS_Store" in corpora:
+    corpora.remove(".DS_Store")
   corpora.remove("test_for_classification")
   return corpora
 
 #given the content of a file in a string, preprocesses it to only have relevant words for the corpus
-def preprocesssContent(content):
+def preprocessContent(content):
   #only keep the actual contents of the article
   content = content.split('writes : ')[-1]
   #These shouldn't be called, but just in case:
@@ -39,14 +45,23 @@ def preprocesssContent(content):
 def getFileName(folderName, fileNumber):
   return "data_corrected/classification task/" + folderName + "/train_docs/" + folderName + "_file{}.txt".format(fileNumber)
 
+#returns the file path of a document given the corpus and the file number
+def getTestFileName(fileNumber):
+  return "data_corrected/classification task/test_for_classification/" + "file_{}.txt".format(fileNumber)
+
 #gets the tokens of a file given a corpus and file number (by preprocessing and tokenizing)
 #returns the tokens if the file exists, or an empty array otherwise
-def getFileContentTokens(folderName, fileNumber):
-  fileName = getFileName(folderName, fileNumber)
+def getFileContentTokens(folderName, fileNumber, isTest = False):
+  if isTest:
+    fileName = getTestFileName(fileNumber)
+  else:
+    fileName = getFileName(folderName, fileNumber)
   if os.path.exists(fileName):
     with open(fileName) as f:
       content = f.read()
-      return nltk.word_tokenize(preprocesssContent(content))
+      return nltk.word_tokenize(preprocessContent(content))
+  elif VERBOSE:
+    print "Could not find a file, numbered " + str(fileNumber)
   return []
 
 #updates a frequency table dictionary of n-grams given the old dictionary and the new n-grams,
@@ -81,14 +96,29 @@ def bigramPreprocess(tokens):
     newTokens.append("|")
   return newTokens
 
+#creating unknowns for words seen for the first time
+def makeUnknowns(tokens, seenTokens):
+  for i in range(len(tokens)):
+    if tokens[i] not in seenTokens:
+      seenTokens[tokens[i]] = 1
+      tokens[i] = unkToken
+  return tokens
+
+
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
   d = dict()
+  if UNKNOWNS:
+    seenTokens = dict()
+
   for fileNumber in range(300):
     tokens = getFileContentTokens(folderName, fileNumber)
+    if UNKNOWNS:
+      tokens = makeUnknowns(tokens, seenTokens)
     if not isUnigram:
       tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
     d = updateDict(tokens, d)
+  print UNKNOWNS
   return d
 
 #gets a random (uniform) word from a pdf array as described above
@@ -160,8 +190,49 @@ def goodTuring(bigrams):
 
   return smoothedBigrams;
 
+def getBigramSubDict(d):
+  subD = dict()
+  for tk, c in d.iteritems():
+    tk = tk[0]
+    if tk in subD:
+      subD[tk] += c
+    else:
+      subD[tk] = c
+  return subD
+
+def computePerplexity(dictionary, fileNumber, isUnigram):
+  tokens = getFileContentTokens("dummy", fileNumber, True)
+  total = 0.0
+  if isUnigram:
+    totalC = sum(dictionary.values())
+    for tk in tokens:
+      if tk not in dictionary:
+        tk = unkToken
+      elif unkToken not in dictionary:
+        print "corpus is too small, be careful! there is no unknown token in the dictionary"
+      total += math.log(float(dictionary[tk])/totalC)
+  else:
+    bigrams = list(nltk.bigrams(bigramPreprocess(tokens)))
+    subDict = getBigramSubDict(dictionary)
+    for tupl in bigrams:
+      if tupl not in dictionary:
+        if (unkToken, tupl[1]) in dictionary:
+          tupl = (unkToken, tupl[1])
+        elif (tupl[0], unkToken) in dictionary:
+          tupl = (tupl[0], unkToken)
+        elif (unkToken, unkToken) in dictionary:
+          tupl = (unkToken, unkToken)
+        else:
+          print "corpus is too small, be careful! there is no (unknown, unknown) bigram in the dictionary"
+      total += math.log(float(dictionary[tupl])/subDict[tupl[0]])
+
+  return math.exp(-total/len(tokens))
+
 #main demo of sentence generation
 def demo():
+  global UNKNOWNS 
+  UNKNOWNS = 0
+
   #get all the corpora and choose a random one
   corpora = getCorpora()
   corpusToUse = corpora[random.randint(0,len(corpora)-1)]
@@ -179,22 +250,15 @@ def demo():
   for i in range(10):
     print generateBigramSentence(bipdfArray)
 
-#testing how reliable our corpus is. Test function, can be ignored
-def test():
-  bipdfArray = totalsToPDFTokenArray(getDict('autos', 0))
-  while 1:
-    print generateBigramSentence(bipdfArray)
+  UNKNOWNS = 1
 
-def testSmooth():
+def test():
+  isUnigram = 0
+  fileNumber = 0
   corpora = getCorpora()
   corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+  dic = getDict(corpusToUse,isUnigram)
+  print computePerplexity(dic, fileNumber, isUnigram)
 
-  #generate 10 unigram sentences
-  bidict = getDict(corpusToUse, 1)
-
-  # unipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 1))
-  # bipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 0))
-
-  print goodTuring(bidict)
-
-testSmooth()
+if __name__ == "__main__":
+  demo()
