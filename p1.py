@@ -8,6 +8,7 @@ endingChars = ".!?;"
 unkToken = "<unk>"
 UNKNOWNS = 1
 SMOOTHING = 1
+VERBOSE = 0
 
 #gets the corpora for the sentence generation task, removes OSX hidden file and classification task for now
 def getCorpora():
@@ -58,9 +59,9 @@ def getFileContentTokens(folderName, fileNumber, isTest = False):
     with open(fileName) as f:
       content = f.read()
       return nltk.word_tokenize(preprocessContent(content))
-  else:
+  elif VERBOSE:
     print "Could not find a file, numbered " + str(fileNumber)
-    return []
+  return []
 
 #updates a frequency table dictionary of n-grams given the old dictionary and the new n-grams,
 #returns the new dictionary
@@ -156,19 +157,42 @@ def generateBigramSentence(pdfArray):
     sentence += " " + tupl[1]
   return sentence[:-2]
 
+def getBigramSubDict(d):
+  subD = dict()
+  for tk, c in d.iteritems():
+    tk = tk[0]
+    if tk in subD:
+      subD[tk] += c
+    else:
+      subD[tk] = c
+  return subD
+
 def computePerplexity(dictionary, fileNumber, isUnigram):
   tokens = getFileContentTokens("dummy", fileNumber, True)
-  totalC = sum(dictionary.values())
   total = 0.0
-  for i in range(len(tokens)):
-    if isUnigram:
-      if tokens[i] in dictionary:
-        total += math.log(float(dictionary[tokens[i]])/totalC)
-      else:
-        total += math.log(float(dictionary[unkToken])/totalC)
-    else:
-      #support bigrams here
-      pass
+  if isUnigram:
+    totalC = sum(dictionary.values())
+    for tk in tokens:
+      if tk not in dictionary:
+        tk = unkToken
+      elif unkToken not in dictionary:
+        print "corpus is too small, be careful! there is no unknown token in the dictionary"
+      total += math.log(float(dictionary[tk])/totalC)
+  else:
+    bigrams = list(nltk.bigrams(bigramPreprocess(tokens)))
+    subDict = getBigramSubDict(dictionary)
+    for tupl in bigrams:
+      if tupl not in dictionary:
+        if (unkToken, tupl[1]) in dictionary:
+          tupl = (unkToken, tupl[1])
+        elif (tupl[0], unkToken) in dictionary:
+          tupl = (tupl[0], unkToken)
+        elif (unkToken, unkToken) in dictionary:
+          tupl = (unkToken, unkToken)
+        else:
+          print "corpus is too small, be careful! there is no (unknown, unknown) bigram in the dictionary"
+      total += math.log(float(dictionary[tupl])/subDict[tupl[0]])
+
   return math.exp(-total/len(tokens))
 
 #main demo of sentence generation
@@ -191,10 +215,12 @@ def demo():
     print generateBigramSentence(bipdfArray)
 
 def test():
-  # corpora = getCorpora()
-  # corpusToUse = corpora[random.randint(0,len(corpora)-1)]
-  corpusToUse = "space"
-  dic = getDict(corpusToUse,1)
-  print computePerplexity(dic, 0, 1)
+  isUnigram = 0
+  fileNumber = 0
+  corpora = getCorpora()
+  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+  dic = getDict(corpusToUse,isUnigram)
+  print computePerplexity(dic, fileNumber, isUnigram)
 
-test()
+if __name__ == "__main__":
+  test()
