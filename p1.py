@@ -84,36 +84,29 @@ def bigramPreprocess(tokens):
     newTokens.append("|")
   return newTokens
 
-#use unknowns in dictionary. Does this by converting all words/tokens
-def convertUnknowns(d, isUnigram):
-  newD = dict(d)
-  for tk, c in d.iteritems():
-    if c == 1:
-      if isUnigram:
-        if unkToken in newD:
-          newD[unkToken] += 1
-        else:
-          newD[unkToken] = 1
-      else:
-        unkTupl = (tk[0],unkToken)
-        if unkTupl in newD:
-          newD[unkTupl] += 1
-        else:
-          newD[unkTupl] = 1
-      del newD[tk]
-  return newD
+#creating unknowns for words seen for the first time
+def makeUnknowns(tokens, seenTokens):
+  for i in range(len(tokens)):
+    if tokens[i] not in seenTokens:
+      seenTokens[tokens[i]] = 1
+      tokens[i] = unkToken
+  return tokens
+
 
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
   d = dict()
+  if UNKNOWNS:
+    seenTokens = dict()
+
   for fileNumber in range(300):
     tokens = getFileContentTokens(folderName, fileNumber)
+    if UNKNOWNS:
+      tokens = makeUnknowns(tokens, seenTokens)
     if not isUnigram:
       tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
     d = updateDict(tokens, d)
 
-  if UNKNOWNS:
-    d = convertUnknowns(d, isUnigram)
   return d
 
 #gets a random (uniform) word from a pdf array as described above
@@ -151,7 +144,6 @@ def generateBigramSentence(pdfArray):
     while tupl[0] != oldWord: 
       tupl = genRandWord(pdfArray)
     sentence += " " + tupl[1]
-    print sentence
   return sentence[:-2]
 
 #main demo of sentence generation
