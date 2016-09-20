@@ -4,6 +4,7 @@ import os
 import random
 
 endingChars = ".!?;"
+smoothingConstant = 5;
 
 #gets the corpora for the sentence generation task, removes OSX hidden file and classification task for now
 def getCorpora():
@@ -52,7 +53,7 @@ def getFileContentTokens(folderName, fileNumber):
 #returns the new dictionary
 def updateDict(keys, d):
   for k in keys:
-    if j in d:
+    if k in d:
       d[k] += 1
     else:
       d[k] = 1
@@ -127,6 +128,38 @@ def generateBigramSentence(pdfArray):
     sentence += " " + tupl[1]
   return sentence[:-2]
 
+def goodTuring(bigrams):
+  def calculateNc():
+    d = {};
+
+    counts = bigrams.values();
+    for i in range(0, len(counts)):
+      count = counts[i];
+      if d.has_key(count):
+        d[count] += 1;
+      else:
+        d[count] = 1;
+
+    return d
+
+  smoothedBigrams = {};
+  allNc = calculateNc();
+
+  keys = bigrams.keys();
+  for j in range(len(keys)):
+    key = keys[j];
+    c = bigrams[key];
+    if c >= smoothingConstant or (c+1) not in allNc:
+      cstar = c
+    else:
+      nc = allNc[c];
+      nc1 = allNc[c+1];
+      cstar = (c+1.0)*nc1/nc;
+
+    smoothedBigrams[key] = cstar
+
+  return smoothedBigrams;
+
 #main demo of sentence generation
 def demo():
   #get all the corpora and choose a random one
@@ -152,4 +185,16 @@ def test():
   while 1:
     print generateBigramSentence(bipdfArray)
 
-demo()
+def testSmooth():
+  corpora = getCorpora()
+  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
+
+  #generate 10 unigram sentences
+  bidict = getDict(corpusToUse, 1)
+
+  # unipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 1))
+  # bipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 0))
+
+  print goodTuring(bidict)
+
+testSmooth()
