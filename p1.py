@@ -2,6 +2,7 @@ import nltk
 import re
 import os
 import random
+import math
 
 endingChars = ".!?;"
 unkToken = "<unk>"
@@ -17,7 +18,7 @@ def getCorpora():
   return corpora
 
 #given the content of a file in a string, preprocesses it to only have relevant words for the corpus
-def preprocesssContent(content):
+def preprocessContent(content):
   #only keep the actual contents of the article
   content = content.split('writes : ')[-1]
   #These shouldn't be called, but just in case:
@@ -42,15 +43,24 @@ def preprocesssContent(content):
 def getFileName(folderName, fileNumber):
   return "data_corrected/classification task/" + folderName + "/train_docs/" + folderName + "_file{}.txt".format(fileNumber)
 
+#returns the file path of a document given the corpus and the file number
+def getTestFileName(fileNumber):
+  return "data_corrected/classification task/test_for_classification/" + "file_{}.txt".format(fileNumber)
+
 #gets the tokens of a file given a corpus and file number (by preprocessing and tokenizing)
 #returns the tokens if the file exists, or an empty array otherwise
-def getFileContentTokens(folderName, fileNumber):
-  fileName = getFileName(folderName, fileNumber)
+def getFileContentTokens(folderName, fileNumber, isTest = False):
+  if isTest:
+    fileName = getTestFileName(fileNumber)
+  else:
+    fileName = getFileName(folderName, fileNumber)
   if os.path.exists(fileName):
     with open(fileName) as f:
       content = f.read()
-      return nltk.word_tokenize(preprocesssContent(content))
-  return []
+      return nltk.word_tokenize(preprocessContent(content))
+  else:
+    print "Could not find a file, numbered " + str(fileNumber)
+    return []
 
 #updates a frequency table dictionary of n-grams given the old dictionary and the new n-grams,
 #returns the new dictionary
@@ -146,6 +156,21 @@ def generateBigramSentence(pdfArray):
     sentence += " " + tupl[1]
   return sentence[:-2]
 
+def computePerplexity(dictionary, fileNumber, isUnigram):
+  tokens = getFileContentTokens("dummy", fileNumber, True)
+  totalC = sum(dictionary.values())
+  total = 0.0
+  for i in range(len(tokens)):
+    if isUnigram:
+      if tokens[i] in dictionary:
+        total += math.log(float(dictionary[tokens[i]])/totalC)
+      else:
+        total += math.log(float(dictionary[unkToken])/totalC)
+    else:
+      #support bigrams here
+      pass
+  return math.exp(-total/len(dictionary))
+
 #main demo of sentence generation
 def demo():
   #get all the corpora and choose a random one
@@ -165,14 +190,10 @@ def demo():
   for i in range(10):
     print generateBigramSentence(bipdfArray)
 
-#testing how reliable our corpus is. Test function, can be ignored
 def test():
-  # unipdfArray = totalsToPDFTokenArray(getDict('autos', 1))
-  # while 1:
-  #   print generateBigramSentence(bipdfArray)
   corpora = getCorpora()
   corpusToUse = corpora[random.randint(0,len(corpora)-1)]
   dic = getDict(corpusToUse,1)
-  print dic[unkToken]
+  print computePerplexity(dic, 0, 1)
 
-demo()
+test()
