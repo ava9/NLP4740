@@ -106,14 +106,14 @@ def makeUnknowns(tokens, seenTokens):
 
 def makeBigrams(tokens):
   bigrams = []
-  for i in range(len(tokens)-2):
+  for i in range(len(tokens)-1):
     bigrams.append((tokens[i],tokens[i+1]))
 
   return bigrams
 
 def makeTrigrams(tokens):
   trigrams = []
-  for i in range(len(tokens)-3):
+  for i in range(len(tokens)-2):
     trigrams.append((tokens[i],tokens[i+1],tokens[i+2]))
 
   return trigrams
@@ -131,7 +131,6 @@ def getDict(folderName, isUnigram):
     if not isUnigram:
       tokens = makeBigrams(bigramPreprocess(tokens))
     d = updateDict(tokens, d)
-  print UNKNOWNS
   return d
 
 #gets a random (uniform) word from a pdf array as described above
@@ -176,7 +175,7 @@ def goodTuring(bigrams):
     d = {};
 
     counts = bigrams.values();
-    for i in range(0, len(counts)):
+    for i in range(len(counts)):
       count = counts[i];
       if d.has_key(count):
         d[count] += 1;
@@ -242,6 +241,24 @@ def computePerplexity(dictionary, fileNumber, isUnigram):
   return math.exp(-total/len(tokens))
 
 def topicClassification():
+  isUnigram = 0
+  corpora = getCorpora()
+  dicts = []
+  for i in range(len(corpora)):
+    dicts.append(getDict(corpora[i],isUnigram))
+
+  for i in range(6):
+    fileNumber = i
+    minPerp = 999999
+    corpNum = 15
+    for j in range(len(dicts)):
+      currentPerp = computePerplexity(dicts[j],fileNumber, isUnigram)
+      if currentPerp < minPerp:
+        minPerp = currentPerp
+        corpNum = j
+
+    print "file_" + str(fileNumber) + "," + str(corpNum)
+    print "Perp: " + str(minPerp)
   
 
 #main demo of sentence generation
@@ -269,25 +286,7 @@ def demo():
   UNKNOWNS = 1
 
 def test():
-  isUnigram = 0
-  fileNumber = 0
-  corpora = getCorpora()
-
-  minPerp = 999999
-  corp = ""
-  for i in range(len(corpora)-1):
-    corpusToUse = corpora[i]
-    dic = getDict(corpusToUse,isUnigram)
-    currentPerp = computePerplexity(dic,fileNumber, isUnigram)
-    print corpusToUse
-    print currentPerp
-    if currentPerp < minPerp:
-      minPerp = currentPerp
-      corp = corpusToUse
-
-
-  print "Corpus: " + corp
-  print "Perp: " + str(minPerp)
+  topicClassification()
 
 if __name__ == "__main__":
   test()
