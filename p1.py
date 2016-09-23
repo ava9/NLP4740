@@ -104,6 +104,12 @@ def makeUnknowns(tokens, seenTokens):
       tokens[i] = unkToken
   return tokens
 
+def makeBigrams(tokens):
+  bigrams = []
+  for i in range(len(tokens)-2):
+    bigrams.append((tokens[i],tokens[i+1]))
+
+  return bigrams
 
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
@@ -116,7 +122,7 @@ def getDict(folderName, isUnigram):
     if UNKNOWNS:
       tokens = makeUnknowns(tokens, seenTokens)
     if not isUnigram:
-      tokens = list(nltk.bigrams(bigramPreprocess(tokens)))
+      tokens = makeBigrams(bigramPreprocess(tokens))
     d = updateDict(tokens, d)
   print UNKNOWNS
   return d
@@ -212,7 +218,7 @@ def computePerplexity(dictionary, fileNumber, isUnigram):
         print "corpus is too small, be careful! there is no unknown token in the dictionary"
       total += math.log(float(dictionary[tk])/totalC)
   else:
-    bigrams = list(nltk.bigrams(bigramPreprocess(tokens)))
+    bigrams = makeBigrams(bigramPreprocess(tokens))
     subDict = getBigramSubDict(dictionary)
     for tupl in bigrams:
       if tupl not in dictionary:
