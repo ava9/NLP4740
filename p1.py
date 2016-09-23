@@ -111,6 +111,13 @@ def makeBigrams(tokens):
 
   return bigrams
 
+def makeTrigrams(tokens):
+  trigrams = []
+  for i in range(len(tokens)-3):
+    trigrams.append((tokens[i],tokens[i+1],tokens[i+2]))
+
+  return trigrams
+
 #assembles dictionary for up to 300 documents in a corpus
 def getDict(folderName, isUnigram):
   d = dict()
@@ -234,6 +241,9 @@ def computePerplexity(dictionary, fileNumber, isUnigram):
 
   return math.exp(-total/len(tokens))
 
+def topicClassification():
+  
+
 #main demo of sentence generation
 def demo():
   global UNKNOWNS 
@@ -262,9 +272,22 @@ def test():
   isUnigram = 0
   fileNumber = 0
   corpora = getCorpora()
-  corpusToUse = corpora[random.randint(0,len(corpora)-1)]
-  dic = getDict(corpusToUse,isUnigram)
-  print computePerplexity(dic, fileNumber, isUnigram)
+
+  minPerp = 999999
+  corp = ""
+  for i in range(len(corpora)-1):
+    corpusToUse = corpora[i]
+    dic = getDict(corpusToUse,isUnigram)
+    currentPerp = computePerplexity(dic,fileNumber, isUnigram)
+    print corpusToUse
+    print currentPerp
+    if currentPerp < minPerp:
+      minPerp = currentPerp
+      corp = corpusToUse
+
+
+  print "Corpus: " + corp
+  print "Perp: " + str(minPerp)
 
 if __name__ == "__main__":
-  demo()
+  test()
