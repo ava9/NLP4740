@@ -42,20 +42,26 @@ def preprocessContent(content):
   return content
 
 #returns the file path of a document given the corpus and the file number
-def getFileName(folderName, fileNumber):
+def getFileName(folderName, fileNumber, spellCheck = False, isMod = False):
+  modStr = ""
+  if isMod: modStr = "_modified"
+  if spellCheck:
+    return "data_corrected/spell_checking_task/" + folderName + "/train" + modStr + "_docs/" + folderName + "_file{}".format(fileNumber) + modStr + ".txt"
   return "data_corrected/classification task/" + folderName + "/train_docs/" + folderName + "_file{}.txt".format(fileNumber)
 
 #returns the file path of a document given the corpus and the file number
-def getTestFileName(fileNumber):
+def getTestFileName(fileNumber, folderName = "", spellCheck = False):
+  if spellCheck:
+    return "data_corrected/spell_checking_task/" + folderName + "/test_modified_docs/" + folderName + "_file{}".format(fileNumber) + "_modified.txt"
   return "data_corrected/classification task/test_for_classification/" + "file_{}.txt".format(fileNumber)
 
 #gets the tokens of a file given a corpus and file number (by preprocessing and tokenizing)
 #returns the tokens if the file exists, or an empty array otherwise
-def getFileContentTokens(folderName, fileNumber, isTest = False):
+def getFileContentTokens(folderName, fileNumber, isTest = False, spellCheck = False, isMod = False):
   if isTest:
-    fileName = getTestFileName(fileNumber)
+    fileName = getTestFileName(fileNumber, spellCheck)
   else:
-    fileName = getFileName(folderName, fileNumber)
+    fileName = getFileName(folderName, fileNumber, spellCheck, isMod)
   if os.path.exists(fileName):
     with open(fileName) as f:
       content = f.read()
@@ -240,15 +246,49 @@ def computePerplexity(dictionary, fileNumber, isUnigram):
 
   return math.exp(-total/len(tokens))
 
-def topicClassification():
+#assembles dictionary for up to 300 documents in a corpus
+def getSpellCheckDict(folderName, isUnigram, isMod = False):
+  d = dict()
+  if UNKNOWNS:
+    seenTokens = dict()
+
+  for fileNumber in range(300):
+    tokens = getFileContentTokens(folderName, fileNumber, False, True, isMod)
+    if UNKNOWNS:
+      tokens = makeUnknowns(tokens, seenTokens)
+    if not isUnigram:
+      tokens = makeBigrams(bigramPreprocess(tokens))
+    d = updateDict(tokens, d)
+  return d
+
+def getAllDicts(spellCheck = False):
   isUnigram = 0
   corpora = getCorpora()
-  dicts = []
-  for i in range(len(corpora)):
-    dicts.append(getDict(corpora[i],isUnigram))
+  if not spellCheck:
+    dicts = []
+    for i in range(len(corpora)):
+      dicts.append(getDict(corpora[i],isUnigram))
+    return dicts
+  else:
+    dicts = dict()
+    dicts["good"] = []
+    dicts["mod"] = []
+    for i in range(len(corpora)):
+      dicts["good"].append(getSpellCheckDict(corpora[i],isUnigram,False))
+      dicts["mod"].append(getSpellCheckDict(corpora[i],isUnigram,True))
+    return dicts
 
-  for i in range(6):
+def topicClassification(totalFiles):
+  dicts = getAllDicts()
+
+  filename = "tempSubmission.csv"
+  fid = open(filename, 'w')
+  fid.write("Id,Prediction\n")
+
+  for i in range(totalFiles):
     fileNumber = i
+    if not i % 10: print "we at " + str(i)
+
     minPerp = 999999
     corpNum = 15
     for j in range(len(dicts)):
@@ -256,13 +296,75 @@ def topicClassification():
       if currentPerp < minPerp:
         minPerp = currentPerp
         corpNum = j
+    fid.write("file_" + str(fileNumber) + ".txt," + str(corpNum) + "\n")
 
-    print "file_" + str(fileNumber) + "," + str(corpNum)
-    print "Perp: " + str(minPerp)
+  fid.close()
   
+def performSpellCheck():
+  #read the confusion set
+  fileName = "data_corrected/spell_checking_task/confusion_set.txt"
+  content = ""
+  if os.path.exists(fileName):
+    with open(fileName) as f:
+      content = f.read()
+  content = [s.strip() for s in content.splitlines()]
+  content[0] = 'went want' #had to hardcode this, got some weird escape characters
+  
+  confusionDict = dict()
+
+  for p in content:
+    w1 = ""
+    w2 = ""
+    isFirst = 1
+    for c in p:
+      if c == " ": isFirst = 0
+      if isFirst and c != " ":
+        w1 += c
+      elif c != " ":
+        w2 += c
+    confusionDict[w1] = w2
+    confusionDict[w2] = w1
+
+  #threshold for the probability for the switch (this can be adjusted for with a validation run)
+  pThresh = 0
+
+  #get dicts for the 7*2 corpora
+  dicts = getAllDicts(True)
+  corpora = getCorpora()
+  for cpI in range(len(corpora)):
+    for fileNumber in range(300):
+      tokens = getFileContentTokens(corpora[cpI], fileNumber, True, True)
+      testBigrams = makeBigrams(bigramPreprocess(tokens))
+      fileStr = ""
+      for i in range(len(testBigrams)-1):
+        bg1 = testBigrams[i]
+        tk = bg1[1]
+        if bg1[1] in confusionDict:
+          tk2 = confusionDict[bg1[1]]
+          bg2 = (bg1[1],testBigrams[i+1][1])
+          bg3 = (bg1[0],tk2)
+          bg4 = (tk2,testBigrams[i+1][1])
+
+          p1, p2 = 0, 0
+          if bg1 in dicts["mod"][cpI] and bg3 in dicts["good"][cpI]:
+            p1 = dicts["good"][cpI][bg3]-dicts["mod"][cpI][bg1]
+          if bg2 in dicts["mod"][cpI] and bg4 in dicts["good"][cpI]:
+            p2 = dicts["good"][cpI][bg4]-dicts["mod"][cpI][bg2]
+
+          if (p1 + p2) > pThresh:
+            #do the switch
+            tk = tk2
+        #add stuff to the file if it isnt a delimiter 
+        if tk != "|":
+          fileStr += tk + " "
+      filename = "data_corrected/spell_checking_task/" + corpora[cpI] + "/test_docs/" + corpora[cpI] + "_file{}".format(fileNumber) + ".txt"
+      fid = open(filename, 'w')
+      fid.write(fileStr)
+      fid.close()
+
 
 #main demo of sentence generation
-def demo():
+def demoSentenceGeneration():
   global UNKNOWNS 
   UNKNOWNS = 0
 
@@ -286,7 +388,7 @@ def demo():
   UNKNOWNS = 1
 
 def test():
-  topicClassification()
+  pass
 
 if __name__ == "__main__":
-  test()
+  performSpellCheck()
