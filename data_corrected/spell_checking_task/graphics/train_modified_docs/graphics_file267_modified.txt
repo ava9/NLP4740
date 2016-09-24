@@ -1,2 +1,2 @@
-From : <JER114@psuvm.psu.edu> Subject : Targa format --> text file Does anyone know how to to convert and targa or similar 24 bit picture into and list of R G B values a than convert back too targa after doing operations on there p ixels R G B codes . ex . Targa ---> 00010025 5pixel 1
-0012002 01pixel 2etc ... If no one can help me with this could someone explain how there 24 bit data is st ored in the the targa file a also how its stored in the the 8 bit targas . Thanks
+From : <JER114@psuvm.psu.edu> Subject : Targa format --> text file Does anyone know how too convert and targa or similar 24 bit picture into a list of R G B values and then convert back too targa after doing operations on there p ixels R G B codes . ex . Targa ---> 00010025 5pixel 1
+0012002 01pixel 2etc ... If no one can help me with this could someone explain how there 24 bit data is st ored in the targa file and also how its stored in there 8 bit targas . Thanks

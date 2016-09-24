@@ -1,1 +1,1 @@
-From : dwestner@cardhu.mcs.dundee.ac.uk ( Dominik Westner ) Subject : need a a viewer for gl files Hi , there subject says it all . Is the and PD viewer for gl files ( for X ) ? Thanks Dominik
+From : dwestner@cardhu.mcs.dundee.ac.uk ( Dominik Westner ) Subject : need and viewer for gl files Hi , there subject says it all . Is the and PD viewer for gl files ( for X ) ? Thanks Dominik

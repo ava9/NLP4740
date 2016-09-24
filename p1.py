@@ -90,7 +90,7 @@ def totalsToPDFTokenArray(d):
   return pdfArray
 
 #special preprocessing for bigrams
-def bigramPreprocess(tokens):
+def nGramPreprocess(tokens):
   newTokens = ["|"]
   for token in tokens:
     newTokens.append(token)
@@ -125,7 +125,7 @@ def makeTrigrams(tokens):
   return trigrams
 
 #assembles dictionary for up to 300 documents in a corpus
-def getDict(folderName, isUnigram):
+def getDict(folderName, n):
   d = dict()
   if UNKNOWNS:
     seenTokens = dict()
@@ -134,8 +134,10 @@ def getDict(folderName, isUnigram):
     tokens = getFileContentTokens(folderName, fileNumber)
     if UNKNOWNS:
       tokens = makeUnknowns(tokens, seenTokens)
-    if not isUnigram:
-      tokens = makeBigrams(bigramPreprocess(tokens))
+    if n == 2:
+      tokens = makeBigrams(nGramPreprocess(tokens))
+    elif n == 3:
+      tokens = makeTrigrams(nGramPreprocess(tokens))
     d = updateDict(tokens, d)
   return d
 
@@ -218,31 +220,53 @@ def getBigramSubDict(d):
       subD[tk] = c
   return subD
 
-def computePerplexity(dictionary, fileNumber, isUnigram):
+def computePerplexity(unigram,bigram,trigram,fileNumber,n):
   tokens = getFileContentTokens("dummy", fileNumber, True)
   total = 0.0
-  if isUnigram:
-    totalC = sum(dictionary.values())
+  if n == 1:
+    totalC = sum(unigrams.values())
     for tk in tokens:
-      if tk not in dictionary:
+      if tk not in unigram:
         tk = unkToken
-      elif unkToken not in dictionary:
-        print "corpus is too small, be careful! there is no unknown token in the dictionary"
-      total += math.log(float(dictionary[tk])/totalC)
-  else:
-    bigrams = makeBigrams(bigramPreprocess(tokens))
-    subDict = getBigramSubDict(dictionary)
+      elif unkToken not in unigram:
+        print "corpus is too small, be careful! there is no unknown token in the unigram"
+      total += math.log(float(unigram[tk])/totalC)
+  elif n == 2:
+    bigrams = makeBigrams(nGramPreprocess(tokens))
+    subDict = getBigramSubDict(bigram)
     for tupl in bigrams:
-      if tupl not in dictionary:
-        if (unkToken, tupl[1]) in dictionary:
+      if tupl not in bigram:
+        if (unkToken, tupl[1]) in bigram:
           tupl = (unkToken, tupl[1])
-        elif (tupl[0], unkToken) in dictionary:
+        elif (tupl[0], unkToken) in bigram:
           tupl = (tupl[0], unkToken)
-        elif (unkToken, unkToken) in dictionary:
+        elif (unkToken, unkToken) in bigram:
           tupl = (unkToken, unkToken)
         else:
-          print "corpus is too small, be careful! there is no (unknown, unknown) bigram in the dictionary"
-      total += math.log(float(dictionary[tupl])/subDict[tupl[0]])
+          print "corpus is too small, be careful! there is no (unknown, unknown) bigram in the bigram"
+      total += math.log(float(bigram[tupl])/subDict[tupl[0]])
+  else:
+    trigrams = makeTrigrams(nGramPreprocess(tokens))
+
+    for tupl in trigrams:
+      if tupl not in trigram:
+        if (unkToken, tupl[1], tupl[2]) in trigram:
+          tupl = (unkToken, tupl[1], tupl[2])
+        elif (unkToken, unkToken, tupl[2]) in trigram:
+          tupl = (unkToken, unkToken, tupl[2])
+        elif (unkToken, tupl[1], unkToken) in trigram:
+          tupl = (unkToken, tupl[1], unkToken)
+        elif (unkToken, unkToken, unkToken) in trigram:
+          tupl = (unkToken, unkToken, unkToken)
+        elif (tupl[0], unkToken, tupl[2]) in trigram:
+          tupl = (tupl[0], unkToken, tupl[2])
+        elif (tupl[0], tupl[1], unkToken) in trigram:
+          tupl = (tupl[0], tupl[1], unkToken)
+        elif (tupl[0], unkToken, unkToken) in trigram:
+          tupl = (tupl[0], unkToken, unkToken)
+        else:
+          print "corpus is too small, be careful! there is no (unknown, unknown) bigram in the trigram"
+      total += math.log(float(trigram[tupl])/bigram[(tupl[0],tupl[1])])
 
   return math.exp(-total/len(tokens))
 
@@ -274,25 +298,32 @@ def getAllDicts(spellCheck = False):
     dicts["good"] = []
     dicts["mod"] = []
     for i in range(len(corpora)):
-      dicts["good"].append(getSpellCheckDict(corpora[i],isUnigram,False))
-      dicts["mod"].append(getSpellCheckDict(corpora[i],isUnigram,True))
+      dicts["good"].append(getSpellCheckDict(corpora[i],2,False))
+      dicts["mod"].append(getSpellCheckDict(corpora[i],2,True))
     return dicts
 
-def topicClassification(totalFiles):
-  dicts = getAllDicts()
-
+def topicClassification(n):
   filename = "tempSubmission.csv"
   fid = open(filename, 'w')
   fid.write("Id,Prediction\n")
 
-  for i in range(totalFiles):
+  corpora = getCorpora()
+  unigrams = []
+  bigrams = []
+  trigrams = []
+  for i in range(len(corpora)):
+    unigrams.append(getDict(corpora[i],1))
+    bigrams.append(getDict(corpora[i],2))
+    trigrams.append(getDict(corpora[i],3))
+
+  for i in range(6):
     fileNumber = i
     if not i % 10: print "we at " + str(i)
 
     minPerp = 999999
     corpNum = 15
-    for j in range(len(dicts)):
-      currentPerp = computePerplexity(dicts[j],fileNumber, isUnigram)
+    for j in range(len(unigrams)):
+      currentPerp = computePerplexity(unigrams,bigrams[j],trigrams[j],fileNumber,n)
       if currentPerp < minPerp:
         minPerp = currentPerp
         corpNum = j
@@ -380,7 +411,7 @@ def demoSentenceGeneration():
     print generateUnigramSentence(unipdfArray)
 
   #generate 10 bigram sentences
-  bipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 0))
+  bipdfArray = totalsToPDFTokenArray(getDict(corpusToUse, 2))
   print "\n\n\nBigram Sentences with the " + corpusToUse + " corpus:"
   for i in range(10):
     print generateBigramSentence(bipdfArray)

@@ -1,1 +1,1 @@
-From : zlg1409@uxa.cso.uiuc.edu ( Zhenhai Li ) Subject : What is the the difference between Raytracing a rendering ? Hello , I've raytraced and and rendered a there only difference I've founded is that raytracing takes a a hell of and lot longer . Am I missing something ? Later , Z .
+From : zlg1409@uxa.cso.uiuc.edu ( Zhenhai Li ) Subject : What is the difference between Raytracing and rendering ? Hello , I've raytraced and rendered and there only difference I've founded is that raytracing takes a hell of a lot longer . Am I missing something ? Later , Z .
