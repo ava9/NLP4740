@@ -1,0 +1,21 @@
+2008	CD	_
+Brooke	NNP	_
+was	VBD	_
+the	DT	_
+lead	NN	_
+in	IN	_
+"	``	_
+Smoke	NN	_
+Jumper	NNP	_
+"	''	_
+about	IN	_
+a	DT	_
+female	JJ	_
+ex	NN	_
+-	HYPH	_
+firefighter	NN	_
+turned	VBD	_
+fire	NN	_
+jumper	NN	_
+.	.	_
+

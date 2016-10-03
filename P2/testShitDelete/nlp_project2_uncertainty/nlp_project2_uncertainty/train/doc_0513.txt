@@ -1,0 +1,21 @@
+The	DT	_
+liberation	NN	_
+of	IN	_
+the	DT	_
+Philippines	NNPS	_
+from	IN	_
+Japanese	JJ	_
+rule	NN	_
+on	IN	_
+1946	CD	_
+resulted	VBD	_
+in	IN	_
+the	DT	_
+division	NN	_
+of	IN	_
+Valenzuela	NNP	_
+into	IN	_
+two	CD	_
+towns	NNS	_
+.	.	_
+

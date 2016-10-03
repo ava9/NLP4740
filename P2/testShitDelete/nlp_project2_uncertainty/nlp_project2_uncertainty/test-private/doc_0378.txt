@@ -1,0 +1,42 @@
+'	``
+Pickens	NNP
+County	NNP
+'	POS
+is	VBZ
+a	DT
+county	NN
+of	IN
+the	DT
+U.S.	NNP
+state	NN
+of	IN
+Alabama	NNP
+.	.
+
+As	IN
+of	IN
+2000	CD
+,	,
+the	DT
+population	NN
+was	VBD
+20,949	CD
+.	.
+
+Its	PRP$
+county	NN
+seat	NN
+is	VBZ
+Carrollton	NNP
+,	,
+and	CC
+it	PRP
+is	VBZ
+a	DT
+prohibition	NN
+,	,
+or	CC
+dry	JJ
+county	NN
+.	.
+

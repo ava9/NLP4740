@@ -1,0 +1,21 @@
+U.S.	NNP	_
+Route	NNP	_
+212	CD	_
+and	CC	_
+Minnesota	NNP	_
+State	NNP	_
+Highways	NNP	_
+5	CD	_
+and	CC	_
+41	CD	_
+are	VBP	_
+three	CD	_
+of	IN	_
+the	DT	_
+main	JJ	_
+routes	NNS	_
+in	IN	_
+the	DT	_
+city	NN	_
+.	.	_
+

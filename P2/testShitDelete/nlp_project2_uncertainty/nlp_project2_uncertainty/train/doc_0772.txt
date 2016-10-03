@@ -1,0 +1,16 @@
+He	PRP	_
+has	VBZ	_
+been	VBN	_
+head	NN	_
+of	IN	_
+the	DT	_
+parliamentary	JJ	_
+British	JJ	_
+-	HYPH	_
+Cyprus	NNP	_
+group	NN	_
+(	-LRB-	_
+APPG	NNP	_
+)	-RRB-	_
+.	.	_
+

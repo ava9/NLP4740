@@ -1,0 +1,21 @@
+According	VBG	_
+to	IN	_
+some	DT	CUE-1
+historians	NNS	CUE-1
+of	IN	CUE-1
+philosophy	NN	CUE-1
+,	,	_
+Zeno	NNP	_
+'s	POS	_
+paradoxes	NNS	_
+were	VBD	_
+a	DT	_
+major	JJ	CUE-2
+problem	NN	_
+for	IN	_
+ancient	JJ	_
+and	CC	_
+medieval	JJ	_
+philosophers	NNS	_
+.	.	_
+

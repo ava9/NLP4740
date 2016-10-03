@@ -1,0 +1,12 @@
+As	IN	_
+newspapers	NNS	_
+change	VBP	_
+,	,	_
+the	DT	_
+changes	NNS	_
+have	VBP	_
+affected	VBN	_
+comic	JJ	_
+strips	NNS	_
+.	.	_
+

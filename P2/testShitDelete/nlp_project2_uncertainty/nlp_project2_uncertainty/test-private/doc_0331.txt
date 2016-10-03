@@ -1,0 +1,17 @@
+The	DT
+squadron	NN
+is	VBZ
+presently	RB
+based	VBN
+at	IN
+RAF	NNP
+Cottesmore	NNP
+with	IN
+the	DT
+GR.9	NNP
+version	NN
+of	IN
+the	DT
+Harrier	NNP
+.	.
+

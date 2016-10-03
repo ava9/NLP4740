@@ -1,0 +1,25 @@
+However	RB	_
+,	,	_
+there	EX	_
+is	VBZ	_
+some	DT	CUE-1
+speculation	NN	CUE-1
+among	IN	_
+fans	NNS	_
+that	IN	_
+she	PRP	_
+had	VBD	_
+faked	VBN	_
+her	PRP$	_
+death	NN	_
+in	IN	_
+order	NN	_
+to	TO	_
+get	VB	_
+out	IN	_
+of	IN	_
+the	DT	_
+industry	NN	_
+completely	RB	_
+.	.	_
+

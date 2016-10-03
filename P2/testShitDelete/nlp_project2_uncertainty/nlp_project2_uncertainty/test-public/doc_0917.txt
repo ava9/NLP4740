@@ -1,0 +1,26 @@
+Some	DT
+people	NNS
+avoid	VB
+dairy	NN
+products	NNS
+for	IN
+health	NN
+reasons	NNS
+.	.
+
+They	PRP
+argue	VBP
+that	IN
+cow	NN
+’s	IN
+milk	NN
+is	VBZ
+specifically	RB
+designed	VBN
+for	IN
+calves	NNS
+,	,
+not	RB
+humans	NNS
+.	.
+

@@ -1,0 +1,27 @@
+The	DT	_
+village	NN	_
+motto	NN	_
+,	,	_
+"	``	_
+The	DT	_
+Right	NNP	_
+Place	NNP	_
+at	IN	_
+the	DT	_
+Right	NNP	_
+Time	NNP	_
+"	''	_
+was	VBD	_
+chosen	VBN	_
+in	IN	_
+the	DT	_
+late	JJ	_
+twentieth	JJ	_
+century	NN	_
+by	IN	_
+former	JJ	_
+Mayor	NNP	_
+Dorothy	NNP	_
+Sholes	NNP	_
+.	.	_
+

@@ -1,0 +1,11 @@
+The	DT	_
+Quaboag	NNP	_
+River	NNP	_
+runs	VBZ	_
+through	IN	_
+the	DT	_
+center	NN	_
+of	IN	_
+town	NN	_
+.	.	_
+

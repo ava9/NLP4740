@@ -1,0 +1,19 @@
+Abraham	NNP
+,	,
+whose	WP$
+unconditional	JJ
+promises	NNS
+were	VBD
+not	RB
+fulfilled	VBN
+by	IN
+Jesus	NNP
+according	VBG
+to	IN
+people	NNS
+of	IN
+the	DT
+Jewish	JJ
+tradition	NN
+.	.
+

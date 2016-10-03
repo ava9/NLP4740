@@ -1,0 +1,27 @@
+Crossrail	NNP	_
+,	,	_
+a	DT	_
+new	JJ	_
+rail	NN	_
+line	NN	_
+through	IN	_
+central	JJ	_
+London	NNP	_
+connecting	VBG	_
+Heathrow	NNP	_
+Airport	NNP	_
+and	CC	_
+Maidenhead	NNP	_
+in	IN	_
+the	DT	_
+west	NN	_
+,	,	_
+will	MD	_
+serve	VB	_
+both	CC	_
+Stratford	NNP	_
+and	CC	_
+Maryland	NNP	_
+stations	NNS	_
+.	.	_
+

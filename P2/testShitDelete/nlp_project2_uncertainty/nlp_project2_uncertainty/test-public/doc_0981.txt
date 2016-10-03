@@ -1,0 +1,21 @@
+Sinha	NNP
+currently	RB
+lives	VBZ
+in	IN
+Bombay	NNP
+with	IN
+her	PRP$
+now	RB
+-	HYPH
+retired	VBN
+husband	NN
+and	CC
+daughter	NN
+Pratibha	NNP
+Sinha	NNP
+,	,
+a	DT
+Bollywood	NNP
+actress	NN
+.	.
+

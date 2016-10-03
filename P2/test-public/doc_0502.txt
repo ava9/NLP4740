@@ -1,0 +1,12 @@
+Shah	NNP
+attempted	VBD
+to	TO
+escape	VB
+from	IN
+United	NNP
+States	NNP
+custody	NN
+and	CC
+failed	VBD
+.	.
+

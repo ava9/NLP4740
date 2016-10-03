@@ -1,0 +1,54 @@
+There	EX	_
+are	VBP	_
+a	DT	CUE-1
+number	NN	CUE-1
+of	IN	CUE-1
+versions	NNS	CUE-1
+of	IN	_
+Cau	NNP	_
+-	HYPH	_
+Cau	NNP	_
+.	.	_
+
+The	DT	_
+other	JJ	_
+common	JJ	_
+version	NN	_
+is	VBZ	_
+the	DT	_
+"	``	_
+Italian	JJ	_
+"	''	_
+style	NN	_
+.	.	_
+
+Some	DT	_
+chefs	NNS	_
+add	VBP	_
+a	DT	_
+few	JJ	_
+tablespoons	NNS	_
+of	IN	_
+wine	NN	_
+or	CC	_
+pisco	NN	_
+following	VBG	_
+the	DT	_
+sautee	NN	_
+step	NN	_
+.	.	_
+
+These	DT	_
+recipes	NNS	_
+may	MD	CUE-1
+have	VBP	_
+African	JJ	_
+and	CC	_
+Chinese	JJ	_
+influence	NN	_
+as	RB	_
+well	RB	_
+as	IN	_
+Italian	JJ	_
+.	.	_
+

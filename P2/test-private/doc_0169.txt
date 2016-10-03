@@ -1,0 +1,23 @@
+Issues	NNS
+related	VBN
+to	IN
+the	DT
+removal	NN
+of	IN
+the	DT
+penis	NN
+appear	VBP
+in	IN
+psychology	NN
+,	,
+for	IN
+example	NN
+in	IN
+the	DT
+condition	NN
+known	VBN
+as	IN
+castration	NN
+anxiety	NN
+.	.
+

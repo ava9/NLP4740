@@ -1,0 +1,57 @@
+The	DT	_
+diagnosis	NN	_
+of	IN	_
+portal	JJ	_
+hypertensive	JJ	_
+gastropathy	NN	_
+is	VBZ	_
+usually	RB	_
+made	VBN	_
+on	IN	_
+endoscopy	NN	_
+.	.	_
+
+Red	JJ	_
+spots	NNS	_
+may	MD	CUE-1
+or	CC	_
+may	MD	CUE-2
+not	RB	_
+be	VB	_
+present	JJ	_
+.	.	_
+
+The	DT	_
+pattern	NN	_
+is	VBZ	_
+usually	RB	_
+seen	VBN	_
+throughout	IN	_
+the	DT	_
+stomach	NN	_
+.	.	_
+
+However	RB	_
+,	,	_
+in	IN	_
+GAVE	NNP	_
+,	,	_
+the	DT	_
+ectatic	JJ	_
+blood	NN	_
+vessels	NNS	_
+are	VBP	_
+more	RBR	_
+commonly	RB	_
+found	VBN	_
+in	IN	_
+the	DT	_
+antrum	NN	_
+or	CC	_
+lower	JJR	_
+part	NN	_
+of	IN	_
+the	DT	_
+stomach	NN	_
+.	.	_
+

@@ -1,0 +1,19 @@
+He	PRP	_
+then	RB	_
+explained	VBD	_
+the	DT	_
+cause	NN	_
+of	IN	_
+such	JJ	_
+differences	NNS	_
+in	IN	_
+accordance	NN	_
+with	IN	_
+the	DT	_
+law	NN	_
+of	IN	_
+cause	NN	_
+and	CC	_
+effect	NN	_
+.	.	_
+

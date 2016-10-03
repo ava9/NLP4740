@@ -1,0 +1,22 @@
+Other	JJ	CUE-1
+parties	NNS	CUE-1
+insist	VB	_
+that	IN	_
+the	DT	_
+detainees	NNS	_
+be	VB	_
+granted	VBN	_
+full	JJ	_
+prisoner	NN	_
+of	IN	_
+war	NN	_
+rights	NNS	_
+and	CC	_
+privileges	NNS	_
+listed	VBN	_
+in	IN	_
+the	DT	_
+Geneva	NNP	_
+Convention	NNP	_
+.	.	_
+

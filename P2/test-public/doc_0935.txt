@@ -1,0 +1,21 @@
+In	IN
+the	DT
+IPA	NNP
+'s	POS
+,	,
+the	DT
+cardinal	JJ
+vowels	NNS
+have	VBP
+the	DT
+same	JJ
+numbers	NNS
+used	VBN
+above	RB
+,	,
+but	CC
+added	VBD
+to	IN
+300	CD
+.	.
+

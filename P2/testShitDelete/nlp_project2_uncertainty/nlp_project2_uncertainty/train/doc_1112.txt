@@ -1,0 +1,10 @@
+Tralee	NNP	_
+has	VBZ	_
+a	DT	_
+town	NN	_
+council	NN	_
+with	IN	_
+twelve	CD	_
+members	NNS	_
+.	.	_
+

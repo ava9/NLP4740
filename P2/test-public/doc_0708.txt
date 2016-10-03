@@ -1,0 +1,16 @@
+'	``
+Acceptable	JJ
+Use	NN
+Policy':The	RBR
+acceptable	JJ
+use	NN
+policy	NN
+has	VBZ
+been	VBN
+criticized	VBN
+for	IN
+containing	VBG
+this	DT
+passage	NN
+:	:
+

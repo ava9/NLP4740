@@ -1,0 +1,26 @@
+An	DT	_
+Earthlike	JJ	_
+planet	NN	_
+on	IN	_
+which	WDT	_
+Arthur	NNP	_
+Dent	NNP	_
+lived	VBD	_
+for	IN	_
+a	DT	_
+short	JJ	_
+time	NN	_
+.	.	_
+
+Inhabited	VBN	_
+by	IN	_
+Bartledanians	NNPS	_
+who	WP	_
+neither	CC	_
+breathe	VBP	_
+nor	CC	_
+wish	VBP	_
+for	IN	_
+things	NNS	_
+.	.	_
+

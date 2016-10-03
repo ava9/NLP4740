@@ -1,0 +1,36 @@
+The	DT	_
+Red	NNP	_
+Top	NNP	_
+entered	VBD	_
+service	NN	_
+in	IN	_
+1964	CD	_
+,	,	_
+arming	VBG	_
+the	DT	_
+English	NNP	_
+Electric	NNP	_
+Lightning	NNP	_
+and	CC	_
+de	NNP	_
+Havilland	NNP	_
+Sea	NNP	_
+Vixen	NNP	_
+.	.	_
+
+It	PRP	_
+remained	VBD	_
+in	IN	_
+limited	JJ	_
+service	NN	_
+until	IN	_
+the	DT	_
+final	JJ	_
+retirement	NN	_
+of	IN	_
+the	DT	_
+Lightning	NN	_
+in	IN	_
+1988	CD	_
+.	.	_
+

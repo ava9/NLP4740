@@ -1,0 +1,34 @@
+Prime	NNP	_
+Minister	NNP	_
+Gough	NNP	_
+Whitlam	NNP	_
+is	VBZ	_
+deposed	VBN	_
+in	IN	_
+favor	NN	_
+of	IN	_
+Malcolm	NNP	_
+Fraser	NNP	_
+on	IN	_
+11	CD	_
+November	NNP	_
+1975	CD	_
+.	.	_
+
+This	DT	CUE-1
+is	VBZ	CUE-1
+rumored	VBN	CUE-1
+to	TO	_
+be	VB	_
+the	DT	_
+result	NN	_
+of	IN	_
+a	DT	_
+joint	JJ	_
+CIA	NNP	_
+-	HYPH	_
+British	JJ	_
+Government	NNP	_
+operation	NN	_
+.	.	_
+

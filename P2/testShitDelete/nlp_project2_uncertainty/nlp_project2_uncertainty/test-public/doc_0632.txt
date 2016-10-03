@@ -1,0 +1,30 @@
+This	DT
+letter	NN
+is	VBZ
+not	RB
+used	VBN
+in	IN
+the	DT
+Polish	JJ
+alphabet	NN
+,	,
+along	IN
+with	IN
+Q	NNP
+and	CC
+X.	NNP
+
+In	IN
+loan	NN
+words	NNS
+the	DT
+letter	NN
+W	NNP
+(	-LRB-
+pronounced	VBN
+)	-RRB-
+is	VBZ
+used	VBN
+instead	RB
+.	.
+

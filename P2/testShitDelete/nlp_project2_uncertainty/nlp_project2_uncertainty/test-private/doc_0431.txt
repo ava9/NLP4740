@@ -1,0 +1,14 @@
+The	DT
+tournament	NN
+was	VBD
+won	VBN
+by	IN
+Australia	NNP
+who	WP
+defeated	VBD
+India	NNP
+in	IN
+the	DT
+final	JJ
+.	.
+

@@ -1,0 +1,76 @@
+Critical	JJ
+theory	NN
+is	VBZ
+also	RB
+widely	RB
+used	VBN
+in	IN
+peace	NN
+and	CC
+conflict	NN
+studies	NNS
+.	.
+
+Multilevel	JJ
+.	.
+
+Peace	NNP
+Studies	NNPS
+examines	VBZ
+intrapersonal	JJ
+peace	NN
+,	,
+peace	NN
+between	IN
+individuals	NNS
+,	,
+neighbours	NNS
+,	,
+ethnic	JJ
+groups	NNS
+,	,
+states	NNS
+and	CC
+civilisations	NNS
+.	.
+
+Multicultural	JJ
+.	.
+
+Gandhi	NNP
+is	VBZ
+often	RB
+cited	VBN
+as	IN
+a	DT
+paradigm	NN
+of	IN
+Peace	NNP
+Studies	NNPS
+.	.
+
+However	RB
+,	,
+true	JJ
+multiculturalism	NN
+remains	VBZ
+an	DT
+aspiration	NN
+as	IN
+most	JJS
+Peace	NNP
+Studies	NNPS
+centres	NNS
+are	VBP
+located	VBN
+in	IN
+the	DT
+West	NNP
+.	.
+
+Both	DT
+analytic	JJ
+and	CC
+normative	JJ
+.	.
+

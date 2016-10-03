@@ -1,0 +1,13 @@
+Button	NNP
+Bay	NNP
+State	NNP
+Park	NNP
+has	VBZ
+been	VBN
+a	DT
+state	NN
+park	NN
+since	IN
+1964	CD
+.	.
+
