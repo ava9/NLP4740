@@ -1,0 +1,68 @@
+'	``	_
+Russian	JJ	_
+culture	NN	_
+'	''	_
+is	VBZ	_
+one	CD	_
+that	WDT	_
+is	VBZ	_
+rich	JJ	_
+and	CC	_
+colorful	JJ	_
+.	.	_
+
+Russians	NNPS	_
+have	VBP	_
+a	DT	_
+rich	JJ	_
+cuisine	NN	_
+.	.	_
+
+Russian	JJ	_
+art	NN	_
+is	VBZ	CUE-1
+considered	VBN	CUE-1
+by	IN	_
+some	DT	CUE-2
+to	TO	_
+be	VB	_
+very	RB	_
+interesting	JJ	_
+and	CC	_
+unique	JJ	_
+.	.	_
+
+Russians	NNPS	_
+are	VBP	CUE-1
+also	RB	CUE-1
+known	VBN	CUE-1
+for	IN	_
+their	PRP$	_
+sense	NN	_
+of	IN	_
+humour	NN	_
+.	.	_
+
+Russian	JJ	_
+literature	NN	_
+was	VBD	_
+greatly	RB	CUE-1
+influential	JJ	_
+to	IN	_
+world	NN	_
+literature	NN	_
+.	.	_
+
+Russians	NNPS	_
+also	RB	_
+gave	VBD	_
+the	DT	_
+classical	JJ	_
+music	NN	_
+world	NN	_
+some	DT	CUE-1
+very	RB	CUE-1
+famous	JJ	CUE-1
+composers	NNS	CUE-1
+.	.	_
+

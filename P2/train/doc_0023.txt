@@ -1,0 +1,47 @@
+Intertwined	VBN	_
+in	IN	_
+these	DT	_
+four	CD	_
+layers	NNS	_
+are	VBP	_
+people	NNS	_
+.	.	_
+
+Users	NNS	_
+obviously	RB	_
+have	VBP	_
+a	DT	_
+role	NN	_
+also	RB	_
+by	IN	_
+questioning	VBG	_
+and	CC	_
+reporting	VBG	_
+suspicious	JJ	_
+people	NNS	_
+.	.	_
+
+Aiding	VBG	_
+in	IN	_
+identifying	VBG	_
+people	NNS	_
+as	IN	_
+known	VBN	_
+versus	IN	_
+unknown	JJ	_
+are	VBP	_
+identification	NN	_
+systems	NNS	_
+.	.	_
+
+Visitors	NNS	_
+are	VBP	_
+often	RB	_
+required	VBN	_
+to	TO	_
+wear	VB	_
+a	DT	_
+visitor	NN	_
+badge	NN	_
+.	.	_
+

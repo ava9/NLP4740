@@ -1,0 +1,18 @@
+'	``
+Loiret	NN
+'	''
+is	VBZ
+a	DT
+department	NN
+in	IN
+north	JJ
+-	HYPH
+central	JJ
+France	NNP
+named	VBN
+after	IN
+the	DT
+river	NN
+Loiret	NNP
+.	.
+

@@ -1,0 +1,20 @@
+Each	DT
+August	NNP
+Southend	NNP
+Carnival	NNP
+opens	VBZ
+along	IN
+the	DT
+"	``
+Golden	NNP
+Mile	NNP
+"	''
+with	IN
+the	DT
+lighting	NN
+of	IN
+the	DT
+Southend	NNP
+Illuminations	NNPS
+.	.
+

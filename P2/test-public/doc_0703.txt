@@ -1,0 +1,19 @@
+Doug	NNP
+has	VBZ
+also	RB
+featured	VBN
+on	IN
+four	CD
+Little	NNP
+Axe	NNP
+for	IN
+Skip	NNP
+McDonald	NNP
+albums	NNS
+with	IN
+Alan	NNP
+Glen	NNP
+on	IN
+Harmonica	NNP
+.	.
+

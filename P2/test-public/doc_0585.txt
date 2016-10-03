@@ -1,0 +1,10 @@
+Morocco	NNP
+won	VBD
+the	DT
+African	NNP
+Nations	NNP
+Cup	NNP
+in	IN
+1976	CD
+.	.
+

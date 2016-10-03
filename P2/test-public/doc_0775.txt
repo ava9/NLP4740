@@ -1,0 +1,23 @@
+In	IN
+1868	CD
+Cortland	NNP
+became	VBD
+the	DT
+home	NN
+of	IN
+the	DT
+Cortland	NNP
+Normal	NNP
+School	NNP
+,	,
+now	RB
+the	DT
+State	NNP
+University	NNP
+of	IN
+New	NNP
+York	NNP
+at	IN
+Cortland	NNP
+.	.
+

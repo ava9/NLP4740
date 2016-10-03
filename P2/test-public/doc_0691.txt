@@ -1,0 +1,43 @@
+It	PRP
+is	VBZ
+among	IN
+his	PRP$
+greatest	JJS
+and	CC
+most	RBS
+popular	JJ
+song	NN
+.	.
+
+The	DT
+song	NN
+was	VBD
+praised	VBN
+by	IN
+critics	NNS
+on	IN
+release	NN
+.	.
+
+It	PRP
+also	RB
+among	IN
+his	PRP$
+best	JJS
+chart	NN
+performing	VBG
+song	NN
+.	.
+
+It	PRP
+is	VBZ
+known	VBN
+as	IN
+among	IN
+the	DT
+greatest	JJS
+power	NN
+ballad	NN
+ever	RB
+.	.
+

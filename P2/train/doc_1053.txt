@@ -1,0 +1,16 @@
+The	DT	_
+Boundaries	NNS	_
+of	IN	_
+Hollywood	NNP	_
+,	,	_
+as	IN	_
+established	VBN	_
+by	IN	_
+the	DT	_
+California	NNP	_
+Legislature	NNP	_
+(	-LRB-	_
+AB	NNP	_
+588	CD	_
+)	-RRB-	_
+

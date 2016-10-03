@@ -1,0 +1,20 @@
+David	NNP	_
+Mason	NNP	_
+is	VBZ	_
+the	DT	_
+son	NN	_
+of	IN	_
+John	NNP	_
+Mason	NNP	_
+,	,	_
+leader	NN	_
+of	IN	_
+the	DT	_
+NSW	NNP	_
+Liberal	NNP	_
+Party	NNP	_
+during	IN	_
+the	DT	_
+mid-1970s	NNS	_
+.	.	_
+

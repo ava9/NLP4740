@@ -1,0 +1,14 @@
+Commercial	JJ
+factory	NN
+farming	NN
+operations	NNS
+can	MD
+involve	VB
+raising	VBG
+the	DT
+hens	NNS
+in	IN
+battery	NN
+cages	NNS
+.	.
+

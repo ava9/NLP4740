@@ -1,0 +1,24 @@
+In	IN	_
+addition	NN	_
+,	,	_
+Lazio	NNP	_
+won	VBD	_
+the	DT	_
+Italian	JJ	_
+Super	NNP	_
+Cup	NNP	_
+twice	RB	_
+and	CC	_
+defeated	VBN	_
+Manchester	NNP	_
+United	NNP	_
+in	IN	_
+1999	CD	_
+to	TO	_
+win	VB	_
+the	DT	_
+European	JJ	_
+Super	NNP	_
+Cup	NNP	_
+.	.	_
+

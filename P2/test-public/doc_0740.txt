@@ -1,0 +1,20 @@
+'	``
+Mango	NNP
+'	''
+is	VBZ
+an	DT
+unincorporated	JJ
+census	NN
+-	HYPH
+designated	VBN
+place	NN
+in	IN
+Hillsborough	NNP
+County	NNP
+,	,
+Florida	NNP
+,	,
+United	NNP
+States	NNP
+.	.
+

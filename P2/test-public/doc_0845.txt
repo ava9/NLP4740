@@ -1,0 +1,12 @@
+In	IN
+1919	CD
+,	,
+YMCA	NNP
+began	VBD
+their	PRP$
+chain	NN
+around	IN
+the	DT
+country	NN
+.	.
+

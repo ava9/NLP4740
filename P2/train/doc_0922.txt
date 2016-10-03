@@ -1,0 +1,33 @@
+'	''	_
+Frere	NNP	_
+Jacques	NNP	_
+'	POS	_
+is	VBZ	_
+a	DT	_
+well	RB	CUE-1
+-	HYPH	CUE-1
+known	VBN	CUE-1
+children	NNS	_
+'s	POS	_
+song	NN	_
+.	.	_
+
+It	PRP	_
+can	MD	_
+be	VB	_
+sung	VBN	_
+as	IN	_
+a	DT	_
+simple	JJ	_
+melody	NN	_
+or	CC	_
+as	IN	_
+a	DT	_
+round	NN	_
+with	IN	_
+up	IN	_
+to	TO	_
+four	CD	_
+parts	NNS	_
+.	.	_
+

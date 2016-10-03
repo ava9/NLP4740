@@ -1,0 +1,24 @@
+A	DT
+new	JJ
+teleprinter	NN
+was	VBD
+used	VBN
+for	IN
+communications	NNS
+from	IN
+the	DT
+ground	NN
+crew	NN
+,	,
+freeing	VBG
+the	DT
+Salyut	NNP
+crew	NN
+from	IN
+constant	JJ
+interruptions	NNS
+during	IN
+their	PRP$
+work	NN
+.	.
+

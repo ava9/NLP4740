@@ -1,0 +1,19 @@
+Some	DT	CUE-1
+may	MD	_
+find	VB	_
+the	DT	_
+scientific	JJ	_
+method	NN	_
+to	TO	_
+be	VB	_
+a	DT	_
+satisfactory	JJ	_
+path	NN	_
+to	IN	_
+a	DT	_
+goal	NN	_
+of	IN	_
+gaining	VBG	_
+wisdom	NN	_
+.	.	_
+

@@ -1,0 +1,17 @@
+'	``
+Gravity	NN
+Kills	NNP
+'	''
+was	VBD
+an	DT
+American	JJ
+industrial	JJ
+rock	NN
+band	NN
+from	IN
+Jefferson	NNP
+City	NNP
+,	,
+Missouri	NNP
+.	.
+

@@ -1,0 +1,11 @@
+The	DT	_
+bowler	NN	_
+does	VBZ	_
+not	RB	_
+get	VB	_
+credit	NN	_
+for	IN	_
+the	DT	_
+wicket	NN	_
+.	.	_
+

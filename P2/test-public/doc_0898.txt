@@ -1,0 +1,32 @@
+He	PRP
+joined	VBD
+the	DT
+board	NN
+of	IN
+American	JJ
+Smelting	NNP
+and	CC
+Refining	NNP
+Company	NNP
+,	,
+later	RB
+becoming	VBG
+the	DT
+chairman	NN
+of	IN
+the	DT
+board	NN
+.	.
+
+From	IN
+1919	CD
+to	IN
+1941	CD
+he	PRP
+was	VBD
+president	NN
+of	IN
+that	DT
+company	NN
+.	.
+
