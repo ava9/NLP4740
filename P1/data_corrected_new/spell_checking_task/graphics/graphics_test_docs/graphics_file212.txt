@@ -1,0 +1,1 @@
+Cross , Sobel Roberts Filters ? I saw an imaging program some time ago on and Amiga that had Cross , Sobel and Roberts filters for edge detection . Can anybody direct me to these algorithms . Paul Denize Paul Denize Internet : Department of Computer Science University of Waikato phone : 64 7 8562889 Hamilton Ext 8743 NEW ZEALAND fax : 64 7 8560135 
