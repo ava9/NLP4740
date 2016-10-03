@@ -1,0 +1,20 @@
+On	IN	_
+December	NNP	_
+27	CD	_
+,	,	_
+2008	CD	_
+,	,	_
+South	NNP	_
+Korea	NNP	_
+announced	VBD	_
+plans	NNS	_
+to	TO	_
+start	VB	_
+fingerprinting	VBG	_
+and	CC	_
+photographing	VBG	_
+foreigners	NNS	_
+in	IN	_
+2010	CD	_
+.	.	_
+

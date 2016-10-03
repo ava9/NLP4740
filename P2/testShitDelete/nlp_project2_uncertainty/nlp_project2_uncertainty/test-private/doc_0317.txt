@@ -1,0 +1,22 @@
+The	DT
+Heir	NNP
+Apparent	NNP
+is	VBZ
+the	DT
+present	JJ
+holder	NN
+'s	POS
+son	NN
+Walter	NNP
+John	NNP
+Francis	NNP
+Scott	NNP
+,	,
+Earl	NNP
+of	IN
+Dalkeith	NNP
+(	-LRB-
+b.	$
+1984	CD
+)	-RRB-
+

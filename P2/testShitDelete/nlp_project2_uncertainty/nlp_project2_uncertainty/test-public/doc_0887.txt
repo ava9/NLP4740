@@ -1,0 +1,56 @@
+The	DT
+people	NNS
+of	IN
+Phetchaburi	NNP
+engage	VBP
+in	IN
+a	DT
+variety	NN
+of	IN
+recreational	JJ
+activities	NNS
+.	.
+
+Fishing	VBG
+in	IN
+the	DT
+Phetchaburi	NNP
+River	NNP
+is	VBZ
+quite	RB
+popular	JJ
+.	.
+
+Young	JJ
+people	NNS
+can	MD
+be	VB
+seen	VBN
+playing	VBG
+football	NN
+as	IN
+well	RB
+the	DT
+traditional	JJ
+Thai	NNP
+sports	NNS
+,	,
+sepaktakraw	NN
+.	.
+
+The	DT
+elderly	JJ
+can	MD
+be	VB
+seen	VBN
+playing	VBG
+Chess	NNP
+and	CC
+other	JJ
+board	NN
+games	NNS
+by	IN
+the	DT
+riverside	NN
+.	.
+

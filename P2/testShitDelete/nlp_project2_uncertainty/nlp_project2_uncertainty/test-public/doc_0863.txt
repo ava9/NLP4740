@@ -1,0 +1,26 @@
+DiMaggio	NNP
+also	RB
+teamed	VBD
+up	RP
+with	IN
+Dr.	NNP
+Octopus	NNP
+in	IN
+Amazing	NNP
+Spider	NNP
+-	HYPH
+Man	NNP
+#	$
+257	CD
+in	IN
+tribute	NN
+to	IN
+the	DT
+"	``
+ol	NN
+'	''
+Yankee	NNP
+Kazoo	NNP
+.	.
+"	''
+

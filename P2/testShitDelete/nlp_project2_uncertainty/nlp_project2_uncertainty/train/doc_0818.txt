@@ -1,0 +1,22 @@
+Ghulam	NNP	_
+Azam	NNP	_
+in	IN	_
+meting	VBG	_
+with	IN	_
+Lt	NNP	_
+.	.	_
+General	NNP	_
+Tikka	NNP	_
+Khan	NNP	_
+and	CC	_
+Nurul	NNP	_
+Amin	NNP	_
+to	TO	_
+form	VB	_
+Peace	NNP	_
+Committe	NNP	_
+(	-LRB-	_
+Razakar	NNP	_
+Party	NNP	_
+)	-RRB-	_
+

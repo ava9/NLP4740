@@ -1,0 +1,37 @@
+Since	IN	_
+the	DT	_
+Middle	NNP	_
+Age	NNP	_
+,	,	_
+the	DT	_
+kings	NNS	_
+of	IN	_
+Denmark	NNP	_
+and	CC	_
+Denmark	NNP	_
+-	HYPH	_
+Norway	NNP	_
+carried	VBD	_
+the	DT	_
+titles	NNS	_
+'	POS	_
+King	NNP	_
+of	IN	_
+the	DT	_
+Wends	NNPS	_
+and	CC	_
+Goths	NNPS	_
+'	''	_
+.	.	_
+
+The	DT	_
+use	NN	_
+of	IN	_
+both	DT	_
+titles	NNS	_
+was	VBD	_
+discontinued	VBN	_
+in	IN	_
+1972	CD	_
+.	.	_
+

@@ -1,0 +1,19 @@
+The	DT	_
+boundary	NN	_
+of	IN	_
+the	DT	_
+120-cell	NN	_
+is	VBZ	_
+composed	VBN	_
+of	IN	_
+120	CD	_
+dodecahedral	JJ	_
+cells	NNS	_
+with	IN	_
+4	CD	_
+meeting	NN	_
+at	IN	_
+each	DT	_
+vertex	NN	_
+.	.	_
+

@@ -1,0 +1,26 @@
+Woodcliff	NNP
+Lake	NNP
+lacks	VBZ
+its	PRP$
+own	JJ
+public	JJ
+library	NN
+,	,
+however	RB
+it	PRP
+offers	VBZ
+its	PRP$
+residents	NNS
+reimbursement	NN
+if	IN
+they	PRP
+get	VBP
+a	DT
+library	NN
+membership	NN
+from	IN
+a	DT
+neighboring	NN
+town	NN
+.	.
+

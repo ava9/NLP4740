@@ -1,0 +1,49 @@
+And	CC
+the	DT
+people	NNS
+of	IN
+Irinjalakkuda	NNP
+celebrate	VBP
+pindiperunnal	JJ
+very	RB
+happily	RB
+.	.
+
+Also	RB
+another	DT
+feature	NN
+is	VBZ
+there	RB
+.	.
+
+And	CC
+all	PDT
+the	DT
+people	NNS
+will	MD
+put	VB
+up	RP
+a	DT
+pindi	NN
+(	-LRB-
+Plantain	NNP
+)	-RRB-
+with	IN
+some	DT
+decorations	NNS
+in	IN
+front	NN
+of	IN
+their	PRP$
+home	NN
+.	.
+
+Also	RB
+some	DT
+lighting	NN
+arrangements	NNS
+will	MD
+be	VB
+done	VBN
+.	.
+

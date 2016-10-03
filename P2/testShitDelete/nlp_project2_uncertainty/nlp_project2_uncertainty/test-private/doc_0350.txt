@@ -1,0 +1,25 @@
+It	PRP
+is	VBZ
+a	DT
+testament	NN
+to	IN
+the	DT
+word	NN
+usage	NN
+of	IN
+Sabino	NNP
+Arana	NNP
+that	IN
+the	DT
+three	CD
+words	NNS
+of	IN
+the	DT
+title	NN
+are	VBP
+neologisms	NNS
+he	PRP
+created	VBD
+himself	PRP
+.	.
+

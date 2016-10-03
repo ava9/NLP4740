@@ -1,0 +1,37 @@
+Vertigo	NNP	_
+is	VBZ	_
+a	DT	_
+specific	JJ	_
+medical	JJ	_
+term	NN	_
+used	VBN	_
+to	TO	_
+describe	VB	_
+the	DT	_
+sensation	NN	_
+of	IN	_
+spinning	VBG	_
+or	CC	_
+having	VBG	_
+the	DT	_
+room	NN	_
+spin	NN	_
+about	IN	_
+you	PRP	_
+.	.	_
+
+Most	JJS	CUE-1
+people	NNS	CUE-1
+find	VB	_
+vertigo	NNS	_
+very	RB	_
+disturbing	JJ	_
+and	CC	_
+often	RB	CUE-2
+report	NN	_
+associated	VBN	_
+nausea	NN	_
+and	CC	_
+vomiting	NN	_
+.	.	_
+

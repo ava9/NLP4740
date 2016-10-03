@@ -1,0 +1,18 @@
+When	WRB	_
+displayed	VBN	_
+inside	IN	_
+a	DT	_
+home	NN	_
+,	,	_
+a	DT	_
+formal	JJ	_
+bonsai	NN	_
+display	NN	_
+will	MD	_
+be	VB	_
+placed	VBN	_
+within	IN	_
+a	DT	_
+tokonoma	NN	_
+.	.	_
+
