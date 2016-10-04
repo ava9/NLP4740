@@ -6,12 +6,12 @@ if __name__ == '__main__':
 	lex, lexArray = lexGenerator(wordList)
 else:
 	pass
-	
+
 # build lexicons
 def lexGenerator (wordList):
 	# define variables
-	uncertainList = {}
-	lex = {}
+	uncertainList = dict()
+	lex = dict()
 	lexArray = []
 
 	# update uncertainList
@@ -45,3 +45,4 @@ def lexGenerator (wordList):
 
 	# return lexicon and lexicon array
 	return (lex, lexArray)
+# end lexGenerator
