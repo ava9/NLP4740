@@ -2,7 +2,8 @@
 
 # main function
 if __name__ == '__main__':
-	pass
+	wordList = rohits grab file function
+	lex, lexArray = lexGenerator(wordList)
 else:
 	pass
 
