@@ -1,11 +1,28 @@
 # Project 2 Part 1
+import os
 
-# main function
-if __name__ == '__main__':
-	wordList = rohits grab file function
-	lex, lexArray = lexGenerator(wordList)
-else:
-	pass
+def preProcess(content):
+	outArr = []
+	lines = content.split('\n')
+	for line in lines:
+		words = line.split('\t')
+		outArr.append(words)
+	return outArr
+
+def getFileContents(folder, fileName):
+	fileName = folder + "/" + fileName
+	if os.path.exists(fileName):
+		with open(fileName) as f:
+			content = f.read()
+			return preProcess(content)
+
+def getAllFileContents(folder):
+	allWords = []
+	docs = os.listdir(folder)
+	for fileName in docs:
+		fileWords = getFileContents(folder, fileName)
+		allWords += fileWords
+	return allWords
 
 # build lexicons
 def lexGenerator (wordList):
@@ -46,3 +63,10 @@ def lexGenerator (wordList):
 	# return lexicon and lexicon array
 	return (lex, lexArray)
 # end lexGenerator
+
+# main function
+if __name__ == '__main__':
+	wordList = getAllFileContents("train")
+	lex, lexArray = lexGenerator(wordList)
+else:
+	pass
