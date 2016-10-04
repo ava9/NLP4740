@@ -175,4 +175,4 @@ if __name__ == '__main__':
 	all_words_list = grab_files()
 	lexicon, lexicon_keys = build_lexicon(all_words_list)
 	uncertain_phrase_detection(lexicon_keys)
-	 uncertain_sentence_detection(lexicon_keys)
+	uncertain_sentence_detection(lexicon_keys)
