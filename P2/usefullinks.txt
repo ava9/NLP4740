@@ -1,0 +1,4 @@
+links:
+https://github.com/chokkan/crfsuite - github for project with example
+http://www.chokkan.org/software/crfsuite/ - home page for library
+http://www.chokkan.org/software/crfsuite/tutorial.html -tutorial
