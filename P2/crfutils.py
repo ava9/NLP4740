@@ -32,7 +32,7 @@ def apply_templates(X, templates):
             if values:
                 X[t]['F'].append('%s=%s' % (name, '|'.join(values)))
 
-def readiter(fi, names, sep=' '):
+def readiter(fi, names, sep=' ', isTest = 0):
     """
     Return an iterator for item sequences read from a file object.
     This function reads a sequence from a file object L{fi}, and
