@@ -2,10 +2,9 @@
 """Featuring spaghetti
 
 """
+import sys
 
 separator = '\t'
-
-fields = 'w pos y'
 
 def toBIOLU(v, p = {'y':-1}, prevCNum = -1):
 	if v['y'] == "_":
@@ -50,19 +49,21 @@ templates = (
 import crfutils
 
 def feature_extractor(X):
-	first = 1
-	for x in X:
-		if first:
-			prevCNum = toBIOLU(x)
-			first = 0
-		else:
-			prevCNum = toBIOLU(x, p, prevCNum)
-		p = x
+    if 'y' in X[0]:
+        first = 1
+        for x in X:
+            if first:
+                prevCNum = toBIOLU(x)
+                first = 0
+            else:
+                prevCNum = toBIOLU(x, p, prevCNum)
+        p = x
 
-	if p['y'] == 'I':
-		p['y'] = 'L'
-	elif p['y'] == 'B':
-		p['y'] = 'U'
+        if p['y'] == 'I':
+            p['y'] = 'L'
+        elif p['y'] == 'B':
+            p['y'] = 'U'
+	
 
     # Apply the feature templates.
 	crfutils.apply_templates(X, templates)
@@ -73,4 +74,10 @@ def feature_extractor(X):
 		X[-1]['F'].append('__EOS__')
 
 if __name__ == '__main__':
+    isTestFile = sys.argv[1];
+    fields = ''
+    if isTestFile == '1':
+        fields = 'w pos'
+    else:
+        fields = 'w pos y'
 	crfutils.main(feature_extractor, fields=fields, sep=separator)
