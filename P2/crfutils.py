@@ -112,16 +112,16 @@ def to_crfsuite(X):
     @rtype          crfsuite.ItemSequence
     @return        The same sequence in crfsuite.ItemSequence type.
     """
-    import crfsuite
-    xseq = crfsuite.ItemSequence()
-    for x in X:
-        item = crfsuite.Item()
-        for f in x['F']:
-            if isinstance(f, str):
-                item.append(crfsuite.Attribute(escape(f)))
-            else:
-                item.append(crfsuite.Attribute(escape(f[0]), f[1]))
-        xseq.append(item)
+    import pycrfsuite as crfsuite
+    xseq = crfsuite.ItemSequence(X)
+    # for x in X:
+    #     item = crfsuite.Item()
+    #     for f in x['F']:
+    #         if isinstance(f, str):
+    #             item.append(crfsuite.Attribute(escape(f)))
+    #         else:
+    #             item.append(crfsuite.Attribute(escape(f[0]), f[1]))
+    #     xseq.append(item)
     return xseq
 
 def main(feature_extractor, fields='w pos y', sep=' '):
@@ -162,7 +162,7 @@ attributes, this utility tags the input data when a model file is specified by
 
     else:
         # Create a tagger with an existing model.
-        import crfsuite
+        import pycrfsuite as crfsuite
         tagger = crfsuite.Tagger()
         tagger.open(options.model)
 
