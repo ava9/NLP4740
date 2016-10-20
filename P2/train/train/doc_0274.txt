@@ -1,0 +1,14 @@
+He	PRP	_
+amassed	VBD	_
+41	CD	_
+yellow	JJ	_
+cards	NNS	_
+and	CC	_
+four	CD	_
+red	JJ	_
+cards	NNS	_
+for	IN	_
+Real	NNP	_
+Madrid	NNP	_
+.	.	_
+

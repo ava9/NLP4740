@@ -1,0 +1,29 @@
+The	DT	_
+county	NN	_
+was	VBD	_
+formed	VBN	_
+in	IN	_
+1750	CD	_
+from	IN	_
+New	NNP	_
+Hanover	NNP	_
+County	NNP	_
+.	.	_
+
+It	PRP	_
+was	VBD	_
+named	VBN	_
+for	IN	_
+Thomas	NNP	_
+Hay	NNP	_
+,	,	_
+Viscount	NNP	_
+Dupplin	NNP	_
+,	,	_
+later	RB	_
+9th	NNP	_
+Earl	NNP	_
+of	IN	_
+Kinnoull	NNP	_
+.	.	_
+

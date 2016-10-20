@@ -1,0 +1,23 @@
+In	IN	_
+1971	CD	_
+,	,	_
+the	DT	_
+Museum	NNP	_
+of	IN	_
+Modern	NNP	_
+Art	NNP	_
+staged	VBD	_
+a	DT	_
+further	JJ	_
+exhibition	NN	_
+of	IN	_
+his	PRP$	_
+work	NN	_
+entitled	VBN	_
+simply	RB	_
+'	``	_
+Walker	NNP	_
+Evans	NNP	_
+'	''	_
+.	.	_
+

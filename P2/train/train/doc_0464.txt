@@ -1,0 +1,27 @@
+The	DT	_
+early	JJ	_
+inhabitants	NNS	_
+of	IN	_
+Cavite	NNP	_
+City	NNP	_
+were	VBD	_
+the	DT	_
+Tagalogs	NNP	_
+ruled	VBN	_
+by	IN	_
+the	DT	_
+Kampilan	NNP	_
+and	CC	_
+the	DT	_
+bullhorn	NN	_
+of	IN	_
+a	DT	_
+datu	NN	_
+,	,	_
+the	DT	_
+tribal	JJ	_
+form	NN	_
+of	IN	_
+government	NN	_
+.	.	_
+

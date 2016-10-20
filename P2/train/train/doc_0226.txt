@@ -1,0 +1,15 @@
+Orthogonal	JJ	_
+projections	NNS	_
+are	VBP	_
+noncommutative	JJ	_
+analogues	NNS	_
+of	IN	_
+indicator	NN	_
+functions	NNS	_
+in	IN	_
+'	``	_
+L'&infin;('R	NNP	_
+'	''	_
+)	-RRB-	_
+.	.	_
+

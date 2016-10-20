@@ -1,0 +1,19 @@
+Standards	NNS	_
+for	IN	_
+SRW	NNP	_
+,	,	_
+SRU	NNP	_
+,	,	_
+and	CC	_
+CQL	NNP	_
+are	VBP	_
+promulgated	VBN	_
+by	IN	_
+the	DT	_
+United	NNP	_
+States	NNP	_
+Library	NNP	_
+of	IN	_
+Congress	NNP	_
+.	.	_
+

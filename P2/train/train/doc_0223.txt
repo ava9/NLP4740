@@ -1,0 +1,11 @@
+Louis	NNP	_
+Antoine	NNP	_
+de	IN	_
+Bougainville	NNP	_
+named	VBN	_
+the	DT	_
+island	NN	_
+after	IN	_
+himself	PRP	_
+.	.	_
+

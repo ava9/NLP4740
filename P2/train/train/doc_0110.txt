@@ -1,0 +1,33 @@
+In	IN	_
+November	NNP	_
+2004	CD	_
+,	,	_
+Maura	NNP	_
+Davis	NNP	_
+,	,	_
+Ryan	NNP	_
+Rapsys	NNP	_
+,	,	_
+Stephen	NNP	_
+Howard	NNP	_
+and	CC	_
+new	JJ	_
+member	NN	_
+Matt	NNP	_
+Clark	NNP	_
+formed	VBD	_
+the	DT	_
+band	NN	_
+Bella	NNP	_
+Lea	NNP	_
+.	.	_
+
+They	PRP	_
+later	RB	_
+changed	VBD	_
+their	PRP$	_
+name	NN	_
+to	IN	_
+Ambulette	NNP	_
+.	.	_
+

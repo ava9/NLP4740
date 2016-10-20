@@ -1,8 +1,0 @@
-After	IN	_
-leaving	VBG	_
-office	NN	_
-Futrell	NNP	_
-practiced	VBD	_
-law	NN	_
-.	.	_
-

@@ -1,0 +1,20 @@
+Adams	NNP	_
+was	VBD	_
+born	VBN	_
+in	IN	_
+Dunkirk	NNP	_
+,	,	_
+New	NNP	_
+York	NNP	_
+.	.	_
+
+In	IN	_
+1891	CD	_
+,	,	_
+he	PRP	_
+graduated	VBD	_
+from	IN	_
+Hamilton	NNP	_
+College	NNP	_
+.	.	_
+

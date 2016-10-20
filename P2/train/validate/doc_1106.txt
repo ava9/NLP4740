@@ -1,0 +1,22 @@
+The	DT	_
+final	JJ	_
+results	NNS	_
+amongst	IN	_
+these	DT	_
+supply	NN	_
+and	CC	_
+demand	NN	_
+interactions	NNS	_
+is	VBZ	_
+a	DT	_
+gradation	NN	_
+of	IN	_
+different	JJ	_
+wages	NNS	_
+representing	VBG	_
+income	NN	_
+inequality	NN	_
+within	IN	_
+society	NN	_
+.	.	_
+

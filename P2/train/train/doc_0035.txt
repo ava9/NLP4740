@@ -1,0 +1,31 @@
+Initially	RB	_
+,	,	_
+accurate	JJ	_
+transcription	NN	_
+rates	NNS	_
+of	IN	_
+85	CD	_
+-	SYM	_
+90	CD	_
+%	NN	_
+are	VBP	CUE-1
+to	TO	CUE-1
+be	VB	CUE-1
+reasonably	RB	CUE-1
+expected	VBN	CUE-1
+.	.	_
+
+An	DT	_
+expert	NN	_
+NaturallySpeaking	VBG	_
+user	NN	_
+can	MD	_
+expect	VB	_
+98	CD	_
+-	SYM	_
+99	CD	_
+%	NN	_
+recognition	NN	_
+accuracy	NN	_
+.	.	_
+
