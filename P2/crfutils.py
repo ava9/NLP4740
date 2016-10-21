@@ -6,6 +6,7 @@ Copyright 2010,2011 Naoaki Okazaki.
 import optparse
 import sys
 
+import time
 def apply_templates(X, templates):
     """
     Generate features for an item sequence by applying feature templates.
@@ -19,18 +20,33 @@ def apply_templates(X, templates):
     @type   template:   tuple of (str, int)
     @param  template:   The feature template.
     """
+    totLen = len(templates)*len(X)
+    i = 0
     for template in templates:
-        name = '|'.join(['%s[%d]' % (f, o) for f, o in template])
+        # start = time.time()
+        if isinstance(template[0], tuple):
+            name = '|'.join(['%s[%d]' % (f, o) for f, o in template])
+        else:
+            name = '%s[%d]' % template
         for t in range(len(X)):
             values = []
-            for field, offset in template:
-                p = t + offset
-                if p not in range(len(X)):
-                    values = []
-                    break
-                values.append(X[p][field])
+            if isinstance(template[0], tuple):
+                for field, offset in template:
+                    p = t + offset
+                    if p >= 0 and p < len(X):
+                        values.append(X[p][field])
+            else:
+                p = t + template[1]
+                if p >= 0 and p < len(X):
+                    values.append(X[p][template[0]])
             if values:
                 X[t]['F'].append('%s=%s' % (name, '|'.join(values)))
+            i +=1
+            if i % (totLen/10) == 0: 
+                # print(time.time()-start)
+                # start = time.time()
+                print "we are at " + str(i) + " out of " + str(totLen)
+
 
 def readiter(fi, names, sep=' ', isTest = 0):
     """
@@ -52,12 +68,10 @@ def readiter(fi, names, sep=' ', isTest = 0):
     @return         An iterator for sequences.
     """
     X = []
+    print "Reading Files"
     for line in fi:
         line = line.strip('\n')
-        if not line:
-            yield X
-            X = []
-        else:
+        if line:
             fields = line.split(sep)
             if len(fields) < len(names):
                 raise ValueError(
@@ -66,17 +80,7 @@ def readiter(fi, names, sep=' ', isTest = 0):
             for i in range(len(names)):
                 item[names[i]] = fields[i]
             X.append(item)
-
-def escape(src):
-    """
-    Escape colon characters from feature names.
-
-    @type   src:    str
-    @param  src:    A feature name
-    @rtype          str
-    @return         The feature name escaped.
-    """
-    return src.replace(':', '__COLON__')
+    return X
 
 def output_features(fo, X, field=''):
     """
@@ -96,84 +100,51 @@ def output_features(fo, X, field=''):
             fo.write('%s' % X[t][field])
         for a in X[t]['F']:
             if isinstance(a, str):
-                fo.write('\t%s' % escape(a))
+                fo.write('\t%s' % a)
             else:
-                fo.write('\t%s:%f' % (escape(a[0]), a[1]))
+                fo.write('\t%s:%f' % (a[0], a[1]))
         fo.write('\n')
     fo.write('\n')
 
-def to_crfsuite(X):
-    """
-    Convert an item sequence into an object compatible with crfsuite
-    Python module.
-
-    @type   X:      list of mapping objects
-    @param  X:      The sequence.
-    @rtype          crfsuite.ItemSequence
-    @return        The same sequence in crfsuite.ItemSequence type.
-    """
+#method to train a model using crfsuite
+def train(X, validatePerc = 0, verbose = 1, model = None):
     import pycrfsuite as crfsuite
-    xseq = crfsuite.ItemSequence(X)
-    # for x in X:
-    #     item = crfsuite.Item()
-    #     for f in x['F']:
-    #         if isinstance(f, str):
-    #             item.append(crfsuite.Attribute(escape(f)))
-    #         else:
-    #             item.append(crfsuite.Attribute(escape(f[0]), f[1]))
-    #     xseq.append(item)
-    return xseq
+    print "Training Model"
+    trainer = crfsuite.Trainer(verbose=True)
+    XSEQ = [x['F'] for x in X]
+    YSEQ = [x['y'] for x in X]
 
-def main(feature_extractor, fields='w pos y', sep=' '):
-    fi = sys.stdin
-    fo = sys.stdout
+    # For my sanity
+    # print trainer.get_params()
+    # for p in  trainer.params():
+    #     print p + " :  " + trainer.help(p)
+    i=0
+    for x, y in zip(XSEQ, YSEQ):
+        trainer.append([x],[y],group = i)
+        i+=1
 
-    # Parse the command-line arguments.
-    parser = optparse.OptionParser(usage="""usage: %prog [options]
-This utility reads a data set from STDIN, and outputs attributes to STDOUT.
-Each line of a data set must consist of field values separated by SEPARATOR
-characters. The names and order of field values can be specified by -f option.
-The separator character can be specified with -s option. Instead of outputting
-attributes, this utility tags the input data when a model file is specified by
--t option (CRFsuite Python module must be installed)."""
-        )
-    parser.add_option(
-        '-t', dest='model',
-        help='tag the input using the model (requires "crfsuite" module)'
-        )
-    parser.add_option(
-        '-f', dest='fields', default=fields,
-        help='specify field names of input data [default: "%default"]'
-        )
-    parser.add_option(
-        '-s', dest='separator', default=sep,
-        help='specify the separator of columns of input data [default: "%default"]'
-        )
-    (options, args) = parser.parse_args()
+    trainer.set_params({
+        'c1': 1.0,   # coefficient for L1 penalty
+        'c2': 1e-3,  # coefficient for L2 penalty
+        'feature.possible_transitions': True #not sure if this should be allowed
+    })
+    if not model:
+        model = 'standardModel.model'
+    trainer.train(model)
 
-    # The fields of input: ('w', 'pos', 'y) by default.
-    F = options.fields.split(' ')
+def tag(X, fo, model = None, F='w pos y'):
+    if not model:
+        model = 'standardModel.model'
+    # Create a tagger with an existing model.
+    import pycrfsuite as crfsuite
+    tagger = crfsuite.Tagger()
+    tagger.open(model)
 
-    if not options.model:
-        # The generator function readiter() reads a sequence from a 
-        for X in readiter(fi, F, options.separator):
-            feature_extractor(X)
-            output_features(fo, X, 'y')
+    XSEQ = [x['F'] for x in X]
+    yseq = tagger.tag(XSEQ)
+    for t in range(len(X)):
+        v = X[t]
+        fo.write('\t'.join([v[f] for f in F]))
+        fo.write('\t%s\n' % yseq[t])
+    fo.write('\n')
 
-    else:
-        # Create a tagger with an existing model.
-        import pycrfsuite as crfsuite
-        tagger = crfsuite.Tagger()
-        tagger.open(options.model)
-
-        # For each sequence from STDIN.
-        for X in readiter(fi, F, options.separator):
-            # Obtain features.
-            feature_extractor(X)
-            xseq = to_crfsuite(X)
-            yseq = tagger.tag(xseq)
-            for t in range(len(X)):
-                v = X[t]
-                fo.write('\t'.join([v[f] for f in F]))
-                fo.write('\t%s\n' % yseq[t])
-            fo.write('\n')
