@@ -128,7 +128,7 @@ attributes, this utility tags the input data when a model file is specified by
     if options.mode == "parse":
         crfutils.output_features(fo, X, 'y')
     elif options.mode == "train":
-        crfutils.train(X, verbose = 0, model = options.model)
+        crfutils.train(X, .8, verbose = 0, model = options.model)
     elif options.mode == "tag":
         crfutils.tag(X, fo, model = options.model, F = F)
     else:

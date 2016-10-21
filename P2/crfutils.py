@@ -107,7 +107,7 @@ def output_features(fo, X, field=''):
     fo.write('\n')
 
 #method to train a model using crfsuite
-def train(X, validatePerc = 0, verbose = 1, model = None):
+def train(X, validatePerc, verbose = 1, model = None):
     import pycrfsuite as crfsuite
     print "Training Model"
     trainer = crfsuite.Trainer(verbose=True)
@@ -118,10 +118,17 @@ def train(X, validatePerc = 0, verbose = 1, model = None):
     # print trainer.get_params()
     # for p in  trainer.params():
     #     print p + " :  " + trainer.help(p)
+
+
     i=0
+    thresh = validatePerc * len(YSEQ)
+    gr = 0
     for x, y in zip(XSEQ, YSEQ):
-        trainer.append([x],[y],group = i)
+        if i > thresh:
+            gr = 1
+        trainer.append([x],[y],group = gr)
         i+=1
+        
 
     trainer.set_params({
         'c1': 1.0,   # coefficient for L1 penalty
@@ -130,7 +137,7 @@ def train(X, validatePerc = 0, verbose = 1, model = None):
     })
     if not model:
         model = 'standardModel.model'
-    trainer.train(model)
+    trainer.train(model, holdout = 1)
 
 def tag(X, fo, model = None, F='w pos y'):
     if not model:
