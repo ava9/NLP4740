@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Featuring spaghetti
+"""Featuring super crf task completion from the best (jk)
 
 """
 import sys
