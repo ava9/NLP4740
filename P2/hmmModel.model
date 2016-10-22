@@ -1,0 +1,7 @@
+GaussianHMM(algorithm='viterbi', covariance_type='spherical',
+      covars_prior=0.01, covars_weight=1, init_params='stmc',
+      means_prior=0, means_weight=0, min_covar=0.001, n_components=3,
+      n_iter=10,
+      params=set([8097114118105122, 787880, 899710497103104105, 39115, 807983, 95]),
+      random_state=None, startprob_prior=1.0, tol=0.01, transmat_prior=1.0,
+      verbose=False)
