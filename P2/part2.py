@@ -33,19 +33,20 @@ templates = (
     (('w',  0)),
     (('w',  1)),
     (('w',  2)),
-    (('w', -2), ('w',  -1)),
     (('w', -1), ('w',  0)),
     (('w',  0), ('w',  1)),
-    (('w',  1), ('w',  2)),
-    (('pos', -2), ),
+    (('pos', -2)),
     (('pos', -1)),
     (('pos',  0)),
     (('pos',  1)),
-    (('pos',  2), ),
+    (('pos',  2)),
     (('pos', -2), ('pos', -1)),
     (('pos', -1), ('pos',  0)),
     (('pos',  0), ('pos',  1)),
     (('pos',  1), ('pos',  2)),
+    (('pos',  1), ('w',  1)),
+    (('pos',  0), ('w', 0)),
+    (('pos', -1), ('w', -1))
     )
 
 import crfutils
@@ -95,23 +96,22 @@ attributes, this utility tags the input data when a model file is specified by
         help='Determine mode of program, which could be parse (default), train, or tag (a validation file or a test file)')
     parser.add_option(
         '-t', dest='model',
-        help='tag the input using the model (requires "crfsuite" module)'
-        )
+        help='tag the input using the model (requires "crfsuite" module)')
     parser.add_option(
         '-f', dest='fields', default=fields,
-        help='specify field names of input data [default: "%default"]'
-        )
+        help='specify field names of input data [default: "%default"]')
     parser.add_option(
         '-s', dest='separator', default=sep,
-        help='specify the separator of columns of input data [default: "%default"]'
-        )
+        help='specify the separator of columns of input data [default: "%default"]')
     parser.add_option(
         '-T', dest='test', default=0,
-        help='specify whether the input is a test file (has no labels) or not [default: "%default"]'
-        )
+        help='specify whether the input is a test file (has no labels) or not [default: "%default"]')
     parser.add_option(
         '-o', dest='fo', default= None,
         help = 'specify an output file. Default is sys.stdout')
+    parser.add_option(
+        '-a', dest='algo', default = 'lbfgs',
+        help = 'specify the algo to train on')
     (options, args) = parser.parse_args()
 
     # The fields of input: ('w', 'pos', 'y') by default.
@@ -121,6 +121,8 @@ attributes, this utility tags the input data when a model file is specified by
 
     if options.fo:
         fo = open(options.fo,'w')
+    if options.algo:
+        algo = options.algo
 
     #process input
     X = crfutils.readiter(fi, F, options.separator)
@@ -128,7 +130,7 @@ attributes, this utility tags the input data when a model file is specified by
     if options.mode == "parse":
         crfutils.output_features(fo, X, 'y')
     elif options.mode == "train":
-        crfutils.train(X, .8, verbose = 0, model = options.model)
+        crfutils.train(X, .8, verbose = 0, model = options.model, algo = algo)
     elif options.mode == "tag":
         crfutils.tag(X, fo, model = options.model, F = F)
     else:
