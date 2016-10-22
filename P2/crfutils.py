@@ -50,9 +50,9 @@ def apply_templates(X, templates):
 
 def readiter(fi, names, sep=' ', isTest = 0):
     """
-    Return an iterator for item sequences read from a file object.
+    Return all of the item sequences read from a file object.
     This function reads a sequence from a file object L{fi}, and
-    yields the sequence as a list of mapping objects. Each line
+    returns the sequence as a list of mapping objects. Each line
     (item) from the file object is split by the separator character
     L{sep}. Separated values of the item are named by L{names},
     and stored in a mapping object. Every item has a field 'F' that
@@ -65,10 +65,12 @@ def readiter(fi, names, sep=' ', isTest = 0):
     @type   sep:    str
     @param  sep:    The separator character.
     @rtype          list of mapping objects
-    @return         An iterator for sequences.
+    @return         All the sequences.
     """
     X = []
     print "Reading Files"
+    foundEnd = 0
+    prev = None
     for line in fi:
         line = line.strip('\n')
         if line:
@@ -79,7 +81,13 @@ def readiter(fi, names, sep=' ', isTest = 0):
             item = {'F': []}    # 'F' is reserved for features.
             for i in range(len(names)):
                 item[names[i]] = fields[i]
+            if foundEnd:
+                item['F'].append('__BOS__')
+                foundEnd = 0
             X.append(item)
+        else:
+            foundEnd = 1
+            X[-1]['F'].append('__EOS__')
     return X
 
 def output_features(fo, X, field=''):
@@ -108,6 +116,9 @@ def output_features(fo, X, field=''):
 
 #method to train a model using crfsuite
 def train(X, validatePerc, verbose = 1, model = None):
+    """
+    Train a model and output it using features and labels.
+    """
     import pycrfsuite as crfsuite
     print "Training Model"
     trainer = crfsuite.Trainer(verbose=True)
@@ -119,7 +130,6 @@ def train(X, validatePerc, verbose = 1, model = None):
     # for p in  trainer.params():
     #     print p + " :  " + trainer.help(p)
 
-
     i=0
     thresh = validatePerc * len(YSEQ)
     gr = 0
@@ -128,7 +138,6 @@ def train(X, validatePerc, verbose = 1, model = None):
             gr = 1
         trainer.append([x],[y],group = gr)
         i+=1
-        
 
     trainer.set_params({
         'c1': 1.0,   # coefficient for L1 penalty
@@ -152,6 +161,9 @@ def tag(X, fo, model = None, F='w pos y'):
     for t in range(len(X)):
         v = X[t]
         fo.write('\t'.join([v[f] for f in F]))
-        fo.write('\t%s\n' % yseq[t])
+        fo.write('\t%s' % yseq[t])
+        if "__EOS__" in v['F']:
+            fo.write('\n')
+        fo.write('\n')
     fo.write('\n')
 
