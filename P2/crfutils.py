@@ -115,22 +115,23 @@ def output_features(fo, X, field=''):
     fo.write('\n')
 
 #method to train a model using crfsuite
-def train(X, validatePerc, verbose = 1, model = None):
+def train(X, validatePerc, verbose = 1, model = None, algo = 'lbfgs'):
     """
     Train a model and output it using features and labels.
     """
     import pycrfsuite as crfsuite
     print "Training Model"
     trainer = crfsuite.Trainer(verbose=True)
+    trainer.select(algo)
     XSEQ = [x['F'] for x in X]
     YSEQ = [x['y'] for x in X]
 
     # For my sanity
-    # print trainer.get_params()
+    print trainer.get_params()
     # for p in  trainer.params():
-    #     print p + " :  " + trainer.help(p)
+    #     print p + " :\t" + trainer.help(p)
 
-    i=0
+    i = 0
     thresh = validatePerc * len(YSEQ)
     gr = 0
     for x, y in zip(XSEQ, YSEQ):
