@@ -5,6 +5,10 @@
 import sys
 import optparse
 
+# adapted from http://english-language-skills.com/item/177-writing-skills-hedge-words.html
+wordSet = {'about','apparently','appear','around','basically','can','could','effectively','evidently','fairly','generally','hopefully','largely','likely','mainly','may','maybe','mostly','overall','perhaps','presumably','probably','quite','rather','really','seem','somewhat','supposedly'}
+twoWordSet = {'in general','kind of','quite clearly','really quite','sort of'}
+
 separator = '\t'
 fields = 'w pos y'
 
@@ -27,14 +31,16 @@ def toBIOLU(v, p = {'y': 1}, prevCNum = -1):
 U = ['w', 'pos']
 B = ['w', 'pos']
 
-templates = (
+templates = [
     (('w', -2)),
     (('w', -1)),
     (('w',  0)),
     (('w',  1)),
     (('w',  2)),
+    (('w', -2), ('w', -1)),
     (('w', -1), ('w',  0)),
     (('w',  0), ('w',  1)),
+    (('w',  1), ('w',  2)),
     (('pos', -2)),
     (('pos', -1)),
     (('pos',  0)),
@@ -45,13 +51,15 @@ templates = (
     (('pos',  0), ('pos',  1)),
     (('pos',  1), ('pos',  2)),
     (('pos',  1), ('w',  1)),
-    (('pos',  0), ('w', 0)),
-    (('pos', -1), ('w', -1))
-    )
+    (('pos',  0), ('w',  0)),
+    (('pos', -1), ('w', -1)),
+    (('inDict', 0))
+    ]
 
 import crfutils
 
 def feature_extractor(X):
+    # Converting the tags to BILOU
     if 'y' in X[0]:
         first = 1
         for x in X:
@@ -67,6 +75,12 @@ def feature_extractor(X):
         elif p['y'] == 'B':
             p['y'] = 'U'
     
+    # Adding feature for in predefined dict
+    for i in range(len(X)):
+        X[i]['inDict'] = X[i]['w'] in wordSet 
+        X[i]['inDict'] = X[i]['inDict'] or (i > 0 and X[i-1]['w'] + " " + X[i]['w'] in twoWordSet)
+        X[i]['inDict'] = X[i]['inDict'] or (i < len(X)-1 and X[i]['w'] + " " + X[i+1]['w'] in twoWordSet)
+        X[i]['inDict'] = str(X[i]['inDict'])
 
     # Apply the feature templates.
     print "Applying Templates"

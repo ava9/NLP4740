@@ -140,11 +140,12 @@ def train(X, validatePerc, verbose = 1, model = None, algo = 'lbfgs'):
         trainer.append([x],[y],group = gr)
         i+=1
 
-    trainer.set_params({
-        'c1': 1.0,   # coefficient for L1 penalty
-        'c2': 1e-3,  # coefficient for L2 penalty
-        'feature.possible_transitions': True #not sure if this should be allowed
-    })
+    if algo == 'lbfgs':
+        trainer.set_params({
+            'c1': 1.0,   # coefficient for L1 penalty
+            'c2': 1e-3,  # coefficient for L2 penalty
+        })
+    trainer.set_params({'feature.possible_transitions': True})
     if not model:
         model = 'standardModel.model'
     trainer.train(model, holdout = 1)

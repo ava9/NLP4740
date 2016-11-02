@@ -126,7 +126,7 @@ a	DT	O
 big	JJ	O
 influence	NN	O
 on	IN	O
-many	JJ	O
+many	JJ	B
 modern	JJ	O
 expressions	NNS	O
 of	IN	O
@@ -698,7 +698,7 @@ Paulsol	NNP	O
 concepts	NNS	O
 ,	,	O
 some	DT	B
-would	MD	O
+would	MD	I
 argue	VB	O
 Gardner	NNP	O
 was	VBD	O
@@ -4223,7 +4223,7 @@ in	IN	O
 a	DT	O
 tree	NN	O
 ,	,	O
-some	DT	O
+some	DT	U
 were	VBD	O
 made	VBN	O
 of	IN	O
@@ -5082,7 +5082,7 @@ met	VBN	O
 
 Many	JJ	B
 other	JJ	I
-reasons	NNS	L
+reasons	NNS	O
 why	WRB	O
 domestic	JJ	O
 violence	NN	O
@@ -11670,7 +11670,7 @@ home	NN	O
 
 Also	RB	O
 some	DT	B
-lighting	NN	O
+lighting	NN	I
 arrangements	NNS	O
 will	MD	O
 be	VB	O
@@ -11769,8 +11769,8 @@ patterns	NNS	O
 
 While	IN	O
 most	RBS	O
-well	RB	O
--	HYPH	I
+well	RB	I
+-	HYPH	O
 known	VBN	O
 for	IN	O
 its	PRP$	O
@@ -12203,7 +12203,7 @@ eleven	CD	O
 .	.	O
 
 While	IN	O
-many	JJ	O
+many	JJ	B
 aircraft	NN	O
 are	VBP	O
 physically	RB	O
@@ -12340,7 +12340,7 @@ or	CC	O
 snow	NN	O
 .	.	O
 
-Many	JJ	O
+Many	JJ	B
 cities	NNS	O
 in	IN	O
 the	DT	O
@@ -13967,7 +13967,7 @@ services	NNS	O
 .	.	O
 
 A	DT	O
-study	NN	O
+study	NN	L
 found	VBD	O
 that	IN	O
 CFS	NNP	O
@@ -15198,7 +15198,7 @@ yards	NNS	O
 
 Driscoll	NNP	O
 was	VBD	O
-alleged	VBN	L
+alleged	VBN	U
 to	TO	O
 have	VB	O
 kicked	VBN	O
@@ -17219,9 +17219,9 @@ bare	JJ	O
 breasts	NNS	O
 .	.	O
 
-The	DT	B
+The	DT	O
 best	RBS	I
-known	JJ	L
+known	JJ	O
 example	NN	O
 of	IN	O
 this	DT	O
@@ -17795,7 +17795,7 @@ formats	NNS	O
 releasing	VBG	O
 several	JJ	O
 story	NN	O
--	HYPH	O
+-	HYPH	I
 based	VBN	O
 albums	NNS	O
 including	VBG	O
@@ -18935,7 +18935,7 @@ tavern	NN	O
 keepers	NNS	O
 ,	,	O
 and	CC	O
-a	DT	O
+a	DT	B
 variety	NN	O
 of	IN	O
 artisans	NNS	I
@@ -19232,7 +19232,7 @@ impression	NN	O
 .	.	O
 
 Some	DT	B
-of	IN	I
+of	IN	O
 Crowley	NNP	O
 's	POS	O
 marginal	JJ	O
@@ -20297,7 +20297,7 @@ functions	NNS	O
 of	IN	O
 sleep	NN	O
 is	VBZ	O
-thought	VBN	O
+thought	VBN	L
 to	TO	O
 be	VB	O
 to	TO	O
@@ -21057,7 +21057,7 @@ as	IN	O
 in	IN	O
 most	JJS	O
 engineering	NN	O
-disciplines	NNS	O
+disciplines	NNS	L
 ,	,	O
 the	DT	O
 economics	NNS	O
@@ -21201,7 +21201,7 @@ Nation	NNP	O
 "	``	O
 includes	VBZ	O
 some	DT	O
-lyrics	NNS	O
+lyrics	NNS	L
 that	WDT	O
 are	VBP	B
 widely	RB	I
@@ -21943,7 +21943,7 @@ Haftarah	NNP	O
 blessing	NN	O
 ,	,	O
 and	CC	O
-others	NNS	O
+others	NNS	U
 have	VBP	O
 attributed	VBN	O
 it	PRP	O
@@ -24634,7 +24634,7 @@ Purple	NNP	O
 Finch	NNP	O
 ,	,	O
 and	CC	O
-a	DT	O
+a	DT	B
 variety	NN	O
 of	IN	O
 owls	NNS	O
@@ -24873,7 +24873,7 @@ employees	NNS	O
 
 In	IN	O
 some	DT	B
-cases	NNS	I
+cases	NNS	L
 unionization	NN	O
 movements	NNS	O
 have	VBP	O
@@ -25079,7 +25079,7 @@ It	PRP	O
 also	RB	O
 has	VBZ	O
 so	RB	O
-many	JJ	O
+many	JJ	B
 local	JJ	I
 peculiarities	NNS	L
 that	IN	O
@@ -26094,7 +26094,7 @@ of	IN	O
 Cornelius	NNP	O
 's	POS	O
 earliest	JJS	O
-and	CC	I
+and	CC	O
 most	RBS	O
 esteemed	JJ	O
 scholars	NNS	O
@@ -26198,8 +26198,8 @@ invention	NN	O
 even	RB	O
 of	IN	O
 some	DT	O
-of	IN	O
-the	DT	O
+of	IN	I
+the	DT	I
 subjects	NNS	O
 was	VBD	O
 entrusted	VBN	O
@@ -26558,7 +26558,7 @@ about	RB	O
 30°.	$	O
 
 In	IN	O
-some	DT	B
+some	DT	O
 cases	NNS	L
 the	DT	O
 steel	NN	O
@@ -26815,7 +26815,7 @@ showed	VBD	O
 strength	NN	O
 in	IN	O
 some	DT	B
-cities	NNS	L
+cities	NNS	O
 where	WRB	O
 the	DT	O
 clerical	JJ	O
@@ -29911,7 +29911,7 @@ be	VB	O
 avoided	VBN	O
 as	IN	O
 it	PRP	O
-may	MD	O
+may	MD	U
 cause	VB	O
 the	DT	O
 voids	NNS	O
@@ -30086,7 +30086,7 @@ very	RB	O
 few	JJ	O
 cases	NNS	O
 ,	,	O
-it	PRP	O
+it	PRP	B
 has	VBZ	O
 been	VBN	O
 possible	JJ	O
@@ -31323,7 +31323,7 @@ in	IN	O
 1993	CD	O
 by	IN	O
 several	JJ	B
-groups	NNS	O
+groups	NNS	L
 independently	RB	O
 .	.	O
 
@@ -32589,7 +32589,7 @@ any	DT	O
 other	JJ	O
 maker	NN	O
 ;	:	O
-many	JJ	B
+many	JJ	O
 of	IN	O
 them	PRP	I
 exist	VBP	O
@@ -32822,7 +32822,7 @@ convictions	NNS	O
 and	CC	O
 some	DT	B
 people	NNS	L
-have	VBP	O
+have	VBP	B
 claimed	VBN	O
 that	IN	O
 he	PRP	O
@@ -34103,7 +34103,7 @@ its	PRP$	O
 violence	NN	O
 ,	,	O
 while	IN	O
-defenders	NNS	O
+defenders	NNS	U
 interpret	VB	O
 it	PRP	O
 as	IN	O
@@ -34940,7 +34940,7 @@ has	VBZ	O
 been	VBN	O
 criticized	VBN	O
 by	IN	O
-many	JJ	B
+many	JJ	O
 Muslims	NNPS	O
 for	IN	O
 being	VBG	O
@@ -35786,7 +35786,7 @@ Roman	NNP	O
 times	NNS	O
 ,	,	O
 and	CC	O
-perhaps	RB	O
+perhaps	RB	U
 much	RB	O
 later	RB	O
 .	.	O
@@ -36654,7 +36654,7 @@ periods	NNS	O
 .	.	O
 
 Some	DT	B
-forms	NNS	O
+forms	NNS	I
 of	IN	O
 poetry	NN	O
 carry	VB	O
@@ -37815,7 +37815,7 @@ universal	JJ	O
 .	.	O
 "	''	O
 
-The	DT	O
+The	DT	B
 widely	RB	B
 accepted	VBN	O
 Church	NNP	O
@@ -37969,7 +37969,7 @@ planet	NN	O
 "	''	O
 ,	,	O
 although	IN	O
-astronomers	NNS	O
+astronomers	NNS	U
 consider	VB	O
 it	PRP	O
 a	DT	O
@@ -41108,7 +41108,7 @@ internally	RB	O
 ,	,	O
 in	IN	O
 some	DT	B
-cases	NNS	L
+cases	NNS	O
 even	RB	O
 where	WRB	O
 the	DT	O
@@ -42040,7 +42040,7 @@ although	IN	O
 Egypt	NNP	O
 has	VBZ	O
 also	RB	O
-been	VBN	O
+been	VBN	I
 claimed	VBN	O
 as	IN	O
 a	DT	O
@@ -43960,7 +43960,7 @@ Standish	NNP	O
 's	POS	O
 attack	NN	O
 ;	:	O
-many	JJ	B
+many	JJ	O
 Native	JJ	O
 Americans	NNPS	O
 abandoned	VBD	O
@@ -43993,7 +43993,7 @@ region	NN	O
 ...	:	O
 It	PRP	O
 was	VBD	O
-some	DT	B
+some	DT	O
 time	NN	O
 before	IN	O
 a	DT	O
@@ -44331,7 +44331,7 @@ withstanding	VBG	O
 ,	,	O
 Rock	NNP	O
 used	VBD	O
-many	JJ	B
+many	JJ	O
 jazz	NN	O
 samples	NNS	O
 on	IN	O
@@ -48184,7 +48184,7 @@ feats	NNS	O
 of	IN	O
 manual	JJ	O
 dexterity	NN	O
-generally	RB	O
+generally	RB	B
 not	RB	O
 observed	VBN	O
 in	IN	O
@@ -48420,7 +48420,7 @@ to	IN	O
 Hun	NNP	O
 Sen.	NNP	O
 
-It	PRP	O
+It	PRP	B
 is	VBZ	I
 reported	VBN	L
 that	IN	O
@@ -48887,7 +48887,7 @@ of	IN	O
 Myth	NNP	O
 Drannor	NNP	O
 and	CC	O
-others	NNS	O
+others	NNS	U
 conquered	VBD	O
 the	DT	O
 beholder	NN	O
@@ -49130,7 +49130,7 @@ true	JJ	O
 .	.	O
 
 Most	JJS	O
-people	NNS	O
+people	NNS	L
 think	VBP	O
 that	IN	O
 dogs	NNS	O
@@ -49153,7 +49153,7 @@ universe	NN	O
 .	.	O
 
 But	CC	O
-many	JJ	B
+many	JJ	O
 scientists	NNS	O
 say	VBP	O
 that	IN	O
@@ -49530,7 +49530,7 @@ a	DT	O
 holiday	NN	O
 break	NN	O
 in	IN	O
-some	DT	B
+some	DT	O
 unspecified	JJ	O
 school	NN	O
 year	NN	O
@@ -49973,7 +49973,7 @@ are	VBP	O
 clones	NNS	O
 of	IN	O
 some	DT	O
-of	IN	O
+of	IN	I
 the	DT	I
 functions	NNS	O
 of	IN	O
@@ -51232,7 +51232,7 @@ understood	VBN	O
 ,	,	O
 and	CC	O
 they	PRP	O
-generally	RB	O
+generally	RB	U
 avoid	VB	O
 combining	VBG	O
 prayer	NN	O
@@ -51415,7 +51415,7 @@ the	DT	O
 main	JJ	O
 street	NN	O
 with	IN	O
-many	JJ	O
+many	JJ	B
 bars	NNS	O
 of	IN	O
 various	JJ	O
@@ -51999,7 +51999,7 @@ written	VBN	O
 for	IN	O
 some	DT	O
 of	IN	O
-the	DT	O
+the	DT	I
 UK	NNP	O
 ’s	-RRB-	O
 most	RBS	O
@@ -52042,7 +52042,7 @@ approximately	RB	O
 ,	,	O
 many	JJ	B
 Christian	JJ	I
-or	CC	I
+or	CC	O
 secular	JJ	O
 non	AFX	O
 -	HYPH	O
@@ -52365,7 +52365,7 @@ The	DT	O
 course	NN	O
 consists	VBZ	O
 of	IN	O
-several	JJ	B
+several	JJ	O
 low	JJ	I
 and	CC	I
 high	JJ	O
@@ -52450,7 +52450,7 @@ information	NN	O
 As	IN	O
 in	IN	O
 many	JJ	O
-collecting	VBG	O
+collecting	VBG	I
 hobbies	NNS	O
 ,	,	O
 rarer	JJR	O
@@ -53864,7 +53864,7 @@ those	DT	O
 that	WDT	O
 saw	VBD	O
 it	PRP	O
-generally	RB	O
+generally	RB	U
 remember	VB	O
 it	PRP	O
 fondly	RB	O
@@ -54023,7 +54023,7 @@ Not	RB	O
 Aman	NNP	O
 .	.	O
 
-Many	JJ	B
+Many	JJ	O
 teachers	NNS	O
 and	CC	O
 professional	JJ	O
@@ -54916,8 +54916,8 @@ of	IN	O
 I-85	NNP	O
 that	WDT	O
 contains	VBZ	O
-some	DT	B
-non	AFX	I
+some	DT	O
+non	AFX	O
 -	HYPH	I
 freeway	NN	O
 portions	NNS	O
@@ -55594,7 +55594,7 @@ battle	NN	O
 .	.	O
 
 Probably	RB	O
-the	DT	O
+the	DT	B
 most	RBS	O
 significant	JJ	O
 addition	NN	O
@@ -56789,7 +56789,7 @@ veteran	NN	O
 stars	NNS	O
 ,	,	O
 obtaining	VBG	O
-many	JJ	B
+many	JJ	O
 minor	JJ	O
 -	HYPH	O
 league	NN	O
@@ -57199,7 +57199,7 @@ parents	NNS	O
 and	CC	O
 students	NNS	O
 (	-LRB-	O
-some	DT	B
+some	DT	O
 students	NNS	L
 organized	VBD	O
 a	DT	O
@@ -57274,7 +57274,7 @@ year	NN	O
 .	.	O
 
 Some	DT	U
-have	VBP	B
+have	VBP	O
 argued	VBN	L
 that	IN	O
 the	DT	O
@@ -57526,7 +57526,7 @@ had	VBD	O
 been	VBN	O
 suggested	VBN	O
 many	JJ	O
-times	NNS	O
+times	NNS	L
 ,	,	O
 it	PRP	O
 was	VBD	O

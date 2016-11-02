@@ -346,7 +346,7 @@ Y	NN	O
 -	HYPH	O
 chromosome	NN	O
 markers	NNS	O
-suggest	VBP	U
+suggest	VBP	O
 that	IN	O
 Iberians	NNPS	O
 and	CC	O
@@ -810,7 +810,7 @@ Lebanon	NNP	O
 There	EX	O
 have	VBP	O
 been	VBN	O
-some	DT	O
+some	DT	B
 pervasive	JJ	O
 myths	NNS	O
 or	CC	O
@@ -1739,7 +1739,7 @@ as	IN	O
 a	DT	O
 necessity	NN	O
 by	IN	O
-many	JJ	O
+many	JJ	U
 .	.	O
 
 The	DT	O
@@ -1843,7 +1843,7 @@ centuries	NNS	O
 .	.	O
 
 Many	JJ	B
-of	IN	O
+of	IN	I
 his	PRP$	O
 works	NNS	O
 depict	VBP	O
@@ -3222,7 +3222,7 @@ handed	JJ	O
 and	CC	O
 regarded	VBD	O
 as	IN	O
-one	CD	O
+one	CD	B
 of	IN	O
 the	DT	I
 most	RBS	I
@@ -3374,7 +3374,7 @@ main	JJ	O
 armament	NN	O
 ,	,	O
 and	CC	O
-a	DT	O
+a	DT	B
 variety	NN	O
 of	IN	O
 lighter	JJR	O
@@ -5680,7 +5680,7 @@ used	VBD	O
 bacteriophages	NNS	O
 to	TO	O
 treat	VB	O
-many	JJ	O
+many	JJ	B
 soldiers	NNS	O
 infected	VBN	O
 with	IN	O
@@ -6133,7 +6133,7 @@ years	NNS	O
 it	PRP	O
 may	MD	O
 reasonably	RB	O
-be	VB	I
+be	VB	O
 conjectured	VBN	O
 that	IN	O
 another	DT	O
@@ -9237,7 +9237,7 @@ from	IN	O
 gardens	NNS	O
 and	CC	O
 is	VBZ	O
-considered	VBN	O
+considered	VBN	L
 an	DT	O
 invasive	JJ	O
 species	NN	O
@@ -9452,7 +9452,7 @@ things	NNS	O
 ,	,	O
 and	CC	O
 have	VBP	O
-many	JJ	O
+many	JJ	B
 different	JJ	O
 tactics	NNS	O
 in	IN	O
@@ -10959,7 +10959,7 @@ therefore	RB	O
 they	PRP	O
 may	MD	O
 be	VB	O
-considered	VBN	O
+considered	VBN	L
 culturally	RB	O
 rather	RB	O
 than	IN	O
@@ -11335,7 +11335,7 @@ that	DT	O
 time	NN	O
 demanded	VBD	O
 that	IN	O
-all	DT	O
+all	DT	B
 vegetables	NNS	O
 be	VB	O
 boiled	VBN	O
@@ -11515,7 +11515,7 @@ nationalism	NN	O
 
 In	IN	O
 some	DT	B
-places	NNS	L
+places	NNS	O
 where	WRB	O
 the	DT	O
 dominant	JJ	O
@@ -12433,7 +12433,7 @@ employees	NNS	O
 Leverkusen	NNP	O
 ,	,	O
 some	DT	O
-Paternosters	NNS	L
+Paternosters	NNS	O
 at	IN	O
 Bayer	NNP	O
 AG	NNP	O
@@ -12720,7 +12720,7 @@ an	DT	O
 der	NN	O
 Blumenstrasse	NNP	O
 and	CC	O
-some	DT	B
+some	DT	O
 more	JJR	O
 ...	.	O
 
@@ -12915,7 +12915,7 @@ others	NNS	O
 Pawlikowski	NNP	O
 's	POS	O
 most	RBS	B
-original	JJ	L
+original	JJ	O
 and	CC	O
 formally	RB	O
 successful	JJ	O
@@ -14492,7 +14492,7 @@ Georgia	NNP	O
 but	CC	O
 slaves	NNS	O
 ,	,	O
-many	DT	B
+many	DT	O
 of	IN	O
 whom	WP	O
 left	VBD	O
@@ -15329,7 +15329,7 @@ loss	NN	O
 of	IN	O
 many	JJ	B
 of	IN	I
-area	NN	L
+area	NN	I
 's	POS	O
 oldest	JJS	O
 buildings	NNS	O
@@ -15494,7 +15494,7 @@ shirts	NNS	O
 ,	,	O
 and	CC	O
 in	IN	O
-many	JJ	O
+many	JJ	B
 forces	NNS	O
 so	RB	O
 have	VBP	O
@@ -15641,7 +15641,7 @@ these	DT	O
 detainees	NNS	O
 is	VBZ	O
 hotly	RB	O
-disputed	VBN	O
+disputed	VBN	L
 .	.	O
 
 The	DT	O
@@ -15733,10 +15733,10 @@ its	PRP$	O
 conclusion	NN	O
 as	IN	O
 "	``	O
-perhaps	RB	U
+perhaps	RB	O
 the	DT	O
 most	RBS	O
-canny	JJ	L
+canny	JJ	O
 move	VB	O
 it	PRP	O
 makes	VBZ	O
@@ -15783,7 +15783,7 @@ it	PRP	O
 at	RB	I
 least	JJS	O
 possesses	VBZ	O
-some	DT	B
+some	DT	O
 semblance	NN	O
 of	IN	O
 a	DT	O
@@ -16527,7 +16527,7 @@ or	CC	O
 as	IN	O
 in	IN	O
 some	DT	O
-newer	JJR	I
+newer	JJR	O
 games	NNS	O
 ,	,	O
 by	IN	O
@@ -17504,7 +17504,7 @@ condition	NN	O
 it	PRP	O
 can	MD	O
 not	RB	O
-be	VB	O
+be	VB	I
 claimed	VBN	L
 that	IN	O
 the	DT	O
@@ -17821,7 +17821,7 @@ has	VBZ	O
 to	TO	O
 be	VB	O
 the	DT	O
-best	JJS	L
+best	JJS	O
 of	IN	O
 all	PDT	O
 the	DT	O
@@ -19147,7 +19147,7 @@ departure	NN	O
 .	.	O
 
 Now	RB	O
-some	DT	O
+some	DT	B
 CRH	NNP	O
 series	NN	O
 EMU	NNP	O
@@ -19449,7 +19449,7 @@ fact	NN	O
 that	IN	O
 many	JJ	O
 animated	VBN	O
-sequences	NNS	O
+sequences	NNS	L
 can	MD	O
 not	RB	O
 be	VB	O
@@ -22361,7 +22361,7 @@ a	DT	O
 diploma	NN	O
 ,	,	O
 some	DT	O
-correspondence	NN	O
+correspondence	NN	I
 work	NN	O
 is	VBZ	O
 required	VBN	O
@@ -22970,7 +22970,7 @@ strong	JJ	O
 opposition	NN	O
 is	VBZ	O
 from	IN	O
-a	DT	O
+a	DT	B
 variety	NN	O
 of	IN	O
 sources	NNS	O
@@ -24394,7 +24394,7 @@ Minstrels	NNP	O
 1974	CD	O
 -	SYM	O
 1980	CD	O
-is	VBZ	B
+is	VBZ	O
 considered	VBN	U
 the	DT	O
 Golden	NNP	O
@@ -24707,7 +24707,7 @@ detected	VBD	O
 that	IN	O
 there	EX	O
 was	VBD	O
-something	NN	B
+something	NN	O
 alien	JJ	O
 and	CC	O
 uncanny	JJ	O
@@ -25987,7 +25987,7 @@ Colleen	NNP	O
 Frakes	NNP	O
 and	CC	O
 many	JJ	B
-others	NNS	L
+others	NNS	O
 
 Released	VBN	O
 in	IN	O
@@ -26113,7 +26113,7 @@ constructed	VBN	O
 multiple	JJ	O
 scenarios	NNS	O
 many	JJ	B
-of	IN	O
+of	IN	I
 which	WDT	O
 they	PRP	O
 know	VBP	O
@@ -26462,7 +26462,7 @@ to	IN	O
 predating	VBG	O
 Porpora	NNP	O
 's	POS	O
-claims	NNS	O
+claims	NNS	U
 that	IN	O
 he	PRP	O
 made	VBD	O
@@ -27646,7 +27646,7 @@ Indeed	RB	O
 in	IN	O
 some	DT	O
 parts	NNS	I
-of	IN	O
+of	IN	I
 southern	JJ	O
 Italy	NNP	O
 ,	,	O
@@ -28788,7 +28788,7 @@ and	CC	O
 though	IN	O
 some	DT	B
 sources	NNS	L
-have	VBP	O
+have	VBP	B
 claimed	VBN	O
 that	IN	O
 an	DT	O
@@ -28842,7 +28842,7 @@ in	IN	O
 academic	JJ	O
 circles	NNS	O
 ,	,	O
-it	PRP	O
+it	PRP	B
 has	VBZ	O
 been	VBN	O
 eclipsed	VBN	O
@@ -29273,7 +29273,7 @@ this	DT	O
 song	NN	O
 and	CC	O
 commonly	RB	O
-considered	VBN	O
+considered	VBN	L
 a	DT	O
 "	``	O
 one	CD	O
@@ -30275,7 +30275,7 @@ drawings	NNS	O
 Stencil	NNP	O
 duplicators	NNS	O
 (	-LRB-	O
-more	RBR	B
+more	RBR	O
 commonly	RB	I
 known	VBN	O
 as	IN	O
@@ -30812,7 +30812,7 @@ into	IN	O
 marketing	NN	O
 where	WRB	O
 it	PRP	O
-is	VBZ	O
+is	VBZ	I
 claimed	VBN	L
 that	IN	O
 consumers	NNS	O
@@ -31707,7 +31707,7 @@ less	RBR	O
 attractive	JJ	O
 than	IN	O
 some	DT	B
-of	IN	I
+of	IN	O
 Dublin	NNP	O
 's	POS	O
 other	JJ	O
@@ -31996,7 +31996,7 @@ word	NN	O
 Orthodox	JJ	O
 Jewish	JJ	O
 rabbis	NN	O
-generally	RB	O
+generally	RB	U
 affirm	VB	O
 that	IN	O
 God	NNP	O
@@ -32146,7 +32146,7 @@ transfer	NN	O
 payment	NN	O
 schemes	NNS	O
 of	IN	O
-some	DT	O
+some	DT	B
 developed	VBN	O
 countries	NNS	O
 might	MD	O
@@ -32627,7 +32627,7 @@ pasta	NN	O
 .	.	O
 
 Some	DT	O
-specialty	NN	O
+specialty	NN	I
 pasta	NN	O
 varieties	NNS	O
 can	MD	O
@@ -32736,7 +32736,7 @@ the	DT	O
 result	NN	O
 of	IN	O
 well	RB	O
--	HYPH	I
+-	HYPH	O
 known	VBN	O
 political	JJ	O
 or	CC	O
@@ -32967,7 +32967,7 @@ general	JJ	O
 science	NN	O
 .	.	O
 
-It	PRP	O
+It	PRP	B
 is	VBZ	O
 based	VBN	O
 on	IN	O
@@ -33115,7 +33115,7 @@ time	NN	O
 
 Some	DT	B
 historians	NNS	L
-have	VBP	O
+have	VBP	B
 claimed	VBN	O
 that	IN	O
 Sergius	NNP	O
@@ -34139,7 +34139,7 @@ a	DT	O
 team	NN	O
 of	IN	O
 military	JJ	O
-experts	NNS	O
+experts	NNS	L
 which	WDT	O
 visited	VBD	O
 the	DT	O
@@ -35764,7 +35764,7 @@ chemical	NN	O
 phenomena	NNS	O
 .	.	O
 
-Can	MD	U
+Can	MD	O
 chemistry	NN	O
 ,	,	O
 in	IN	O
@@ -35788,7 +35788,7 @@ inexplicable	JJ	O
 gaps	NNS	O
 ?	.	O
 
-Some	DT	O
+Some	DT	B
 authors	NNS	O
 have	VBP	O
 recently	RB	O
@@ -35997,7 +35997,7 @@ groups	NNS	O
 and	CC	O
 many	JJ	O
 foreign	JJ	I
-observers	NNS	O
+observers	NNS	L
 are	VBP	O
 critical	JJ	O
 of	IN	O
@@ -36632,7 +36632,7 @@ also	RB	O
 known	VBN	O
 in	IN	O
 some	DT	B
-places	NNS	O
+places	NNS	L
 as	IN	O
 an	DT	O
 '	``	O
@@ -36719,8 +36719,8 @@ voters	NNS	O
 .	.	O
 
 Some	DT	U
-have	VBP	B
-argued	VBN	O
+have	VBP	O
+argued	VBN	L
 that	IN	O
 Christianity	NNP	O
 is	VBZ	O
@@ -37014,7 +37014,7 @@ partition	NN	O
 of	IN	O
 Poland	NNP	O
 ,	,	O
-many	JJ	U
+many	JJ	O
 Jacobins	NNPS	O
 emigrated	VBD	O
 and	CC	O
@@ -37246,7 +37246,7 @@ monasteries	NNS	O
 
 According	VBG	O
 to	IN	O
-one	CD	B
+one	CD	O
 of	IN	O
 Suhu	NNP	O
 's	POS	O
@@ -37788,7 +37788,7 @@ documented	VBN	O
 with	IN	O
 its	PRP$	O
 most	RBS	O
-common	JJ	L
+common	JJ	O
 and	CC	O
 recognized	VBN	O
 good	JJ	O
@@ -37816,7 +37816,7 @@ descriptive	JJ	O
 entry	NN	O
 ,	,	O
 and	CC	O
-some	DT	O
+some	DT	B
 cross	NN	O
 -	HYPH	O
 references	NNS	O
@@ -38917,7 +38917,7 @@ camps	NNS	O
 ,	,	O
 many	JJ	B
 of	IN	O
-which	WDT	O
+which	WDT	I
 will	MD	O
 never	RB	O
 re	VB	O
@@ -39213,7 +39213,7 @@ of	IN	O
 the	DT	I
 constructs	NNS	O
 that	IN	O
-are	VBP	O
+are	VBP	B
 widely	RB	I
 considered	VBN	L
 important	JJ	O
@@ -40503,7 +40503,7 @@ than	IN	O
 200	CD	O
 captives	NNS	O
 ,	,	O
-many	DT	B
+many	DT	O
 of	IN	O
 whom	WP	O
 had	VBD	O
@@ -42536,7 +42536,7 @@ activity	NN	O
 ?	.	O
 
 It	PRP	O
-is	VBZ	I
+is	VBZ	O
 hypothesized	VBN	L
 that	IN	O
 most	JJS	O
@@ -43226,7 +43226,7 @@ medicine	NN	O
 
 However	RB	O
 ,	,	O
-it	PRP	B
+it	PRP	O
 is	VBZ	I
 questioned	VBN	L
 whether	IN	O
@@ -43755,7 +43755,7 @@ appears	VBZ	O
 a	DT	O
 good	JJ	O
 many	JJ	O
-steps	NNS	L
+steps	NNS	O
 ahead	RB	O
 of	IN	O
 us	PRP	O
@@ -43838,7 +43838,7 @@ an	DT	O
 extensive	JJ	O
 and	CC	O
 in	IN	O
-some	DT	B
+some	DT	O
 ways	NNS	L
 unique	JJ	O
 feature	NN	O
@@ -43948,7 +43948,7 @@ counter	NN	O
 terrorism	NN	O
 role	NN	O
 ,	,	O
-many	JJ	O
+many	JJ	U
 in	IN	O
 the	DT	O
 administration	NN	O
@@ -44818,7 +44818,7 @@ While	IN	O
 there	EX	O
 are	VBP	O
 several	JJ	B
-retirement	NN	O
+retirement	NN	I
 homes	NNS	O
 in	IN	O
 the	DT	O
@@ -45012,7 +45012,7 @@ pneumothorax	NN	O
 .	.	O
 
 It	PRP	O
-may	MD	U
+may	MD	O
 also	RB	O
 be	VB	O
 seen	VBN	O
@@ -45726,7 +45726,7 @@ Xi	NNP	O
 
 For	IN	O
 some	DT	O
-time	NN	L
+time	NN	O
 ,	,	O
 he	PRP	O
 took	VBD	O
@@ -46064,7 +46064,7 @@ manipulative	JJ	O
 skills	NNS	O
 of	IN	O
 some	DT	O
-of	IN	O
+of	IN	I
 the	DT	I
 others	NNS	O
 are	VBP	O
@@ -46076,8 +46076,8 @@ leadership	NN	O
 .	.	O
 
 Some	DT	U
-have	VBP	B
-argued	VBN	O
+have	VBP	O
+argued	VBN	L
 that	IN	O
 psychopathy	NN	O
 is	VBZ	O
@@ -47790,7 +47790,7 @@ from	IN	O
 Europe	NNP	O
 .	.	O
 
-Some	DT	O
+Some	DT	B
 Gore	NNP	I
 supporters	NNS	L
 contend	VB	O
@@ -47999,7 +47999,7 @@ reason	NN	O
 they	PRP	O
 are	VBP	O
 often	RB	O
-not	RB	O
+not	RB	I
 considered	VBN	O
 robust	JJ	O
 .	.	O
@@ -48417,9 +48417,9 @@ bare	JJ	O
 breasts	NNS	O
 .	.	O
 
-The	DT	B
+The	DT	O
 best	RBS	I
-known	JJ	L
+known	JJ	O
 example	NN	O
 of	IN	O
 this	DT	O
@@ -48996,7 +48996,7 @@ by	IN	O
 Government	NNP	O
 Buses	NNP	O
 &	CC	O
-some	DT	B
+some	DT	O
 private	JJ	O
 vehicles	NNS	O
 ,	,	O
@@ -49434,7 +49434,7 @@ become	VB	O
 perhaps	RB	O
 Pitt	NNP	O
 's	POS	O
-most	RBS	B
+most	RBS	O
 legendary	JJ	L
 coaches	NNS	O
 in	IN	O
@@ -49586,7 +49586,7 @@ one	CD	O
 of	IN	I
 the	DT	I
 most	RBS	I
-controversial	JJ	L
+controversial	JJ	O
 in	IN	O
 school	NN	O
 history	NN	O
@@ -50622,7 +50622,7 @@ argue	VBP	O
 that	IN	O
 no	DT	O
 hour	NN	O
-ought	MD	U
+ought	MD	O
 to	TO	O
 be	VB	O
 unoccupied	JJ	O
@@ -50704,7 +50704,7 @@ to	IN	O
 how	WRB	O
 much	JJ	O
 indulgence	NN	O
-ought	MD	U
+ought	MD	O
 to	TO	O
 be	VB	O
 allowed	VBN	O
@@ -51050,7 +51050,7 @@ introduced	VBN	O
 years	NNS	O
 after	IN	O
 he	PRP	O
-supposedly	RB	U
+supposedly	RB	O
 died	VBD	O
 .	.	O
 
@@ -51291,7 +51291,7 @@ Roman	JJ	O
 rituals	NNS	O
 into	IN	O
 something	NN	O
-more	RBR	U
+more	RBR	O
 appropriate	JJ	O
 to	IN	O
 Judaism	NNP	O
@@ -51966,7 +51966,7 @@ Cabinet	NNP	O
 .	.	O
 
 In	IN	O
-many	JJ	O
+many	JJ	B
 republics	NNS	O
 based	VBN	O
 on	IN	O
@@ -53015,7 +53015,7 @@ ISO-8859	NNP	O
 ,	,	O
 with	IN	O
 some	DT	B
-minor	JJ	O
+minor	JJ	I
 variations	NNS	O
 .	.	O
 
@@ -53198,7 +53198,7 @@ them	PRP	O
 ,	,	O
 for	IN	O
 many	JJ	O
-centuries	NNS	L
+centuries	NNS	O
 were	VBD	O
 to	TO	O
 pass	VB	O
@@ -53555,8 +53555,8 @@ as	IN	O
 the	DT	O
 UK	NNP	O
 's	POS	O
-largest	JJS	I
-and	CC	I
+largest	JJS	O
+and	CC	O
 most	RBS	O
 popular	JJ	O
 tourist	NN	O
@@ -56482,7 +56482,7 @@ it	PRP	O
 
 Lamb	NNP	O
 is	VBZ	O
-considered	VBN	O
+considered	VBN	L
 the	DT	O
 traditional	JJ	O
 Patagonian	JJ	O
@@ -57051,8 +57051,8 @@ Fargus	NNP	O
 Sid	NNP	O
 starts	VBZ	O
 glowing	VBG	O
-several	JJ	B
-different	JJ	I
+several	JJ	O
+different	JJ	O
 colors	NNS	O
 at	IN	O
 a	DT	O
