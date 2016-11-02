@@ -1,0 +1,170 @@
+ID: 123	RANK: 74	SCORE: 2.789804
+<DOC>
+<DOCNO>
+WSJ911018-0133
+</DOCNO>
+<DOCID>
+911018-0133.
+</DOCID>
+<HL>
+   Mathematicians Race to Develop
+   New Kinds of Trading Instruments
+   ----
+   By Craig Torres
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+10/18/91
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE C1
+</SO>
+<CO>
+   IBM
+</CO>
+<MS>
+FINANCIAL (FIN)
+TECHNOLOGY (TEC)
+</MS>
+<IN>
+BOND MARKET NEWS (BON)
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+FOREIGN-EXCHANGE MARKETS (FRX)
+SECURITIES (SCR)
+STOCK MARKET, OFFERINGS (STK)
+</IN>
+<NS>
+BOND MARKET NEWS (BON)
+FOREIGN EXCHANGE (FRX)
+STOCK &amp; OTHER MARKET NEWS (STK)
+SCIENCE &amp; TECHNOLOGY (SCN)
+</NS>
+<RE>
+NORTH AMERICA (NME)
+NEW YORK (NY)
+UNITED STATES (US)
+</RE>
+<LP>
+   YORKTOWN HEIGHTS, N.Y. -- From the quiet cubicles at
+International Business Machines Corp.'s central research
+facility here to secretive research labs inside brokerage
+firms, mathematicians are working on Wall Street's computer
+revolution, part two.
+   Over the past five years, Wall Street has spent enormously
+to upgrade its computing horsepower. Now, researchers at IBM
+and major securities firms are trying to harness that
+computing muscle with a new generation of "analytics," or
+sophisticated mathematical computer models that identify
+hundreds of never-before-imagined trades in stocks, bonds,
+and currencies.
+</LP>
+<TEXT>
+   "This trend is in its infancy," says Ron Dembo, president
+of Algorithmics Inc., a Toronto concern that develops
+mathematical systems for securities trading. He explains:
+"Mathematics is being applied to finance because the big
+money is no longer in using computers as fast calculators,
+but as machines to create new trading opportunities."
+   For example, Mr. Dembo's computers recently created a
+synthetic option on the benchmark Nikkei Index of 225
+Japanese stocks. Produced by the computer out of a
+combination of Nikkei stock-index futures and exchange-traded
+stock-index options, the synthetic Nikkei option cost less
+than the real thing; this allowed traders at a Canadian
+investment bank to make $500,000 on a single trade.
+   Myron Scholes, who developed the widely used Black-Scholes
+option pricing model in 1973 with Fischer Black, says
+high-powered computers have extended the application of his
+model greatly. "The people who don't have these {analytics}
+are going to be relatively obsolete," says Mr. Scholes, who
+recently joined Salomon Brothers Inc.'s high-tech bond
+trading department as a managing director. (He is also a
+professor of finance at Stanford University.)
+   For years, Wall Street's computers were used for little
+more than fast accounting programs, known as spreadsheets.
+Now, some Wall Street firms are using mathematical formulas
+that imitate how traders think about and look at markets --
+but several hundred times faster than humans can. The next
+generation of analytics, in development at IBM and other
+research labs, seeks to apply elaborate financial theories --
+such as the "Markowitz mean variance model," for instance --
+to markets for up-to-the-minute use.
+   The development of analytics is one of the most closely
+guarded secrets inside Wall Street firms. Competition for
+clients has never been more intense; the only monopoly
+available to Wall Street now may be the proprietary
+mathematics of analytical systems that ferret out profit
+opportunities in markets that are ruthlessly efficient.
+   "The first thing is figuring out what the right math is,
+and the second thing is how to implement it on a computer,"
+says Ramy Goldstein, managing director at UBS Securities Inc.
+The mathematical formulas that can find a simple route
+through a complex set of securities prices are "subject to
+shrouds of secrecy," he says.
+   The hot new trading math is creating investment
+opportunities that never existed before. For example, Mr.
+Goldstein recently created a 2-year option that gives an
+investor the right to buy the Standard &amp; Poor's 500-stock
+index at its lowest point of 1991 in Swiss francs. "Without
+analytics, we could not devise such products," he says.
+   So closely guarded are the mathematics at O'Connor &amp;
+Associates, a Chicago futures and options trading firm, that
+clients and even family members are barred from the trading
+floor at O'Connor's headquarters. Visitors can observe the
+firm at work only from a catwalk 20 feet above the trading
+floor. An O'Connor executive says the firm has about 40
+people developing analytical software for trading purposes,
+and about 100 traders using these systems.
+   Many big Wall Street investment banks, such as Morgan
+Stanley &amp; Co. and Salomon Brothers Inc., develop their
+high-tech trading systems in-house behind closed doors.
+Salomon has about 35 software experts developing trading
+programs. Morgan Stanley has 85 professionals working on
+mathematical trading systems for the stock, bond and
+commodity markets.
+   Other Wall Street firms seek out computer specialists at
+computer companies such as IBM, which has access to enormous
+computer power and many top mathematicians. For several
+years, IBM has invited Wall Street firms to present the
+computer giant with complex financial questions that IBM's
+T.J. Watson Research Center here might solve, free of charge.
+   Shmuel Winograd, director of the IBM's mathematical
+sciences department at the Watson lab, says he is bound by
+confidentiality agreements that prohibit him from naming the
+two investment banks with whom he is currently working.
+   But Mr. Winograd provides a glimpse at IBM's front-burner
+projects, which could be the next generation of mathematical
+trading programs.
+   Anticipating a constant 24-hour market for stocks, bonds
+and currencies at some point in the future, Mr. Winograd and
+an unidentified Wall Street firm have been working on a
+mathematical model for two years that will scan the trading
+pattern of a stock or bond around the world and around the
+clock.
+   "Time shouldn't be measured by how the clock ticks, but by
+the level of {trading} activity," says Mr. Winograd,
+asserting that a 9:30 a.m. to 4 p.m. Eastern time trading day
+for a stock such as IBM is essentially a false concept.
+Stocks, currencies and bonds frequently trade at all hours in
+different world markets, he says. By developing a model that
+uses trading activity as a measure of time, Mr. Winograd
+hopes to create a new vantage point for spotting price
+trends.
+   Elsewhere, IBM is working on a mathematical model that
+will allow investors to assemble hundreds of portfolios in
+seconds that have various shadings of investment risk and
+reward.
+   But no matter how refined the mathematical models Wall
+Street researchers build, the markets often prove elusive.
+Unlike physics, Mr. Winograd notes, finance has very few
+basic laws. "Economics hasn't had its Newton or its
+Einstein," he says. "Basic statistical behavior is still in
+question. Human beings are not molecules."
+   But that's precisely why Wall Street firms seek out
+mathematicians such as Messrs. Winograd and Dembo. Since
+markets are run by humans, there will always be imperfections
+that can be turned into profits. Or, in Mr. Winograd's words,
+"that's why you can make tons of money; or lose tons of
+money."
+</TEXT>
+</DOC>

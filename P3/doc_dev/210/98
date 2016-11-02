@@ -1,0 +1,100 @@
+ID: 210	RANK: 98	SCORE: 5.121996
+<DOC>
+<DOCNO>FT922-1480</DOCNO>
+<PROFILE>_AN-CFWA9AADFT</PROFILE>
+<DATE>920623
+</DATE>
+<HEADLINE>
+FT  23 JUN 92 / Survey on A-Z of Computing (4): Finding the right tools for
+the job - Case
+</HEADLINE>
+<BYLINE>
+   By PHILIP MANCHESTER
+</BYLINE>
+<DATELINE>
+   CASE has a dual meaning
+</DATELINE>
+<TEXT>
+Computer-Aided Software Engineering or Computer-Aided Systems Engineering.
+The difference is important. The systems variety of Case is much more
+ambitious than the software variety.
+Software Case is the use of computers and software to help design and build
+other software. It is the latest step in the evolution of software, and, in
+one form or another, goes back to the beginnings of computing.
+Software Case includes high-level programming languages, such as those found
+with database management packages (sometimes referred to as
+'fourth-generation languages'), and graphics-based flow-charting tools which
+can be used to design systems and programs.
+Software Case also includes tools to help define data used by the software.
+These data definitions are stored in a data dictionary or repository which
+can be accessed by every program in the system.
+Systems Case goes much further. It uses computer aids to model a business
+enterprise and build the information technology systems which are needed to
+support it. It includes the components of software Case which are used to
+generate applications systems.
+Systems Case is usually associated with a set of procedures called a system
+design methodology. These procedures ensure that all the important variables
+in a system are defined and that the design and construction process is kept
+under control.
+It is generally accepted that skilled practitioners of a formal
+'methodology' are a pre-requisite for successful use of system Case tools.
+This does not necessarily hold true for software Case, however, where there
+have been useful productivity gains for programmers using software Case
+tools in isolation.
+The importance of Case - systems or software based - is that it brings
+engineering disciplines to the creation of information processing systems.
+Rigorous analysis of requirements, solid design principles and formal
+management control are as applicable to the creation of a computer system as
+they are to building a bridge.
+The similarities between large engineering projects and large-scale software
+development were first recognised in the 1960s when the term software
+engineering was first coined. At the same time, a concept known as the
+software 'life cycle' was identified. The software life cycle defines every
+phase of development of a software system from its initial conception
+through to its live application and subsequent maintenance.
+It was recognised that true software engineering would exercise complete
+control over the software life cycle.
+It was not until the mid-1980s, however, that it became practical to use
+computers to assist in software and systems development. Previously,
+computers were neither cheap nor powerful enough to do the job. But the
+emergence of powerful desktop workstations and personal computers, with
+graphics and networking features, have made it possible to equip systems
+designers and programmers with effective Case software tools.
+The first wave of Case software tools divided the work into two separate
+tasks. One set of tools was used to 'capture' the design requirements and
+perform the overall design task; and a second set of tools was used to
+generate the programs. This separation gave rise to the terms 'upper' Case -
+the design tools - and 'lower' Case, which referred to the program
+generators.
+Examples of upper Case tools include Intersolv's Exelerator, ProKit
+Workbench from McDonnell-Douglas Information Systems and Automate from LBMS.
+Examples of lower Case tools include Telon from Computer Associates and APS
+from Intersolv.
+Throughout the 1980s, various attempts were made to synthesise upper and
+lower Case tools into a single toolset which could offer a comprehensive
+approach to software design. Suppliers of the two different types of tools
+built links to each others' products to make what are called 'integrated' or
+'I' Case development systems.
+Although these links made it easier to bring the design and construction
+phases of software development together, it was not completely successful.
+As a result, a new wave of integrated Case tools has come to the market in
+the past two years. These new toolsets provide a more coherent approach to
+Case and the control of the software life cycle.
+Many of them conform to an overall framework such as that specified by IBM
+in its Application Development (AD)/Cycle. AD/Cycle and other Case
+frameworks define how the various tools interact with each other. This means
+that customers can mix-and-match the tools they prefer from different
+suppliers. Other examples of integrated Case frameworks include Andersen
+Consulting's Foundation and DEC's Cohesion.
+International standards efforts are being made to provide a universal method
+of communication between Case tools and create open Case environments. The
+main standards effort - the Case Data Interchange Format (CDIF) - is being
+carried out by the Electronic Industries Association of the US, although
+European companies are also heavily involved.
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IV
+</PAGE>
+</DOC>

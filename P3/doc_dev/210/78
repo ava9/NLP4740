@@ -1,0 +1,167 @@
+ID: 210	RANK: 78	SCORE: 5.358042
+<DOC>
+<DOCNO>FT932-293</DOCNO>
+<PROFILE>_AN-DF2CGAGWFT</PROFILE>
+<DATE>930629
+</DATE>
+<HEADLINE>
+FT  29 JUN 93 / Survey of Computer Networking (6): Tower of Babel can be
+surmounted - Interoperability, a new and inelegant word in the lexicon
+</HEADLINE>
+<BYLINE>
+   By PAUL TAYLOR
+</BYLINE>
+<TEXT>
+OVER the past few years a new and rather inelegant word has entered the
+lexicon of network computing - 'interoperability'.
+Interoperability is a practical solution to the problem of ensuring that
+different computer hardware and software components can work together across
+a distributed network or interconnected networks.
+If the computer industry had grown up in accordance with some monolithic
+master plan, there probably would have been no need for any user to specify
+interoperability; it could be taken for granted.
+In reality, however, computer development has been driven by competing and
+often incompatible technologies vying for customer acceptance. This has
+resulted in a proliferation of rival computer architectures, operating
+systems and software.
+Within some segments of the industry, de facto standards have emerged. For
+example Intel's chip architecture and Microsoft's MS/DOS have come to
+dominate the personal computer market.
+Even where no standards have emerged, there were relatively few problems,
+provided machines based on different technologies functioned in isolation
+from each other.
+But today's end users want network systems which link together all their
+information resources - regardless of the types of machine and technology or
+their geographic location.
+They want to squeeze more productivity out of their investment in IT by
+hooking together desktop personal computers, high-power workstations,
+departmental minicomputers and corporate mainframes locally, nationally and
+internationally - and have them work in seamless harmony.
+Since the 1970s, when networks first started to appear, there has been a
+burst of activity as computers have been linked together to form local area
+networks (Lans) and wide area networks (Wans). These in turn are being wired
+together in a process called internetworking.
+But this has led to technical headaches for many large customers whose
+diverse IT operations have often grown up without any co-ordinated plan,
+resulting in a wide range of often incompatible hardware systems and
+architectures.
+Indeed, the network hardware itself, including wires, connectors and
+communications circuitry, coupled with the different ways of packaging and
+transmitting data across Lans using various communications protocols, has
+added another bewildering level of complexity and possible conflict.
+The result has been described by some as 'an electronic Tower of Babel'.
+There are, however, a number of possible solutions to these problems - steps
+designed to ensure interoperability.
+Perhaps the most obvious solution is to establish new hardware and operating
+system standards. This is essentially what the various 'open systems'
+standards, developed by the X/Open Group, the International Standards
+Organisation (ISO) and others bodies, attempt to achieve.
+Open systems work to a common specification and therefore achieve
+interoperability by definition.
+Equipment that complies with open systems standards can easily be connected
+into communications networks and has the capacity to run operating software
+and applications from any supplier obeying the open systems rules, rather
+than manufacturers' proprietary ones.
+Open systems standards are now widely accepted across the industry, although
+some hardware manufacturers are still less than wholeheartedly enthusiastic
+about implementing them because of heavy investment in their own designs.
+But there is another important reason why even if open systems standards are
+the long-term solution to securing interoperability, shorter-term
+alternatives are also needed.
+Many corporate customers cannot switch over all of their IT operations in
+one jump, Even if they could, they probably would not want to. Such a move
+would entail the unacceptable costs of abandoning proprietary computer
+systems and expensive software.
+For this reason, it is often suggested that open systems are most suited to
+new applications, and that computer systems based on proprietary designs
+will still be required to support current applications.
+Even so, in the age of computer networking, these systems must at least be
+able to work with others. Therefore manufacturers have adopted a number of
+other approaches to make their proprietary systems interoperate with others.
+Some vendors such as DEC, Groupe Bull and Hewlett-Packard have been pushing
+their systems increasingly towards 'open systems' by changing their
+operating software to conform more closely to the standards.
+Similarly, the main network management software products, such as IBM's
+Netview and similar packages from HP and Sun Microsystems, are moving
+gradually towards Open Systems Interconnection while the SNMP (Simple
+Network Management protocol), supported by the Internet organisation, has
+become a de facto standard used by those wanting to integrate their Lans.
+Other equipment manufacturers, including Apple, have accommodated other
+systems within their own proprietary designs. As Apple's current UK
+advertising campaign emphasises, Macintosh computers can now exchange data
+files with MS/DOS personal computers, run MS/DOS programmes using 'Soft PC'
+software and connect with PCs over a network.
+Meanwhile IBM's strategy for delivering 'interoperability' has necessarily
+been more complex. By the 1980s it was making seven incompatible computer
+families but has since taken a number of steps to help its own, and other
+vendors,' machines interoperate.
+Among these, IBM in 1987 announced a plan called System Applications
+Architecture (SAA) to enable its PS/2 personal computers, System/38-AS/400
+minicomputers and its System/370 mainframes to be linked together more
+easily.
+All used IBM's long established Systems Network Architecture (SNA) for their
+communications infrastructure. But each of the three used different
+operating systems, different command and control interfaces and different
+programming languages for their applications software.
+Since SAA was launched in 1987 IBM has extended its specifications to
+include many open and de facto industry standards in order help its systems
+interoperate with others.
+Last year, IBM announced its new Blueprint for Networking, which redefined
+SNA to include many open systems specifications. Meanwhile, many IBM SNA
+features have become de facto standards with the open systems stamp on them.
+Although there are still problems in linking together proprietary systems,
+Mr David Taylor, senior industry analyst with Dataquest, says most
+manufacturers 'have worked hard to test their systems with competitors'.
+Novell, which dominates the Lan software market, began shipping NetWare SNA
+Links last year, a program designed to enable International Business
+Machines customers to connect geographically dispersed PC networks via
+existing mainframe computer links.
+Other software houses such as Borland International have also been working
+to enhance interoperability by making complex client-server based networks
+easier to manage and use.
+For example, Integrated Database Application Programming Interface software
+provides a standards-based method for integrating, manipulating and managing
+data from different databases and on different operating platforms.
+The growing need to hook together Lans has also spawned a booming business
+for the manufacturers of the internetworking products such as 'routers',
+'hubs', 'bridges' and 'communications servers' which also help provide
+interoperability.
+These are used to divide computer information into 'packets', regardless of
+the data communications protocols, find the most efficient and economical
+route to deliver the packets to their destination on the network, and assign
+priorities to different packets, delivering the most urgent ones first.
+Such companies as Cisco, 3Com and Wellfleet which manufacture routers, and
+Synoptics, a leading vendor of internetwork hub products, have all been
+growing rapidly in recent years as a result of the increasing demand for
+internetworking.
+The age of isolated proprietary systems is over and as the trend towards
+net- working accelerates, the need for inter- operability will grow. This
+will mostly be satisfied by the continued shift towards open systems
+hardware and software standards.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ   United Kingdom, EC.
+    USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7372 Prepackaged Software.
+    P3577 Computer Peripheral Equipment, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+    TECH  Safety &amp; Standards.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IV
+</PAGE>
+</DOC>

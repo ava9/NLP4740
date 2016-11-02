@@ -1,0 +1,94 @@
+ID: 268	RANK: 13	SCORE: 6.047141
+
+<DOC>
+<DOCNO> SJMN91-06063044 </DOCNO>
+<ACCESS> 06063044 </ACCESS>
+<DESCRIPT>  SOFTWARE; REVIEW; SCIENCE  </DESCRIPT>
+<LEADPARA>  The study of chaos, the mathematical underpinning of such seemingly erratic
+shapes as coastlines and clouds and such elusive processes as the weather,
+once required professional training and powerful computers.;    The
+mathematics is still not elementary, but now anyone with the kind of computer
+found in many homes and offices can experiment with the often-haunting
+products of chaos theory.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  PROGRAM BRINGS CLARITY TO CHAOS  </HEADLINE>
+<MEMO>  Software  </MEMO>
+<TEXT>     Relatively simple procedures, repeated time and again, result in images
+that uncannily recall colonies of cells living and dying, or star systems
+developing, or the whorls of the nautilus.;    Based on book; James Gleick's
+Chaos: the Software, is a package based on Gleick's 1987 book, "Chaos: Making
+a New Science," published by Viking. That volume explained the development of
+chaos theory perhaps as well as it can be explained to a non-mathematician.;  
+ The software brings it alive, and in full color, on the screen of a personal
+computer. The program is self-contained, and it is accompanied by an excellent
+manual of more than 200 pages; it would also make a fine companion to a
+reading, or rereading, of the book.;    Chaos consists of six separate but
+related programs, each dealing with an aspect of the inquiry and all working
+more or less the same way. They can be operated from the keyboard alone or
+with a combination of keyboard and mouse.;    The six programs are: the
+Mandelbrot sets, magnets and pendulum, strange attractors, the chaos game,
+fractal forgeries, and toy universes. Each gets a chapter of the manual and is
+organized in a similar way. The chapters are self-contained. If you don't give
+a hoot about the bulbous Mandelbrot sets of shapes, you can plunge ahead to
+fractal forgeries.;    The instructions for the magnets and pendulum section,
+to choose one chapter as an example, begin with a brief discussion of the
+dynamics of pendulums.;    A swinging pendulum; "One simple example is the
+case of a pendulum swinging above some magnets, all capable of attracting and
+grabbing onto the pendulum's bob," the manual says. "The bob swings back and
+forth, around and about, first looping in the ambit of one or two of the
+magnets, then suddenly jumping to another region.;    "It becomes almost
+impossible to predict where it will finally settle, until the very last
+minute. As in so many chaotic systems, the slightest change in the starting
+point or in the physical setup -- the positions and strengths of the magnets,
+the force and friction on the bob -- can entirely change the outcome.";    The
+first simulation shows six blue circles, representing positive magnets,
+forming a large circle. After you start the program, the bob moves around the
+screen, leaving a complex trail until it eventually sticks to one of the
+magnets. Then you are invited to change the layout, by adding or moving
+magnets, to see the resulting change in the bob's movements.;    There are six
+other layouts of differing numbers of magnets, some positive and some
+negative, arranged in various patterns. Each simulation can be run at the
+greatest speed your computer is capable of, slowed down for clarity or even
+cycled through one step at a time.;    Finally, a series of menus, called up
+by pressing a function key or clicking the mouse button, allow you to make an
+almost infinite number of changes in the opening conditions -- charge, force,
+friction, use of color and so forth. If you create a layout you especially
+like, it can be saved on a disk.;    Several pages at the end of the chapter
+explain the mathematics behind the simulation. But understanding the
+mathematics is not necessary to run the many different, and sometimes
+beautiful, simulations.;    Graphics capability; Aside from its appeal to
+scientists and science and mathematics hobbyists, Chaos can generate displays
+for business presentations, video art and other graphic needs.;    Gleick is a
+former editor and reporter for the New York Times. The software was prepared
+by, among others, Rudy Rucker, a professor of mathematics and computer science
+at San Jose State University and the author of popular books on mathematics as
+well as science fiction novels.;    Rucker's program, CA Lab: Rudy Rucker's
+Cellular Automata Laboratory, was the first of what Autodesk hopes will be a
+series of science programs. Chaos is the second.;    Chaos requires a PC/XT,
+PC/AT or PS/2 computer or compatible with 640 kilobytes of working memory, two
+floppy disk drives or one floppy and one hard drive, DOS 2.0 or later and a
+color monitor with either an EGA or VGA graphics card.;    A math
+co-processor, which takes the burden of calculations off the main chip, is
+recommended but not required. The program is supplied on four 5 1/4-inch disks
+and two 3 1/2-inch disks. The suggested retail price is $59.95.;    James
+Gleick's Chaos: the Software is a product of Autodesk, 2320 Marinship Way,
+Sausalito, Calif. 94965.  </TEXT>
+<BYLINE>  L.R. SHANNON, New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  SAN JOSE MERCURY NEWS  </NAME>
+<PUBDATE>   910303  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  March  </MONTH>
+<PG.COL>  5F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  808  </WORD.CT>
+<DATELINE>  Sunday March 3, 1991
+00063044,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

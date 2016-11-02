@@ -1,0 +1,130 @@
+ID: 210	RANK: 38	SCORE: 6.607858
+<DOC>
+<DOCNO>FT931-8268</DOCNO>
+<PROFILE>_AN-DBSBZAG5FT</PROFILE>
+<DATE>930219
+</DATE>
+<HEADLINE>
+FT  19 FEB 93 / Survey of Personal and Portable Computers (6): Striking the
+right Notes for the future / A look at the impact of Groupware
+</HEADLINE>
+<BYLINE>
+   By MICHAEL DEMPSEY
+</BYLINE>
+<TEXT>
+THE COMPUTER software industry has been promising to change the way people
+work for the past decade. Sceptics might suggest the aim has been achieved,
+but only in terms of expense and frustrated users. Enter Groupware.
+Groupware is a term coined to embrace programs for people working in teams.
+It provides an infrastructure to co-ordinate individuals in the group, while
+ensuring the concurrence of data relating to their work. Members of the
+group can be scattered across continents. But when they turn to their
+software environment, the very latest information from all involved is right
+there.
+Groupware offers a godsend to large organisations tackling the logistics of
+teamwork. The concept has taken off, with Lotus Notes first on the beach.
+Notes sits on one dedicated PC which serves up to 50 users. This central
+core holds material which users summon up, seeing the latest change to the
+project across the network. Lotus began selling Notes licences for batches
+of 200 users upwards. The entry investment, at Pounds 200 per user, was
+Pounds 40,000.
+The appeal was dramatic, with blue chip companies buying licences by the
+thousand. In the last 12 months the user base has grown exponentially. By
+March 1992 Lotus had sold 117,000 licences worldwide. Industry sources
+suggest that this figure now stands at 500,000.
+Notes answers many administrative headaches. Use it for conferencing and it
+boosts productivity by avoiding duplication of effort. A centrally held
+diary can fix meetings in one shot, rather than the familiar round of phone
+calls via secretaries requiring a dozen cancelled appointments before one
+convenient day can be established.
+But it does have limitations. The dedicated server must run IBM's OS/2
+operating system which is greedy in terms of space on a machine and is
+primarily established among very large corporate users. Each group hangs off
+one server, but co-ordinating that server to others to form a constellation
+of workgroups is not easy. A release for the Unix operating system, offering
+vastly improved networking capabilities, is imminent.
+Management consultants KPMG recently conducted a survey covering 10,000 UK
+Notes users. The principal problem encountered was actual communication of
+what Notes does. Within large organisations senior managers still have
+reservations about whether Notes is worthwhile.
+The computer industry can blame itself for this. Groupware arrived in a
+blaze of jargon. Workflow, a term that has as many definitions as it has
+adherents, is a typical Groupware spin-off. It refers to monitoring
+individual effort and directing the user so as to optimise time and effort.
+But the term is so imprecise that it serves to confuse.
+To use Groupware, a company must be comfortable with team structures. There
+is little point installing Notes if the users work in a fractious
+environment. Groupware is suited to professional harmony.
+But corporations that have embraced Notes have gone for it in a big way.
+General Motors has bought nearly 30,000 licences for Notes, through its IT
+arm, Electronic Data Systems. Mr Mike Thompson, an EDS manager attached to
+GM in the UK, is impressed. 'It's been phenomenal. The user perception is
+extremely positive.'
+A typical GM application is shipping pictures of parts around across Europe
+to ensure that they are produced exactly to their original specification.
+And it is evidence of the quality of graphics with Notes.
+GM is prepared to entrust Notes with a critical role in maintaining
+engineering standards. But the GM world already consisted of a massive IT
+infrastructure and the trained staff to use it. Mr Thompson warns that
+without this investment Notes will not deliver. 'You must take account of
+the support aspect. You do need a network in place.'
+BP Oil employs Notes as the framework for its emergency response system. If
+an oil leak occurs in Germany, staff across Europe consult Notes for site
+plans, technical diagrams and up-to-the-minute strategies.
+Notes maintains information on health and safety rules and their
+implications for the oil sector on a system that can be accessed by BP staff
+across the continent.
+Lotus has certainly gained acceptance for Groupware with Notes. But there
+are other products that do a similar job. Why has Lotus Notes emerged from
+the PC world to eclipse steady performers like Verimation's Memo or the new
+Co-operation program from NCR?
+Mr Richard Lavender, a senior consultant at systems house Logica, describes
+the rise of Notes as 'a confidence trick in the nicest possible way.' The
+market presence of Lotus as a reputable supplier of PC software was
+critical. 'People knew who Lotus were and they already had Lotus products
+under their belt.' And the sales strategy of going straight for large users
+has produced influential enthusiasts.
+Verimation's Memo range grew out of an electronic mail system for Volvo. It
+tends to thrive in mainframe environments where a lot of users need to pull
+down and share corporate data. Mr Bruno Giversen, Verimation vice-president,
+admits that both products have their strengths, and can be complementary.
+'Memo is much cheaper, but rightly so because Notes has more database
+facilities.'
+Abbey National's new life insurance wing uses a mainframe based Memo system
+to co-ordinate its PC environment. NCR's Co-operation ties together elements
+of an existing IT infrastructure. The idea is to maintain the hardware
+investment but control staff working locally within the overall wide area
+network. It is a development environment that can be altered to suit
+individual businesses, offering a shot at the elusive prize of 'competitive
+advantage'.
+National &amp; Provincial Building Society is implementing Co-operation to keep
+documents flowing between teams. A typical price for a 100-user installation
+would be Pounds 77,000.
+Mr Kenny MacIver, a software analyst at International Data Corporation, has
+made an exhaustive study of the mass migration to Notes. He concludes
+Groupware is here to stay. 'Notwithstanding its obvious limitations, Notes
+is a glimpse of the future. Where there is a need to share data and
+co-ordinate group activity, there's going to be a need for such a package.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XAZ  World.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P357  Computer and Office Equipment.
+    P7373 Computer Integrated Systems Design.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IV
+</PAGE>
+</DOC>

@@ -1,0 +1,101 @@
+ID: 205	RANK: 20	SCORE: 24.646818
+<DOC>
+<DOCNO> AP880616-0002 </DOCNO>
+<FILEID>AP-NR-06-16-88 2336EST</FILEID>
+<FIRST>u a AM-ComputerBreak-in 1stLd-Writethru a0754 06-16 0830</FIRST>
+<SECOND>AM-Computer Break-in, 1st Ld-Writethru, a0754,0849</SECOND>
+<HEAD>Defense-NASA Computer Network Penetrated By Hackers</HEAD>
+<NOTE>Eds: UPDATES throughout with a third computer and possibly others
+entered, no damage, other nations also on network, network name,
+third JPL computer break-in last summer, details on how hacker
+gained access, Pentagon comment; No pickup</NOTE>
+<BYLINE>By LEE SIEGEL</BYLINE>
+<BYLINE>AP Science Writer</BYLINE>
+<DATELINE>PASADENA, Calif. (AP) </DATELINE>
+<TEXT>
+   Hackers penetrated a non-classified
+Defense Department computer network last month, rummaging through
+data at a Navy base, NASA's Jet Propulsion Laboratory, and at least
+one other center, the space agency said Thursday.
+   The break-in occurred the night of May 16 and lasted into the
+early morning hours of May 17, but no damage was done, said Haskell
+G. O'Brien, the laboratory's manager of communications and
+computing network services.
+   ``NASA security people are working with the FBI investigating
+the details of this,'' O'Brien told a news conference.
+   It was unknown whether more than one person was involved or if
+the break-in was achieved from inside or outside the United States,
+O'Brien said. Unauthorized computer access is illegal, he added.
+   Thousands of computers are linked to the network at hundreds of
+U.S. and foreign universities and research centers, including
+military research centers and other National Aeronautics and Space
+Administration offices, he said.
+   O'Brien described it as a non-classified network for sharing
+scientific information. The network, named ARPANET, is operated by
+the Pentagon's Defense Advanced Research Projects Agency.
+   He said he considered the incident serious because programs used
+to design microcircuits could have been damaged and because ``if
+someone burglarizes my house, I'm offended. If someone accesses my
+computer, I'm equally offended.''
+   ``The Department of Defense regards as serious any attempt to
+gain unauthorized access to its computer systems,'' Pentagon
+spokeswoman Susan Hansen said in Washington. ``Let me assure you,
+however, that there is no indication that any classified
+information has been obtained by such hacker activity.''
+   The break-in was the third known violation of computer security
+at the Jet Propulsion Laboratory in two years, O'Brien said. He
+cited a previously publicized August 1986 break-in by a West German
+hacker, or computer buff, and another last summer, in which the
+perpetrator was caught but not prosecuted.
+   O'Brien said the hacker in last month's incident first gained
+access to the Pentagon network through another computer at an
+undisclosed location. Once inside, the hacker guessed a password _
+the name of a JPL employee _ to enter the lab's computer, he added.
+   The hacker then used the JPL computer as a conduit to enter
+another ARPANET computer at Patuxent Naval Air Station in Maryland,
+where authorities noticed something was amiss and notified the Jet
+Propulsion Laboratory, O'Brien said. He added that he didn't know
+how many other computers also were penetrated.
+   The lab's chief spokesman, George Alexander, initially said
+members of the Chaos Computer Club in Hamburg, West Germany, broke
+into the Digital Equipment Corp. computer at the laboratory, but he
+later retracted the statement.
+   ``We don't know for a fact that it was Chaos. ... There are
+things that make us suspicious, but the bottom line fact is we
+don't know,'' Alexander said.
+   ``They're not kids,'' Alexander said of the club's members.
+``They're adults. They are a worrisome group to American computer
+experts. They're not just hackers doing pranks. They are group
+whose motives and aims are not entirely clear.''
+   A spokesman for the club told The Associated Press in Bonn, West
+Germany, that he was unaware of the break-in, but would check into
+the matter further.
+   ``One thing I can tell you with absolute certainty is they (the
+hackers) didn't get into any classified data banks nor did they get
+into any sensitive information in the lab,'' Alexander said.
+   Alexander said that as soon as the break-in was discovered, ``we
+pulled JPL out of the network.''
+   Several days after the break-in, Digital Equipment and JPL
+officials ``rebuilt the system to make sure that if they (hackers)
+planted any viruses, we were not going to continue using the
+operating system they had been mucking around with,'' he said.
+   A computer virus is a program surreptitiously inserted into a
+computer to disrupt its normal program.
+   In April, a West German prosecutor revealed that a 24-year-old
+West German hacker linked his home computer to about 50 U.S.
+military computers by telephone. The electronic break-ins were
+detected in August 1986.
+   Targets included computers at JPL, the Air Force Systems Command
+in El Segundo, Calif., and at the Lawrence Berkeley Laboratory in
+Berkeley, Calif.
+   In September, members of Chaos Computer Club announced that
+youths who weren't club members used home computers to break into a
+NASA computer information network used by at least nine nations,
+and that they obtained secrets about the U.S. space program.
+   The club said the hackers gained regular access to at least 20
+NASA computers between May and September 1987 through a flaw in the
+security system.
+   At the time, NASA officials in Washington denied that secret
+information had been obtained through its computer network.
+</TEXT>
+</DOC>

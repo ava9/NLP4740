@@ -1,0 +1,151 @@
+ID: 215	RANK: 82	SCORE: 9.813830
+<DOC>
+<DOCNO>
+WSJ910627-0080
+</DOCNO>
+<DOCID>
+910627-0080.
+</DOCID>
+<HL>
+   Software Glitches Cripple
+   Parts of 2 Phone Systems
+   ----
+   By Mary Lu Carnevale
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+06/27/91
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE A10
+</SO>
+<CO>
+   BEL DIGI PAC
+</CO>
+<MS>
+TECHNOLOGY (TEC)
+UTILITIES (UTI)
+</MS>
+<IN>
+COMMUNICATIONS TECHNOLOGY (CMT)
+TELEPHONE SYSTEMS, INCLUDING CELLULAR (TLS)
+SOFTWARE (SOF)
+</IN>
+<GV>
+FEDERAL COMMUNICATIONS COMMISSION (FCC)
+</GV>
+<RE>
+CALIFORNIA (CA)
+MARYLAND (MD)
+NORTH AMERICA (NME)
+PENNSYLVANIA (PA)
+PACIFIC RIM (PRM)
+TEXAS (TX)
+UNITED STATES (US)
+VIRGINIA (VA)
+WEST VIRGINIA (WV)
+DISTRICT OF COLUMBIA (DC)
+</RE>
+<LP>
+   WASHINGTON -- Software glitches crippled portions of two
+regional Bell telephone networks, raising new questions about
+the reliability of the nation's phone service. Bell Atlantic
+Corp. reported that an apparent software bug at its
+Chesapeake &amp; Potomac Telephone unit shut off most local phone
+service in Washington, D.C., Maryland, Virginia and West
+Virginia for much of the day. On the opposite coast, Pacific
+Telesis Group's Pacific Bell unit was plagued by a similar
+problem that disrupted local service in the Los Angeles area
+for more than two hours.
+   Bell Atlantic's troubles began before noon EDT, and
+technicians had the network fully restored by 7:20 p.m. A
+spokesman said officials were monitoring the situation
+throughout the night to ensure that the problem didn't recur,
+and the company was setting up a task force to find out what
+went wrong. Officials declined to predict how long it might
+take to detect what caused the problem.
+</LP>
+<TEXT>
+   Yesterday, many callers got busy signals or their lines
+went dead when they tried to dial local numbers. The outage
+didn't harm the federal government's phone network, but it
+prevented many government employees from making calls to
+outside numbers.
+   The massive problems are similar but believed unrelated to
+a software glitch that shut down American Telephone &amp;
+Telegraph Co.'s long-distance phone network a year and a half
+ago. Both the local and long-distance problems were traced to
+software problems in the so-called common-channel Signaling
+System 7, a system for telling telephone switches where to
+send calls. All phone companies are installing the system to
+shorten the time it takes to connect calls and to offer a
+variety of new services such as Caller ID, Return Call, Call
+Trace and advanced business services.
+   The glitches interrupted service to millions of customers.
+Bell Atlantic's Chesapeake &amp; Potomac unit reported that more
+than 6.3 million of the 7.1 million telephone lines in its
+territory were affected. The problem in the Los Angeles area
+-- involving area codes 213, 818 and 805 -- disrupted service
+to more than three million phone lines, a Pacific Bell
+spokesman said.
+   Bell Atlantic officials said they believe the problem
+began after the company installed software in a computer that
+controls the signaling system in the Baltimore area. The
+problem spread to another computer in Baltimore and then to
+computers in Washington that were closely linked to the
+Baltimore computer while the system was being updated.
+   "If it had worked right, we would have had double-double
+security," said John Seazholtz, Bell Atlantic vice president
+for technology and information services. "But that didn't
+happen."
+   Bell Atlantic officials at network control centers began
+noticing trouble around 11:30 a.m. as the network stopped
+handling most calls. Local calls routed through a single
+central office could be completed, but those involving more
+than one central office couldn't.
+   Bell Atlantic said the equipment and software that control
+its signaling system are made by DSC Communications Corp.,
+Dallas. A spokesman said the customer service and technical
+personnel were working to help Bell Atlantic identify the
+problem and restore full service. He declined to comment
+further about the disruptions, saying it may take some time
+to pinpoint the problem. It couldn't be determined who
+supplied Pacific Bell's signaling software.
+   The Federal Communications Commission will study both
+outages carefully. "Any time there is a significant
+disruption in telephone service, the FCC is concerned," said
+FCC Chairman Alfred Sikes, adding that the agency has been in
+touch with the phone companies and will work with them to
+find the cause. "If actions by the FCC can prevent or
+minimize its recurrence, we will not hesitate to act," he
+said.
+   Gene Kimmelman, legislative director for the Consumer
+Federation of America, said the incidents' timing was ironic,
+coinciding with a Capitol Hill hearing on whether local phone
+companies should be allowed to provide cable television and
+other services.
+   "Phone companies are arguing that they need congressional
+help to enter the information age when they can't even run
+their basic local phone networks," he said.
+   Bell Atlantic and Pacific Telesis reported that emergency
+911 service continued to work throughout the breakdown but
+that callers may have had a difficult time getting through
+because of increased calling volumes. Moreover, both
+companies said that increased attempts by callers to make
+local calls exacerbated the problem, apparently causing
+delays at some 911 centers.
+   The C&amp;P crash was the biggest software problem ever to
+strike a local phone network, though local companies have
+been hit from time to time by massive local outages, such as
+a cable cut that crippled service in the New York area, a
+fire in a major switching hub in Hinsdale, Ill., and natural
+disasters such as Hurricane Hugo and the San Francisco
+earthquake.
+   To get around the problem, many companies and residential
+consumers turned to long-distance carriers, calling operators
+or dialing access codes for most local calls. Others pulled
+out their cellular phones, but the increased calling volume
+led to delays and interrupted service on them as well, a Bell
+Atlantic spokesman said.
+</TEXT>
+</DOC>

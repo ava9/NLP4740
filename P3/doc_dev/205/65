@@ -1,0 +1,87 @@
+ID: 205	RANK: 65	SCORE: 17.701933
+<DOC>
+<DOCNO> AP901205-0285 </DOCNO>
+<FILEID>AP-NY-12-05-90 1844EST</FILEID>
+<FIRST>r f AM-RiskyComputers 1stLd-Writethru   12-05 0596</FIRST>
+<SECOND>AM-Risky Computers, 1st Ld-Writethru,0693</SECOND>
+<HEAD>Report: US Must Get Serious About Computer Security Before It's Too
+Late</HEAD>
+<NOTE>EDs: INSERTS grafs 14-15: ``A ``virus,'' to explain computer terms</NOTE>
+<BYLINE>By HARRY F. ROSENTHAL</BYLINE>
+<BYLINE>Associated Press Writer</BYLINE>
+<DATELINE>WASHINGTON (AP) </DATELINE>
+<TEXT>
+   So far, the country has been lucky. There have
+been viruses, worms, logic bombs, Trojan Horses and other computer
+scams but no successful, systematic attempt to subvert the systems
+that are so essential to modern society.
+   However, says an expert on computer security, ``there is reason
+to believe our luck may soon run out unless we take action now.''
+   A committee of the National Research Council spent 1{ years
+looking into the state of computer security and found systems and
+information in danger, and society, in turn, at risk. It issued a
+300-page report Wednesday, titled ``Computers at Risk.''
+   ``We have in many cases left computer systems unprotected from a
+wide variety of current and future threats to their integrity,''
+committee chairman David D. Clark told a news conference.
+   ``National computing and communications systems are vulnerable
+to potentially catastrophic ecurity breaches and accidental
+failures,'' he said. Contending that the nation has been lucky, he
+said, ``The committee concludes that tomorrow will not be like
+yesterday.''
+   Horrible examples abound:
+   -For 10 months in the mid-1980s, a West German nicknamed ``Wily
+Hacker'' attacked 450 computers operated by the U.S. military and
+its contractors, successfully gaining access to 30. He allegedly
+had ties to the Soviet KGB, the NRC report says, and it was assumed
+he was looking for sensitive data.
+   -In 1988 a ``worm'' paralyzed thousands of computers in the
+Internet, a network that links 60,000 computer systems used in
+university and other research. Robert Morris of Arnold, Md., is
+appealing his conviction in federal court for unleashing the
+program.
+   -A software design error froze much of American Telephone &amp;
+Telegraph's long distance network.
+   -The German Chaos Computer Club broke into the NASA Space
+Physics Analysis Network.
+   -An error in computer software controlling a radiation therapy
+machine, a Therac 25 linear accelerator, resulted in at least three
+patient deaths.
+   -More than 26,000 diskettes that featured AIDS prevention
+information but were infected with a hidden computer virus were
+mailed to hospitals, businesses and government agencies worldwide.
+   There have been thousands of reported virus attacks and hundreds
+of different viruses identified, such as Stoned, Devil's Dance,
+1260, Jerusalem, Yankee Doodle, Pakistani Brain, Icelandic-2, Ping
+Pong and December 24, the committee said.
+   A ``virus'' is a computer program, usually hidden, that attaches
+itself to other programs and has the ability to reproduce itself.
+Viruses generally are ``Trojan Horse'' programs which, when
+executed, result in undesired side effects unexpected by the user.
+``Logic bombs'' are Trojan horses activated by a particular event
+in the computer, perhaps even the occurrence of a particular date.
+   A ``worm'' is a program that distributes itself in multiple
+copies within a system or into connected systems. A worm attack
+might exploit security vulnerabilities in a system or cause denial
+of service to the computer user.
+   Clark said the committee, which had 16 members from
+universities, industry, computer manufacturers and security firms,
+is concerned about a blase attitude among most in the U.S. business
+community.
+   ``Many people still use easy-to-guess passwords such as their
+first name, or they use common English words that can be `guessed'
+by a determined hacker with a computerized dictionary,'' he said.
+``Attacks based on these weaknesses are commonplace today.''
+   The committee recommended six key actions, a major one being
+creation of a private, non-profit organization to develop system
+security principles, supporting research, maintain a tracking
+system of threats and foster training of computer security agents.
+   ``The modern thief can steal more with a computer than with a
+gun,'' the NRC report says. ``Tomorrow's terrorist may be able to
+do more damage with a keyboard than with a bomb.
+   ``Thus far we have relied on the absence of malicious people who
+are both capable and motivated. We can no longer do so. We must
+instead attempt to build computer systems that are secure and
+trustworthy.''
+</TEXT>
+</DOC>

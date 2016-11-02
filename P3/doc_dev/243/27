@@ -1,0 +1,36 @@
+ID: 243	RANK: 27	SCORE: 15.967566
+<DOC>
+<DOCNO> AP900503-0251 </DOCNO>
+<FILEID>AP-NR-05-03-90 1003EDT</FILEID>
+<FIRST>s f BC-DataInterchange-Levi's Adv06 1stLd-Writethru 05-03 0232</FIRST>
+<SECOND>BC-Data Interchange-Levi's, Adv 06, 1st Ld-Writethru,0235</SECOND>
+<NOTE>$adv06</NOTE>
+<NOTE>For release Sunday May 6</NOTE>
+<HEAD>With BC-Data Interchange</HEAD>
+<NOTE>Eds: SUBS last graf to show that one stage of the process hasn't
+been introduced yet but is planned.</NOTE>
+<DATELINE>NEW YORK (AP) </DATELINE>
+<TEXT>
+   Here's how the electronic data interchange
+system at apparel maker Levi Strauss &amp; Co. works:
+   _Levi's pre-tickets its jeans and other items with tags
+containing bar codes similar to those used in supermarkets.
+   _At a retail store, electronic scanners at the checkout record
+the information contained on the tags. The store's computer records
+the fact that an item has been sold. Using the information, the
+computer can automatically reorder goods from Levi's.
+   _As orders are shipped by Levi's, the company's distribution
+center generates packing slips and sends them electronically to the
+store's computer. The store now knows what is coming and when to
+expect it.
+   _Stores receive pre-ticketed Levi's products in boxes printed
+with a bar code on the side. This bar code is cross-referenced to
+the electronic packing slip number. When stores scan the bar code
+they eliminate the need to count the merchandise by hand, and the
+goods can be sent directly to the store shelves.
+   _Under an improvement in the system to be introduced soon,
+Levi's computers will automatically reorder denim and other
+supplies needed to make more jeans to replace those shipped.
+</TEXT>
+<NOTE>End adv for Sunday May 6</NOTE>
+</DOC>

@@ -1,0 +1,125 @@
+ID: 210	RANK: 34	SCORE: 6.786623
+<DOC>
+<DOCNO>FT942-13129</DOCNO>
+<PROFILE>_AN-EDZEDAG5FT</PROFILE>
+<DATE>940426
+</DATE>
+<HEADLINE>
+FT  26 APR 94 / Survey of A-Z of Computing (20): Advances in large scale
+storage - Raid
+</HEADLINE>
+<BYLINE>
+   By JOHN KAVANAGH
+</BYLINE>
+<TEXT>
+RAID stands for 'redundant array of inexpensive discs,' a term coined by
+computer scientists at the University of California in 1987 and now
+increasingly embodied in disc storage products for systems of all sizes.
+However, significant advances in disc technology since 1987 have complicated
+the RAID argument just as manufacturers are expanding their RAID offerings
+from office systems into the mainframe computer market.
+The original research aimed to ease a problem caused by increases in
+computer speed. Processors were held back by the time it took to access data
+stored on electro-mechanical discs systems.
+So researchers replaced a single large disc with several smaller ones.
+Performance improved, because several drives were working simultaneously on
+recording or retrieving a piece of information.
+However, increasing the number of discs also heightened the risk of failure
+of the total system. Traditional mass storage discs (known as SLED for
+'single large expensive discs') were far more reliable than the 5.25-inch
+disc drives of 1987, which typically broke down once every 25,000 hours:
+this meant that an array of 10 would hit a problem every 14 weeks.
+The researchers therefore built in redundancy, so that a problem in one
+drive would not bring down the entire system. They specified what they
+called five RAID levels, later expanded to seven. Some have been largely
+discarded because of their impact on performance.
+TWO BROAD TYPES
+The RAID levels fall into two broad types: one involves recording all data
+simultaneously on two discs, so that one is an exact copy of the other. This
+is known as disc mirroring or shadowing. Data retrieval is faster than on
+single discs because data is retrieved from both discs at once. If one disc
+fails, the system continues without interruption, because all the data is
+still available.
+The other RAID technique is known as striping: here data is recorded, or
+'striped,' across the array of discs. If one disc fails, the system can work
+out the lost data by performing arithmetic on check digits stored with
+related data on the other discs.
+In some RAID striping levels the check data is stored on a disc of its own.
+Recovering the lost data can take 20 minutes or more in a big system and,
+while the recovery is going on, the performance of the overall system is
+significantly affected.
+Side benefits of RAID systems include the fact that they use less power and
+generate less heat than traditional large disc drives. They also occupy less
+floor space: the disc drives, typically placed on top of each other, are
+standard 3.5 or 5.25-inch units found in personal computers, compared with
+the traditional big discs measuring up to 14 inches.
+Most RAID suppliers have focused initially on networked PCs and business
+minicomputers, typically Unix machines and the IBM AS/400. Supplier
+Hewlett-Packard says the PC market in particular is receptive to the RAID
+idea.
+'PC users expect disc drives to fail and are accustomed to cheap,
+low-capacity, keep-a-couple-of-spares-handy units,' the company says.
+'They are also likely to see disc drives, like PCs, as commodities and buy
+on this basis rather than worrying about a quality system from a big-name
+supplier.
+'In addition, PC data tends not to get backed up regularly: the network is
+typically a part-time responsibility for one person in the office. Users
+therefore see RAID offering protection against failure and reducing the need
+for back-up.'
+Most manufacturers are only just launching RAID products in the mainframe
+market, partly because here the PC arguments are all reversed.
+Computing managers expect disc systems to have high reliability, capacity
+and performance; they also have specialists whose jobs include regular
+back-ups.
+However, EMC Computer Systems, which has been in the mainframe market since
+1990 with a RAID level one disc mirroring system, believes that disc
+technology has progressed so quickly that debates about which RAID levels
+are best have become irrelevant.
+The company supports its case by pointing to the fact that after three years
+it has become the third biggest supplier of mainframe disc storage, with a
+15 per cent market share. EMC director Mr David Facer says that the
+reliability of small discs has leapt to between 0.5m and 0.8m hours between
+failures.
+Simultaneously, capacities of these discs have increased from 200 megabytes
+(1m characters) when the RAID research was being done to 2,000 megabytes or
+more today. These figures mean that an array of 10 discs, equalling the
+capacity of a single big mainframe disc drive, should only break down only
+once every six to nine years. Indeed, EMC is so confident about today's disc
+drives that the RAID level one mirroring feature is merely an option: the
+disc redundancy issue is removed altogether. Instead, EMC uses fast
+electronic memory to provide fail-safe facilities. Such memory is
+increasingly being built into disc systems to hold frequently-used data and
+thus reduce the need to access electro-mechanical disc storage.
+Studies from research firm IDC support Mr Facer when he argues that the
+falling cost of disc drives has brought the price of mirrored systems down
+to that of striped systems, especially when the extra costs and performance
+overheads of controlling the striping are taken into account.
+Demand for data storage is said to be growing at 40 per cent a year. As more
+and more information goes on-line, demand for faster and faster access is
+likely to increase.
+As Mr Facer puts it: 'The issue isn't about RAID: it's about
+high-performance reliable storage at the right price.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3577 Computer Peripheral Equipment, NEC.
+    P3572 Computer Storage Devices.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page XIV
+</PAGE>
+</DOC>

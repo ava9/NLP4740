@@ -1,0 +1,165 @@
+ID: 243	RANK: 19	SCORE: 16.966642
+<DOC>
+<DOCNO>
+WSJ920106-0141
+</DOCNO>
+<DOCID>
+920106-0141.
+</DOCID>
+<HL>
+   TECHNOLOGY
+   ----
+   By John R. Wilke
+</HL>
+<DATE>
+01/06/92
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B1
+</SO>
+<CO>
+   INTC
+</CO>
+<MS>
+TECHNOLOGY (TEC)
+</MS>
+<IN>
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+SEMICONDUCTORS, INTEGRATED CHIPS (SEM)
+</IN>
+<NS>
+SCIENCE &amp; TECHNOLOGY (SCN)
+</NS>
+<GV>
+POSTAL SERVICE (POS)
+</GV>
+<RE>
+CALIFORNIA (CA)
+MASSACHUSETTS (MA)
+NORTH AMERICA (NME)
+PENNSYLVANIA (PA)
+PACIFIC RIM (PRM)
+UNITED STATES (US)
+</RE>
+<LP>
+   Parallel Computing
+   Finds Mainstream Uses
+                                                                                                       
+
+</LP>
+<TEXT>
+   PARALLEL-DESIGN supercomputers, once reserved for esoteric
+research applications, are being put to more commercial uses.
+   At Prudential Securities, a powerful parallel
+supercomputer gives quick risk analysis for mortgage-backed
+securities, while clients are on the line. Previously, the
+analysis took several minutes on conventional computers --
+too long to keep clients on the phone, and long enough for
+market prices to change, sometimes rendering the analysis
+obsolete.
+   Now, with parallel machines -- which use dozens, or even
+hundreds, of processors working on different aspects of a
+problem at the same time -- customers get answers in as
+little as 30 seconds. Parallel processors, which can range
+from $300,000 to $3 million, offer supercomputer power at far
+less cost. They provide a clear strategic advantage over
+traditional systems, says David Audley, research director for
+Prudential's financial strategies group, which has used an
+Intel parallel machine for about a year.
+   Indeed, with increasingly arcane derivative securities
+requiring time-sensitive computations, supercomputer-class
+horsepower may become a cost of doing business for
+financial-services companies, says George Lindamood, a
+consultant with market researcher Gartner Group.
+   Other emerging markets include credit-card companies and
+retailers. American Express just bought two Thinking Machines
+computers for its travel-services operation, while Kmart is
+using a Teradata parallel computer to coax new sales
+strategies from the mountain of transaction information
+collected by all of its stores each day.
+   Kmart had long noted that some stores sold lots of
+confetti around Easter. The parallel machine analyzed sales
+data and other information for every store and pinpointed the
+reason: Confetti sells best in or near Hispanic
+neighborhoods, where it is used in traditional holiday
+celebrations.
+                                                                                                       
+
+   U.S. Bobsled Drivers
+   Take Simulated Ride
+                                                                                                       
+
+   MOUNTAIN VIEW, Calif., a sunny Silicon Valley city, might
+not seem the best place for the U.S. Olympic bobsled team to
+train. But the team's drivers will be there today to practice
+on a computer simulation of the Olympic bobsled run in La
+Plagne, France, for next month's games.
+   With the margin of victory in this high-speed event
+measured in hundredths of seconds, familiarity with the run
+could give the U.S. team an edge. So every twist and turn of
+the mile-long course has been recreated on a computer
+simulator by researchers at the University of California at
+Davis working with Silicon Graphics of Mountain View.
+   Team members will pilot an actual bobsled whose steering
+control is connected to a powerful computer, which projects a
+lifesized, three-dimensional simulation of the course on a
+screen in front of the sled. Every tug at the steering is
+instantly reflected in the simulation, which projects the
+sled's flight down the icy track by calculating aerodynamics,
+gravity, friction, steering and weight 30 times a second. The
+run takes about a minute to complete.
+   "You can see your mistakes without crashing," says Randy
+Will, a driver on the U.S. team who took a trial run Friday.
+"We were skeptical at first, but the visual aspect is very
+real. All that's missing is the cold."
+                                                                                                       
+
+   Vanishing Ink Stymies
+   Invisible Bar Codes
+                                                                                                       
+
+   INVISIBLE bar-code technology might already be on the
+market, but for the problem of disappearing ink.
+   Researchers at Battelle Memorial Institute developed the
+new bar-code technology for the U.S. Postal Service -- which
+uses bar codes to automate letter-sorting -- and licensed it
+last year to AccuSort Systems, a bar-code equipment company
+in Telford, Pa. Accu-Sort envisions all kinds of potential
+uses, including on cash, ID cards and passports to prevent
+counterfeiting. In law enforcement, detectives could use the
+invisible bar codes on cash to track the flow of money
+following an illegal transaction.
+   The problem is the invisible ink, which after a few weeks
+becomes invisible even to the infrared photocell designed to
+read it, an Accu-Sort researcher says. "There are still some
+technical hurdles, but we expect to get it worked out soon,"
+says Michael Hrabina of Accu-Sort.
+                                                                                                       
+
+   Tiny Electronics Help
+   Give Life to Microrobots
+                                                                                                       
+
+   SILICON "ants" might one day sweep up radioactive dust
+from hard-to-reach laboratory corners, purge diseased cells
+from blood or even be used by spies to bug a room.
+   Such microrobots are becoming feasible with advanced
+materials and microscopic electronics. For his ant, inventor
+Johannes G. Smits of Boston University has devised
+micromotors three millimeters long and the width of a human
+hair to drive the tiny machine's legs and pincer. The motors
+work without gears: Chromium-gold electrodes under varying
+electric charges cause zinc oxide coatings on tiny silicon
+rods to expand and contract, in turn making the rods move.
+   The ant would walk as its electrically charged silicon
+legs flex up and down, and its pincer would work the same
+way. The device, still under development, would be powered by
+a solar cell and controlled by a microprocessor brain
+responding to acoustic signals.
+   Prof. Smits, who recently received a patent for the ant
+design, says other micromotor designs usually depend on tiny
+gears turning in response to rapidly changing electrical
+fields. But such moving parts can get clogged with dust and
+are more likely to break down, he says.
+</TEXT>
+</DOC>

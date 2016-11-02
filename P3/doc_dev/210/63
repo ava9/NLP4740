@@ -1,0 +1,156 @@
+ID: 210	RANK: 63	SCORE: 5.564258
+<DOC>
+<DOCNO>FT941-4532</DOCNO>
+<PROFILE>_AN-ECJDQAHCFT</PROFILE>
+<DATE>940310
+</DATE>
+<HEADLINE>
+FT  10 MAR 94 / Survey of Software at Work, Spring 1994 - Financial Control
+Systems (1): Instant data at managers' fingertips / Comment - Financial
+control demands clear presentation of data to management. Here, David Carter
+looks at radical new developments in what are called 'super drill-down'
+accounts packages
+</HEADLINE>
+<BYLINE>
+   By DAVID CARTER
+</BYLINE>
+<TEXT>
+Despite the need for clear data presentation, surveys among users of
+accounting software consistently show poor reporting to be their greatest
+source of dissatisfaction. The standard response of the industry is to offer
+improved means of extracting information such as report writer packages,
+output to a spreadsheet or, current flavour of the month, by bolting an EIS
+(or 'executive information system') on the top.
+However, a number of package designers have realised that, in the end, these
+solutions lead nowhere because they do not go to the root of the problem.
+The answer lies in the way the data is organised in the first place. If
+users are going to achieve fast and effective reporting out of a package, it
+is because the package has been designed from the ground up, with the proper
+file structures in place to provide it.
+Over the last year or two, a number of packages with radically new designs
+have been coming on to the market, offering superb delivery of management
+information. It may be some time before they are sufficiently developed to
+offer all the modules and functionality of established systems, but their
+arrival surely sounds the death knell for the current generation of market
+leaders.
+How should management information be delivered? Most managers manage by
+exception - that is, they take corrective action when a situation goes out
+of line. Take, for example, a clothing retailer with 1,200 product lines
+falling into 15 product groups. The first facts the manager wants to see in
+his monthly sales report are the total sales figures versus budget for each
+group.
+If sales for 11 groups are on target, that's fine: he can now forget about
+them and concentrate on the task of sorting out the four under-performers.
+Initially, then, the manager wants to see totals at the beginning of the
+report, not at the end, and to see them at a high level such as product
+group rather than individual product. Only if a product group total requires
+further investigation does he need to 'drill down' and review the sales of
+the individual products that make up the total to pin-point exactly what
+went wrong.
+The obvious advantage of this 'totals first' approach is that the volume of
+data becomes so much smaller and therefore more manageable. While at the
+detail level a year's sales at the clothes retailer might comprise 1,200
+individual product lines and 50,000 sales transactions, at summary level
+these could be summarised into 15 product groups each with 12 monthly sales
+totals - a mere 180 numbers fitting comfortably into a couple of screens.
+Unfortunately, instead of providing totals first and details second, most
+package designers are still stuck in the mould of manual reporting systems
+which give details first, totals last. The format of a typical computer
+report is exactly the same as a manual daybook - a transaction listing with
+the oldest transaction shown first and the most recent last, and the report
+total calculated at the end.
+Hence, the near universal defect of current accounting packages - that they
+offer the user little or no high-level summary information and he finds
+himself having to wade through floods of low level transaction data which
+simply obscure the wood for the trees.
+When defining the key features of a 'totals first' system, the first
+observation to make is that it has to be screen-based, rather than
+paper-based, with managers browsing through high level totals on screen and
+printing-off low-level transaction data only when a copy is specifically
+required.
+Secondly, the system must offer multiple totals at all levels. So, a manager
+might start by looking at total sales year-to-date for a product group, then
+drill down to the total year-to-date sales for each product within that
+group, then select one product and drill down to show total sales for each
+individual month. The manager could then select one month and drill down to
+the individual sales invoices within that month, then select an individual
+invoice and display it as originally entered on to the system. This is a
+one-dimensional series of views moving downward from one level to another.
+But totals must be held multi-dimensionally as well because users also want
+to view data 'sideways.'
+The clothing retailer, for example, might want to see total sales for a
+product group broken down into sales by individual store. In a similarly
+multi-level, multi-dimensional way, an accountant browsing through his
+general ledger might wish to see the monthly wages bill broken down by
+employee type across each of the company's divisions.
+Finally, and most important, all these monthly totals have to be available
+instantly. Users of screen-based systems will not be prepared to sit around
+and wait while the computer trawls through several thousand transaction
+records and calculates a total.
+There is only one way to provide instant totals, that is by storing them
+on-line, having already been calculated in advance. This is the fundamental
+difference between the new design and the old.
+Traditional packages comprise a layer of master files beneath which is a
+layer of transaction files. The new design packages interpose another layer
+between the two - a multi-level, multi-dimensional layer of on-line totals
+which are updated whenever a transaction is entered. I have used the term
+'drill-down' when describing how these packages work.
+Unfortunately, virtually all software vendors claim 'drill-down' for their
+packages these days. By this, they mean the ability to trace associated
+transactions throughout the files in the manner of a relational database. To
+denote the quite different idea of zooming down from on-line totals one
+supplier has coined the phrase 'super drill-down.'
+It is important to differentiate between the two. Existing accounts packages
+can be adapted to some extent to provide 'ordinary drill-down.' However,
+adaptation to provide 'super drill-down' is not possible.
+The only way a software vendor is going to be in a position to offer 'super
+drill-down' is by a complete product rewrite. 'Super drill-down' packages
+are thin on the ground. They are technically difficult to write.
+In particular, it is difficult to update multiple monthly balances during
+data entry without slowing down response time. Object-oriented techniques
+seem to be an essential pre-requisite.
+The accounts package market: products on offer
+At the corporate and 'FT Top 500' companies level of the accounts package
+market are Oracle Financials from Oracle Corporation and Open1 from
+Financial Solutions. Oracle runs under Unix while Open1 claims 'total
+flexibility across all leading servers, operating systems and client
+interfaces.'
+Prices of each run from Pounds 30,000 upward. A third 'super drill down'
+supplier to the corporate market is Altair, whose best-known customer is the
+tour operator, Owners Abroad, running a 60-user RS6000-based system under
+Unix.
+At the medium-size company level, Altair also offer Altair Plus, which
+starts at Pounds 8,000 and competes against such products as Tetra
+Chameleon, Multisoft Premier and SunAccount. Altair plus runs under Unix and
+Novell, and a client-server version is due shortly which can be front-ended
+by a PC running Windows 3.1.
+At the smaller and medium company level, the admirable Exchequer from SBS
+Financial Systems competes with Pegasus Senior, Sage Sovereign and Tetra
+2000. SBS have recently released Sales and Purchase Order processing for
+this package, and a full suite of modules, including multi-currency, costs
+Pounds 3,995.
+Finally, SBS also offer an entry-level version of Exchequer starting at
+Pounds 495 which competes with Sage Financial Controller.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page II
+</PAGE>
+</DOC>

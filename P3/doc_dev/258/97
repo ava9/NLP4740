@@ -1,0 +1,139 @@
+ID: 258	RANK: 97	SCORE: 6.709254
+<DOC>
+<DOCNO>FT934-12469</DOCNO>
+<PROFILE>_AN-DJZDHAHDFT</PROFILE>
+<DATE>931026
+</DATE>
+<HEADLINE>
+FT  26 OCT 93 / Survey of Technology in the Office (13): A chance to reduce
+the paperwork / A look at ways to cut back on printed documentation and
+reduce costs in the electronic office by using new software packages
+</HEADLINE>
+<BYLINE>
+   By ROBERT HALLIDAY
+</BYLINE>
+<TEXT>
+ONE of the biggest myths of the early years of the information technology
+revolution was that the use of computers would lead to the end of the use of
+paper for communications and the start of the 'paperless office.'
+It is now clear that this paperless society is, at least so far, a myth. New
+technology has actually led to an explosion in the use of paper: the page
+design tools on personal computers allow anyone to create good looking
+documents, but the urge to get the design just right by tweaking tiny
+details mean that several draft copies may be printed where one typed memo
+would have sufficed.
+Then, once finalised, the document may be faxed or posted to different
+sites, where it will be copied several more times for distribution and
+filing.
+The disadvantages of this system are quite obvious: firstly, contrary to
+current ecologically-friendly trends, a large amount of paper is used.
+Secondly, the costs of copying and transmitting the document can be huge
+and, despite the care taken with the design, the quality of the received
+document (once it has been faxed, then photocopied, then comments added,
+then faxed back) can be unpredictable.
+Thirdly, though by no means finally, if the recipient wants to take sections
+from a document to incorporate into another document, they cannot do so
+without re-entering the data into their computer.
+Yet while distributing such documents as computer files, either down
+telephone lines or on disc, clearly solves many of these problems, this
+method has never become popular. This is mainly attributable to the
+difficulties caused by the different data formats which each computer and
+program uses.
+Transferring plain text, the lowest common denominator of the different
+machines, has always been possible, but sending complex documents,
+containing text in different sizes and fonts placed around pictures is very
+difficult unless the sender and recipient have exactly the same software
+packages and fonts installed on their machines.
+In some organisations this has led to packages being copied illegally just
+so that everyone could read electronically-distributed documents.
+Two new software packages aim to solve this problem. Both 'Common Ground'
+from No Hands Software and 'Acrobat' from Adobe Systems claim to allow
+documents created with any application program, and incorporating any
+combination of fonts, graphics and colour, to be sent electronically to
+other users' computers and viewed on-screen.
+The sender and recipients need not have the same applications or fonts
+installed, nor even be using the same type of computer - both products allow
+documents created on Apple Macintoshes to be viewed on personal computers
+running Windows, and vice versa. Adobe is also working to bring users of DOS
+PCs and Unix machines into the Acrobat world.
+Both systems appear to operate in the same way. Once installed, they add an
+option to the print command to output the document as a special format file,
+called 'digital paper' (dp) in Common Ground and 'portable document fortmat'
+(pdf) in Acrobat.
+The files, which preserve the look of the original document, can be
+distributed on disk or by modem, and be read on-screen using a viewer
+program - Common Ground even allows a mini-viewer to be included with a
+document, so that anyone can read it.
+Once opened, the document can be searched for words or phrases, and sections
+of text can be copied to other documents.
+Acrobat adds further facilities like 'sticky notes,' the electronic version
+or the familiar Post-It note, and hot links where selecting a phrase like
+'see the attached graph' would take you directly to that graph, and will
+eventually support the standard SGML document structure system. If
+green-consciousness permits, both systems allow documents to be printed.
+Beneath the surface, however, the two systems differ greatly, in ways which
+affect both the quality of the documents when printed and their file size.
+Common Ground files contain a bitmap image of the document - a 'dot by dot'
+copy of the on-screen image.
+When creating the digital paper file, the resolution can be selected to be
+72 dots-per-inch (about the same resolution as appears on computer monitors)
+or 300 dots-per-inch (standard laser printer resolution).
+The 72 dpi files are smaller, but appear ragged when printed or enlarged on
+screen; the larger 300 dpi flies give much clearer results.
+The technology behind Acrobat is much more complex. The portable document
+format is an extension of Adobe's established PostScript page description
+language most familiar from high-quality laser printers.
+Rather than creating a bitmap copy of the document, Acrobat stores the
+'metrics' of the fonts used.
+Using the company's 'Multiple Masters' font format a system where one font
+can be stretched and distorted to give many variations of the design the
+receiving system. generates close copies of the original fonts.
+Though it has problems with highly decorative typefaces, the advantage is
+that the resulting fonts are resolution independent if you print them on a
+high quality laser printer they will appear at the resolution of the
+printer, whereas those from Common Ground would be stuck at 300 dpi.
+Acrobat also offers a number of compression systems to reduce the size of
+pdf documents, which is advantageous since it reduces both telephone
+transmission times and storage requirements; in some cases, 2Mb files can be
+reduced to around 100K.
+However, documents cannot have a view included - to read a document you need
+an Acrobat Reader, and these are only currently available in minimum
+quantities of fifty, priced at Pounds 36 a copy.
+'Exchange,' the program which creates pdf files, costs Pounds 140 per copy;
+and 'Distiller,' which takes existing PostScript files and turns them into
+pdf format, costs Pounds 500.
+'Common Ground,' in contrast, costs just Pounds 149 for the Maker/Viewer.
+The two system will however, find favour with different markets, Common
+Ground being ideal for distributing small-scale documents while Acrobat is
+more adept at large works containing extensive cross-referencing or full
+colour images.
+Providing recipients avoid the urge to simply print-out documents, both
+systems will reduce costs and paper usage greatly. And while neither is yet
+perfect, both give the 'paperless office' concept a new chance.
+Acrobat is from Adobe Systems, distributed by Principal Systems
+(0706.831.831); Common Ground is from No Hands Software, distributed by
+Gomark (071.731.7930).
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+    P3577 Computer Peripheral Equipment, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page VII
+</PAGE>
+</DOC>

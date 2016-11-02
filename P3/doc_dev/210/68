@@ -1,0 +1,101 @@
+ID: 210	RANK: 68	SCORE: 5.504455
+<DOC>
+<DOCNO>
+WSJ900619-0009
+</DOCNO>
+<DOCID>
+900619-0009.
+</DOCID>
+<HL>
+   Technology &amp; Health:
+   Novell Plans to Tighten Security Features
+   To Protect Computer Users From Snoops
+   ----
+   By G. Pascal Zachary
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+06/19/90
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B4
+</SO>
+<CO>
+   NOVL
+</CO>
+<IN>
+SOFTWARE (SOF)
+</IN>
+<LP>
+   Novell Inc. plans to toughen the security features of its
+network software products, responding to growing concerns
+that personal computer networks are vulnerable to disruption
+by electronic intruders.
+   The Provo, Utah, company already offers limited security
+features in its current networking products, which are widely
+used by industry. But it is starting to incorporate into
+Netware, its main software family, a more sophisticated
+approach to security called public-key encryption. The method
+enables many people to encrypt messages in such a way that
+only one person can decipher them. It also allows one person
+to send an encrypted message that numerous recipients can
+understand.
+</LP>
+<TEXT>
+   To improve the security features of its products, Novell
+said yesterday that on Friday it signed a license agreement
+covering public-key technology from RSA Data Security Inc., a
+closely held Redwood City, Calif., concern. RSA is generally
+believed to sell the most efficient public-key software, and
+it controls a key U.S. patent underlying its products.
+   "We considered doing this on our own . . . for about 10
+minutes," said Richard King, Novell's vice president of
+software development. "There are some things you can roll
+your own on, but not this."
+   Mr. King said Novell would release its first product using
+public-key techniques by the end of July. The product, called
+Netware NameService, is designed to shorten the time it takes
+for personal-computer users to access central computers on
+the network where shared files and sensitive data are stored.
+Novell's products now require a user to punch in a new
+password for each server they wish to log onto. NameService
+will make a single password work for all the network's
+central computers.
+   Novell is the first important supplier of networking
+software to embrace public-key cryptography, which has been a
+controversial subject since its creation by a group of
+academic researchers in the late 1970s.
+   Because it can afford security against intrusion normally
+reserved for highly-sensitive government operations,
+public-key has been an irritant to the National Security
+Agency, which has complained that spread of public-key
+cryptography will make it harder for the agency to monitor
+secret transmissions. U.S. law allows the sale of public-key
+products but restricts their export.
+   Supporters say public-key can reduce the threat of
+computer network disruptions by limiting the spread of rogue
+programs, and making it possible for recipients of electronic
+messages to be sure they have received an authentic
+communication.
+   "Right now there's nothing in the way of privacy or
+authentication" for users of many PC networks, said Ralph
+Merkle, a researcher at Xerox Corp.
+   Nevertheless, some security specialists are skeptical
+about the commercial prospects for products using public-key
+techniques, such as the ones planned by Novell. "Significant
+customer demand for (improved security) has just not appeared
+yet," said Donn Parker, an electronic security consultant at
+SRI International in Menlo Park, Calif. Mr. Parker predicted
+it would take several years for public-key demand to mature.
+   Novell, however, hopes its aggressive stand on security
+will give its products an advantage. "It's a feature that
+will stand out," said Mr. King. "It shows people we're really
+concerned about the integrity of their systems."
+   While the use of public-key remains small compared with
+traditional "one-way" cryptography, it is catching on with
+high-technology firms. Last year, Digital Equipment Corp.
+signed a licensing deal with RSA Data and Lotus Development
+Corp. introduced a software package called Notes that partly
+relies on RSA Data's techniques.
+</TEXT>
+</DOC>

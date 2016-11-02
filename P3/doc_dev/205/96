@@ -1,0 +1,137 @@
+ID: 205	RANK: 96	SCORE: 16.668716
+<DOC>
+<DOCNO>
+WSJ900713-0177
+</DOCNO>
+<DOCID>
+900713-0177.
+</DOCID>
+<HL>
+   Mainframe Memory Problems Mount
+   As Computer Viruses Spread in Moscow
+   ----
+   By Richard L. Hudson
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+07/13/90
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), NO PAGE CITATION
+</SO>
+<CO>
+   FREST
+</CO>
+<IN>
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+SOFTWARE (SOF)
+</IN>
+<LP>
+   MOSCOW -- The first attack came two years ago, at a
+computer training center. Although the invader was quickly
+neutralized, "we realized this was a real menace," recalls
+one of the Soviet defenders.
+   The intruder was a "virus," a software program designed to
+infiltrate a computer's memory and disrupt the system, that
+somehow got into the center's personal computers.
+</LP>
+<TEXT>
+   The event alarmed Soviet computer scientists; though
+common in the West, this form of computer sabotage had been
+little known in the East. After all, a computer virus needs
+computers -- and computers haven't exactly been plentiful
+here.
+   But the number of Soviet computers is growing, and with
+them are beginning to appear viruses and other hazards
+familiar in Western computing. Since 1988, Soviet computer
+scientists have recorded 15 virus attacks around their
+country. Soviet media have even reported on the disgruntled
+Volga Auto Works employee who sabotaged the computer running
+a car-production line.
+   To cope, a tiny industry is emerging here, much as in the
+West, to offer protection for harried computer managers.
+   After years of unconcern, "there's a lot of interest" in
+viruses now among Soviet computer scientists, says Prof.
+Seymour Goodman, a specialist on Soviet computing at the
+University of Arizona. While Soviet expertise in this area is
+still limited, he notes, "they seem to sense it's something
+they ought to know about."
+   Even the KGB is interested. One Soviet computer scientist
+says he was questioned by his country's intelligence service,
+which wondered if the viruses could be Western sabotage. He
+told them that was implausible -- but that their suspicions
+were understandable.
+   The U.S. Army's Center for Signals Warfare recently
+announced plans to study the feasibility of computer-virus
+warfare. The $50,000 technical study isn't aimed specifically
+at the Soviet Union or any other country, says Richard
+Poisel, the center's research chief. But he adds, though he
+doesn't know for sure, that the Soviet military may have
+begun similar studies.
+   Viruses appeared in the U.S. in the early 1980s. Initially
+a hackers' diversion, they can be as innocuous as a program
+that flashes a rude message on the monitor or as destructive
+as one that garbles a computer's memory. Typically, they
+escape notice as part of a legitimate program, and they
+spread from computer to computer on floppy disks or over
+electronic networks.
+   Moscow once insisted that computer viruses were a uniquely
+Western problem. Computer hackers, mischievous or not, are
+rare in the Soviet Union, as are the machines themselves (the
+country has at most one million personal computers -- about
+as many as in one average U.S. state). Big computer networks,
+a common vector for viruses in the West, are rarer still.
+   Besides, computers occupied until recently a sacrosanct
+place in Kremlin ideology: They were regarded as space-age
+management tools that would perfect communism, giving Soviet
+central planners unprecedented power to monitor and direct
+the nation's economy.
+   Thus, the awakening was a rude one. "We have read some
+incredible stories of computer viruses causing billions of
+dollars of losses to computer centers in some remote
+capitalist countries, but we never took them seriously,"
+wrote several researchers at the U.S.S.R. Academy of
+Science's Program Systems Institute, in an article published
+in an academy journal.
+   The big computer-research institute was the first to
+discover that the Soviet Union isn't immune to viruses. In
+the summer of 1988, it was running a computer training
+facility outside Moscow for bright youngsters from 20
+countries. One personal computer began to malfunction,
+apparently stuck on a command to keep restarting itself.
+Subsequent research found that the cause was a virus,
+imported inadvertently on a floppy disk carried by one of the
+foreign computer students. Institute specialists, who
+expunged the virus after 18 hours, found the experience
+disturbing. "The PC seemed to have a will of its own," the
+scientists wrote. "We felt like doctors confronted with an
+unknown disease."
+   Sergei Abramov, an institute official interviewed here,
+says that since then he and his colleagues have recorded 14
+other cases of virus attack in the Soviet Union. The targets
+included an institute that designs civilian-aircraft engines,
+and another that designs components for the Soviets' ES range
+of mainframe computers. Almost all the viruses whose origins
+could be traced emanated from the West. One, however, came
+from Bulgaria. Called Dark Avenger, it was carried into the
+Soviet Union by a Soviet marine-research vessel plying the
+Black Sea near Bulgaria; the ship's computers were using
+floppy disks obtained locally.
+   In response, the country's computer labs and a few private
+cooperatives have begun mobilizing. Already, computer
+specialists say, as many as 150 "anti-virus" programs are
+circulating in the Soviet Union -- some pirated from the
+West, others designed locally.
+   But sometimes the cure can be worse than the disease. An
+early version of an anti-virus program designed by Mr.
+Abramov's colleagues was itself found to be inadvertently
+carrying a virus. The researchers didn't intend the program
+for release, but in a country where software piracy abounds,
+the virus quickly spread outside the lab on a pirated floppy
+disk.
+   Now, Mr. Abramov explains, he can track the pirated
+version's spread around the Soviet Union by reports of its
+accompanying virus. "The last time we saw it," he says, "was
+in Vladivostok."
+</TEXT>
+</DOC>

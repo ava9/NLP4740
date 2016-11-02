@@ -1,0 +1,195 @@
+ID: 258	RANK: 89	SCORE: 6.834677
+<DOC>
+<DOCNO> LA062890-0037 </DOCNO>
+<DOCID> 239721 </DOCID>
+<DATE>
+<P>
+June 28, 1990, Thursday, Home Edition 
+</P>
+</DATE>
+<SECTION>
+<P>
+Business; Part D; Page 3; Column 1; Financial Desk 
+</P>
+</SECTION>
+<LENGTH>
+<P>
+1253 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+COMPUTER FILE / LAWRENCE J. MAGID: HYPERCARD 2.0 PACKS MORE FEATURES 
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By LAWRENCE J. MAGID, LAWRENCE J. MAGID is a Silicon Valley-based computer 
+analyst and writer. 
+</P>
+</BYLINE>
+<TEXT>
+<P>
+Apple Computer is about to introduce HyperCard 2.0, the first major upgrade to 
+the popular programming and database software on Apple's Macintosh since 
+HyperCard was introduced in August, 1987. 
+</P>
+<P>
+HyperCard is harder to describe than to use. It's part database management 
+software and part programming language. The software, which comes free with 
+every Macintosh, allows users to create their own information systems. Unlike 
+most programming languages, it's designed for novices as well as professional 
+software developers. 
+</P>
+<P>
+HyperCard can be used to create your own programs, called stacks. They are so 
+named because they resemble a stack of index cards. Each card stores a piece of 
+information. For example, a simple stack might be used to maintain a phone and 
+address listing, with a separate card for each person in the directory. 
+</P>
+<P>
+HyperCard isn't limited to simple programs. Professional programmers have 
+created sophisticated commercial HyperCard applications. For example, Xiphius, 
+a Marina del Rey-based software company, has used HyperCard to develop a 
+compact disc-based national directory with names, addresses, phone and fax 
+numbers of more than 100,000 businesses and institutions. Hyperglot Software of 
+Knoxville has used it to create language training stacks that provide 
+pronunciation via the Mac's built-in speaker. Unlike most IBM-compatibles, Macs 
+have the ability to reproduce high-fidelity sound. 
+</P>
+<P>
+I used HyperCard a couple of years ago to create a counting and 
+word-recognition game for my then-preschool children. The game, which took only 
+a few hours to complete, belies my general lack of programming sophistication. 
+It features pictures and voices of my kids, me and other family members. Use of 
+voice allowed me to issue instructions that would have been otherwise 
+impossible for preschoolers to understand. I also used sound, including brief 
+musical segments, to reinforce correct answers. 
+</P>
+<P>
+Photographs were scanned in with the Apple scanner. Voice and music were 
+entered with MacRecorder, a $200 package that includes a microphone and audio 
+input jack that plugs into the Mac's serial port. The software that controls 
+the scanner and MacRecorder is written in HyperCard, so they are easy to use. 
+</P>
+<P>
+You don't have to know a programming language to work in HyperCard. Commands 
+are issued by using the mouse to press on-screen buttons. Buttons contain the 
+intelligence to complete certain tasks. Once a button has been created, it can 
+be copied and used again. HyperCard comes with hundreds of buttons that users 
+can incorporate into their own stacks. 
+</P>
+<P>
+HyperCard also comes with its own programming language, called HyperTalk, which 
+can be used to customize stacks. You don't even have to learn the language; 
+simple stacks can be created by pointing, clicking and copying other objects. 
+But serious programmers tap HyperTalk for sophisticated programs. HyperTalk, 
+according to Apple HyperCard program manager Mike Holm, is being used by some 
+colleges and universities to teach introductory programming. 
+</P>
+<P>
+HyperCard 2.0 adds many features to the popular software. Unlike the previous 
+version, it lets you run more than one stack at a time, each in its own window. 
+HyperCard itself can now run in the background while the Mac is running other 
+programs. In the old version of HyperCard, the display couldn't be any larger 
+than the nine-inch screen on the Macintosh Plus or SE. The new version allows 
+programmers to fill any screens, including the 19-inch monitors that are 
+increasingly popular with Macintosh II systems. 
+</P>
+<P>
+The new HyperCard can more easily be used to create HyperText applications that 
+involve clicking on a word to bring up additional information. I saw one 
+demonstration in which clicking on an italicized word brought up a definition 
+of that word. Another demonstration involved names being turned into "hot 
+buttons." You click on a person's name to bring up his or her picture and 
+speech sample. That was possible with the old HyperCard, but the new version 
+makes it far easier to do. 
+</P>
+<P>
+The program now lets you create your own user-definable menus. A new HyperTalk 
+script editor allows programmers to move back and forth between editing their 
+scripts and running their stacks. It's also possible for stacks to share 
+resources with one another. A sound that's contained in one stack, for example, 
+can be played by any other stack on the disk. That simplifies programming (you 
+don't have to rewrite the code each time you use it) and also saves space on 
+users' disks. 
+</P>
+<P>
+The new HyperCard gives users more control over text. The old version limited 
+your use of text styles and sizes. You now have complete flexibility, similar 
+to what you'd expect with a Macintosh word processing program. You also have 
+more flexibility with printed reports. HyperCard has always been great at 
+displaying information on the screen but weak when came to printing. The new 
+version makes it much easier to create printed reports. It also makes better 
+use of laser printers, allowing you to print graphics at the full 
+300-dot-per-inch resolution. 
+</P>
+<P>
+It's now possible for a stack to print a different type style than it displays 
+on the screen. Some Macintosh users would consider that a step backward, but I 
+think it's wonderful. The Macintosh has been both blessed and cursed with a 
+graphic screen that shows exactly what you'll get on paper. There is even a 
+word for it: "WYSIWYG," pronounced wizywig, which stands for "what you see is 
+what you get." 
+</P>
+<P>
+Trouble is, some type sizes and styles look great on paper but awful on the 
+screen. Most Macintosh programs don't let you turn WYSIWYG off, so, if you want 
+to use tiny type in your printed document, you have to suffer through it on 
+screen -- or work in a larger type size, then modify your document when you're 
+about to print. 
+</P>
+<P>
+Some HyperCard users will be disappointed to learn that the new version 
+provides only limited support for color. You can include color graphics, but 
+you cannot use color within HyperCard itself. 
+</P>
+<P>
+HyperCard comes with several free stacks, including an address book, a date 
+book, calendars, an expense form and a phone dialer. All new Macs have it, and 
+it is available from Apple dealers (with documentation) for $50. 
+</P>
+<P>
+Apple's goal is to get everyone to upgrade. It is making that easy by 
+authorizing (but not requiring) dealers and user groups to provide free updates 
+to users who bring in their own disks. The program will be available in 
+mid-July. 
+</P>
+<P>
+HyperCard will work on any Macintosh with at least 1 megabyte of memory and two 
+800-kilobyte floppy drives or one floppy drive and a hard disk. 
+</P>
+<P>
+</P>
+<P>
+HYPERCARD 2.0 
+</P>
+<P>
+A major upgrade to Apple's popular programming and database software that is 
+included free with every Macintosh. 
+</P>
+<P>
+Features: Allows users to create "stacks," or programs, without having to learn 
+a complex programming language. New version allows you to run multiple stacks 
+at a time, depending on your Mac's memory. HyperCard's display is limited only 
+by the size of the screen. It also has user-definable menus. Support for 
+"HyperText" gives you a direct link from a word or group of words to related 
+information or activity. Its on-line help system provides reference information 
+and assistance. You have unlimited use of screen fonts and type styles. 
+Available mid-July. 
+</P>
+<P>
+Price: Free with all new Macs. $50 (including documentation) from any Apple 
+dealer. Dealers and user groups will be authorized (but not required) to 
+provide copies for free or for the cost of blank disks. 
+</P>
+<P>
+Los Angeles Times 
+</P>
+</TEXT>
+<TYPE>
+<P>
+Column; Infobox 
+</P>
+</TYPE>
+</DOC>

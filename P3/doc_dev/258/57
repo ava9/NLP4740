@@ -1,0 +1,128 @@
+ID: 258	RANK: 57	SCORE: 7.832108
+
+<DOC>
+<DOCNO> SJMN91-06238098 </DOCNO>
+<ACCESS> 06238098 </ACCESS>
+<DESCRIPT>  COMPUTER; MICROCOMPUTER; SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  WINDOWS 3.0, DOS 5, System 7 on the Mac: It seems all of my computing
+foundations have been relaid in the past year.;   I'm glad for the changes
+because I'm getting to run larger programs in more memory with more-helpful
+screen displays.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  PROGRAMS IMPROVE NEW INTERFACES  </HEADLINE>
+<MEMO>  Software Review; Phillip Robinson is an author of books and articles about
+computers and an editor for Virtual Information of Sausalito.; Additional
+information attached to the end of this article.  </MEMO>
+<TEXT>     I'm annoyed at the changes because I'm bumping into incompatibilities with
+some of my old programs, and the new screen displays sometimes don't help
+enough.;   So I dug into my software pile to find some fixes, some programs
+that will improve on these improved interfaces.;   Disk Manager Mac (Ontrack,
+$69.95, (800) 752-1333) doesn't do many things, but it does what I needed
+desperately.;   You've probably heard of the exciting features of the new
+System 7.0 operating system software for the Mac: virtual memory, aliases,
+integrated task switching and some multitasking, "balloon help" and
+even-simpler installation of new fonts and utilities.;   My problem is that
+not all programs are compatible with System 7.0. For now, System 7.0 is a
+sometimes thing for me. Part of the time I want to run it to get those great
+new features, the rest of the time I want to dump it and retreat to System 6
+so I can run my old software. But installing and uninstalling the two systems
+takes a lot of time and bother. I want to have them both at my beck and call.;
+  Disk Manager Mac lets me do just that. This program understands disks: hard,
+optical and removable -- practically any disk hooked up to a SCSI interface
+(which is how the Mac gets at its hard disk). Disk Manager Mac lets you format
+them, find and automatically avoid any damaged areas on them, choose an
+interleave rate for them (to set how quickly they transfer information),
+protect your files on them with passwords and partition them.;   Many of those
+operations are beyond my day-to-day, or even year-to-year, needs. They're the
+kind of thing that real technophiles like, though, and that technicians often
+use when fine-tuning a Mac. Unfortunately, the screen displays and information
+on using them is also aimed at such experts.;   Even the partitioning command
+I needed was a bit opaque at first. But I figured out how to use it to split
+my single, large Macintosh hard disk into two "logical partitions." Each
+partition acts as if it is a separate hard disk drive. I installed System 6 on
+one, System 7.0 on the other and then put the Disk Manager "mounter" utility
+into my Apple menu for each system.;   Now when I start the Mac, it comes
+alive running one of those systems. To change to the other system, I just pull
+down the Apple menu, tell the mounter utility to change "boot" disks (really
+changing which partition the Mac will "boot" or start from), turn my Mac off
+and then start it again. The other system appears without pain, and all of my
+application programs and utilities are still there on the disks, ready to run
+in whatever system they find.;   The Norton Desktop for Windows (Symantec,
+$149, (408) 253-9600) is a program that runs on top of Windows, which runs on
+top of DOS, which runs on your IBM Personal Computer or compatible.;   Why
+have so many layers?;   Because a PC must have an operating system, like DOS.
+But DOS is too hard to use, so Windows is put on top of it. But many Windows
+fans end up having to leave Windows to reach common DOS functions and then
+return to Windows to run their new applications. So the Norton crew has a
+package that not only gives you some of that missing stuff as handy Windows
+utility programs, it also changes the mien of Windows.;   The Norton Desktop
+installs automatically on Windows and replaces the Windows Program Manager
+utility as your working display. Although it retains the general look (icons,
+pulldown menus) of the Program Manager and has the menu commands you'll find
+in the Program Manager, it adds more.;   There's a tools menu with a bunch of
+utilities: SuperFind, to quickly search through any or all of your files for
+any particular bit of information.;   Viewer, to see what's in a file --
+graphics, text or other -- without opening its application program.;  
+SmartErase, to recover erased files that you want back.;   Shredder, to erase
+files so completely even SmartErase can't get them back.;   Sleeper, a
+"screensaver" to blank your screen when you haven't done anything for a
+while.;   System Information, which tells you how much memory you have, how
+fast your processor is and other simple and technical stuff.;  
+Backup/Restore, which helps you automate making safety copies of your files.; 
+ Keyfinder, for figuring out which key to use to make unusual symbols or
+punctuation.;   Batch Builder, which lets you create batch files to automate
+other tasks.;   Icon Editor, to make Icons for Windows programming work.;   Is
+that enough?;   All of this comes with icons and other controls that make
+Windows easier to use than the controls Microsoft ships and more like the
+easier Macintosh.;   And there's the emergency disk, a separate floppy that
+packs DOS programs for repairing a hard disk, unformatting a hard disk and
+unerasing lost files. I carry this disk with me.;   What's not in this
+desk-top? The biggest missing links are virus protection and file
+compression.;   There are two drawbacks to The Norton Desktop for Windows --
+it uses up a lot of your hard disk, in the range of 6 megabytes. Also,
+installing the Norton Desktop slows Windows down, at least when loading and
+exiting Windows. That effect is magnified on a lap-top, which has a slower
+processor chip. For me, that means my desk-top has it; my lap-top won't.;  
+But the Norton Desktop for Windows gives you an amazing number of utilities
+for a great price. I'd buy it just for the File Manager, SmartErase and
+SuperFind utilities. I would pay separately to get the File Viewer,
+Backup/Restore and Sleeper utilities.;   Basically, I'm a convert. I liked
+Windows before, but I like it even better when it borrows some of the best
+from DOS and the Mac. I'm making the Norton Desktop part of my standard
+Windows setup.; Disk Manager-Mac, for Mac Plus, SE, SE/30, II, LC or Classic
+with System 5 or later software. $69.95. From Ontrack Computer Systems, 6321
+Bury Drive, Minneapolis, MN 55346. (800) 752-1333.;    The Norton Desktop for
+Windows, for PC or compatible running Windows 3.0 in Standard or Enhanced mode
+and hard disk. $149. From Symantec Corp., 10201 Torre Ave., Cupertino, CA
+95014-2132. (408) 253-9600; Summary: Disk Manager Mac lets you inspect,
+install and partition most any Macintosh hard disk. It can partition a single
+hard disk into separate areas that can start System 7.0 and System 6 software.
+That lets you switch back and forth between the two systems quickly and
+easily. The Norton Desktop for Windows is a collection of many useful
+utilities organized with a better screen and more commands than you'll find in
+standard Windows. It improves Windows a lot -- making it both more Mac-like
+and more able to perform typical DOS functions -- at a surprisingly low
+price.; On a scale of one to four, with one indicating poor and four
+indicating excellent, here's how the product rates:; Disk Manager-Mac;
+Performance: 4 computers; Ease of use: 3 computers; Value: 3 computers; Norton
+Desktop for Windows; Performance: 4 computers; Ease of use: 4 computers;
+Value: 4 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910825  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  August  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,280  </WORD.CT>
+<DATELINE>  Sunday, August 25, 1991
+00238098,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

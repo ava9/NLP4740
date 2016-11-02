@@ -1,0 +1,128 @@
+ID: 258	RANK: 91	SCORE: 6.800910
+
+<DOC>
+<DOCNO> SJMN91-06203216 </DOCNO>
+<ACCESS> 06203216 </ACCESS>
+<DESCRIPT>  COMPUTER; MICROCOMPUTER; EQUIPMENT; REVIEW  </DESCRIPT>
+<LEADPARA>  MOST PEOPLE will admit that the Macintosh is easier to use than any IBM
+Personal Computer or PC compatible.;    The Mac's icons and pull-down menus
+are easier to remember and use than DOS's typed commands. Even when Windows
+adds an icon and menu interface to the PC, the Mac's quick and easy way with
+added peripherals and changed configurations (such as installing and choosing
+a printer) still put it out in front of the comfort race.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  IS PC FASTER THAN MAC? MAYBE  </HEADLINE>
+<MEMO>  Hardware Review
+Phillip Robinson is an author of books and articles about computers and an
+editor for Virtual Information of Sausalito.
+Additional information attached to the end of this article.  </MEMO>
+<TEXT>     But Macs have been seen as having less raw horsepower than the fastest PCs.
+For that reason -- among many -- not everybody owns a Mac, despite the ease of
+use.;    But are the fastest PCs really more potent than the fastest Macs?;   
+Within that question are several smaller questions. Which PC do you compare
+with which Mac? Do you compare machines of the same price? Do you run the same
+programs on each or run the best programs available for each? And what sort of
+computer power are you talking about, anyway?;    Computer power comes in
+several forms: processor "integer" speed, processor "floating-point" speed,
+memory size, disk speed, disk size and graphics quality and speed. A computer
+that is great in one category won't necessarily be tops in another. And it may
+not need to be.;    Server computers on networks need all the processing
+integer speed and memory they can get to manage the work of many dependent
+network computers. They also need large and fast disks to handle all the saved
+and retrieved files. But they don't need graphics and rarely need
+floating-point speed (for handling complex mathematical equations).;    Some
+individual computers need maximum processor integer and floating-point speed
+to crunch complex sets of numbers or tangled desk-top publishing pages of text
+and graphics. But an individual computer probably doesn't need the disk
+capacity that a server needs. If that individual computer is massaging a data
+base, though, it may need the large disk but be able to live without the
+floating-point power.;    The Macintosh IIfx (Apple Computer Inc., $8,669,
+(408) 996-1010) is the fastest Mac Apple makes. It is built around a 40MHz
+68030 chip, almost the latest chip in the 68000 processor family. I say
+"almost" because there is a 50MHz 68030 chip that you can find on a few
+Macintosh "accelerator" boards (you plug these into a slower Mac to speed it
+up). There are even a few new products with the new 68040 chip, a processor
+that is two times faster on integer processing and five times faster on
+floating-point processing than the 68030. (By this fall Apple may have its own
+68040 Macintosh.) You can buy the system with an 80-megabyte hard drive or a
+160-megabyte drive -- I suggest the latter. The standard memory of 4 megabytes
+is fine for anyone who runs one program at a time, but most people will be
+more comfortable adding another 4 megabytes or so.;    The IIfx comes without
+video card or monitor -- because some people want a fast Mac for number
+crunching with minimum graphics while others want a Mac for large-screen
+graphics with minimum number crunching. This is also a large Mac, with six
+slots for add-in cards (though it needs one of those slots for a video
+board).;    The Zenith 486/25E (Zenith Data Systems, $8,699, (800) 553-0331)
+is not the fastest personal computer Zenith makes, but it's close. It is built
+around a 25MHz 486 processor chip. Zenith now makes a 33MHz version that is
+about one-third faster. Some competitors have announced imminent 50MHz 486
+machines that would have twice the processor speed of the 486/25E.;    The
+486/25E comes with a 170-megabyte hard drive and 4 megabytes of memory, almost
+identical to the IIfx. I'd raise that 4 megabytes to 8, especially if you use
+Windows.;    This Zenith is compact -- it takes up only half as much desk
+space as the Mac IIfx -- but has only three open slots for add-in cards. Just
+as with the Mac IIfx, it comes without a video card or a monitor -- you buy
+those separately. If you want to add other peripherals to it, there's a
+standard SCSI port on the back, just as you'll find on the Mac IIfx.;    So
+which one is more powerful?;    They have the same amount of memory, though
+the Mac can always use all of its memory while the Zenith can only use 640
+kilobytes at a time unless you're running Windows. They have about the same
+amount of disk capacity and speed. The graphics could be nearly identical
+because you choose which video card and monitor to add.;    And therefore, the
+decision comes down to floating-point and integer performance, right? Well,
+sort of, but not really. The problem is that few people just run calculations
+on their computers. They run programs. What matters is how fast the computers
+are at running the same application program or at least the same kind of
+application. Does PageMaker on the Mac run faster than PageMaker on the PC?
+Does Harvard Graphics on the PC run faster than MacDraw Pro on the Mac?;   
+One columnist suggests that on this "applications" basis, a IIfx holds the
+same power as a 25MHz 386 PC. That would make the 25MHz 486 PC about twice as
+fast. Apple publishes a study that says the IIfx is faster than a 33MHz 486
+machine. Clearly, it depends on who is running the test and just what is
+measured. Generally I'd say the IIfx is about the same speed as the 25MHz 486
+machine running Windows software.;    But you don't have to use Windows. You
+could run standard PC programs, without Windows, and then you'd be running
+faster than the Mac. It might not be as "easy" as a Mac, but it would be
+faster.;    My conclusions? The power difference between Mac and PC isn't much
+if you're comparing Windows to standard Mac software. However, if you run DOS
+software on the PC, you can run faster than a Mac. And if you elude the major
+PC brands and buy from a discount house, you can get the PC power for less
+money. And Apple had better have some new machines ready soon because the
+advent of 50MHz 486 boxes will push PC power beyond the realm that even an
+accelerated Mac can reach.;  Z-486/25E, $8,699. From Zenith Data Systems Inc.,
+2150 East Lake Cook Road, Buffalo Grove, IL 60089. (800) 553-0331 or (708)
+808-5000.;    Macintosh IIfx, $8,669. From Apple Computer Inc., 20525 Mariani
+Ave., Cupertino, CA 95014. (408) 996-1010.;    Summary: The Mac IIfx is the
+fastest Macintosh Apple makes. The Zenith 486/25E exemplifies the fastest PC
+you can buy for the same price from a big-name PC maker. The two machines can
+be equipped with identical memory, disk and graphics. When running Windows
+software, the Zenith feels about the same speed as the IIfx. However, running
+DOS software, the Zenith is faster at the same tasks, though harder to learn
+than the Mac. I don't see a big gap between the fastest PCs and Macs, though
+Apple will soon need an even faster Mac to compete with the new 50MHz 486 PCs.
+When you're considering Mac vs. PC yourself, compare them running the software
+you care about. Don't just compare sterile benchmark figures of purified
+performance.;    On a scale of one to four, with one indicating poor and four
+indicating excellent, here's how the product rates:;    Z-486/25E;
+Performance: 4 computers;    Ease of use: 3 computers;    Value: 3 computers;
+Macintosh IIfx; Performance: 4 computers;    Ease of use: 4 computers;   
+Value: 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910721  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  July  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,305  </WORD.CT>
+<DATELINE>  Sunday July 21, 1991
+00203216,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

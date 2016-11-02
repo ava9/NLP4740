@@ -1,0 +1,204 @@
+ID: 210	RANK: 64	SCORE: 5.543144
+<DOC>
+<DOCNO>FT942-581</DOCNO>
+<PROFILE>_AN-EF1DKAHHFT</PROFILE>
+<DATE>940628
+</DATE>
+<HEADLINE>
+FT  28 JUN 94 / Survey of Computer Networking (1): A challenge which cannot
+be ignored - Computer networking opens up new opportunities for business,
+ranging from simple electronic mail to a plethora of multimedia services
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+Computer networking, at one time a narrowly focused, technical subject for
+electronics specialists, has become synonymous with a raft of profound
+changes which are expected to reshape business in the late 1990s. Business
+leaders ignore its implications at their peril.
+Among the expected changes are the growth of electronic channels to the
+customer: home shopping, for example, through video catalogues will
+profoundly influence retailing. The potential of the automated teller
+machine, widely deployed by banks and other financial institutions, has yet
+to be fully explored and could provide an electronic market stall for a
+broad range of goods and services.
+The ability of computer networks to overcome barriers of time and space will
+increasingly threaten the position of intermediates in a wide range of
+industries, starting with financial services. The growth of desk-top
+video-conferencing, now being pioneered by telecommunications companies
+including AT&amp;T and British Telecom as well as computer manufacturers like
+International Business Machines and Olivetti, seems certain to have an
+impact on the travel business.
+All of this implies drastically more flexible and higher capacity networks
+than those available at present. The chief technical change is expected to
+be be the emergence of an enterprise-wide, high speed network capable of
+carrying all an organisation's electronic traffic. This implies a single
+network capable of supporting data, voice, facsimile and video. Such a
+network could carry services ranging from simple electronic mail to a
+plethora of multimedia services. Multimedia services involve text, graphics,
+video and sound converted into computer language and delivered through a
+single interactive channel.
+Networks of this kind should prove more cost effective and efficient than
+the multiplicity of parallel networks which characterise voice and data
+communications in large organisations today, but they will also make
+possible new ways of doing business and facilitate new commercial
+relationships.
+Forrester Research, for example, a US-based consultancy, anticipates the
+emergence of 'social computing': 'It will consist of a new generation of
+telephones, televisions, and personal computers that access on-line services
+through a variety of networks. We assert that large firms will use social
+computing to build new connections to customers. Companies that do not
+address the emergence of this powerful new communications channel will
+suffer in the marketplace'.
+The message seems to have struck home. Mr James Cosgrove, head of AT&amp;T's
+data-communications services group, says customer demand for the new
+services is almost outstripping the company's ability to provide them:
+'Their argument is: 'If I do not keep up with this, I will be at a
+competitive disadvantage,'' he says.
+Mr Cosgrove identifies at least three trends driving change. First, the
+convergence of computers and communications in the move from mainframe based
+data processing to client-server, or networked, systems: 'Routers and local
+area networks have changed the way people think about computing. Today,
+people think about networking' he says.
+The growth of local and wide area networks has led to the emergence of a
+lively group of companies which provide the hardware and software which make
+them work. Novell, for example, the market leader in networking software,
+earlier this year formed a networking alliance with AT&amp;T. Hubs, the control
+and management centres at the heart of local areas networks, and routers
+which interconnect networks are provided by Cisco, 3Com, Chipcom, Cabletron
+and Synoptics among others. The rates of growth of these companies
+illustrates the health of the sector. Chipcom turned over Dollars 48m in
+1991, Dollars 87m in 1992 and Dollars 150m last year.
+Second, the emergence of highly mobile employees; they are more effective
+because they are able to spend more time with their customers. Mobile
+employees have to be supported with the elements of a 'virtual office' -
+portable computing and telephony; cellular radio links for voice and data.
+Third, a growth in intercompany as opposed to intra-company networking.
+Companies generally established data networks on a proprietary basis to
+disseminate information through their own organisations.
+Today, the aim is to share information on a much broader basis. The
+influence of Lotus Notes, software which enables groups of people to share
+and work on the same information, Mr Cosgrove says, could be compared to a
+new industrial revolution.
+The keys to many of the new possibilities are information carried in digital
+form so it can be stored and manipulated by computers, high bandwidth fibre
+optic cabling providing adequate conduits for the volume of information
+carried, a new generation of powerful microprocessors and, most important,
+an enabling technology called asynchronous transfer mode (ATM) which looks
+like revolutionising the way computer networks are built. It provides high
+speed transmission and is suitable for many kinds of traffic including
+voice, data, facsimile, real-time video, CD-quality audio and imaging.
+In the US, carriers including AT&amp;T and US Sprint are already offering their
+customers services based on ATM technology.
+In Europe, a committee led by Mr Martin Bangemann, industry commissioner,
+warned that Europe could not afford to be left behind.
+'One important development is the integrated services digital network, ISDN.
+This offers the opportunity to send not only voice but also data and even
+moving images through telephone lines,' a committee report said.
+'ISDN is only the first step. New multimedia services, for instance, high
+quality video communications, require even more performance. ISDN is showing
+the way and the next technological wave aims for the multimedia world. This
+is integrated broadband communications providing an opportunity to combine
+all media in a flexible way. The lead technology to implement this is ATM.'
+ATM is the latest step in a technological progression which began with
+packet switching in the 1970s. As the technology has improved, speed and
+capacity has risen inexorably.
+Packet switching involves the movement of labelled packets of data each of
+which takes the best route through a network. It works well, but it is slow.
+Frame relay, the current favourite, is faster. ATM gets its speed from
+technological improvements which mean that each packet needs only minimal
+addressing and minimal error correction.
+Most managers are aware, however, that information technology properly
+implemented has the potential to boost business efficiency while poorly
+designed and poorly implemented, it is more likely to damage a company's
+performance, absorbing money, creating inflexibility and taking up senior
+management time.
+This double-edged property of IT is amply demonstrated in the current growth
+of computer networking. On the one hand, through networking, managers have
+the opportunity to change the shape of their organisations for the better by
+the timely dissemination of information through and between companies.
+On the other, it not easy to accomplish. Senior managers may see parallels
+between the stage networking has reached today and the early days of data
+processing.
+The complexity and novelty of the changes involved requires technical skills
+which are in short supply. Substantial cultural barriers may have to be
+negotiated - and most companies today are not prepared for the structural
+changes which follow on from advanced computer communications. Some
+organisations have already decided they are not in the business of network
+management and have outsourced their network services to companies like
+AT&amp;T, BT, Cable &amp; Wireless and GEIS.
+If the 1970s and 1980s was the heyday of the data processing manager, it
+seems clear that over the next few years the network manager will take a
+leading role in setting a company's IT strategy.
+ -------------------------------------------------------------------
+                 NETWORKING EXPENDITURE TRENDS
+ -------------------------------------------------------------------
+European networking expenditure trends - hardware, software and
+services - by vertical market, 1993-92, in percentage terms.*
+ -------------------------------------------------------------------
+Sector                                         Per cent
+ -------------------------------------------------------------------
+Banking sector                                   12.8
+Insurance and other finance                      19.3
+Discrete manufacturing                           11.5
+Process manufacturing                            15.2
+Health care sector                                4.6
+Business and other services                      14.7
+Transport, communications and utilities          10.4
+Retail sector                                    20.8
+Wholesale sector                                  8.2
+Government departments                            8.7
+Educational sector                               15.0
+Other sectors                                    -2.0
+Total                                            13.2
+ -------------------------------------------------------------------
+Information communication technology (ICT): forecasts for market
+value in millions of ECUs in Europe for selected areas of
+equipment and services this year (and 1995 in brackets):*
+ -------------------------------------------------------------------
+Local area networks, hardware       2,2033     (2,319)
+Data communications hardware         3,616     (3,933)
+Data network services               16,185    (17,279)
+ICT maintenance, support services   51,626    (53,866)
+Customer premises equipment         11,101    (11,290)
+Computer hardware                   39,525    (40,657)
+Information technology hardware     52,080    (53,403)
+Voice network services             101,973   (110,477)
+Total European IT market           125,120   (130,370)
+Total European ICT market          275,070   (289,620)
+ -------------------------------------------------------------------
+*In the European Union and European Free Trade Association (Efta).
+ -------------------------------------------------------------------
+Source: European Information Technology Observatory, 1994; Lyoner
+Strasse 18, D-60528, Frankfurt/Main, Germany
+ -------------------------------------------------------------------
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+    XGZ  Europe.
+    USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P4822 Telegraph and Other Communications.
+    P737  Computer and Data Processing Services.
+    P48   Communications.
+    P357  Computer and Office Equipment.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Services &amp; Services use.
+    CMMT  Comment &amp; Analysis.
+    STATS  Statistics.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page I
+</PAGE>
+</DOC>

@@ -1,0 +1,124 @@
+ID: 258	RANK: 65	SCORE: 7.596346
+
+<DOC>
+<DOCNO> SJMN91-06091058 </DOCNO>
+<ACCESS> 06091058 </ACCESS>
+<DESCRIPT>  SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  ONE OF THE most anticipated programs for the Macintosh computer in the last
+few years was HyperCard 2.0, the first major revision to a futuristic piece of
+software that has been bundled free with every Macintosh sold since 1987.;   
+By the time it arrived, HyperCard 2.0 had actually become two offerings: one,
+a stripped-down version supplied free with every new Macintosh, and the
+full-featured $195 version offered by Apple's software subsidiary, Claris
+Corp. ((408) 727-8227). In both cases, HyperCard 2.0 is a mixed bag.
+Admittedly it is both very important and a definite improvement over the
+original HyperCard. But the upgrade is also a bit disappointing and fairly
+boring.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  HYPERCARD HYPE OVERSTACKED  </HEADLINE>
+<MEMO>  Software Review;   Additional information attached to the end of this
+article.;  Phillip Robinson is an author of books and articles about computers
+and an editor for Virtual Information of Sausalito.;  SETTING THE RECORD
+STRAIGHT (publ. 4/2/91, pg. 6E);  Because of a writer's error, the upgrade
+price for HyperCard 2.0 from Version 1.0 was stated incorrectly in Sunday's
+Computing section.;     The upgrade price is $49.  </MEMO>
+<TEXT>     HyperCard is a key piece of software on the Macintosh. When it first
+appeared, Apple was casting about for some way to keep the Mac ahead of PC
+clones running Windows. HyperCard looked like just the ticket because in some
+ways it was even easier to use than the Mac's regular "interface" of menus and
+icons.;    As essentially an extension to the Mac's operating system -- just
+as Windows is an extension of the PC's DOS operating system -- HyperCard lets
+ordinary users create programs, which are called "stacks" to sound more
+friendly. HyperCard has its own "scripting" language to make stacks, called
+HyperTalk. Whatever sort of program you made would center on HyperCard's
+simple "card" display on the Mac screen, where small pictures represented
+programs and commands, and you needed only to point the mouse cursor at a
+selection and click the mouse button once to activate that selection.;   
+HyperCard could easily link one small image or bit of text to another on
+another "card" (page of information in HyperCard) -- a "hypertext" style
+function that was the origin of its name. HyperTalk can also reach out and
+control programs and hardware "external" to HyperCard.;    Apple envisioned
+individuals using HyperCard to customize their computing world. However,
+although many individuals did employ HyperCard, a surprising number of large
+corporations and software developers also adopted it. Hard-pressed corporate
+MIS (management information systems) people, attempting to keep up with
+constant demands for special programs for their companies, discovered
+HyperCard and HyperTalk.;    Recently, HyperCard has been important to
+"multimedia" work because its scripting language can hold together images,
+text and information from peripherals such as video players.;    The
+improvements are all for those who program or "script" with HyperCard, not
+those who use those scripts and stacks. The new HyperCard can work with
+variable-sized cards (the old ones were all the same size), can open several
+windows at once (instead of only one), can style text (making it bold, italic
+and so on), and has more commands for printing, painting (there has always
+been a tiny graphics program built in) and creating icons (the tiny images
+that represent commands and programs).;    The HyperTalk scripting language
+has lots of added commands and options to do things such as give you more
+control of menus in programs you create. There's an improved editor for
+creating and changing scripts and a debugger for finding problems in them.;   
+All of these changes now allow you to create HyperCard stacks that don't look
+automatically like they are running in HyperCard -- they look more like
+regular Macintosh programs.;    So why is HyperCard 2.0 a bit disappointing?; 
+  First, because it took four years to move from version 1.0 to 2.0. That's
+too long for an upgrade to any important program, much less to one that is
+supposedly central to the future of the Mac.;    Another important reason is
+that HyperCard still doesn't support color. Although it can display color
+images, it doesn't give you any color graphics or text tools. That's a sin for
+a program that is vital to multimedia.;    Worst of all, because of the
+changes, HyperCard 2.0 is not thoroughly compatible with HyperCard 1.0. That's
+a pity, although it leaves an opening for some HyperCard competitor that can
+promise both more power and compatibility.;    Finally, why fairly boring?
+Because most of its changes are of interest only to program developers, not
+users.;    HyperCard 2.0 is also boring because there was so much news about
+Claris, Apple and the HyperCard marketing scheme in 1990 that having the
+actual program now seems anti-climactic. Apple talked about selling the new
+HyperCard instead of just providing it for free as before. Big Furor. Then
+Apple swallowed Claris Corp. -- it's one-time software spinoff. Big Furor II.
+Then Claris was going to sell a full-blown HyperCard and give away for free a
+crippled HyperCard. Big Furor III. Too many Big Furors equals boring to me,
+especially if the program they concern isn't all that new, different or
+revolutionary.;    What finally settled out is that you'll be able to get
+HyperCard 2.0 for free along with any new HyperCard-based stacks you might
+buy, upgrade to or pick up from a users group. You can opt for the Claris
+upgrade kit from 1.0 for $495, and you'll get HyperCard 2.0 plus a bunch of
+example stacks plus a hefty scripting manual and the right to call Claris for
+technical support. Finally you can pay a full $195 for the Claris development
+kit to get a bunch more manuals.;    For those familiar with HyperCard who
+mainly use it to run stacks, the free upgrades will be a great value. For
+those who program with HyperCard, the upgrade kit is all you'll need. The
+development kit is really only for those who need a thorough HyperCard
+education and prefer the fairly expensive Claris documents to whatever
+HyperCard 2.0 books may appear from other publishers.; HyperCard 2.0, for
+Apple Macintosh Plus or later. Free when bundled with other companies'
+HyperCard-based products; $49 upgrade from HyperCard 1.0 includes stacks,
+manuals, and support from Claris; $195 Development Package from Claris
+includes upgrade stacks, manuals, and support and adds more manuals. From
+Claris Corp., 5201 Patrick Henry Drive, Santa Clara, CA 95052-8168. (408)
+727-8227) (800) 628-2100.; Summary: HyperCard 2.0 adds a number of scripting
+commands and features that will please those who create programs and
+interfaces with this popular Macintosh software. It does not support color,
+nor does it offer complete compatibility with HyperCard 1.0, but it does
+retain the simple use and speed that made HyperCard famous for presentation
+and education, multimedia and quick program prototyping.; On a scale of one to
+four, with one indicating poor and four indicating excellent, here's how the
+product rates:; Performance: 3 computers; Ease of use: 4 computers; Value (for
+bundled versions or upgrade): 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910331  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  March  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,155  </WORD.CT>
+<DATELINE>  Sunday, March 31, 1991
+00091058,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>
