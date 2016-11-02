@@ -33,8 +33,9 @@ def best10Grams(question, ngrams, topN = 5):
     elif score == bestScore:
       bestngrams.append(ngram)
 
-  bestngrams = bestngrams[np.random.randint(len(bestngrams)-1, size=10)]
-  return bestngrams
+  truncated = []
+  for ind in np.random.randint(len(bestngrams)-1, size=10): truncated.append(bestngrams[ind])
+  return truncated
 
 if __name__ == '__main__':
   data = pd.getAllData(TOPFILES)
@@ -52,7 +53,7 @@ if __name__ == '__main__':
       if 'text' in file:
         possibleAnswers += make10Grams(file['text'])
 
-    best10Grams(questions[ID], possibleAnswers)
+    bestgrams = best10Grams(questions[ID], possibleAnswers)
     # extract relevant data/answer for each ID
 
     # write answer for each ID
