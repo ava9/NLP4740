@@ -17,19 +17,16 @@ contentArray =['Bob ran to Starbucks because Microsoft is a company at Cornell U
                'Increase in supply... well you know the rules...',]
 
 def processLanguage():
-    try:
-        for item in contentArray:
-            tokenized = nltk.word_tokenize(item)
-            tagged = nltk.pos_tag(tokenized)
-            #print tagged
+  for item in contentArray:
+    tokenized = nltk.word_tokenize(item)
+    tagged = nltk.pos_tag(tokenized)
+    #print tagged
 
-            namedEnt = nltk.ne_chunk(tagged)
-            print namedEnt
-            #namedEnt.draw()
+    namedEnt = nltk.ne_chunk(tagged)
+    print namedEnt
+    #namedEnt.draw()
 
-            #time.sleep(1)
+    #time.sleep(1)
 
-    except Exception, e:
-        print str(e)
-
-processLanguage()
+if __name__ == '__main__':
+  processLanguage()

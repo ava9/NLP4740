@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 from HTMLParser import HTMLParser
 
@@ -76,3 +78,4 @@ def getAllData(TOPFILES = 10):
 
 if __name__ == '__main__':
   allData = getAllData()
+  print "Extraction of Data Is Successful, (\"Tests\" passed)"
