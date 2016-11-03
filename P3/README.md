@@ -10,5 +10,5 @@ Windows:
 This will output a file called baselineOutput.txt, which can be 
 run against the pattern.txt with the perl script:
 
-UNIX:
+Unix:
 >> perl eval.pl pattern.txt baselineOutput.txt
