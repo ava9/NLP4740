@@ -3,25 +3,25 @@
 import os
 
 def getQuestions():
-	questionDict = dict()
+  questionDict = dict()
 
-	f = open('question.txt','r')
+  f = open('question.txt','r')
 
-	lastQID = 0
-	for line in f.readlines():
-		line = line.strip('\n')
+  lastQID = 0
+  for line in f.readlines():
+    line = line.strip()
 
-		if line:
-			pieces = line.split(' ')
-			if pieces[0] == '<num>':
-				qid = int(pieces[2])
-				questionDict[qid] = ''
-				lastQID = qid
-			elif pieces[0][0] != '<':
-				questionDict[lastQID] = line
+    if line:
+      pieces = line.split(' ')
+      if pieces[0] == '<num>':
+        qid = int(pieces[2])
+        questionDict[qid] = ''
+        lastQID = qid
+      elif pieces[0][0] != '<':
+        questionDict[lastQID] = line
 
-	return questionDict
+  return questionDict
 
 if __name__ == '__main__':
-	print getQuestions()
+  print getQuestions()
 

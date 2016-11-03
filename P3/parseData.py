@@ -3,6 +3,8 @@
 import os
 from HTMLParser import HTMLParser
 
+#Custom Class to parse text files. Rough, needs to be refined 
+#(esp for recognizing potential dates, text fields, etc.)
 class MyParser(HTMLParser):
   def __init__(self):
     HTMLParser.__init__(self)
@@ -12,7 +14,9 @@ class MyParser(HTMLParser):
     self.noTag = '<NoTag>'
     self.scoreTag = '<Score>'
     self.dataDict[self.noTag] = []
+    self.textMode = 0
 
+  #adds score to data dictionary
   def addScore(self):
     num = ''
     x = self.dataDict[self.noTag][0]
@@ -22,20 +26,28 @@ class MyParser(HTMLParser):
       i -= 1
     self.dataDict[self.scoreTag] = float(num)
 
+  #handles a start tag, adding tag to stack
   def handle_starttag(self, tag, attrs):
-    self.currTagStack.append(tag)
-    self.currDataStack.append([])
+    if self.textMode == 0:
+      self.currTagStack.append(tag)
+      self.currDataStack.append([])
+    if tag == "text":
+      self.textMode = 1
 
+  #pops data off stacks, adds to dictionary
   def handle_endtag(self, tag):
-    if self.currTagStack[-1] != tag:
+    if self.currTagStack[-1] != tag and not self.textMode:
       print "Incorrect End Tag Encountered"
-    else:
+    elif not self.textMode or tag == "text":
+      if tag == "text":
+        self.textMode = 0
       self.currTagStack.pop()
       if tag not in self.dataDict:
         self.dataDict[tag] = self.currDataStack.pop()
       else:
         self.dataDict[tag] += self.currDataStack.pop()
 
+  #adds processed data to datastack when data encoutered
   def handle_data(self, data):
     processedData = data.strip().replace('\r\n', ' ').strip()
     if len(processedData) > 0:
@@ -45,12 +57,14 @@ class MyParser(HTMLParser):
       else:
         self.currDataStack[-1].append(processedData)
 
+  #reset parser for new contents
   def resetParser(self):
     self.currTagStack = []
     self.currDataStack = []
     self.dataDict = dict()
     self.dataDict[self.noTag] = []
 
+#get all question ids
 def getQIDs():
   IDS = os.listdir("doc_dev/")
   intIDS = []
@@ -61,21 +75,24 @@ def getQIDs():
       continue
   return intIDS
 
+#main function to get all data into a dictionary of dictionary of dictionaries
+# this is a dictionary for every file for every QID
 def getAllData(TOPFILES = 10):
   ids = getQIDs()
   data = dict()
   p = MyParser()
   for ID in ids:
-    data[ID] = [0 for x in range(TOPFILES+1)]
+    data[ID] = dict()
     for i in range(1,TOPFILES+1):
       f = open('doc_dev/' +str(ID)+'/'+str(i),'r')
       contents = f.read()
       p.feed(contents)
-      data[ID][i] = p.dataDict
+      data[ID][i]=p.dataDict
       p.resetParser()
       f.close()
   return data
 
+#"tester"
 if __name__ == '__main__':
   allData = getAllData()
   print "Extraction of Data Is Successful, (\"Tests\" passed)"
