@@ -7,7 +7,7 @@ def getNER(firstWord):
   #['LOCATION', 'ORGANIZATION', 'PERSON', 'DURATION', 'DATE', 'CARDINAL', 'PERCENT', 'MONEY', 'MEASURE']
   
   # Location
-  whereArr = ['LOCATION']
+  whereArr = ['LOCATION', 'CARDINAL']
 
   # Person or Organization
   whoArr = ['PERSON','ORGANIZATION']
@@ -40,7 +40,7 @@ def getNER(firstWord):
 def getQuestions():
   questionDict = dict()
 
-  f = open('question.txt','r')
+  f = open('questionP1.txt','r')
 
   lastQID = 0
   for line in f.readlines():

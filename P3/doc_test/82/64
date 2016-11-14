@@ -1,0 +1,103 @@
+ID: 82	RANK: 64	SCORE: 8.5982
+
+
+
+<DOC>
+<DOCNO> FR940620-0-00066 </DOCNO>
+<PARENT> FR940620-0-00023 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Area source emissions were calculated using a variety of information sources and guidance from the USEPA. Where appropriate,
+point source emissions have been subtracted from the calculated area source emissions to account for source coverage
+overlap. For all appropriate source categories, the State and the City of Indianapolis assumed a rule effectiveness
+level of 80 percent. 
+<!-- PJG 0012 frnewline -->
+In preparing the area source emissions, the State and the City of Indianapolis used the following USEPA guidance documents:
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+Procedures for the Preparation of Emission Inventories for Carbon Monoxide and Precursors of Ozone, Volumes I and
+II, 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+EPA&hyph;450/4&hyph;91&hyph;016 and EPA&hyph;450/4&hyph;91&hyph;014, May 1991; and 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+Procedures for Emission Inventory Preparation, Volume IV: Mobile Sources, 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+EPA&hyph;450/4&hyph;81&hyph;026d, revised July 1989. The new Volume IV guidance, issued in the Spring of 1992,
+was used to estimate railroad and aircraft emissions. Estimates of other off-road mobile source emissions were based
+on USEPA's 1991 off-road mobile source emission study. In making other area source estimates, the State and the City
+of Indianapolis followed the approved IPP. 
+<!-- PJG 0012 frnewline -->
+The State has entered the calculated area source emission estimates into USEPA's AIRS Area and Mobile Source System
+(AIRS/AMS). The data are well documented in both hardcopy and in computer data files submitted with the emission inventory
+submittals as additional documentation. 
+<!-- PJG 0012 frnewline -->
+On-road mobile source emissions were calculated using USEPA's 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+Procedures for Emission Inventory Preparation, Volume IV: Mobile Sources
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ (as revised in 1989) and USEPA's MOBILE5A model. Daily Vehicle Miles Travelled (VMT) and speed data by county and roadway
+type were obtained from the Indiana Department of Transportation (InDOT), who used the Highway Performance Monitoring
+System (HPMS) to determine VMT by roadway functional class. The VMT provided by InDOT were annual average daily traffic
+levels. Insufficient data existed to allow the VMT to be adjusted to the summer months and the day of week levels. To
+quality assure the VMT estimates, the local Metropolitan Planning Organizations (MPOs) were requested to confirm
+the VMT estimates or to correct them if needed based on more representative data. The VMT were quality assured through
+comparison with current roadway traffic counts. 
+<!-- PJG 0012 frnewline -->
+The MPOs recommended vehicle speeds based on the use of local transportation models (the MINUTP transportation model
+was used in the Evansville, Louisville (Clark and Floyd Counties, Indiana), and South Bend/Elkhart areas, while
+the City of Indianapolis chose to use the default speeds recommended by the USEPA in MOBILE5A). The speeds derived
+using the MINUTP transportation model were on average higher than the default speeds recommended by the USEPA. Nonetheless
+the MPOs believe the model-generated speeds are more representative of their areas than the recommended default
+speeds and are justified on observations of actual traffic flow rates (no monitored speeds were presented to defend
+these conclusions). The estimated speeds were used in conjunction with USEPA recommended defaults for vehicle mixtures
+to determine emission rates for each roadway type. Fuel volatility was assumed to comply with USEPA requirements
+for the areas. The ambient temperatures used in the mobile source emissions modeling were derived from the average
+maximum and minimum temperatures on the ten highest ozone days for the period of 1988 through 1990 for each area using
+an approach recommended by the USEPA. The emission factors determined using MOBILE5A were combined with the total
+VMT for each functional roadway class to determine the total mobile source emissions for each county. All parameters
+used in the mobile source emissions modeling, including the parameters used by the MOBILE5A model, were well documented.
+
+<!-- PJG 0012 frnewline -->
+The biogenic emissions for each of the counties were determined using USEPA's PC-BEIS model. Included in the documentation
+of the applications of this model were descriptions of the methodology used to determine temperature inputs for the
+model. The temperature inputs were determined using the technique recommended by the USEPA. The applications of
+PC-BEIS also included the use of land use data supplied by the USEPA. 
+<!-- PJG 0012 frnewline -->
+The State of Indiana held public hearings on the Evansville, Clark and Floyd Counties, and South Bend/Elkhart emission
+inventories on June 28, 1993, and July 6, 1993. Comments received during these public hearings were used to make appropriate
+corrections in the emission inventories. A public hearing on the Indianapolis emission inventory submittal was
+held on November 5, 1993. 
+<!-- PJG 0012 frnewline -->
+The emissions in units of tons/day for an average day are summarized below: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>

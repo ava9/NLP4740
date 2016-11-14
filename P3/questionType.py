@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # http://www.nltk.org/book/ch07.html
-f = open('question.txt','r')
+f = open('questionP1.txt','r')
 whereCount = 0
 whoCount = 0
 whatCount = 0

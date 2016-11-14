@@ -1,0 +1,878 @@
+<top>
+
+<num> Number: 1
+
+<desc> Description:
+Who is the author of the book, "The Iron Lady: A Biography of Margaret Thatcher"?
+
+</top>
+
+
+<top>
+
+<num> Number: 2
+
+<desc> Description:
+Who was President Cleveland's wife?
+
+</top>
+
+
+<top>
+
+<num> Number: 3
+
+<desc> Description:
+When was London's Docklands Light Railway constructed?
+
+</top>
+
+
+<top>
+
+<num> Number: 4
+
+<desc> Description:
+Who was the first Taiwanese President?
+
+</top>
+
+
+<top>
+
+<num> Number: 5
+
+<desc> Description:
+Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco, Texas in 1993?
+
+</top>
+
+
+<top>
+
+<num> Number: 6
+
+<desc> Description:
+Where is Inoco based?
+
+</top>
+
+
+<top>
+
+<num> Number: 7
+
+<desc> Description:
+Who was the first American in space?
+
+</top>
+
+
+<top>
+
+<num> Number: 8
+
+<desc> Description:
+When did the Jurassic Period end?
+
+</top>
+
+
+<top>
+
+<num> Number: 9
+
+<desc> Description:
+When did Spain and Korea start ambassadorial relations?
+
+</top>
+
+
+<top>
+
+<num> Number: 10
+
+<desc> Description:
+When did Nixon visit China?
+
+</top>
+
+
+<top>
+
+<num> Number: 11
+
+<desc> Description:
+Who was the lead actress in the movie "Sleepless in Seattle"?
+
+</top>
+
+
+<top>
+
+<num> Number: 12
+
+<desc> Description:
+Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place?
+
+</top>
+
+
+<top>
+
+<num> Number: 13
+
+<desc> Description:
+Who may be best known for breaking the color line in baseball?
+
+</top>
+
+
+<top>
+
+<num> Number: 14
+
+<desc> Description:
+Where was Ulysses S. Grant born?
+
+</top>
+
+
+<top>
+
+<num> Number: 15
+
+<desc> Description:
+Who received the Will Rogers Award in 1989?
+
+</top>
+
+
+<top>
+
+<num> Number: 16
+
+<desc> Description:
+Where is the actress, Marion Davies, buried?
+
+</top>
+
+
+<top>
+
+<num> Number: 17
+
+<desc> Description:
+Where was George Washington born?
+
+</top>
+
+
+<top>
+
+<num> Number: 18
+
+<desc> Description:
+Who was chosen to be the first black chairman of the military Joint Chiefs of Staff?
+
+</top>
+
+
+<top>
+
+<num> Number: 19
+
+<desc> Description:
+Who won the Nobel Peace Prize in 1991?
+
+</top>
+
+
+<top>
+
+<num> Number: 20
+
+<desc> Description:
+Who is the director of the international group called the Human Genome Organization (HUGO) that is trying to coordinate gene-mapping research worldwide?
+
+</top>
+
+
+<top>
+
+<num> Number: 21
+
+<desc> Description:
+When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die?
+
+</top>
+
+
+<top>
+
+<num> Number: 22
+
+<desc> Description:
+Who is the mayor of Marbella?
+
+</top>
+
+
+<top>
+
+<num> Number: 23
+
+<desc> Description:
+Where is the massive North Korean nuclear complex located?
+
+</top>
+
+
+<top>
+
+<num> Number: 24
+
+<desc> Description:
+Who fired Maria Ybarra from her position in San Diego council?
+
+</top>
+
+
+<top>
+
+<num> Number: 25
+
+<desc> Description:
+When was Dubai's first concrete house built?
+
+</top>
+
+
+<top>
+
+<num> Number: 26
+
+<desc> Description:
+Who is the president of Stanford University?
+
+</top>
+
+
+<top>
+
+<num> Number: 27
+
+<desc> Description:
+Who invented the road traffic cone?
+
+</top>
+
+
+<top>
+
+<num> Number: 28
+
+<desc> Description:
+Who was the first doctor to successfully transplant a liver?
+
+</top>
+
+
+<top>
+
+<num> Number: 29
+
+<desc> Description:
+When did Nixon die?
+
+</top>
+
+
+<top>
+
+<num> Number: 30
+
+<desc> Description:
+Where is Microsoft's corporate headquarters located?
+
+</top>
+
+
+<top>
+
+<num> Number: 31
+
+<desc> Description:
+Who was President of Costa Rica in 1994?
+
+</top>
+
+
+<top>
+
+<num> Number: 32
+
+<desc> Description:
+Who is the voice of Miss Piggy?
+
+</top>
+
+
+<top>
+
+<num> Number: 33
+
+<desc> Description:
+Who came up with the name, El Nino? 
+
+</top>
+
+
+<top>
+
+<num> Number: 34
+
+<desc> Description:
+When did the original Howdy Doody show go off the air?
+
+</top>
+
+
+<top>
+
+<num> Number: 35
+
+<desc> Description:
+Where is the Taj Mahal?
+
+</top>
+
+
+<top>
+
+<num> Number: 36
+
+<desc> Description:
+Who leads the star ship Enterprise in Star Trek?
+
+</top>
+
+
+<top>
+
+<num> Number: 37
+
+<desc> Description:
+Who played the part of the Godfather in the movie, "The Godfather"? 
+
+</top>
+
+
+<top>
+
+<num> Number: 38
+
+<desc> Description:
+Who won two gold medals in skiing in the Olympic Games in Calgary?
+
+</top>
+
+
+<top>
+
+<num> Number: 39
+
+<desc> Description:
+Who followed Willy Brandt as chancellor of the Federal Republic of Germany?
+
+</top>
+
+
+<top>
+
+<num> Number: 40
+
+<desc> Description:
+Who is the founder of Scientology?
+
+</top>
+
+
+<top>
+
+<num> Number: 41
+
+<desc> Description:
+Who released the Internet worm in the late 1980s?
+
+</top>
+
+
+<top>
+
+<num> Number: 42
+
+<desc> Description:
+Who first circumnavigated the globe?
+
+</top>
+
+
+<top>
+
+<num> Number: 43
+
+<desc> Description:
+Who wrote the song, "Stardust"?
+
+</top>
+
+
+<top>
+
+<num> Number: 44
+
+<desc> Description:
+Where is the highest point in Japan?
+
+</top>
+
+
+<top>
+
+<num> Number: 45
+
+<desc> Description:
+Who is the Voyager project manager?
+
+</top>
+
+
+<top>
+
+<num> Number: 46
+
+<desc> Description:
+When was China's first nuclear test?
+
+</top>
+
+
+<top>
+
+<num> Number: 47
+
+<desc> Description:
+Where does Buzz Aldrin want to build a permanent, manned space station?
+
+</top>
+
+
+<top>
+
+<num> Number: 48
+
+<desc> Description:
+Who killed Lee Harvey Oswald?
+
+</top>
+
+
+<top>
+
+<num> Number: 49
+
+<desc> Description:
+Who is the President of Ghana?
+
+</top>
+
+
+<top>
+
+<num> Number: 50
+
+<desc> Description:
+Who held the endurance record for women pilots in 1929?
+
+</top>
+
+
+<top>
+
+<num> Number: 51
+
+<desc> Description:
+Who won the first general election for President held in Malawi in May 1994?
+
+</top>
+
+
+<top>
+
+<num> Number: 52
+
+<desc> Description:
+Who is section manager for guidance and control systems at JPL?
+
+</top>
+
+
+<top>
+
+<num> Number: 53
+
+<desc> Description:
+When did Israel begin turning the Gaza Strip and Jericho over to the PLO?
+
+</top>
+
+
+<top>
+
+<num> Number: 54
+
+<desc> Description:
+Who was the second man to walk on the moon?
+
+</top>
+
+
+<top>
+
+<num> Number: 55
+
+<desc> Description:
+When was Yemen reunified?
+
+</top>
+
+
+<top>
+
+<num> Number: 56
+
+<desc> Description:
+Where is it planned to berth the merchant ship, Lane Victory, which Merchant Marine veterans are converting into a floating museum?
+
+</top>
+
+
+<top>
+
+<num> Number: 57
+
+<desc> Description:
+Who is the Queen of Holland?
+
+</top>
+
+
+<top>
+
+<num> Number: 58
+
+<desc> Description:
+Who is the president of the Spanish government?
+
+</top>
+
+
+<top>
+
+<num> Number: 59
+
+<desc> Description:
+Where does most of the marijuana entering the United States come from?
+
+</top>
+
+
+<top>
+
+<num> Number: 60
+
+<desc> Description:
+Who is the prime minister of Japan?
+
+</top>
+
+
+<top>
+
+<num> Number: 61
+
+<desc> Description:
+Where is the Bulls basketball team based?
+
+</top>
+
+
+<top>
+
+<num> Number: 62
+
+<desc> Description:
+Where did Dylan Thomas die?
+
+</top>
+
+
+<top>
+
+<num> Number: 63
+
+<desc> Description:
+Who was the Democratic nominee in the American presidential election?
+
+</top>
+
+
+<top>
+
+<num> Number: 64
+
+<desc> Description:
+When was General Manuel Noriega ousted as the leader of Panama and turned over to U.S. authorities?
+
+</top>
+
+
+<top>
+
+<num> Number: 65
+
+<desc> Description:
+Where is  Dartmouth College?
+
+</top>
+
+
+<top>
+
+<num> Number: 66
+
+<desc> Description:
+When did French revolutionaries storm the Bastille?
+
+</top>
+
+
+<top>
+
+<num> Number: 67
+
+<desc> Description:
+Who is the leading competitor of Trans Union Company?
+
+</top>
+
+
+<top>
+
+<num> Number: 68
+
+<desc> Description:
+When did communist control end in Hungary?
+
+</top>
+
+
+<top>
+
+<num> Number: 69
+
+<desc> Description:
+Who was the captain of the tanker, Exxon Valdez, involved in the oil spill in Prince William Sound, Alaska, 1989?
+
+</top>
+
+
+<top>
+
+<num> Number: 70
+
+<desc> Description:
+Whom did the Chicago Bulls beat in the 1993 championship?
+
+</top>
+
+
+<top>
+
+<num> Number: 71
+
+<desc> Description:
+Who was President of Afghanistan in 1994?
+
+</top>
+
+
+<top>
+
+<num> Number: 72
+
+<desc> Description:
+Who is the director of intergovernmental affairs for the San Diego county?
+
+</top>
+
+
+<top>
+
+<num> Number: 73
+
+<desc> Description:
+Where is the Keck telescope?
+
+</top>
+
+
+<top>
+
+<num> Number: 74
+
+<desc> Description:
+When did Jaco Pastorius die?
+
+</top>
+
+
+<top>
+
+<num> Number: 75
+
+<desc> Description:
+When did beethoven die?
+
+</top>
+
+
+<top>
+
+<num> Number: 76
+
+<desc> Description:
+When was Queen Victoria born?
+
+</top>
+
+
+<top>
+
+<num> Number: 77
+
+<desc> Description:
+When was the battle of the Somme fought?
+
+</top>
+
+
+<top>
+
+<num> Number: 78
+
+<desc> Description:
+Where did the Battle of the Bulge take place?
+
+</top>
+
+
+<top>
+
+<num> Number: 79
+
+<desc> Description:
+Where was Lincoln assassinated?
+
+</top>
+
+
+<top>
+
+<num> Number: 80
+
+<desc> Description:
+When was the women's suffrage amendment ratified?
+
+</top>
+
+
+<top>
+
+<num> Number: 81
+
+<desc> Description:
+Where is Qatar?
+
+</top>
+
+
+<top>
+
+<num> Number: 82
+
+<desc> Description:
+Where is South Bend?
+
+</top>
+
+
+<top>
+
+<num> Number: 83
+
+<desc> Description:
+Where was Harry Truman born?
+
+</top>
+
+
+<top>
+
+<num> Number: 84
+
+<desc> Description:
+Who was Secretary of State during the Nixon administration?
+
+</top>
+
+
+<top>
+
+<num> Number: 85
+
+<desc> Description:
+Who was the 16th President of the United States?
+
+</top>
+
+
+<top>
+
+<num> Number: 86
+
+<desc> Description:
+Who wrote "The Pines of Rome"?
+
+</top>
+
+
+<top>
+
+<num> Number: 87
+
+<desc> Description:
+Who wrote "Dubliners"? 
+
+</top>
+
+
+<top>
+
+<num> Number: 88
+
+<desc> Description:
+Who wrote "Hamlet"?
+
+</top>

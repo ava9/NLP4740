@@ -1,0 +1,124 @@
+ID: 30	RANK: 57	SCORE: 7.6742
+<DOC>
+<DOCNO>FT941-4520</DOCNO>
+<PROFILE>_AN-ECJDQAHOFT</PROFILE>
+<DATE>940310
+</DATE>
+<HEADLINE>
+FT  10 MAR 94 / Survey of Software at Work, Spring 1994 - Financial Control
+Systems (13): Choosing from a privileged position - Financial consolidation
+at ICL
+</HEADLINE>
+<BYLINE>
+   By CLAIRE GOODING
+</BYLINE>
+<TEXT>
+ICL, the UK-based computer company in which Fujitsu of Japan has a majority
+stake, had inside knowledge of the software market when looking for ways of
+improving its worldwide financial control, but it didn't have all the
+answers. Now its directors do - and within five days of business completion
+The international computer company, ICL, is still involved in a continuing
+evaluation of the packages it is using for financial control, writes Claire
+Gooding. Even before its acquisition by Fujitsu, ICL was changing its
+direction and becoming a supplier of computer services rather than hardware.
+Even so, its restructuring into 26 businesses worldwide brought exactly the
+kind of problem it seeks to solve for its own clients: a move away from
+proprietary software to something less costly to maintain, and more flexible
+to use, which would be a single, integrated worldwide solution.
+'We were trying to resolve the problem of creating separate autonomous
+businesses,' explains Cornel Wight, the strategist and manager of financial
+systems whose job it was to assess ICL's financial and commercial
+infrastructure across the world.
+ICL wanted tools its various national offices could use to develop local
+systems in their own language.
+'As well as reporting to the headquarters on a monthly basis, the right
+tools had to meet fiscal requirements,' says Mr Wight. 'With 80 sites around
+the world, each has its own culture. We wanted a solution that would suit
+their own local needs, timetable, and structure, and minimum requirements
+for management reporting.'
+The computer company already had its own proprietary software, but it didn't
+meet the 'time zone' problems, and because it was centrally-driven, people
+were deserting in droves to use spreadsheets. ICL was in a privileged
+position in having inside knowledge of some well-established packages,
+including executive information systems from Planning Sciences and Comshare,
+and accounting packages with 'EIS-like' extensions, such as Tetra's
+Chameleon.
+But although ICL spread its net wide, the choice was limited by two factors:
+First, the data had to be 'dynamic,' and not contained in a separate
+database, so that businesses could report to the managing director on the
+same day.
+Secondly, the software had to work with many different 'inherited' packages
+in use in various businesses and acquisitions, such as Nokia. The choice was
+narrowed to two of the best-known consolidation packages, from IMRS and
+Comshare.
+'The key was that the IMRS packages were friendly for the account managers
+and had a neat separation of the consolidation and the reporting functions.
+There was also a high 'comfort factor' in working with the company, and the
+user-endorsements were very convincing,' adds Mr Wight.
+ICL implemented the IMRS Micro Control consolidation and reporting system
+with Hyperion, its Windows-based companion, and the OnTrack graphical
+reporting module.
+The initial contract was worth around Pounds 1m, with installation taking
+place across local area networks and PCs in ICL companies worldwide. An
+in-house 'hit team' implemented the software to ICL standards and culture at
+each site.
+Mr Wight's team had been working for some time to reduce the completion time
+for accounts - 'now, without fail, we are meeting our five-day requirement
+between closing the books and reporting to group. It also facilitates
+budgeting and forecasting, because people are familiar with the spreadsheet
+format.
+'We wanted to capitalise on the all the various models and techniques that
+people had built up, without any re-keying of data. Their data is
+automatically imported into Micro Control.'
+It is the product's ability to present different faces to different groups
+of users that most appeals to Cornel Wight's users - 'friendliness is at
+appropriate levels: 'point and shoot' for managers, ledger-like for
+accountants. Early users report that they are halving their costs: that's
+significant when spending around Pounds 1m annually on reporting.'
+Micro Control
+This product, currently on release 3.5, was launched in 1987 as a DOS-based
+data collection, data collection, consolidation and reporting system. Other
+IMRS products are OnTrack, launched 1991, described as visual information
+access, (EIS reporting), and Hyperion, launched 1993, claimed to be the the
+world's first Microsoft Windows-based enterprise-wide financial control
+tool.
+Users: there are 1,300 corporate headquarters, with thousands of
+reporting-locations worldwide.
+Supplier: IMRS, founded in the US in 1981; UK operations launched in 1987.
+IMRS common stock is traded in the NASDAQ National Market System under the
+symbol IMRS.
+Price: a corporate site licence starts at Pounds 60,000; maintenance is
+charged at 15 per cent of initial sale after one year.
+User views include: 'Stable,
+robust software, auto-link with Lotus and Excel; integration of IMRS
+databases; computer-based training; easy to install.'
+Contact: Alan Parker, international marketing, IMRS, Toft Hall, Knutsford,
+Cheshire WA16 9PD; tel 0565 633 744.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>ICL.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+    P3571 Electronic Computers.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page X
+</PAGE>
+</DOC>
