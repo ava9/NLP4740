@@ -3,7 +3,7 @@
 import os
 
 def getNER(firstWord):
-  # All NERs
+  # All NERs http://www.nltk.org/api/nltk.chunk.html
   #['LOCATION', 'ORGANIZATION', 'PERSON', 'DURATION', 'DATE', 'CARDINAL', 'PERCENT', 'MONEY', 'MEASURE']
   
   # Location
