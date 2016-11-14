@@ -78,7 +78,7 @@ if __name__ == '__main__':
         print "File " + str(fileNum) + " for ID " + str(ID) + " has no text tag"
 
     #get the best answers
-    bestgrams = best10Grams(questions[ID], possibleAnswers)
+    bestgrams = best10Grams(questions[ID][0], possibleAnswers)
 
     if len(bestgrams)==0:
       outF.write(str(ID)+" 0 nil\n")

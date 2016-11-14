@@ -18,7 +18,9 @@ def getQuestions():
         questionDict[qid] = ''
         lastQID = qid
       elif pieces[0][0] != '<':
-        questionDict[lastQID] = line
+        # tuple is ('question', 'first word in question') 
+        # first word in question (who, what, when, where, where's, who's) used in p2
+        questionDict[lastQID] = (line, line.partition(' ')[0])
 
   return questionDict
 
