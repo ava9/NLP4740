@@ -2,7 +2,7 @@ import nltk
 import re
 import time
 
-exampleArray = ['The incredibly intimidating NLP scares people away who are sissies.']
+exampleArray = ['The incredibly intimidating NLP and the Cornell University with Microsoft founded by the Facebook scares people away who are sissies.']
 
 contentArray =['Bob ran to Starbucks because Microsoft is a company at Cornell University because of some reason.',
                'Overall, while it may Seem there is already a Starbucks on every corner, Starbucks still has a lot of room to grow.',
@@ -16,17 +16,26 @@ contentArray =['Bob ran to Starbucks because Microsoft is a company at Cornell U
                'Given the dry weather, coffee farmers have amped up production, to take as much of an advantage as possible with the dry weather.',
                'Increase in supply... well you know the rules...',]
 
+whoArr = ['PERSON','ORGANIZATION']
+
 def processLanguage():
-  for item in contentArray:
+  for item in exampleArray:
     tokenized = nltk.word_tokenize(item)
     tagged = nltk.pos_tag(tokenized)
     #print tagged
 
     namedEnt = nltk.ne_chunk(tagged)
     print namedEnt
-    #namedEnt.draw()
+    print namedEnt[3].label()
+    for i in range(len(namedEnt)):
+      try:
+        if namedEnt[i].label() in whoArr:
+          print "YO"
+      except: pass
 
+    #namedEnt.draw()
     #time.sleep(1)
+  
 
 if __name__ == '__main__':
   processLanguage()
