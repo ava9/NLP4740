@@ -1,0 +1,94 @@
+ID: 205	RANK: 12	SCORE: 31.456158
+
+<DOC>
+<DOCNO> SJMN91-06235080 </DOCNO>
+<ACCESS> 06235080 </ACCESS>
+<DESCRIPT>  ELECTRONICS; COMPUTER; ABUSE; CRIME; BOOK  </DESCRIPT>
+<LEADPARA>  For more than a year, officials at Digital Equipment Corp.'s secretive Western
+Research Lab in Palo Alto watched as hackers invaded the lab's computers,
+stole important software and read confidential messages. Short of breaking
+Digital's primary electronic link with the outside world, officials found that
+they could do little to thwart the hackers.;   Digital's top security official
+believed they were dealing with a sophisticated West German spy ring that was
+passing software to the Soviets. But in December 1988, following a call from
+one of the hackers, Digital learned the interlopers were two high school
+dropouts working at night from an office in Southern California, fueled by an
+obsession with computers and bags of junk food.  </LEADPARA>
+<SECTION>  Business  </SECTION>
+<HEADLINE>  BOOK FOLLOWS TRAIL OF HACKERS' HIGH-TECH CAPERS  </HEADLINE>
+<TEXT>     Already legendary in computer security circles, the exploits of Kevin D.
+Mitnick and Leonard DiCicco are one focus of a new book on computer crime,
+"Cyberpunk: Outlaws and Hackers on the Computer Frontier" (Simon &amp; Schuster,
+$22.95). The book details, for the first time, the extent to which the hackers
+breached computer security at a number of Bay Area companies in the late
+1980s.;   The book, by Katie Hafner, a former Business Week high-tech
+reporter, and John Markoff, her husband and a reporter for the New York Times
+who covers the computer industry, has hovered on a Bay Area best-seller list
+since its release several weeks ago.;   In addition to Mitnick and DiCicco,
+the authors chronicle the escapades of a West German hacking ring and of
+Robert T. Morris Jr., who wrote the "worm" program that in 1988 brought down
+the Internet, a network of 6,000 computers. Together, the three cases offer a
+striking illustration of the possibilities -- and dangers -- of national and
+international computer networks.;   Over several years, Mitnick and hacking
+associates destroyed data at US Leasing, an equipment leasing company in San
+Francisco; penetrated the development computers at the Santa Cruz Operation, a
+software developer; and regularly broke into Digital computers in Palo Alto
+and elsewhere. Mitnick, the authors said, was motivated by "the challenge of
+the hack itself" and an "intellectual curiosity" of complex computer systems.;
+  Among the book's disclosures: Mitnick stole a complete copy of VMS' source
+code, the operating software that controls Digital's VAX mainframe computers,
+and a copy of a security program called XSAFE. The source code can cost
+Digital customers as much as $360,000, depending on the size of their
+computer.;   Digital, the nation's second-largest computer maker, filed a
+lawsuit against Mitnick but eventually settled out of court because of fears
+that publicity over the incident could damage the Maynard, Mass., company,
+Hafner said in an interview. "DEC was quite happy to see it not go to trial,"
+she said.;   Mitnick was convicted on criminal charges and served a year in
+jail and six months in treatment for what authorities said was an addiction to
+computers. He still is doing computer-related work in Las Vegas, according to
+a law enforcement official.;   In an interview, Digital officials acknowledged
+the break-ins and stolen software. But they said the episode taught the
+company how to make its computers more secure and spawned new software
+products designed to increase security.;   "We put a lot of effort into a
+security standard on the Easynet (Digital's internal network)," said Steve
+Lipner, manager of the secure systems group. "The susceptibility to that kind
+of problem has dropped way off.";   In an earlier episode, Mitnick and DiCicco
+penetrated computers at the Santa Cruz Operation. But unlike Digital, the
+authors said, the software company acted quickly, tracking the hackers to
+Mitnick's Thousand Oaks apartment before they could do any damage or steal
+software. Santa Cruz police traveled to Southern California and searched the
+apartment. Mitnick pleaded guilty to a misdemeanor and received a small fine
+and 36 months' probation.;   Among the book's other revelations:;   (check)
+Mitnick penetrated Digital's systems engineering group in Palo Alto at a time
+when engineers were working secretly to introduce a new computer work station
+ahead of its competitors. Although the intruders seemed uninterested in the
+group's ongoing projects, Digital kept specifications of the new machine out
+of the computer as a special precaution, the authors said.;   (check) Digital
+unwittingly gave Mitnick a key tool for capturing passwords that enabled him
+access to the company's computers. The tool, a software program called the
+"loginout patch," was sitting in Digital's network after the company
+discovered that a West German hacking ring had used it to penetrate VAX
+computers at the National Aeronautics and Space Administration.;   (check)
+Using the gateway to Digital's network at the Western Research Lab, Mitnick
+was able to penetrate the company's brain center, its software development
+center in Nashua, N.H., and make off with the latest versions of the company's
+operating software.  </TEXT>
+<BYLINE>  ALEX BARNUM, Mercury News Staff Writer  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910822  </PUBDATE> 
+<DAY>  Thursday  </DAY>
+<MONTH>  August  </MONTH>
+<PG.COL>  1F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  787  </WORD.CT>
+<DATELINE>  Thursday, August 22, 1991
+00235080,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

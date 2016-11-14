@@ -1,0 +1,72 @@
+ID: 156	RANK: 10	SCORE: 10.702511
+<DOC>
+<DOCNO> WSJ881010-0068 </DOCNO>
+<HL> Technology: Network Software to Widen Market for Microsofts's OS/2 </HL>
+<AUTHOR> Brenton R. Schlender (WSJ Staff) </AUTHOR>
+<SO> </SO>
+<CO> MSFT IBM COMS DEC NOVL HWP EGGS </CO>
+<IN> EDP </IN>
+<TEXT>
+   The much ballyhooed operating system for high-performance personal computers, OS/2, is finally going to get some meat on its bones. 
+
+   When Microsoft Corp. and International Business Machines Corp. began selling a skeletal version of OS/2 in December, so many important parts were missing that there has been little reason to buy it, much less use it. 
+
+   But that's about to change. 
+Today, 3Com Corp. will launch personal-computer networking software that will enable a personal computer equipped with OS/2 to coordinate a network of dozens of personal computers. 
+And Microsoft will finally crank up its campaign to sell OS/2. 
+
+   "We couldn't really push customers to buy OS/2 before now because you couldn't do much with it," concedes Steven Ballmer, vice president of systems software for Microsoft, based in Redmond, Wash. 
+"Now there are enough pieces of OS/2 in place to justify buying it -- at least to put it on a network file server." 
+
+   A file server is the coordinating computer in a network; among many other tasks, it hands out data to the other computers, called clients, in the network. 
+
+   3Com's new networking software, 3+Open, is based on special software called LAN Manager that was designed by Microsoft to help OS/2 establish a standard way for IBM-compatible computers to control and participate in networks, and connect to larger computers. 
+Such a standard would extend Microsoft's influence over personal computers through its MS-DOS and OS/2 operating systems, which control the internal functions of nearly 20 million personal computers. 
+
+   More than 30 software and computer companies have said they will incorporate LAN Manager into networking products. 3Com, a maker of networking equipment and personal computers based in San Jose, Calif., is the first to ship a product. 
+Others endorsing it are Digital Equipment Corp., Hewlett-Packard Corp. and IBM. 
+
+   "One of OS/2's most important features is multi-tasking," or handling several computing tasks at once, says William Krause, chairman and chief executive of 3Com. 
+"And the fundamental requirement for a network file server is multi-tasking: to serve many clients with printing and file services, access to data, electronic mail, gateways into larger computers, all at the same time." 
+
+   3+Open will cost $995 for each group of five computers being served by a central file server that uses the software. 
+And for $2,995, a customer can hook up an unlimited number of so-called "client" personal computers on the network. 3Com's sales force, as well as computer dealers such as Businessland Inc. will sell the software. 
+
+   Egghead Inc., which previously didn't sell networking software, said it would market 3+Open. 
+And customers can contract with Hewlett-Packard for service and technical support, 3Com says. 
+
+   LAN Manager-based products like 3+Open will be competing in a big and fast-growing market. 
+This year, for example, market researchers estimate that customers will spend over $2.5 billion on networks of personal computers, a figure that should swell to over $4 billion by 1990. 
+
+   Dozens of companies sell networking equipment and software. 
+Currently, Novell Corp. of Provo, Utah, dominates the business of supplying software for linking networks of personal computers, and 3Com leads markets for adapters, cable systems, connections and other network hardware. 
+
+   So far, Novell hasn't announced plans to develop a LAN Manager-based product. 
+Novell's big-selling Netware acts as a separate operating system displacing MS-DOS or OS/2 on a central file-server. 
+Netware handles network communication chores and provides some multi-tasking. 
+But, says John McCarthy, research director for Forrester Research Inc. of Cambridge, Mass., "Netware is basically a traffic cop, providing little more than simple printer and file sharing, and can't participate directly in running applications." 
+
+   On the other hand, LAN Manager-based networks, because they are extensions of the same operating system that controls client personal computers, can lend a helping hand in running programs. "3+Open and other LAN Manager-based networks can give a tired old machine that runs the old MS-DOS operating system a mid-life kicker by taking over some of the processing," says Mr. Krause. 
+He uses the example of sending a big spreadsheet back to the LAN Manager server to recalculate in a few minutes what an older IBM would take 20 minutes to refigure. 
+
+   Other analysts, however, believe that LAN Manager-based networks, just like OS/2, don't offer computer users any immediate advantages over Netware or other existing networking programs, namely because there aren't any specific programs such as databases, accounting systems or electronic mail systems designed to tap LAN Manager's full power yet. 
+
+   "People don't buy networking by itself," says Stewart Alsop, an industry analyst and consultant who publishes PC Letter. 
+"People buy what networking allows them to do -- communicate, share programs and work on the same data." 
+While Mr. Alsop concedes that 3+Open and other LAN Manager-based products will make it harder for Novell to dominate, "LAN Manager won't really catch on until somebody writes programs specifically designed for networks of OS/2 computers." 
+
+   Initially, LAN Manager-based networks will coordinate client computers that use the older MS-DOS operating system. 
+Only when programs tapping the full power of OS/2 arrive will it make sense to run OS/2 on the client personal computers. 
+Accordingly, only then will LAN Manager itself really show what it can do. 
+
+   And that won't be for a while, because OS/2 is still missing a few pieces. 
+What everybody is waiting for is a component of OS/2 to be delivered by Halloween called Presentation Manager that will handle onscreen graphics and the way users interact with programs. 
+Even after Presentation Manager arrives, it will take software developers another six months or so to finish up spreadsheets, databases, word processors and other programs that take full advantage of OS/2. 
+Microsoft cautions that it won't be until at least 1991 that most IBM-compatible PCs will be using it. 
+
+   Still, Microsoft officials are excited now that LAN manager products are available, to finally be able to look forward to generating some revenue from the company's big investment of both time and money in OS/2, even if it is only from sales of OS/2 for network file servers. 
+
+   "This finally gets the ball rolling," says Microsoft's Mr. Ballmer. 
+
+</TEXT>
+</DOC>

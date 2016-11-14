@@ -1,0 +1,102 @@
+ID: 258	RANK: 98	SCORE: 6.675348
+
+<DOC>
+<DOCNO> SJMN91-06301076 </DOCNO>
+<ACCESS> 06301076 </ACCESS>
+<CAPTION>  Photo; PHOTO: Cannavino  </CAPTION>
+<DESCRIPT>  COMPUTER; ELECTRONICS; SOFTWARE; TRADE; SHOW; PRODUCT  </DESCRIPT>
+<LEADPARA>  International Business Machines Corp. formally introduced the second
+generation of its beleaguered OS/2 operating system software last week at the
+Comdex fall trade show. Company officials say it will be available in March
+1992 -- even though IBM had all but promised it would be ready by the end of
+the year.;   The officials said they decided to postpone the release after
+receiving requests for new features from many of the 20,000 IBM customers who
+have been testing the software.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  OS/2 2.0 WELL WORTH THE WAIT
+OPERATING SYSTEM DUE OUT IN MARCH  </HEADLINE>
+<MEMO>  Cover Story  </MEMO>
+<TEXT>     "In the larger scheme of things, three months doesn't matter very much,"
+said Amy Wohl, president of Wohl &amp; Associates of Bala Cynwyd, Pa., a
+consulting company. "But it is going to cost IBM dearly in terms of marketing
+momentum. The big mistake they made was in being so firm about shipping by the
+end of the year and then deciding to add to the feature set.";   Discussions
+of the release date should not obscure the many virtues of the new software,
+which appears to be far superior to Windows on a technical level. OS/2 2.0 can
+run Windows software without modification, along with DOS programs and
+previous versions of OS/2 software.;   "It's a better DOS than DOS, a better
+Windows than Windows and a better OS/2 than OS/2 Version 1.3," said Lee
+Reiswig, general manager of IBM's system software development effort.;  
+That's easy for him to say. But in demonstrations at Comdex, Reiswig showed
+how OS/2 2.0 can run the DOS-based WordPerfect word processor in one window on
+screen, Microsoft's Windows-based Excel spreadsheet in another, an OS/2 1.3
+communications program in a third window and a new OS/2 2.0 application in a
+fourth window, with all programs active at the same time.;   This ability is
+called multitasking, and it is one of the great advantages of OS/2 over DOS.
+Users can grab information from one application and easily paste it into
+another.;   What will be central to the acceptance of OS/2 2.0 is the
+availability of useful application software, like data-base managers and
+spreadsheets, that take specific advantage of its 32-bit operating system.;  
+IBM's chief personal computer executive, James Cannavino, said more than 700
+OS/2 2.0 applications from 500 software companies are in the works.;   "The
+key is, when do those 700 applications ship?" said John McCarthy, a senior
+analyst with Forrester Research Inc. of Cambridge, Mass. "If it's dribbleware,
+they're doomed.";   John Soyring, an OS/2 manager, responded that 25 percent
+to 30 percent of the anticipated 700 programs will be ready within 30 days
+after the operating system ships in March. Lotus Development Corp. and
+WordPerfect Corp. were among those vowing early support for OS/2 2.0.;   As a
+32-bit operating system, OS/2 2.0 is capable of processing information at
+double the rate of DOS, Windows and earlier versions of OS/2. Overall system
+performance will not double because many other factors are involved, but in
+general, 32-bit software will operate much more quickly than 16-bit software
+running on identical machines.;   The drawback, at least for most users, is
+that OS/2 2.0 requires a lot of overhead in order to juggle such tasks.
+Reiswig said the new operating system will require a minimum configuration of
+a 386SX microprocessor, 4 megabytes of random-access memory and a 60-megabyte
+hard disk.;   Companies are notorious for understating operating system
+requirements, so plan on a fast 386- or 486-based system, 8 megabytes of
+memory and at least 100 megabytes of disk storage.;   OS/2 needs such hardware
+support because it is essentially three operating systems rolled into one. It
+will come on 13 diskettes and will consume anywhere from 18 to 30 megabytes of
+hard disk space, depending on which features are installed. In other words, it
+needs half the hard disk space on a PC equipped with a 40- or 60-megabyte hard
+disk -- a demand that may cause many users to balk. Yet many people who use
+Windows today are giving up almost as much of their disks without realizing
+it.;   Some major software developers are adopting a wait-and-see attitude
+before committing programming resources to the 32-bit version of OS/2.;   As
+rewritten, OS/2 is expected to appeal to individuals and small-business users
+as well as to the large corporate customers that are IBM's traditional power
+base. With the necessary hardware, OS/2 2.0 appears to be attractive even if
+it is used merely as a replacement for DOS (suggested list price will be $195
+or $149 for current users of DOS or OS/2, IBM officials said).;   And it is
+much easier to use than DOS, thanks to a new graphical set of commands called
+the Workplace Manager.;   The Workplace Manager makes it much easier to manage
+applications, files and printers. To print a document, for example, the user
+selects an icon representing the file and, using a mouse, drags it over to an
+icon representing a printer. Click. That's it.;   Even the installation
+process has been transformed by graphics. Users choose which OS/2 features
+they want by clicking on boxes on a checklist. To save space, for example, a
+user might not care to install the built-in PS/2 games or the simple
+spreadsheet. The memory requirements of each feature are listed, which is
+helpful.  </TEXT>
+<BYLINE>  PETER H. LEWIS, New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<CITY>  Las Vegas  </CITY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911027  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  October  </MONTH>
+<PG.COL>  1F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<FEATURE>  PHOTO  </FEATURE>
+<STATE>  CA  </STATE>
+<WORD.CT>  878  </WORD.CT>
+<DATELINE>  Sunday, October 27, 1991
+00301076,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

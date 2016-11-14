@@ -1,0 +1,101 @@
+ID: 156	RANK: 49	SCORE: 9.498301
+<DOC>
+<DOCNO>FT931-11596</DOCNO>
+<PROFILE>_AN-DBBCMAFCFT</PROFILE>
+<DATE>930202
+</DATE>
+<HEADLINE>
+FT  02 FEB 93 / Technology: Unix's survival at stake - Technically Speaking
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+A FEW days before Christmas last year, Novell, a US computer networking
+company whose annual sales are now close to Dollars 1bn (Pounds 600m) signed
+a letter of intent to acquire Unix Systems Laboratories, a company in which
+AT&amp;T has a majority stake and which is responsible for the licensing and
+development of the Unix computer operating system.
+The deal, worth Dollars 350m, has to be ratified by 11 other computer
+companies which own shares in USL. These include Amdahl, Fujitsu, ICL,
+Motorola and Sun Microsystems. It is nevertheless remarkable, given the
+history of Unix, that there has been a dearth of comment on a development
+which may fundamentally reshape the open systems movement. It may simply
+have been the imminence of the New Year; others see more sinister forces at
+work.
+To recap briefly: open systems imply a common set of rules for interworking
+so that no supplier has a technical advantage over any other in developing
+standard products.
+Unix is one of a number of operating systems vying to be adopted as the open
+systems standard. The development of such an operating system would have to
+be free from the control of any one manufacturer or group of manufacturers.
+Unix was created by AT&amp;T at Bell Labs but has since been widely licensed,
+leading to a damaging multiplicity of 'standard' versions. These include
+Sunsoft's Solaris and IBM's AIX.
+The competition includes IBM's personal computer operating systems OS/2, the
+Open Systems Foundation's OSF1 and Microsoft's Windows NT, a new operating
+system which has yet to be launched commercially.
+AT&amp;T established USL, and encouraged other companies to Take stakes in it,
+to promote the idea of Unix development independent of itself or any other
+company. In doing so, it showed it had learned the lessons of the 1980s when
+plans to establish a standard Unix between AT&amp;T and the aggressive
+workstation company, Sun Microsystems, provoked an industry war.
+Novell, however, is one of the industry's newly emerging dominant forces
+with some 60 per cent of the global market for networking software. The
+1990s are set to be the decade of computer networking so Novell, along with
+Intel and Microsoft, can claim to be an architect of the new world order in
+computing.
+So by selling off USL to Novell, has AT&amp;T thrown away the idea of an
+independent Unix? And if it has, does it matter?
+The answer to the latter question would seem to be 'No', judging by the lack
+of controversy over the proposed sale. Why should that be?
+One possible answer is that AT&amp;T and the rest of the industry are already
+anticipating that Windows NT will be the operating system of the future and
+have thrown in the towel.
+Windows NT - standing for 'New Technology' - is Microsoft's first multiuser,
+multitasking operating system suitable for powerful network servers. It is
+Microsoft's attempt to lay siege to the market for enterprise-wide
+computing, taking advantage of the shift away from mainframes and mainframe
+operating systems.
+Microsoft has a deserved reputation for tenacity in bringing reliable
+products to market even if there are several false starts on the way. But
+coming as it does from a background in stand-alone personal computers, it
+has little experience of enterprise data processing. It knows this very well
+and is taking steps to remedy its deficiencies.
+But multiuser computing is complex and critics argue that Windows NT will
+have to go through several versions before it approaches the reliability and
+robustness of Unix.
+Many believe that Unix represents the best opportunity of developing a
+genuinely open operating system for the 1990s and beyond. With the loss of
+an independent USL, however, there may be again a proliferation of Unix
+variants - to nobody's advantage.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Novell.
+    Unix Systems Laboratories.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  USA.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P357  Computer and Office Equipment.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products.
+    TECH  Standards.
+    CMMT  Comment and Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 11
+</PAGE>
+</DOC>

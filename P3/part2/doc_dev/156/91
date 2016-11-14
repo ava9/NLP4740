@@ -1,0 +1,75 @@
+ID: 156	RANK: 91	SCORE: 9.075673
+<DOC>
+<DOCNO>FT931-2665</DOCNO>
+<PROFILE>_AN-DCRCHABZFT</PROFILE>
+<DATE>930318
+</DATE>
+<HEADLINE>
+FT  18 MAR 93 / International Company News: Companies seek unity on Unix
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<DATELINE>
+   SAN FRANCISCO
+</DATELINE>
+<TEXT>
+A GROUP of leading computer companies yesterday announced plans to develop a
+'unified' version of Unix, the computer operating system software that has
+long been touted as a standard for 'open systems' - computers that can share
+software and data. The move follows years of industry in-fighting.
+The group includes IBM, Hewlett-Packard and Sun Microsystems as well as
+software companies The Santa Cruz Operation, Novell and Unix System
+Laboratories, a unit of AT&amp;T.
+It said that it would work to establish software standards. There are
+numerous incompatible versions of Unix, and the fragmentation has caused
+confusion, stunting the growth of open systems.
+By establishing a standard version of Unix, the group aims to encourage
+software developers to write new applications programs for Unix, thus making
+their computer and software products more attractive.
+An operating system is the software that controls the basic functions of a
+computer. Applications software, such as accounting systems or
+word-processing programs, are generally designed to run on a single
+operating system and must be rewritten if they are to run on a different
+one.
+Over the past few years there has been a series of failed efforts by
+industry groups to establish a single standard version of Unix.
+This latest group may be more successful, however, because it includes
+former antagonists, analysts said.
+The group may also be more highly motivated to work together because Unix
+faces a new challenger in Microsoft's Windows NT, a powerful computer
+operating system that is expected to be launched in May.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>International Business Machines Corp.
+    Hewlett-Packard Co Inc.
+    Sun Microsystems Inc.
+    Santa Cruz Operation.
+    Novell Inc.
+    Unix System Laboratories.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>COMP  Strategic links.
+    TECH  Products.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 29
+</PAGE>
+</DOC>

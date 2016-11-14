@@ -1,0 +1,96 @@
+ID: 210	RANK: 70	SCORE: 5.492536
+
+<DOC>
+<DOCNO> SJMN91-06315111 </DOCNO>
+<ACCESS> 06315111 </ACCESS>
+<DESCRIPT>  COMPUTER; SOFTWARE; MICROCOMPUTER; COMPUTER; COMPANY  </DESCRIPT>
+<LEADPARA>  NOVELL INC., which makes the Netware operating system software that allows two
+or more personal computers to exchange data and share peripherals, has
+developed a simplified version called Netware Lite for small businesses and
+offices. Netware Lite is not only simple but delightfully cheap.;   Many
+advantages come from hooking all the personal computers in the office
+together, including the ability to share files, programs and expensive
+peripherals like laser printers.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  SMALL-FIRM NETWORKING MADE SIMPLE  </HEADLINE>
+<TEXT>     The cost of networking is theoretically offset by the savings on hardware
+(one printer can serve many computers, and those computers do not necessarily
+have to have hard disks). Productivity is theoretically enhanced because
+people do not have to run from computer to computer to find the data they
+need.;   "Theoretically" is the key word because networks are often complex,
+fragile and expensive to maintain -- and, for small businesses, more trouble
+than they are worth.;   Now, for businesses with two to 25 DOS-based personal
+computers, Netware Lite provides an alternative. (Apple's Macintosh computers
+have built-in networking and are exceptionally easy to hook together, but Macs
+are a minority in the office.);   Netware Lite is what is known as a
+peer-to-peer networking system, which means that each user can tap into the
+resources of all other PCs on the network.;   In "heavy" Netware-based local
+area networks -- which constitute three of four LANs in operation today -- one
+computer must be set aside as a "dedicated server" that holds the network
+operating system and data to be shared by all the others. With Netware Lite,
+every computer on the network can act as a server for every other computer.;  
+Netware Lite does have some competition, notably Lantastic, from Artisoft Inc.
+of Tuscon, Ariz. But Novell, of Provo, Utah, is so well-known that Netware
+Lite is expected to dominate the category for low-end networks.;   The list
+price for each package of Netware Lite is $99. For a limited time, Novell will
+toss in a copy of DR DOS 6.0 as well. (Novell has announced its intention to
+acquire Digital Research, whose DR DOS is equivalent to Microsoft Corp.'s
+MS-DOS.);   A customer will need one package per computer and will also have
+to buy network adapter cards, cables and connectors, and probably special
+network versions of their favorite software packages.;   Several companies
+have assembled starter kits based on Netware Lite. Xircom Inc. of Los Angeles
+((818) 878-7600), for example, offers a bundle called Network Simplicity. It
+is truly networking in a box, containing all the hardware and software needed
+to get a peer-to-peer system running in just a few minutes. Because it uses
+external network adapters instead of plug-in cards, Xircom's product can work
+with portable computers as easily as with desk-tops.;   The $849 bundle
+includes two copies of Netware Lite, two adapters that attach to the parallel
+port of each computer, cables, special installation software that is easier
+than Novell's own and an electronic mail application called Simplicity
+E-Mail.;   There is also a "multiplexer" device that allows a single parallel
+port to handle both the network and a printer at the same time. Additional
+computers can be added for $399 each.;   Xircom also offers toll-free
+technical support and 24-hour electronic bulletin board support. Novell, in
+contrast, has established a 900-number telephone help line for pay-as-you-go
+technical help. For new users especially, Xircom's is the better deal.;   For
+people who do not mind opening the computer case, Eagle Technology of San Jose
+((800) 733-2453), offers the Netware Lite Ethernet Starter Kit, which includes
+two nodes of Netware Lite software, two Ethernet adapter cards, a 20-foot
+length of coaxial cable, two T connectors, a grounded terminator kit and an
+installation guide. Eagle, a division of Anthem Electronics, made network
+cards for Novell before Novell got out of the hardware business.;   The Eagle
+starter kit has a suggested list price of $615, and additional computers can
+be added for $312 each.;   Netware Lite is strictly for DOS- and Windows-based
+PCs, and therefore is not a good choice for offices that want to hook PCs to
+Macintoshes, OS/2-based servers, Sun work stations or other non-DOS machines.
+Also, the Lite version lacks some of the advanced data security features of
+Netware 2.X and 3.X.;   But the cost is minimal compared with, say, $5,000 for
+a dedicated server plus all the hidden expense of heavy network administration
+and maintenance.;   Setting up Netware Lite isn't quite as easy as plugging a
+phone into a jack and dialing the office, but it is simpler than setting up a
+regular Novell network. The Lite software installation process takes just a
+few minutes, and unfamiliar words such as client and server are explained on
+screen.;   Basic network functions, including the ability to restrict access
+to some areas of a networked computer through passwords and log-ons, can be
+set up and controlled by a simple menu system.;   "We created it for the owner
+of a flower shop," a Novell product engineer said. "You know, someone who's
+more familiar with peonies than with PCs."  </TEXT>
+<BYLINE>  PETER H. LEWIS, New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911110  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  November  </MONTH>
+<PG.COL>  1F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  854  </WORD.CT>
+<DATELINE>  Sunday, November 10, 1991
+00315111,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

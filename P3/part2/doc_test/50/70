@@ -1,0 +1,158 @@
+ID: 50	RANK: 70	SCORE: 6.1437
+
+
+
+<DOC>
+<DOCNO> FR940916-0-00066 </DOCNO>
+<PARENT> FR940916-0-00018 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+This final rule is based on Notice of Proposed Rulemaking (NPRM) No. 89&hyph;26 that was published in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ on September 22, 1989 (54 FR 39086). A corresponding NPRM, Notice No. 89&hyph;27, that proposed changes to parts 1
+and 33 for definitions and engines was also published in the same issue of the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ (54 FR 39080). In addition, a joint public meeting was held on November 16, 1989, in Forth Worth, Texas, to discuss both
+notices (54 FR 41986).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+All interested persons have been given an opportunity to participate in this rulemaking and due consideration has
+been given to all matters presented. Some minor editorial changes have been made to clarify the proposals. The changes
+are based on comments received and further FAA review of the proposals. Except as indicated herein, the proposals
+contained in the notice have been adopted without change.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Discussion of Comments
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The commenters represented airframe manufacturers, airworthiness authorities from other countries, rotorcraft
+owners and operators, and private individuals. The commenters generally agree with the substance of the proposal
+with certain recommended changes. The following discussion addresses these recommendations and their disposition.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=83 g=1 f=1 -->
+Sections 27.923 and 29.923&blank;Rotor Drive System and Control Mechanism Tests
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The notice proposed changes to &sect;&sect;27.923(e) and 29.923 (a) and (b) that add the special tests to the rotor
+drive system endurance test schedule, which are necessary to qualify the rotor drive system for the new 30-second/2-minute
+OEI power ratings.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+One commenter, referring to &sect;&sect;27.923(e)(2)(i) and 29.923(e)(3)(i), states that if the 5-minute takeoff
+power run to qualify the drive system is conducted as part of the endurance run, and the 30-second/2-minute OEI requirements
+are conducted on a bench test, then the takeoff power 5-minute run will be conducted twice on the same set of gears. The
+commenter proposes that the wording for the bench testing requirements be changed to state ``*&blank;*&blank;*
+following stabilization at takeoff power.'' The FAA does not intend to duplicate the takeoff power 5-minute run and
+agrees that clarification is needed; therefore, the recommended change has been incorporated.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Another commenter recommends doubling the test time in &sect;29.923(b)(3)(i) because the drive system, at the higher
+and potentially more damaging 30-second/2-minute OEI power ratings, will be substantiated by less endurance testing
+at these new powers. This recommendation is beyond the scope of the notice. Further, the FAA disagrees with the recommendation
+to double the test time for drive system substantiation because the test time proposed for the new 30-second/2-minute
+OEI power ratings is more severe than the current OEI ratings, when considering expected usage. The test time was established
+based upon the proportionate duration of load applications during these test runs when compared with the expected
+service life of the rotor drive system. In addition, the test time was also based upon the statistical failure rate
+of turboshaft engines and three applications of 30-second/2-minute OEI power during the expected life of the drive
+system. The relationship between test time and anticipated OEI exposure in service is more severe by a factor of 2.64
+for the new OEI ratings.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Another commenter proposes removing the words `` *&blank;*&blank;* when engine limitations either preclude repeated
+use of this power or would result in premature engine removal *&blank;*&blank;*'' from &sect;&sect;27.923(e)(2)(iii)
+and 29.923(b)(3)(iii). The FAA disagrees because the preferred method of conducting the tests is on the rotorcraft
+where the entire drive system is subjected to the OEI powers. Since the FAA recognizes that in some cases it may not be
+possible to conduct these tests on the rotorcraft, a bench test, which is representative of the aircraft, is included
+as an acceptable alternative.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Another commenter proposes to clarify &sect;&sect;27.923(e)(2)(iii) and 29.923(b)(3)(iii) by inserting the
+word ``vibration'' between the words ``the'' and ``frequency.'' The FAA agrees, and the change has been made.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Other than some minor editorial changes, these amendments are adopted as discussed.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=83 g=1 f=1 -->
+Sections 27.1143 and 29.1143&blank;Engine Controls
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The notice proposed to include the requirement for automatic control of the 30-second OEI power in &sect;&sect;27.1143(e)
+and 29.1143(f). One commenter suggests that &sect;29.1143(f) is ambiguous in that it does not adequately define
+the meaning of ``control.'' The FAA agrees that additional clarification is necessary. The amendment now states
+``*&blank;*&blank;* automatically activate and control the 30-second OEI power and prevent *&blank;*&blank;*.''
+Other than this clarification, the amendments are adopted as proposed.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=83 g=1 f=1 -->
+Sections 27.1305 and 29.1305&blank;Powerplant Instruments
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The notice proposed to include the requirements for a pilot alert and a recording device when 30-second/2-minute
+OEI powers are used by adding paragraphs (t) and (u) to &sect;27.1305 and paragraphs (a) (24) and (25) to &sect;29.1305.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>

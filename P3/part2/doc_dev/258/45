@@ -1,0 +1,134 @@
+ID: 258	RANK: 45	SCORE: 8.887263
+
+<DOC>
+<DOCNO> SJMN91-06147003 </DOCNO>
+<ACCESS> 06147003 </ACCESS>
+<DESCRIPT>  COMPUTER; PRODUCT; SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  THE MACINTOSH user interface of pull-down menus, graphic icons for files and
+programs and mouse operations was a big hit with many computer users,
+attracting not only buyers but also legions of graphic designers and some of
+the most innovative programmers.;    Then came Windows, Microsoft's user
+interface that makes the MS-DOS operating system look something like a
+Macintosh. Apple had to fight back, and its weapon is System 7.0, the latest
+major version of the Macintosh's operating system (Apple Computer Inc.,
+$99.95, (408) 996-1010).  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  APPLE DIALS RIGHT NUMBER: 7.0  </HEADLINE>
+<MEMO>  Software Review
+Phillip Robinson is an author of books and articles about computers and an
+editor for Virtual Information of Sausalito.
+Additional information attached to the end of this article.  </MEMO>
+<TEXT>     Although it is more than a year late in arriving and lacks some of the
+features that Apple promised it would have, System 7.0 succeeds in improving
+that already famous interface and operation of the Macintosh. This is a
+program that every Mac owner should consider, although buyers should approach
+it with caution because of its demand for 2 megabytes of memory and its
+incompatibility with a few programs.;    Besides some changes in the user
+interface, there are six major new features in System 7.0.;    A noticeable
+one, balloon help, is one more facet of the Mac's "ease of use" claims. When
+you point the mouse cursor at any command or window on screen, a tiny
+cartoon-style balloon will appear, containing helpful information about the
+command or window. This feature, which eventually will find its way into other
+Macintosh programs, can be turned off when it's not needed.;    The
+file-sharing feature lets other Macintoshes on a network get at information on
+your hard disk. You can set up passwords and other security measures to
+protect and hide whatever information you want kept private. These network
+aspects of System 7.0, which essentially allow you to set up a network without
+a separate "file server" computer, are perhaps its most important feature.;   
+Publish-and-subscribe is a dynamic version of the cut-and-paste approach to
+moving information around in documents. Publish-and-subscribe lets you set up
+links between information in different programs. For instance, you could use a
+data base to rank the production of your sales people, then write a memo about
+the results. If you "publish" the data-base data and "subscribe" to that data
+in the word-processor memo, any changes in the data base will automatically
+appear in the memo.;    With System 7.0, Apple has brought out its TrueType
+font technology that helps put clear, smooth characters on the screen and on
+printed pages. In some ways, it is a competitor to PostScript, begun by Apple
+when Adobe (the maker of PostScript) wouldn't divulge some of the secrets of
+PostScript operation. Now that Adobe has spilled its beans, TrueType's future
+isn't so clear, and it is in System 7.0 in only a basic form.;    System 7.0
+also includes the "MultiFinder" option that let System 6.0 load more than one
+program at a time into memory. That let you move quickly from program to
+program without quitting one to start another. But most programs running under
+MultiFinder would "freeze" temporarily when you moved to another program, so
+the technique isn't as useful as true multitasking, where several programs can
+not only share memory but also operate at the same time. System 7.0 claims it
+has multitasking, but it isn't changed from the MultiFinder style and so is
+less advanced than the true multitasking Windows gives to IBM Personal
+Computers.;    System 7.0 also has a new "virtual memory" feature, which, that
+on Macs with a 68030 processor chip, can pretend that part of your hard disk
+is random-access memory. (Windows does this, too.) This lets you run more
+programs and work on larger files, though it is slower than actually buying
+more RAM chips.;    Finally, the main interface of System 7.0 is a bit changed
+from System 6.0. To any casual user, it looks the same, and you certainly
+don't have to learn anything new to use it. But it does allow you to see
+multiple levels of directories in a window by clicking on a folder name. It
+also lets you add fonts to your system or programs to your Apple menu just by
+moving files to the appropriate folder, rather than by using the special
+Font/DA Mover program to tack them onto the System file.;    The drawback of
+System 7.0, besides needing 2 megabytes of RAM to run (many older Macintoshes
+have half that much), is that it isn't friendly to all Mac programs.;   
+You'll have to get new versions of some popular programs, such as PageMaker
+and MicroPhone, and may never be able to run some lesser-known utilities and
+shareware programs if they aren't rewritten to work with System 7.0. Apple
+offers a HyperCard program that scans your hard disk and makes a list of
+programs it finds that are known not to work perfectly or at all with System
+7.0.;    Eventually there will be "System 7.0-savvy" programs that are more
+than just compatible with the new operating system. These programs -- such as
+the newly announced Claris spreadsheet called Resolve -- will use such new
+features as publish-and-subscribe to link data between programs.;    System
+7.0 will be free with new Macs starting in August and is also free from user
+groups and many electronic bulletin boards. It installs automatically and
+easily.;    If you have trouble, you can get technical help directly from
+Apple. If you buy the upgrade kit from Apple or a dealer, the assistance is
+free for the first 90 days, which is probably all you'll need. For other
+users, help is available through a 900 number for $2 a minute. Network
+administrators can get help for 180 days, which again is reasonable
+considering the additional complexities of networks.;    If you have a Mac
+with enough memory and your programs are compatible with System 7.0 (check the
+compatibility booklet that comes with the upgrade), you should upgrade
+immediately. If some of your software is only partly compatible, wait for new
+versions of those programs to appear.;    If you have a network with lots of
+Macs and lots of possibly incompatible programs, move carefully. System 7.0
+itself probably doesn't have any major bugs, but programs that don't
+understand it could. And the biggest reason to get System 7.0 -- the new
+generation of System 7.0-savvy programs -- isn't here yet.;    I hope we don't
+have to wait three more years for a System 8 with real multitasking and other
+improvements. I like having an elegant and powerful alternative to PCs and
+DOS.; System 7.0, for Macintoshes with at least 2 megabytes of RAM and a hard
+disk drive. A 68030 or equivalent microprocessor is required to use the
+virtual memory feature. $99.95. From Apple Computer Inc., 20525 Mariani Ave.,
+Cupertino, CA 95014. (408) 996-1010.;    Summary: System 7.0 is the latest
+version of the Macintosh's fundamental software. 7.0 looks and acts a lot like
+the older system software, so anyone with Mac experience -- and at least 2
+megabytes of memory in his or here Mac -- will be able to use it immediately.
+7.0 is even easier to use than the old Mac system software because of such
+features as balloon help and a simplified interface. It offers more power to
+individuals through TrueType fonts, virtual memory and publish-and-subscribe
+features. System 7.0 also makes the Mac a more potent networking machine. The
+immediate drawback is that 7.0 isn't compatible with all Mac software. For
+some programs, you'll need to get a new System 7.0 version. The reason to look
+forward to System 8 is that 7.0 doesn't have real multitasking and loses in
+some comparisons to personal computers running Windows or OS/2.; On a scale of
+one to four, with one indicating poor and four indicating excellent, here's
+how the product rates:;    Performance: 3 computers;    Ease of use: 4
+computers;    Value: 4 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910526  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  May  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,330  </WORD.CT>
+<DATELINE>  Sunday May 26, 1991
+00147003,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

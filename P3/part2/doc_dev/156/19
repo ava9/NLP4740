@@ -1,0 +1,140 @@
+ID: 156	RANK: 19	SCORE: 10.090917
+<DOC>
+<DOCNO>FT931-8283</DOCNO>
+<PROFILE>_AN-DBSBZAGQFT</PROFILE>
+<DATE>930219
+</DATE>
+<HEADLINE>
+FT  19 FEB 93 / Survey of Personal and Portable Computers (18): Technology
+shift - Operating Software
+</HEADLINE>
+<BYLINE>
+   By PHIL MANCHESTER
+</BYLINE>
+<TEXT>
+THE computer industry is preparing itself for one of its periodic technology
+shifts. In the past these shifts were solely the result of fundamental
+advances in hardware - the inventions of both the transistor and the
+microprocessor are notable examples.
+This time, however, the technology shift is the result of a fundamental
+change in operating system software - the software which controls what goes
+on 'under the covers' and provides the base for applications.
+Improvements in user interface software and in telecommunications, and the
+novel applications they can deliver, demand much more from operating systems
+software than before. Nowadays they must not only control the internal
+workings of the computer they dwell in, they must also take care of the
+complexities of networks and be able to communicate with other systems.
+The stability of the personal computer software industry is, therefore,
+under threat. Microsoft's MS/DOS - with an estimated 150m users worldwide -
+has dominated the PC industry for a decade and fought off every challenge.
+But at the end of 1992 US networking software company Novell declared its
+intent to take over the development of Unix, one of the two biggest
+challengers to MS/DOS. Originally developed by AT&amp;T for minicomputers, Unix
+has been widely adopted as the universal operating system for mid-range
+computers - although it has, for some time, been touted as a possible
+candidate to replace MS/DOS. Through the takeover of Unix Systems
+Laboratories (USL), which was set up in 1991 to co-ordinate development of
+Unix for the industry as a whole, Novell hopes to become the 'custodian' of
+Unix and mount a serious challenge to Microsoft.
+Novell hopes to do this by bringing Unix together with PC networks.
+Novell is in a good position to achieve this. It has established itself as
+the dominant supplier of networking software for personal computer local
+area networks (LANS) with its Netware package. It claims to have about 70
+per cent of this growing market and has itself beaten off a challenge from
+Microsoft - which also has designs on this important market.
+Novell's takeover has other implications - especially in the market for
+corporate computer networks. USL also controls the development of an
+important software product called Tuxedo - a package that can combine
+traditional corporate transaction processing with personal computer
+networking.
+Novell's move has occurred at a time when the limitations of personal
+computer software are becoming increasingly evident. Their lack, both of
+system security and the robustness associated with operating software on
+large computers, has led to close examination of operating system software
+and what it might be required to do in the next decade.
+If Novell combines its successful networking software with the virtues
+offered by Unix and Tuxedo, it could outflank Microsoft.
+It will certainly change the fate of Unix.
+'We see Novell skewing development towards the integration of Unix with
+networks,' says Paul McGuckin, a mid-range computing specialist at market
+researchers Gartner Group.
+'It will concentrate on the kernel, low-level operating software - at the
+expense of the high-level stuff. This could mean that Unix vendors will have
+to be more self-reliant as far as the high-end development is concerned,' Mr
+McGuckin adds.
+The technological intricacies of computer operating systems are generally
+beyond most computer users. Unfortunately, the choice of an operating system
+is as important as the choice of the computer hardware it runs on. Operating
+systems organise the internal workings of a computer and, as a consequence,
+they dictate what the computer can do and what applications software can be
+used.
+The MS/DOS PC launched by IBM a decade ago brought stability for the first
+time and allowed the development of a wide range of applications.
+The success of the graphical user interface (GUI) on the Apple Macintosh
+prompted Microsoft to add the Windows GUI and make significant improvements
+to the original software, but MS/DOS is still outdated and in need of
+replacement.
+Specifically, MS/DOS has failed to make any impact on the world of networked
+systems - the area where Novell dominates.
+The final result of the conflict is far from clear. Microsoft continues to
+improve MS/DOS and is in the process of developing Windows/NT - an entirely
+new contender. IBM continues to promote OS/2 with varying degrees of
+success. And, the many versions of Unix - including AIX from IBM itself -
+vie with each other for dominance.
+Mr Brian McBride, IBM UK's AIX marketing director, sees Novell's takeover of
+Unix as 'healthy' because it brings stability to Unix. 'We see it as a
+different implementation that we can communicate with. None of use can
+afford to lock each other out in a networked world and we are all being
+driven to standards-based inter-operability.'
+Mr McBride is confident about IBM's ability to integrate Unix, PC networks
+and corporate computing - in addition to maintaining links with other
+systems.
+Where it could come into conflict with Novell, however, is in the area of
+transaction processing and USL's Tuxedo - an increasingly important part of
+the link between personal and corporate computing.
+'You can link a DOS/PC into Unix systems with Tuxedo. It is an open
+transaction processing system,' explains Ms Gillian Mogg Smith a consultant
+at USL.
+'Linking it with Novell is a separate issue. But we have already done much
+work with Novell with the UnixWare development,' she adds.
+Tuxedo dominates the open transaction processing market - but IBM is hot on
+its heels. IBM's rival to USL's Tuxedo is a Unix-based version of its
+25-year-old CICS teleprocessing package. Developed originally for
+mainframe-based on-line processing, CICS is a well-established and mature
+piece of software with about 33,000 principal sites across the world.
+Last year IBM announced CICS/6000, a version which will run under AIX/Unix
+and allow personal computers to act as 'client' terminals to an
+enterprise-wide computer system. IBM has licensed CICS to Hewlett Packard,
+which will build a 'reference' version to work on other manufacturers'
+mid-range Unix systems.
+According to the Gartner Group, this sector is set to expand rapidly in the
+next three years. It says that the total market for mid-range transaction
+processing was worth only Dollars 190m last year. By 1995 it will be worth
+Dollars 3bn worldwide - with Tuxedo and CICS/6000 taking more than 50 per
+cent of the market between them.
+This is rich ground for a battle between IBM and Novell. It also seems
+likely that Microsoft - while having no obvious plans to get into this area
+ -will certainly be keeping an eye on it.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XAZ  World.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7373 Computer Integrated Systems Design.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>MKTS  Market shares.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IX
+</PAGE>
+</DOC>

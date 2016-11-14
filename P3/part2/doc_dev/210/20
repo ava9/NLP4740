@@ -1,0 +1,131 @@
+ID: 210	RANK: 20	SCORE: 8.160423
+<DOC>
+<DOCNO>FT944-1881</DOCNO>
+<PROFILE>_AN-ELSBYAD4FT</PROFILE>
+<DATE>941217
+</DATE>
+<HEADLINE>
+FT  17 DEC 94 / Perspectives: Learner drivers on the superhighway - In part
+two of a series, Paul Taylor tells how beginners can sign on to on-line
+computer information services
+</HEADLINE>
+<BYLINE>
+   By PAUL TAYLOR
+</BYLINE>
+<TEXT>
+Armed with a personal computer and a modem, the world of on-line information
+is just a telephone line and a mouse click away.
+Once on the 'information superhighway' the possibilities are almost
+limitless. From weather forecasts to astro physics, there are few subjects
+not covered on the internet or in what has become known as 'cyberspace'.
+The internet itself is an informal system linking more than 7,500 individual
+computer networks and more than 2m computers in academic institutions,
+companies and other organisations.
+It is used mostly for electronic mail (e-mail) and information exchange by
+an estimated 25m to 30m people - a figure rising by between 5 and 10 per
+cent a month.
+But the internet is not the only source of on-line information. There are
+thousands of bulletin board systems (BBS) mostly run by computer
+enthusiasts, and a wide range of commercial on-line information services.
+So how does the novice begin to explore this world?
+The traditional route has been the local BBS - an electronic notice board on
+which messages can be left. Most BBS's also enable users to send (upload) or
+receive (download) software and other data.
+A BBS is run by 'sysops' (systems operators), who are usually computer
+enthusiasts to help 'newbies' - newcomers to the world of PC communications.
+BBS telephone access numbers - the numbers used by communications software
+to connect a home PC modem to the BBS modem - are often listed in computer
+magazines.
+Most on-line systems, although not CompuServe, expect your communications
+software to be set to the following parameters: eight bits, no parity, one
+stop (or 8,N,1) and support a number of different 'protocols' or modem
+communications languages, for downloading computer files. Among the most
+common protocols are Xmodem, Zmodem, Ymodem and Kermit.
+Usually there is no charge - other than ordinary telephone charges - for
+logging on to an amateur BBS. There are, however, also a growing number of
+commercial BBS, most of which advertise in magazines, which charge for
+downloading programs (and sometimes pornographic pictures), or can only be
+reached via premium-priced telephone numbers.
+Although it is reasonably easy to set up communications software and a modem
+to dial into a BBS, many new users may find it easier to start with one of
+the commercial information services such as CompuServe Information Service
+(CIS) or Delphi, or a commercial conferencing system such as the Computer
+Information eXchange (CIX).
+Although most of these services started in the US they are now available via
+a local call in the UK. Their big advantage over the neighbourhood BBS is
+that they have helpful telephone 'hotlines' ready to talk new users through
+their first tentative steps along the information superhighway.
+These services generally charge a join-up fee and then a flat monthly
+membership fee of between Pounds 6 and Pounds 10. However, in an effort to
+sign up new customers, they often waive the sign-up fee and offer potential
+users free trials.
+To sign up with CompuServe call 0800-289378 or log on to 0171-490 8881 by
+modem with the parameters set to 7,1,E; for CIX call 0181-390 8446 or log on
+to 0181-390 1255 with the parameters set to 8,N,1; for Delphi call 0171-757
+7080.
+New customers usually receive membership kits which, in addition to a local
+access telephone number and a password - needed to log on to their master
+computer - usually include a manual and, in the case of CompuServe, a
+dedicated software package called Cim (CompuServe Information Manager),
+which is available in DOS, Windows and Macintosh versions.
+Although initial charges are low, it is easy to build up a sizeable bill
+quite quickly. Commercial on-line services generally charge a flat monthly
+fee, and an additional fee for information outside their basic services,
+plus, in the UK at least, the PC user will have to pay telephone call
+charges.
+To reduce costs, most commercial on-line services give customers local
+numbers which can be used to access their services.
+There are also special software packages called off-line readers, or OLRs,
+that enable you to prepare before the communications software connects to
+the service and the meter starts ticking. Using an OLR such as NavCis for
+CompuServe or Ameol and WigWam for CIX, a one-hour session can be reduced to
+a few minutes on-line.
+Commercial on-line services also provide one of the simplest methods of
+connecting to, and sampling the internet. For example CIX, CompuServe and
+Delphi allow their subscribers to send and receive e-mail to and from other
+internet addresses. They also provide access to Usenet newsgroups - there
+are around 10,000 Usenet 'discussion groups' on the internet. And CIX and
+Delphi provide access to a special IP (Internet Protocol) prompt.
+This means users can search for files on remote computers and upload or
+download files from other computers connected to the internet using file
+transfer protocol (ftp) via the on-line service.
+At present however, the commercial on-line services in Britain stop short of
+providing 'full' internet access. In particular they do not provide access
+to one of the most exciting areas of the internet - the World-Wide Web.
+Since its creation in 1992 the World-Wide Web has become the fastest-growing
+internet service, with more than 3,000 Web sites and tens of thousands of
+documents published by academic institutions, companies and governments.
+But to access the Web, the fledgling cybernaut needs a direct internet
+connection - available from a specialised telecommunications company, called
+an internet service provider. Direct internet access also involves running a
+communications program called a TCP/IP stack (the internet's networking
+protocol) and setting up for full direct access to the Internet can be
+tricky.
+Fortunately, however, internet service providers have begun to provide
+software - or make it available for downloading. For many new users this may
+be a key factor in choosing a service provider.
+Part 3 on January 7: choosing an internet service supplier and internet
+software
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7375 Information Retrieval Services.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Services &amp; Services use.
+    COSTS  Service costs &amp; Service prices.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page III
+</PAGE>
+</DOC>

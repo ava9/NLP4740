@@ -1,0 +1,131 @@
+ID: 258	RANK: 62	SCORE: 7.662730
+
+<DOC>
+<DOCNO> SJMN91-06287020 </DOCNO>
+<ACCESS> 06287020 </ACCESS>
+<DESCRIPT>  COMPUTER; SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  MPC IS HERE, the new multimedia personal computer standard.;   For years,
+people have been looking forward to personal computers that could combine
+text, graphics, animation, sound, music, voice and video in education,
+training and business programs. Some computers and some programs used several
+of those media. Very few could handle them all.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  EARLY MPC IS OK BUT AWKWARD  </HEADLINE>
+<MEMO>  Hardware Review; Phillip Robinson is an author of books and articles about
+computers and an editor for Virtual Information of Sausalito.; Additional
+information attached to the end of this article.  </MEMO>
+<TEXT>     The Amiga had an early lead in video and sound, but the more popular
+Macintosh overtook it in many arenas. The IBM Personal Computer was a no-show
+in the multimedia race, without the hardware or software to handle sound or
+video.;   Last November, AT&amp;T, CompuAdd, Creative Labs, Fujitsu, Headland,
+Media Vision, NEC, Olivetti, Tandy and Zenith announced plans to build PCs
+that could handle multimedia.;   IBM and Compaq weren't part of this
+collection, but the members did have some authority of their own. AT&amp;T,
+CompuAdd, NEC, Olivetti, Tandy and Zenith are famous for their PC-compatible
+systems. Creative Labs makes the most popular PC audio plug-in board, to give
+PCs the ability to make and edit noises, music and even voice. Fujitsu,
+Headland and Media Vision are known for their PC video hardware.;   By March,
+Philips (famous for CD-ROM optical disk technology and other consumer
+electronics) and Microsoft (maker of the DOS and Windows systems software and
+a big fan of CD-ROM technology) joined the group.;   An official MPC trademark
+was announced. (The MPC specification basically describes a PC that can run
+Microsoft's Windows efficiently because the system software beneath multimedia
+would be "Windows with Multimedia Extensions." The spec also calls for added
+audio and CD-ROM hardware.);   Now those companies are selling MPC systems and
+software. I got an early look at one of CompuAdd's MPC systems, and I think
+it's both exciting and awkward.;   The CompuAdd Multimedia 320sc (CompuAdd,
+$3,195, (800) 627-1967) meets the MPC specification and has a few extras
+thrown in. CompuAdd is one of those mail-order companies that has quickly
+grown from nothing to hundreds of millions of dollars in sales through great
+prices and good service on complete IBM-compatible PCs.;   The 320sc starts as
+a PC-compatible with a 386sx processor running at 20MHz. That's a pretty good
+speed for basic Windows work. The MPC spec only requires a 286 processor, but
+I wouldn't settle for that or even for a 16MHz 386sx. Speed is important when
+you're processing the huge flows of information that make up sophisticated
+audio and video. And if you're going to develop multimedia, not just absorb
+it, you'll want the power of a 486 processor.;   Along with the 386sx, you'll
+find two megabytes of RAM in the 320sc. That's what the spec calls for, but I
+think you should have at least four megabytes for multimedia work under
+Windows. Besides, memory is only about $45 a megabyte now.;   There's also a
+32K memory cache in the 320sc, which will help the processing speed.;   The
+320sc has three drives: a 3 1/2-inch floppy drive, an 80MB hard disk drive and
+a CD-ROM drive. The spec calls for that floppy drive and at least 30MB of hard
+drive, but the 80MB will be much more practical, especially if you're using
+your MPC for regular computing work such as spreadsheets and word processors.;
+  The CD-ROM drive is three times faster than the spec demands, reading
+typical information in only 350 milliseconds instead of a full second. CD-ROMs
+are vital to full multimedia because sound and video information take up lots
+of disk space, far more than a typical hard disk could hold.;   The MPC
+specification calls for VGA video, which I see as a sad minimum. The 320sc
+contains a Super-VGA adapter that gives a bit more resolution and color than
+that minimum.;   MPCs need a keyboard, a mouse, a serial port, a parallel
+port, a MIDI port (for music information) and a joystick port. The CompuAdd
+has all of these.;   Finally, to handle the "audio" side of multimedia, MPCs
+need audio hardware that can handle noises, music synthesis and audio mixing.
+The CompuAdd 320sc gets its sound from a plug-in audio board. CompuAdd throws
+in speakers and a microphone.;   For software, the 320sc comes with Windows
+and the multimedia extensions already installed. CompuAdd is promising a
+special additional program called the "Rack," which simulates traditional
+stereo controls, offering on-screen dials and buttons to choose channels and
+set volume. I didn't get to see this, but I like the idea.;   The CompuAdd
+320sc meets the MPC specification and pushes beyond it in a few areas: faster
+processor, larger hard disk, more audio and video features, special "Rack"
+software and bundled speakers. CompuAdd is also promising some interesting
+options, such as an AM/FM radio receiver board and a TV receiver board. That's
+the good news.;   The not-so-good news is that the MPC standard is truly a
+minimum. Most people working with multimedia soon will want more power, memory
+and video than you'll find even in the CompuAdd machine. And from my
+experience, they'll want it more smoothly integrated. I expected to be able to
+just drop a CD-ROM disk into the drive and watch an encyclopedia or game with
+video, sounds and other "wow!" features appear on screen.;   Instead I had to
+use DOS commands to install things, puzzle through unexplained Windows
+utilities, and muck about plugging in speaker wires.;   I'm also concerned
+about the price. If you figure the CD-ROM drive costs about $500 and the audio
+board several hundred more, I'm not sure $3,195 is such a good price for a
+386sx machine, even with those things tossed in.;   And that's what this and
+all other MPCs are at root: just plain-old DOS PCs with added audio and a
+CD-ROM drive. You can even build your own MPC, adding to your current PC,
+using the upgrade kits that CompuAdd and most other MPC companies will offer.;
+  When the multimedia does appear on screen and through the speakers, you may
+have the same "this is what computers should do" feeling I get. But multimedia
+and MPC won't become the truly universal coin of computing that some predict
+until it is more affordable and less awkward.;   If you must have an MPC now,
+then the CompuAdd is a decent choice, but I would wait, especially for home
+use by those not familiar with PCs and Windows, until the MPC folks set a
+higher standard for easy use. Or I would just add the media I need to a
+standard PC: plug in an audio board, substitute a better video board and so
+on.; CompuAdd Multimedia 320sc.  $3,195. From CompuAdd, 12303 Technology
+Blvd., Austin, TX 78727. (800) 627-1967.; Summary: The CompuAdd 320sc
+Multimedia personal computer is one of the first systems to appear with the
+new MPC trademark. This indicates it meets the official MPC standard, a
+minimum of software and hardware abilities for multimedia agreed upon by a
+dozen important PC hardware and software companies. The 320sc is really just a
+386SX-based PC with an added audio board, a CD-ROM drive and the multimedia
+extensions to Windows. The 320sc works well and offers a faster CD-ROM drive
+than you'll find in just any MPC, along with free speakers and a microphone.
+But its price isn't anything special, and the way its software works (though
+admittedly just as the MPC spec calls for) is too awkward. If you must have an
+MPC now, then the CompuAdd is a decent choice, but I would wait, especially
+for home use by those not familiar with PCs and Windows, until the MPC folks
+set a higher standard for ease of use.; On a scale of one to four, with one
+indicating poor and four indicating excellent, here's how the product rates:;
+Performance: 3 computers; Ease of use: 2 computers; Value: 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911013  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  October  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,341  </WORD.CT>
+<DATELINE>  Sunday, October 13, 1991
+00287020,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

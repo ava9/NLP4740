@@ -1,0 +1,121 @@
+ID: 205	RANK: 58	SCORE: 18.145638
+<DOC>
+<DOCNO>FT944-7040</DOCNO>
+<PROFILE>_AN-EK0AOACPFT</PROFILE>
+<DATE>941126
+</DATE>
+<HEADLINE>
+FT  26 NOV 94 / Open sesame, system: Computer hackers are less of a risk
+than lax security over passwords
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+Shadowy figures answering only to bizarre pseudonyms; secret meetings in
+lonely cellars at dead of the night; electronic black boxes dialling endless
+sequences of telephone numbers in the hope of making a connection. This is
+the stuff of hacker mythology, the heroes of the computer revolution whose
+main aim in life is to break into computer systems.
+Their motivation, it seems, is not personal gain but to test their ingenuity
+against the best defences computer scientists can build round their systems.
+This week, hackers were in the limelight once more with a report from The
+Independent newspaper that British Telecommunications' principal computers,
+used to store its customer records, had been hacked into. Some of the
+country's most sensitive unlisted telephone numbers - including MI5, MI6,
+Downing Street and Buckingham Palace - were found and sent to a freelance
+journalist, Mr Stephen Fleming, over the Internet, the global information
+superhighway.
+It was hardly the first time a telecommunications operator had been
+compromised. In 1988, a hacker nicknamed 'Prophet' broke into BellSouth's
+centralised automation system in Atlanta - Prophet was eventually sent to
+prison after being caught with incriminating material.
+But the BT case has been unusually public. Not since the Duke of Edinburgh's
+el-ectronic mail box was hacked into in the early 1980s has there been so
+much of a furore over the security of computer data. And computer abuse has
+grown considerably since then.
+Earlier this year, the Audit Commission reported a 300 per cent increase in
+the past three years in all forms of computer abuse, including fraud, theft,
+hacking and the unauthorised disclosure of personal data.
+BT accepted that information had been taken from its system, and instituted
+an immediate review of its security measures. But it denied that its
+computers had been 'hacked'. This position depends to some extent on a
+definition of hacking.
+Most people take it to mean using clever methods to overcome the system's
+defences. But Mr Fleming, who obtained temporary employment at BT, is quoted
+as saying: 'To my amazement I found passwords were openly distributed.'
+Computer security experts everywhere will have shaken their heads wearily at
+these words. The BT affair has confirmed, yet again, their collective view
+that poor password discipline is the biggest single cause of computer
+security breaches.
+People like to believe in the hacker mythology; they like the mystery and
+the taste of electronic wizardry. But it serves to distract attention from
+the fact that computer security in most commercial organisations is poor or
+non-existent.
+KPMG Peat Marwick, the business consultancy, surveyed some 138 large
+companies this year; the results show that almost 30 per cent of companies
+either did not report or investigate breaches of computer security. Many
+could not even say with certainty whether their systems had been attacked.
+Some 27 per cent were either unsure or stated categorically that their
+networks were not secure from unauthorised use.
+Mr Gerry Penfold, KPMG partner with responsibility for computer audit, said:
+'It seems that companies continue to be oblivious of the commercial risks
+they are running, choosing to ignore obvious dangers.'
+BT now faces an investigation by the data protection registrar. Under the
+principles of the Data Protection Act, any companies with personal
+information about customers on their computers have to take reasonable care
+to keep that information confidential. Breaking a principle of the act is
+not in itself a criminal offence; but if a company ignores the registrar's
+advice on future security procedures, it could be liable for prosecution.
+Such security is largely a matter of commercial compromise. Companies can
+have as much security as they are prepared to pay for. These levels are
+spelt out in the US in the Department of Defence Orange Book and in Europe
+in the EU's White Book.
+A password provides some security. The addition of a call-back mo-dem, so
+that users are called back by the computer, provides more. And double,
+triple or greater combinations of passwords offer more security still.
+The most sensitive government computer systems also have boxes built around
+each terminal to stop people using a scanner to read the radio frequencies
+that they emit.
+But, essentially, systems are at most risk from their users. A virtually
+secure system is possible, but the expense and inconvenience of guaranteeing
+password discipline is usually impracticable. Most organisations settle for
+password combinations.
+And in practice, groups of people often share passwords to make
+administration easier. Others write them down - not unreasonably, in some
+cases. Professor Henry Becker of Zergo, a security consultancy, cites a bank
+with 40 passwords and identity codes.
+The problem is really a cultural one. There is a lack of awareness of the
+need for security. People who would never think of going out for lunch
+leaving the cash drawer open, leave a computer terminal on and unattended
+without a second thought.
+As the Audit Commission has said: 'As information technology becomes a
+normal part of the employees' work pattern, there is a risk of almost casual
+disregard in protecting data. Managers and users must understand the value
+of data and protect it before it gets lost or damaged - deliberately or
+accidentally.' If the message gets home, hackers will have to win their
+spurs the hard way.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7375 Information Retrieval Services.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Safety &amp; Standards.
+    CMMT  Comment &amp; Analysis.
+    TECH  Services &amp; Services use.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 11
+</PAGE>
+</DOC>

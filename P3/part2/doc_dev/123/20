@@ -1,0 +1,108 @@
+ID: 123	RANK: 20	SCORE: 4.698638
+
+<DOC>
+<DOCNO> SJMN91-06213198 </DOCNO>
+<ACCESS> 06213198 </ACCESS>
+<CAPTION>  Diagram; DIAGRAM: Los Angeles Times; Solution to a mathematical mystery?;
+Despite centuries of effort, mathematicians have been unable to prove that the
+most efficient way to arrange spherical objects is to stagger the layers so
+that each object sits in the depression formed by those below. UC Berkeley's
+We-Yi Hsiang has shown the validity in a 150-page proof of fJohannes Kepler's
+1611 postulate.; To position round objects most efficiently on a flat surfact,
+they should be arranged so that each touches six others as in this view from
+above.; Greengrocers know that to stack oranges most efficiently, each one
+should be placed in the depression formed by the oranges below it.  </CAPTION>
+<DESCRIPT>  COLLEGE; BERKELEY; RESEARCH; RESULT  </DESCRIPT>
+<LEADPARA>  A mathematician from the University of California, Berkeley, says he has
+proved a theorem that has mystified scientists for 380 years.;    The theorem,
+put forth by astronomer Johannes Kepler in 1611, involves the most efficient
+way to pack round objects in a square box.  </LEADPARA>
+<SECTION>  Front  </SECTION>
+<HEADLINE>  PACKING THEORY GETS A WORKOUT
+MATHEMATICIAN OFFERS PROOF OF AN OLD IDEA  </HEADLINE>
+<TEXT>     Greengrocers have known intuitively for hundreds of years that the best way
+to pack oranges, for example, is to stagger the layers so that each orange
+sits in the depression formed by three oranges below it. Kepler theorized that
+a denser arrangement is not possible, but mathematicians have never been able
+to prove it despite nearly four centuries of strenuous effort.;    In 15
+months of work that has resulted in a 150-page printed proof, Wu-Yi Hsiang has
+been able to show that Kepler and the greengrocers were right.;    The proof,
+however, has implications far beyond packing: The theorem governs a broad
+spectrum of the behavior of matter, ranging from why snowflakes have hexagonal
+shapes to how metal and other crystals are formed.;     If the proof, now
+circulating among other mathematicians, survives scrutiny, "Hsiang will have
+achieved one of the most astonishing successes in the entire history of
+mathematics," mathematician Ian Stewart of the University of Warwick said.;   
+Hsiang, who has been on the campus for 23 years, is a well-respected
+topologist, a researcher who studies the mathematics of surfaces. He became
+interested in the Kepler problem, he said, when he volunteered to teach an
+undergraduate course on classical geometry.;    Kepler, who achieved his fame
+for formulating the laws of planetary motion, discovered the problem when he
+began thinking about the exquisite six-sided symmetry of snowflakes. In a
+pamphlet that was a New Year's present to his sponsor, John Wacker, he reached
+the heart of the problem: Is symmetry imposed on snowflakes by something
+outside them or is it inherent in the nature of the water molecules from which
+it is formed?;    Assuming it was the latter, he began considering the way
+that spheres (most simple molecules are roughly spherical) can pack together.;
+   Two ways to layer;  To begin with, there are two ways to arrange a layer of
+spheres in two dimensions -- such as on a tabletop. In the first, the spheres
+are aligned in perpendicular rows so that each sphere touches four neighbors.
+In the second, the rows are staggered so that each sphere touches six
+neighbors -- which are at the corners of a hexagon. Kepler predicted that the
+second arrangement provided the densest possible packing, but even that
+seemingly simple idea was not proved mathematically until 1892, 281 years
+after Kepler formulated it.;    The problem becomes more difficult when
+extended to three dimensions, as when an orange crate is packed. There are
+then two ways to add more layers to the first. In one, each new sphere is
+placed directly above a sphere in the bottom layer. In the other, each new
+sphere is placed in the depression between three spheres in the lower layer.; 
+  Kepler calculated that in the first arrangement, only a little more than 60
+percent of a box is filled with fruit. The second arrangement, widely used for
+packing fruit and other round objects, is visibly denser -- 74.04 percent of
+the space is filled with fruit, Kepler found.;    The question then becomes to
+prove mathematically that this is the maximum possible density. Is there any
+other arrangement of the spheres that increases their density? Kepler said no,
+but was unable to prove it. Neither had anyone else until now.;    The problem
+that blocked previous proofs, Hsiang said, is that the entire field of
+spherical geometry was poorly developed. "Essentially, I had to develop
+spherical geometry to the level needed to solve the problem," he said. That
+meant developing many new spherical geometry theorems to provide the
+intellectual framework necessary to produce the ultimate proof.;    "That's
+why the proof is so long," he noted.;    The proof is also unusual in that, at
+a time when computers are playing an increasingly important role in
+mathematics, Hsiang worked largely without one. "There are still a lot of
+mathematical problems that need ideas that don't come from a computer," said
+UC-Berkeley mathematician Shiing-Shen Chern. "Computers are very fast, but the
+basic ideas must come from humans.";    'Happy enough';  Is Hsiang's proof
+correct? No one yet knows for sure, wrote Stewart in a recent issue of New
+Scientist magazine, but "The mathematical community seems happy enough to
+accept that it probably is.";    And what does the theorem have to do with
+snowflakes? Kepler intuited that when large numbers of tiny particles, such as
+water molecules or metal atoms, aggregate, they automatically create geometric
+regularity. The water molecules that form the core of a snowflake adopt the
+same form of dense hexagonal packing used by greengrocers. As the snowflake
+grows, the symmetry is retained.;    Now, Hsiang has apparently brought the
+problem full circle by providing the first mathematical proof of Kepler's
+idea. In the process, he has shown geometricians that there is a lot that they
+did not know about spheres.  </TEXT>
+<BYLINE>  THOMAS H. MAUGH II, Los Angeles Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910731  </PUBDATE> 
+<DAY>  Wednesday  </DAY>
+<MONTH>  July  </MONTH>
+<PG.COL>  1A  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<FEATURE>  DIAGRAM  </FEATURE>
+<STATE>  CA  </STATE>
+<WORD.CT>  954  </WORD.CT>
+<DATELINE>  Wednesday July 31, 1991
+00213198,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG
+FRONT  </LANGUAGE>
+</DOC>

@@ -1,0 +1,143 @@
+ID: 156	RANK: 17	SCORE: 10.133352
+<DOC>
+<DOCNO>FT942-575</DOCNO>
+<PROFILE>_AN-EF1DKAHNFT</PROFILE>
+<DATE>940628
+</DATE>
+<HEADLINE>
+FT  28 JUN 94 / Survey of Computer Networking (7): The battle intensifies -
+Race to supply new operating systems software - The emerging mid-range
+systems market has now become the main battleground for the new strand of
+operating system development
+</HEADLINE>
+<BYLINE>
+   By PHILIP MANCHESTER
+</BYLINE>
+<TEXT>
+Operating systems software occupies a pivotal position in modern computer
+systems. Not only does the choice of operating system define the computer
+hardware - it also defines the application.
+The choice of operating systems platform has, in effect, replaced the choice
+of hardware for users.
+While in the past, there was always a danger that computer users could
+become dependent upon their hardware supplier, over the last decade the
+emphasis has shifted to the operating system platform supplier. This has
+become increasingly confusing for users and software developers who are
+looking for a stable platform on which to build applications.
+The result has been a bitter public conflict among operating system
+suppliers, each hoping to gain dominance in the market.
+This conflict dates back to the mid-1980s when the virtues of common
+operating environments were first recognised.
+The success of IBM's Personal Computer (PC) along with Microsoft's MS/Dos
+created a large, homogeneous software product market for the first time.
+Previously, every computer came with its own operating environment - making
+it impossible to move application software from one machine to another
+without significant changes.
+The MS/Dos PC changed this and allowed a new breed of mass market software
+developers such as Lotus, Novell and Microsoft to dominate personal computer
+software.
+Towards the end of the 1980s, these and other software producers saw that
+the same approach could be taken to build software for larger systems -
+either in the form of PC networks or client-server systems.
+The need emerged, therefore, for an operating environment which could
+deliver the same advantages as a PC operating system, while coping with the
+greater complexity of multi-user systems.
+It is this emerging mid-range systems market which has become the main
+battleground for the new strand of operating system development. There is no
+shortage of contenders. Microsoft is in pole position with the extended
+version of its successful Windows-MS/Dos operating system for the PC.
+Known as Windows NT, it is claimed to be the natural migration path for
+single PC users who want to move into multi-user networked systems.
+Microsoft aimed to sell a million copies by the end of its first year and,
+while this target has proved to be ambitious, Microsoft has managed to get
+close to it. More significantly, sales of the original Windows are now about
+50m worldwide and growing quickly. Microsoft's main rival comes from a
+combination of Novell and other Microsoft competitors who back various
+flavours of the Unix operating system originated by AT&amp;T's Bell laboratories
+in the 1970s. Unix has the advantage of a long history of supporting
+multiple users and wide backing across the industry.
+Most hardware manufacturers offer a Unix platform - although they are not as
+consistent as they should be in conforming to the standards. Unix has
+managed to gain some success in the mid-range systems market and a good
+portfolio of applications software now exists for it.
+The other main rival to Windows NT is OS/2 - an operating system developed
+originally by both Microsoft and IBM. When it was announced in 1987, it was
+designed to replace MS/Dos. But after slow initial success, IBM and
+Microsoft went their separate ways - leaving IBM to continue OS/2
+development on its own. OS/2 has attracted a solid core of established large
+IBM customers because it fits in well with their existing systems.
+The OS/2 operating systems has an estimated four million users worldwide -
+but has had little success outside the IBM market.
+These three - Windows NT, Unix and OS/2 - are the main contenders in the
+operating systems conflict and each faction has embarked on a campaign to
+attract firstly, application software developers and, secondly, end-user
+companies.
+The conflict is further confused, however, by the emergence of a new strain
+of object-oriented operating systems. Apple's Macintosh, for example, has
+attracted attention - although it is limited by its ties to Apple's
+hardware.
+Apple founder Steve Jobs left to form Next Computer in the late 1980s,
+creating yet another potential rival operating environment. Next has built a
+version of its Nextstep object-oriented system for the PC and, again, has
+scored some success in niche markets.
+Another object-oriented environment has grown out of a joint venture between
+Apple and IBM under the Taligent name. Taligent promises to improve
+development productivity with its operating system - although it will be
+some time before it its ready for the market.
+The primary task of all of the contenders in the operating system battle is
+to woo software package developers. MS/Dos was successful because Microsoft
+was able to persuade a large number of application builders to base their
+packages on it.
+Software developers are sanguine about operating systems, however, and many
+have accepted that, unlike the MS/Dos market, they will have to back several
+different options.
+'We have taken the view that the operating system is irrelevant to the
+end-user and are working to hide it,' explains Mr Ketan Karia, director of
+marketing at application software tool specialist Cognos UK.
+'We aim to make our tools work across a range of operating systems but we
+are concentrating on Unix and Windows NT at the moment.' Mr Derek Masters,
+managing director of Sterling Software UK, comes at the problem from a
+different angle. As a veteran software supplier to the IBM mainframe market,
+Mr Masters says his company has been driven by customers moving from
+mainframe-based systems to networked systems.
+'Three years ago our customers were entirely mainframe based. Now they have
+lots of Unix, Windows and OS/2 systems which they want attached to their
+mainframes. We have had to change our products to cover the whole range.'
+Sterling's products involve managing communications and data storage across
+an enterprise and must, therefore, be capable of coping with any operating
+environment which might be connected to the network.
+'Microsoft is in a strong position with Windows NT - although we find our
+traditional customers favour OS/2 because of its IBM background. Then again
+we see Unix creeping in - especially in applications which use electronic
+data interchange (EDI),' Mr Masters adds.
+In theory, users should not have to worry about operating systems and, in
+the long term, it seems likely that much of burden caused different
+environments will be shouldered by tool builders.
+Meanwhile, software developers and users will have to accept that they must
+keep an eye on all of the main contenders - and maybe some of the
+'also-rans.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P737  Computer and Data Processing Services.
+    P48   Communications.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Services &amp; Services use.
+    CMMT  Comment &amp; Analysis.
+    TECH  Products &amp; Product use.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IV
+</PAGE>
+</DOC>

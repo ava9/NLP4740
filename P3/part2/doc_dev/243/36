@@ -1,0 +1,104 @@
+ID: 243	RANK: 36	SCORE: 15.156631
+<DOC>
+<DOCNO>FT943-7096</DOCNO>
+<PROFILE>_AN-EHYDMACVFT</PROFILE>
+<DATE>940825
+</DATE>
+<HEADLINE>
+FT  25 AUG 94 / Technology: Pioneers on the barcode trail - Vanessa Houlder
+reports on a system that has earned its stripes
+</HEADLINE>
+<BYLINE>
+   By VANESSA HOULDER
+</BYLINE>
+<TEXT>
+Barcodes, it seems, have become ubiquitous. The machine-readable panels of
+black and white stripes are being used to identify everything from newborn
+babies to pension books.
+Yet barcodes have drawbacks, notably in the amount of information that can
+be squeezed on to a label, which is usually restricted to a simple
+identification number. In an attempt to pack in more data, manufacturers
+have been working on a new generation of codes which store information in
+two dimensions.
+These codes, which are capable of storing information 100 times more densely
+than their one-dimensional counterparts, have been used in applications
+ranging from military security passes to labelling parts on the space
+shuttle.
+The latest company to announce plans to launch a 2D barcode is Tec (UK), a
+subsidiary of Toshiba, the Japanese corporation. Its Data Matrix system,
+which can store up to 2,000 bytes of information per code, will come on to
+the UK market next month.
+Its system has little in common with the conventional barcode, in which data
+is represented by a pattern of bars and spaces, which can be scanned by
+laser and fed into a computer. The Tec system works by putting raw data into
+binary code and representing it in the form of dark and light squares in a
+matrix - creating what looks like a blank crossword puzzle. To decypher the
+code, a reading machine takes a photograph of the image, which is then
+decoded.
+The company believes that the system's potential uses include keeping
+records for hospital patients, keeping track of components on production
+lines, and verifying the identity of document holders.
+A similar system has already been introduced by Veritec, a Calfornian
+developer. The Veritec system was spotted by Nasa when it was attempting to
+improve its method of identifying parts in the space shuttle. By marking the
+Veritec codes directly on parts, Nasa was able to bypass steps where a human
+would manually transfer serial numbers, thus reducing the risk of human
+error.
+Another advantage of the system was that it was suitable for marking very
+small parts, since the mechanism for reading the code includes a camera with
+a lens capable of magnifying the image. The technology also stood out by
+producing marks on delicate components that were capable of being read after
+being exposed to outer space.
+A different technology underpins the two-dimensional system designed by
+Symbol Technologies. Its system, which it describes as a portable data file,
+consists of a series of codes stacked upon each other. A single code can
+contain up to 1,750 characters, compared with around 13 on a traditional
+barcode.
+The system which was launched commercially two years ago, is being used to
+mark the uniform of US fire fighters with their identification and medical
+history. Symbol Technologies has also experimented with marking blood bags
+with the donor's blood group, the blood's expiry date and centre of origin.
+The system is being used in security passes by the US Department of Defence
+and will be used by policemen working at the Conservative party conference
+in October.
+Few developers expect the 2D barcode to replace the traditional barcode. The
+traditional one-dimensional systems are relatively cheap and effective and
+have already commanded substantial investment.
+None the less, the champions of 2D codes firmly believe that their
+technology will open up new applications. 'It is the most exciting thing
+that has ever happened to barcoding,' believes Brian Marcel, managing
+director of Bar Code Systems, a UK distributor of Symbol Technology's
+system.
+Yet so far, the uptake of 2D barcoding has been relatively slow. The
+barriers are not due to cost or technology, says Marcel. Rather, the
+acceptance of 2D systems depends on potential users' vision and willingness
+to be pioneers, he says. 'No one likes to be first.'
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Tec (UK).
+    Symbol Technologies Inc.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+    USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3577 Computer Peripheral Equipment, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 10
+</PAGE>
+</DOC>

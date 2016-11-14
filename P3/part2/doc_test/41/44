@@ -1,0 +1,102 @@
+ID: 41	RANK: 44	SCORE: 7.2887
+<DOC>
+<DOCNO>FT943-5307</DOCNO>
+<PROFILE>_AN-EIECYACMFT</PROFILE>
+<DATE>940905
+</DATE>
+<HEADLINE>
+FT  05 SEP 94 / Media Futures: National security tap dance - Motoko Rich
+reports on the battle over Internet-based encryption codes
+</HEADLINE>
+<BYLINE>
+   By MOTOKO RICH
+</BYLINE>
+<TEXT>
+Officials in most countries would agree that the recent spate of plutonium
+smuggling poses a serious threat to international weapons security, and want
+to prevent the build-up of nuclear material in the storage banks of would-be
+nuclear states or international terrorist groups.
+In some countries, governments are not just worried about nuclear weapons.
+They fear that encryption codes - programs for scrambling private messages -
+can be deadly in the hands of potential enemies.
+During World War II the Enigma code, the German encrypting machine, which
+the Allies cracked and used to eavesdrop on Nazi communications, was a vital
+key in the Allied victory.
+But today, just as plutonium is frighteningly simple to transport in a
+suitcase, encryption codes are easily transmitted via the Internet, the
+global computer network, where there are no national borders and no customs
+agents to stop smugglers.
+These codes consist primarily of complicated computer software which
+scrambles electronic messages and requires 'keys' - extended versions of the
+familiar ATM pin number - to decode them. With the explosive use of the
+Internet for both personal and commercial reasons, security has become a
+major issue and such codes offer comfort to users worried about their
+privacy.
+Businesses want such codes to protect their sensitive data. Civil rights
+advocates argue that encryption codes are essential to guard against
+unwanted surveillance. Human rights organisations in the former Soviet
+Union, South America and Burma are said to be using computer cryptography to
+protect their Internet messages from the eyes of the police.
+On the other hand, some governments argue that if encryption codes are
+widely available on the Internet, any individual or group - including
+potential terrorists or enemy states - will also be able to protect their
+messages from national security organisations.
+In the US, the government demonstrated this argument in its proposals for
+the Clipper Chip, an encryption code developed by the National Security
+Agency which would have allowed computer users to scramble their messages
+but would also have allowed law enforcement or intelligence agencies to tap
+in.
+But many software authors have developed sophisticated programs which
+incorporate encryption technology that is virtually uncrackable. It is this
+technology that governments fear.
+In the US, it is against federal law to export strong encryption codes. For
+the past 18 months, a US federal grand jury in San Jose, California has been
+investigating whether Philip Zimmermann, author of the computer software PGP
+ -for Pretty Good Privacy - had a role in putting his cryptographic software
+on the Internet and thus allowed it to be exported.
+Zimmermann denies having loaded PGP on the Internet, though he is pleased
+that the software has circumnavigated the globe and claimed he invented the
+code in part for political reasons.
+'If we allow the government to have the technological power to monitor every
+movement of the political opposition, then the normal mechanisms we have to
+change our government may be neutralised,' he said
+PGP is available commercially in the US from Viacrypt, an Arizona-based
+software company, for Dollars 100. Leonard Mikus, president of Viacrypt,
+believes the government's efforts to ban the export of PGP, or any similar
+technology, is futile because anyone could have put it on the Internet. 'The
+information is now available and there is no way to bottle it up,' he said.
+'Anything you do to try to stop it is artificial.' He said the US's export
+ban merely stymied multinational companies which wanted to use US technology
+to protect their data. Other US firms complain the US law just creates
+unfair competition because other countries, including the UK, are not as
+strict in enforcing export laws on cryptography.
+Phil Dubois, Zimmermann's lawyer, said he could face a prison sentence of up
+to four years if he were convicted by the grand jury. But he said he wasn't
+sure why the government was singling out his client. 'The fact is that this
+sort of software is out on the street in every country,' he said. 'And it's
+not just because someone here has broke the law but because everyone else is
+as smart as us and they have created their own cryptography.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+    P6794 Patent Owners and Lessors.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Patents &amp; Licences.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 14
+</PAGE>
+</DOC>

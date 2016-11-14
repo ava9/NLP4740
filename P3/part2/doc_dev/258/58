@@ -1,0 +1,132 @@
+ID: 258	RANK: 58	SCORE: 7.800853
+
+<DOC>
+<DOCNO> SJMN91-06210075 </DOCNO>
+<ACCESS> 06210075 </ACCESS>
+<DESCRIPT>  SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  I HAVE to tell you about two of the best programs you can find for Macintosh
+or IBM PC computers. They're powerful, easy to use, inexpensive and even fun.
+But, unfortunately, many of you won't have any use for either program in your
+daily computing duties. You see, they're technical programs -- the kind that
+interest propeller-heads. These programs solve equations and analyze data.;   
+Wait. Please don't run away yet.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  A COUPLE OF VERY TECHNICAL TREATS  </HEADLINE>
+<MEMO>  Software Review
+Additional information attached to the end of this article.
+Phillip Robinson is an author of books and articles about computers and an
+editor for Virtual Information of Sausalito.  </MEMO>
+<TEXT>     It's important to know about this kind of software, to see what can be done
+with a personal computer and how even complex tasks can be made simple with
+the right software. If only the average word processor were this
+well-crafted.;    Mathcad 3.0 (MathSoft, $495, (617) 577-1017) solves
+equations and graphs the results. Basically it's a calculator -- but what a
+calculator. This program could make math fun.;    Where any hand-held
+calculator can solve arithmetic problems, and a powerful calculator can tackle
+trigonometry, statistics and business problems, Mathcad can do calculus,
+interpolation, matrices and vectors, linear regression, Fourier series and
+more.;    The way you pose problems to it is so natural. You just click in the
+main Mathcad window, type your equation and press return. Mathcad quickly
+slaps the solution on the screen. You then click on any element in your
+equation, change it, and the result will be recalculated in a snap.;    There
+are scores of built-in functions you can type, from simple trig to Bessell
+functions and matrix manipulations.;    There are even conditional functions
+to help you create flexible equations. You can graph the results in a variety
+of ways, including log plots, plot traces, surface plots and more.;    Then
+you can take those results, including the graphs, save them, cut them out and
+paste them into another program or leave them as a Mathcad window and add text
+comments to explain what you've done. This is a smart blackboard, where you
+scribble equations and watch solutions magically appear.;    The most
+fascinating part of Mathcad are the symbolic solutions. You type a calculus or
+other expression that cannot be solved for a particular value. Mathcad can
+work to simplify or evaluate that expression as much as possible,
+symbolically. Lengthy integrals become no more troublesome than addition or
+multiplication.;    Mathcad comes with an excellent tutorial, lots of on-line
+help, a built-in handbook of common equations and dozens of example equations
+and graphs you can play with.;    Mathcad doesn't eliminate the need to think,
+but it does eliminate the need to sweat out solutions for each possibly useful
+equation. Mathcad alone is a good reason to supply technical professionals and
+students with a personal computer and a math co-processor chip.;    LabVIEW 2
+(National Instruments, $1,995, (800) 433-3488) is the brains of a laboratory
+on a computer screen. It lets you build data acquisition, control and
+presentation instruments as figments of your Mac's imagination. (There's also
+a PC version that runs under Windows.) It all comes from the idea of "virtual
+instruments.";    It works like this. You have a job to do, either collecting
+information from some electric or electronic devices around the lab (or
+mechanical devices that report themselves electronically), analyzing such
+collected information, presenting the results of that analysis, or all three.
+You make a list of the input, what you want to do with the information
+received, what sort of control and feedback you want to have on the equipment
+and in what presentation form you want the final information.;    Without
+LabVIEW 2, you would buy a strip chart recorder to plot the incoming
+information, an oscilloscope to watch the wave form received, a thermometer to
+monitor temperature, a bunch of knobs and dials to let you dictate the signals
+to send back and so on. Then you would try to hook all those things together,
+in some kind of rack, and add electronics to let them intelligently report to
+each other and perhaps to some computer.;    With LabVIEW 2, you hook all of
+the inputs up to your Mac (you'll need input boards for this) and create
+"virtual instruments" for collection, analysis and presentation. You click on
+basic building block icons from LabVIEW's palettes, just as if you were
+drawing rectangles and lines in MacDraw, placing them in a window on screen
+and then connecting them with "virtual wires" to show where signals should
+flow. You add logical instructions, such as "if this temperature exceeds such
+and such a value, light an alarm light" or "when a certain number of data
+points have been collected, proceed to the next virtual instrument." Now you
+have a block diagram that shows how the information is directed.;    Then you
+use more LabVIEW icons to create a front panel for your instrument diagram,
+putting up images of thermometers, knobs, dials, chart recorders, fill
+indicators, LEDs, slides, switches and more.;    If something isn't working
+right, you can change virtual instruments or the virtual front panel in
+minutes instead of the hours or days required of real hardware.;    The
+complete LabVIEW 2 can occupy 20MB of your hard disk, and you may need a class
+or a consultant to learn the most advanced levels of LabVIEW 2 programming.
+Although $1,995 is a bargain price for professionals, it is steep for schools.
+However, I can't help but think LabVIEW 2 is the future for instrumentation
+because its flexibility will make it far less expensive than any hardware
+instrumentation. Because it runs on the Mac or under Windows, you'll be able
+to directly export LabVIEW 2 data results, too, for manipulation by other Mac
+and PC programs.;    Mathcad 3 and LabVIEW 2 both use the graphic interface of
+PCs and Macs to their best advantage. They mimic real-world props and images
+that will help quicken understanding, and also add that magical intelligence
+and malleability to those creations that makes computers so powerful. In a few
+years, I can't see people solving equations or building instruments any other
+way, except out of sentiment or as a one-time educational exercise to learn
+how it could be done by hand.;    Mathcad 3.0, for PC or compatible running
+Windows 3.0. $495. From Mathsoft Inc., 201 Broadway, Cambridge, MA 02139.
+(617) 577-1017.;    LabVIEW 2, for any Macintosh with at least 3MB of free
+hard disk space and 3.5MB of RAM. $1,995. From National Instruments Corp.,
+6504 Bridge Point Parkway, Austin, TX 78730-5039. (800) 433-3488 or (512)
+794-0100.; Summary: Mathcad 3.0 is an equation-solving program for PCs running
+Windows. It is easy to use for anything from elementary-school arithmetic to
+graduate-level analysis, statistics and calculus. You type an equation in its
+window, and Mathcad pops out the solution, graphs the results and asks for
+more. It can handle symbolic equations in algebra and calculus. LabVIEW 2 lets
+you build "virtual instruments" and "virtual front panels" on a Mac or PC
+screen to collect, analyze, control and present data from laboratory
+equipment. It is a programming language where you create instruments and
+panels out of picture icons. Within a few years, this is how all equation
+solving and instrument building will be done, except in museums and as
+practice exercises in classrooms.; On a scale of one to four, with one
+indicating poor and four indicating excellent, here's how the product rates:;
+Mathcad 3.0:; Performance: 4 computers; Ease of use: 4 computers; Value: 4
+computers; LabVIEW 2:; Performance: 4 computers; Ease of use: 4 computers;
+Value: 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910728  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  July  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,270  </WORD.CT>
+<DATELINE>  Sunday July 28, 1991
+00210075,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

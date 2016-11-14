@@ -1,0 +1,80 @@
+ID: 243	RANK: 4	SCORE: 22.617268
+<DOC>
+<DOCNO>FT923-6973</DOCNO>
+<PROFILE>_AN-CHUBJAE0FT</PROFILE>
+<DATE>920820
+</DATE>
+<HEADLINE>
+FT  20 AUG 92 / Technology: Bar-codes take on a new dimension
+</HEADLINE>
+<BYLINE>
+   By KAREN ZAGOR
+</BYLINE>
+<TEXT>
+From the talking cash resisters at Cannata's Food World in Louisiana to the
+high-speed checkout at Sainsbury in London, bar-code technology has become a
+standard feature of modern life.
+The ordinary one-dimensional bar-code works by using a laser to scan a
+pattern of parallel black and white bars and spaces which carry data along a
+single line. The laser scanner reads the information and feeds it into a
+computer.
+Bar-codes have revolutionised inventory management, merchandise shipping and
+parts tracking in industries ranging from general retail to healthcare. They
+speed up the sales process and help businesses keep a tighter control on
+inventory and data.
+Yet the capabilities of today's bar-codes are minuscule when compared with
+the possibilities of the two-dimensional bar-code, which holds so much
+information that it would allow a cash register to play the William Tell
+Overture.
+Two-dimen-sional bar-codes are being tested by a number of companies, and
+the imminent introduction of a new scanner by Symbol Technologies of
+Bohemia, New York, will make them available commercially next month.
+The original bar-code was developed by Joseph Woodland, a former IBM
+employee and Drexel University researcher. Woodland came up with the idea of
+using the rectangular format after seeing the black- and-white patterns of
+motion picture sound tracks and the dash-dot-dash pattern of Morse codes.
+Woodland and his associates started working on the bar-code in 1948, but it
+was not until the 1970s, with the advent of lasers and the drop in computing
+costs, that the technology became inexpensive enough to be commercially
+viable.
+The one-dimensional bar code is practical for processing fairly simple
+information. But its usefulness is limited by the fact that only 20-30
+characters per inch can be squeezed on to a standard label. Symbol
+Technologies has developed a two-dimensional bar-code which can store
+roughly 100 times more information in the same space.
+The company's PDF417 bar-code works by reading the rows and columns. 'With
+one-dimensional codes, the information in the height is redundant,' says Rob
+Durst, senior director of PDF business development at Symbol Technologies.
+'With two-dimensional codes, there's additional information in the height.'
+Other two-dimensional bar-codes work by stacking a large number of
+one-dimensional bar-codes on top of each other. A high-speed laser scanner
+weaves through the stack until it has covered all the rows.
+The PDF417 functions like a portable data file or disposable, paper-based
+computer memory. It eliminates time-consuming manual data entry, and with it
+an element of human error. In addition, Symbol Technology's two-dimensional
+bar-code has an error correction formula to help recover a full message if
+part of the code has been torn off.
+'We started out inventing a bar-code which developed into a portable data
+file, and now we have a full-blown data communications protocol for paper,'
+explains Durst.
+Symbol Technologies says its two-dimensional bar-codes will greatly increase
+the speed of moving and receiving goods, but the possible applications for
+the medical and hazardous waste industries are even more substantial.
+In the case of hazardous waste, two-dimensional bar-codes could contain
+warnings, storage details and disposal instructions, as well as
+identification. They could also include emergency instructions, allowing
+almost instant clean-up of a toxic waste spill.
+For the medical community, doctors in remote regions would be able to get a
+patient profile from scanning a bar-code, without needing access to a
+central database.
+'It's not going to be a revolution you'll notice in 1993,' says David
+Nelson, an analyst at Lehman Brothers, 'but conceptually it's clear that
+two-dimensional bar-codes will become very common over the next decade and
+should nearly supplant one-dimensional bar-codes.'
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 12
+</PAGE>
+</DOC>

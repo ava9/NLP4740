@@ -1,0 +1,120 @@
+ID: 258	RANK: 86	SCORE: 6.916234
+<DOC>
+<DOCNO>FT932-6858</DOCNO>
+<PROFILE>_AN-DEZCHAG0FT</PROFILE>
+<DATE>930526
+</DATE>
+<HEADLINE>
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software &amp; Services
+(8): Small is beautiful - Memory card technology
+</HEADLINE>
+<BYLINE>
+   By GEOF WHEELWRIGHT
+</BYLINE>
+<TEXT>
+PERSONAL computer owners have been used to the idea of systems that seem to
+get smaller, faster and more powerful every year - but recent advances in
+hard disk drive and add-on memory card technology have accelerated the pace
+of this development tremendously.
+One example of this is a new device that is smaller than an average
+matchbox, weighs less than two ounces and can store the equivalent of 14,389
+typed pages. Developed by Hewlett- Packard last year, it is one of the
+world's smallest hard disks - able to store 21.4 Megabytes of data in a card
+that is only 2 inches long, 1.44 inches across and 0.4 inches high.
+Known as the HP Kittyhawk Personal Storage Module (PSM), it is typical of
+the growing number of computer add-ons that are only a little larger than
+the average credit card. These peripherals are typically fast, slick,
+expensive and small. The computer industry is so convinced that users want
+these tiny devices that they are developing them in unprecedented numbers.
+Over the past year these credit card-sized add-ons for palmtop and notebook
+computers has been produced to conform with the Personal Computer Memory
+Card Industry Association standard. They include cards that add hard disks,
+network connections, modems and other crucial functions to tiny PCs. The
+PCMCIA expansion slot is basically a 68-pin tiny replica of the AT expansion
+bus used in most 386 and 486 desktop computers.
+PCMCIA was formed in 1989 as a non-profit trade association aimed at
+establishing a worldwide memory card standard for the PC industry. The
+standard defines the size, pin assignments, electrical requirements,
+protocols and file formats of credit card-sized add-on cards. More than 130
+manufacturers, semiconductor companies, software suppliers and systems
+integrators have joined the PCMCIA, which two years ago reached an agreement
+with Japanese standards group JEIDA on adoption of the specifications.
+The PCMCIA membership list is impressive. The group's executive members
+include Fujitsu, Intel, IBM, Microsoft, Mitsubishi, Polaroid, Poqet, Sharp,
+Texas Instruments and Toshiba. Associate and affiliate members include
+Apple, Commodore, Compaq, Epson, Lotus Development, Motorola and
+WordPerfect. The breadth of support the group appears to enjoy across the
+industry could make it succeed where similar previous attempts have failed.
+According to Mr Bruce Sinclair, Dell Computer vice-president for Northern
+Europe, PCMCIA has been successful because it offers practical sense for the
+computer industry while helping out computer users at the same time.
+He says that producers of portable and hand-held computers no longer have to
+'re-invent the wheel' every time they want to add new capabilities to the
+systems. With PCMCIA, chances are that a third party company has already
+designed that part that is needed to make a new solution possible. 'It is
+one of those solutions that makes sense for everyone - being able to add
+specialist communications functions designed to a common standard is just
+brilliant for everyone.'
+Assuming that PCMCIA becomes established as a standard, the question arises
+of what PCMCIA cards will be able to do. To start with, their abilities were
+very modest - offering only 128K of storage. Within the past year, 1 and 2
+Mb PCMCIA cards have become more common - and 4 Mb are now starting to be
+offered.
+But PCMCIA is not just a standard confined to defining silicon storage.
+Slots conforming to the standard can be designed to be used as general
+purpose expansion slots - using six spare pins on the interface that cater
+for input/ output devices such as network adaptor cards and modems.
+Despite having to do far more than just provide memory, these cards are the
+same physical format as the current memory cards. The commitment to produce
+such devices is demonstrated by the membership of Intel, Hayes (the modem
+manufacturer) and 3Com in the PCMCIA group.
+Release 2.01 of the PCMCIA specification, issued early this year, includes a
+refined 'execute in place' facility - which allows software companies not
+only to put their software onto PCMCIA cards, but also include on the card
+the RAM needed for the application - so that on a PC-compatible handheld
+machine, for example, you can run Lotus 1-2-3 without using up any of the
+system RAM on your pocket PC.
+Release 2.01 also offers better support for flash memory and improved low
+voltage operation. Further definitions are provided for the input/output
+capability of the cards - which, its developers say, is similar to that of
+an extended industry architecture expansion bus on a PC. By 'multiplexing'
+on the 68 pin connectors, you can now plug in cordless communications
+systems (such as pagers), network cards, modems and other devices.
+The final issue is a psychological one. How many users or corporations will
+be willing to pay Dollars 500 to Dollars 1,000 for add-ons that bring
+capabilities to handheld computers that they can get much more cheaply in
+desktop systems? Also, there is likely to be resistance to expensive add-ons
+that are so small they can easily be lost through a hole in a suit jacket -
+or even left on the bus by accident.
+The best advice for those buying PCMCIA cards is to think of them as you
+would of any other add-on circuit board for your desktop system. Buy from
+reputable dealers and get them to install your PCMCIA cards - just as you
+would add-on cards for the inside of your existing personal computer. That
+will ensure you treat the equipment with the respect it needs to survive
+life in a pocket or notebook PC. By comparing the PCMCIA version of the
+add-on with the same item for a desktop system, you get a good idea of the
+price premium you'll pay for 'going portable'.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XAZ  World.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P3577 Computer Peripheral Equipment, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page III
+</PAGE>
+</DOC>

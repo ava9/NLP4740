@@ -1,0 +1,129 @@
+ID: 214	RANK: 35	SCORE: 9.606683
+<DOC>
+<DOCNO>FT942-4315</DOCNO>
+<PROFILE>_AN-EFJCMACXFT</PROFILE>
+<DATE>940610
+</DATE>
+<HEADLINE>
+FT  10 JUN 94 / Technology: Flights of fancy put safety first - Increasingly
+sophisticated aircraft simulators are becoming more like the real thing
+</HEADLINE>
+<BYLINE>
+   By BERNARD SIMON
+</BYLINE>
+<TEXT>
+Flying conditions around Seattle were far from ideal on the last day of May.
+The area was blanketed with snow and a strong wind was gusting as the pilot
+lined up his Boeing 777 for a tricky landing at the aircraft maker's
+airfield on the outskirts of the city.
+The aircraft descended steadily towards the parallel beads of runway lights
+blinking in the distance. But just before touchdown, green-grey patches of
+ice became visible on the tarmac. Some of the aircraft's tyres failed to
+grip the surface. The nose lurched from side to side as the pilot struggled
+to bring the aircraft to an unsteady stop.
+This story has some obvious flaws. The chances of finding snow in Seattle on
+May 31 are almost zero. What is more, the twin-engined Boeing 777 has yet to
+fly. Its maiden flight is expected to take place within the next few days,
+with customer deliveries due to start only in May 1995. But Boeing's
+test-pilots have been notching up flying hours on the 777 for the past six
+months thanks to a simulator at CAE Electronics' factory in Montreal.
+Without leaving the ground, the pilots have flown in and out of airports
+around the world, experiencing the sights, sounds and turbulence of
+snowstorms, thunderstorms, air pockets and almost every other flying
+condition.
+CAE Electronics, a division of CAE of Toronto, claims a 50 per cent share of
+the world market for aircraft simulators, including 10 of the 13 orders
+placed so far for Boeing 777 devices. The other three 777 orders have gone
+to CAE's main rival, Rediffusion, a UK-based division of Thomson, the French
+electronics group.
+Like the aircraft they reproduce, simulators have grown increasingly
+sophisticated. Pilots' experience on a simulator now helps decide which
+systems and instruments are installed in a new aircraft. 'We fly our
+simulators before Boeing flies its planes,' says Adrian Gale, CAE
+Electronics' marketing director. 'We'll pick up bugs on an avionics sweep
+before Boeing does.'
+But the technological advances have one drawback: as the simulator
+experience gets closer to the real thing, so does its price. One of CAE's
+full-flight simulators currently costs about CDollars 15m (Pounds 7.2m) to
+Dollars 20m.
+As a result, airlines are turning to simplified versions, known as flight
+training devices (FTDs). These recreate specific parts of an aircraft's
+system without the frills and thrills of a real flight. For instance,
+maintenance system trainers, comprising little more than two chairs, two
+computer screens and a console, reproduce only those instruments needed for
+engineers to diagnose an aircraft's inner workings from the cockpit.
+Full-flight simulators, which look like windowless space capsules, do much
+more than reproduce an aircraft's cockpit and instruments.
+Hydraulically-powered struts which form the base of the simulator can propel
+the bulbous module in six directions, including a pitch and roll of up to
+30'.
+Simulator makers go to extraordinary lengths to make flights on their
+machines as close to the real thing as possible. One of CAE's helicopter
+simulators is fitted with a shaking pilot's seat as well as the normal
+banking, pitching and rolling mechanisms. By pumping air into cushions
+behind and underneath a fighter pilot's seat, CAE mimics the G-forces felt
+in steep climbs and tight turns. Take-offs and landings feature appropriate
+real-time bumps and engine sounds.
+The biggest advance in recent years, however, has been in the
+computer-generated visual systems which project images of airports,
+landmarks, scenery and weather conditions likely to be encountered during a
+flight.
+The latest version of CAE's Maxvue visual system, installed in the 777, has
+five separate channels giving a total horizontal field of vision of 210' and
+a vertical field of 40'. The pilot and co-pilot can thus see true-to-life
+images out of all the cockpit windows. When taxiing, for instance, they can
+see another aircraft approaching from the side. The vertical view allows
+them to see slightly above and below the plane, which is especially useful
+in banking manoeuvres. CAE has fitted its helicopter simulators with two
+extra channels to give a straight-down view.
+CAE has developed visual-system databases for almost 40 airports around the
+world. Each one, taking up 5 gigabytes of disk storage, reproduces the
+topography and landmarks within a 15-mile radius of the airport and, in much
+greater detail, its runways and terminal buildings.
+The database is compiled from digitised satellite and aerial photos and
+maps. These are augmented with on-the-spot observations by the software
+experts who design the system and suggestions from the pilots who will use
+it. Few details have been forgotten. The wind sock at the end of the runway
+in Hong Kong billows in the same direction as the wind registered on the
+cockpit instruments. The rotors of a hovering helicopter churn up the sea
+below.
+But computer-generated scenery has its limitations. CAE has yet to master
+three-dimensional imaging, and the sharpness of the pictures does not match
+the human eye. Although the number of polygons (or shapes) which can be
+fitted on each channel has jumped from 1,000 to about 5,500 in the past
+three or four years, this is still not enough to cover every detail.
+Customers thus have to make choices. The criterion, often a subjective one,
+is what is of most importance to the pilot. As the Boeing 777 descends over
+Seattle, the city's Space Needle tower and the main highways are clearly
+visible from the cockpit. But there are no cars on the roads. The scene may
+be surreal, but it is a comforting reminder that no matter how bad the
+weather conditions outside, this flight will be landing safely.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>CAE Electronics.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+    CAZ  Canada.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3699 Electrical Equipment and Supplies, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 16
+</PAGE>
+</DOC>

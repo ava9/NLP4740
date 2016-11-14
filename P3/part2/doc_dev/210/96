@@ -1,0 +1,105 @@
+ID: 210	RANK: 96	SCORE: 5.132765
+<DOC>
+<DOCNO>FT933-1583</DOCNO>
+<PROFILE>_AN-DIWC2ADBFT</PROFILE>
+<DATE>930923
+</DATE>
+<HEADLINE>
+FT  23 SEP 93 / Technology: Novell plan falls at final hurdle - Geof
+Wheelwright and Alan Cane report on a stalled Unix deal
+</HEADLINE>
+<BYLINE>
+   By GEOF WHEELWRIGHT and ALAN CANE
+</BYLINE>
+<TEXT>
+Last-minute objections from leading computer suppliers have delayed, for the
+time being, a move which would have redrawn the battle lines in the
+so-called operating systems wars.
+Novell, the US-based market leader in PC networking, which earlier this year
+completed a Dollars 320m (Pounds 208m) acquisition of Unix Systems
+Laboratories from AT&amp;T, had planned to 'give away' the rights to the Unix
+operating system to X/Open, a computer industry consortium including IBM,
+Hewlett-Packard and Sun Microsystems. X/Open is concerned to set standards
+which ensure that versions of Unix from different manufacturers are
+compatible and allow applications software to be moved freely between
+machines.
+Now objections by a number of the companies which would have been affected
+by the deal have stalled Novell's plan to relinquish the rights to Unix. The
+idea had been that passing control of Unix to an industry consortium would
+silence critics who argue that control of such an important piece of
+software should not rest with any one company.
+It is understood the objections turn around disagreements over who will fund
+further Unix developments and questions about the future of networking
+software independently developed by companies in the X/Open consortium.
+Intense lobbying means that it is likely the plan will eventually go ahead,
+but in the interim Novell has announced a plan to: 'Bring PC market
+economics to the Unix marketplace.'
+Unix is one of a number of competing operating systems which are being
+promoted as the key to 'client-server' computing, networks of personal
+computers and servers which are expected to take over from mainframe
+computers for many corporate applications. Unix allows many users to work on
+the same computer system and individual users to work on several programs
+simultaneously. Designed originally for mid-range computers, it is effective
+on today's very powerful reduced instruction set computing (Risc)
+processors.
+Its principal rival as industry standard operating software is Windows NT,
+released a few weeks ago by Microsoft, the US software house which dominates
+personal computer software.
+Novell said earlier this week that in order to increase the appeal of Unix
+to the personal computer sector it would speed up the integration between
+Unix and Novell's own 'NetWare' network operating system.
+In practical terms this means that Novell's own version of Unix, UnixWare,
+will be incorporated into the Unix source code written for Intel
+microprocessors. Intel chips power some 80 per cent of today's personal
+computers.
+By 1994, according to Novell, it will be able to provide common network
+management, system directories and other features which will allow NetWare
+and Unix to be tightly integrated. This means that computer companies
+building systems around Unix will not have to worry about designing new
+network software connections; that will be handled by the Unix/NetWare
+specification.
+In other words, it should be easier to build enterprise-wide information
+management systems - existing local area networks running on NetWare can be
+more simply integrated with Unix software at the heart of the system.
+The new software will be submitted to X/Open for its approval. Novell hopes
+to gain in market share and market unity what it will lose in development
+autonomy. Ray Noorda, Novell chief executive, said: 'Novell bought the Unix
+system to lead the industry in unifying it, while increasing its openness
+and strengthening its value to customers through volume distribution. Our
+business is to extend the value of the Unix system to the tens of millions
+of industry-standard computers shipped with Intel processors.'
+This week ICL, the UK-based manufacturer owned by Fujitsu of Japan and a big
+supporter of X/Open, said it supported the Novell UnixWare strategy and
+welcomed its decision to offer to move control of Unix to the consortium.
+Peter Stuart, business strategy manager for ICL's client-server systems
+division, said it would result in a significant reduction of confusion in
+the market.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Novell Inc.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+    P3571 Electronic Computers.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+    TECH  Products &amp; Product use.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 14
+</PAGE>
+</DOC>

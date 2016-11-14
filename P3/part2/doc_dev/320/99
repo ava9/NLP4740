@@ -1,0 +1,333 @@
+ID: 320	RANK: 99	SCORE: 6.919801
+
+<DOC>
+<DOCNO> FBIS4-20675 </DOCNO>
+<HT>    "jpjst018__l94004" </HT>
+
+
+<HEADER>
+<AU>   JPRS-JST-94-018L </AU>
+JPRS 
+Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Japan Wastewater Treatment Technologies </ABS>
+<DATE1>   18 April 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Waste Water Recycling Technology Using a Rotary Disk Module </TI></H3>
+<HT><F P=107><PHRASE>    Waste Water Recycling Technology Using a Rotary Disk Module </PHRASE></F></HT>
+
+<F P=102>   43070065D Yokohama Proceedings of the IDA and WRPC World 
+Conference on Desalination and Water Treatment in English 3-6 </F>
+
+
+
+<TEXT>
+Nov 93 pp 251-258 -- FOR OFFICIAL USE ONLY 
+<F P=103> 43070065D </F>
+<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+Conference on Desalination and Water Treatment </F>
+
+<F P=105>  English </F>
+CSO 
+
+<F P=106> [Article by N. Ohkuma, M. Ohnishi, and Y. Okuno of Hitachi </F>
+Plant Engineering &amp; Construction Co., Ltd., 537 Kami-hongo, 
+Matsudo-shi, Chiba 271, Japan] 
+  [Text] 
+<H5>  Abstract </H5>
+  Rotary disk modules, developed for the separation of highly 
+concentrated activated sludge, can be used in place of 
+biological settling ponds to efficiently recycle sewage or waste 
+water. Applied to sewage treatment, the rotary disk module 
+allowed us to consistently obtain recycled water of T-N &lt; 5 
+mg/l, BOD &lt; 2 mg/l, SS trace. When the module was applied to 
+cafeteria waste water treatment, we were able to obtain recycled 
+water of BOD &lt; 2 mg/l, SS trace. Flux through the module was, 
+in both cases, able to be maintained at 1.5 
+m[.sup]3[/]/m[.sup]2[/]d while filtering liquid of 10 to 
+15 g/l MLSS. 
+<H5>  Introduction </H5>
+  As pollution in closed water regions grows worse and urban 
+redevelopment becomes more extensive, it becomes all the more 
+urgent to recycle sewage and commercial building waste water. 
+Here, the Ministry of International Trade and Industry conducted 
+a six-year (1985 through 1990) project, Research and Development 
+on General Recycling Systems for Water. In conjunction with 
+this, the authors supervised a project, Research and Development 
+on Biological Nitrogen Removal Technique, directed at developing 
+membrane reactors for sewage recycling. In the field of water 
+treatment, membrane reactors have been utilized for grey water 
+production devices[.sup]1[/] that combine membrane treatment 
+with the activated sludge process. However, while this approach 
+does have its advantages, it is limited by the large amount of 
+power required to membrane-separate the highly concentrated 
+activated sludge. 
+  Here, we created a rotary disk module[.sup]2[/] for the 
+low-power separation of highly concentrated liquid and, in 
+extension, developed a membrane reactor that combines this with 
+the biological nitrogen removal process. In this paper, we 
+introduce this rotary disk module and the newly developed 
+membrane reactor for sewage treatment. In addition, we access 
+the performance of this system as applied to the recycling of 
+cafeteria waste water and compare its cost to that of 
+tubular-type modules. 
+<H5>  2. Design of the Rotary Disk Module </H5>
+  A conventional membrane module circulates the treatment 
+liquid at a high flow rate so as to obtain a rapid flow at the 
+membrane surface and a high flux through the surface. However, 
+much power is consumed, because the pressure loss within the 
+module is correspondingly high (i.e., a higher pressure is 
+maintained than what is required for filtration alone). As 
+opposed to this, rotating the membrane would, we thought, allow 
+us to maintain a high liquid flow rate at the membrane surface 
+without having to maintain high pressure. Therefore, relatively 
+little power would be required to run the system. 
+  The water collection mechanism of a rotary disk module is 
+shown in Figure 1. A membrane disk, comprised of two support 
+plates covered with a membrane over their surface, is fastened 
+to a hollow rotary shaft which acts as a water collection tube. 
+Filtering is carried out while the shaft rotates. To modularize 
+the system, it is of course necessary to increase the filling 
+density of the membrane by attaching many such disks to the 
+rotary shaft. However, merely adding on extra disks decreases 
+the flux through the surface by approximately one-half in a 
+liquid having a high concentration of microorganisms. Here, 
+installing baffle plates between the disks restores the flux to 
+very nearly what it would be with only one disk.[.sup]3[/] 
+
+<FIG ID=JPRS-JST-018L-18A>      Figure 1. Water Collection Mechanism of Rotary Disk Module </FIG>
+
+
+  The engagement-type module (Figure 2) utilizes the disks of 
+an adjacent rotary shaft in place of the baffle plates. Here, 
+two shafts comprise one module. Not only is membrane filling 
+density increased with this arrangement, but turbulent flow at 
+the membrane surface is encouraged, thereby increasing the flux. 
+
+<FIG ID=JPRS-JST-018L-18B>      Figure 2. Engagement-Type Rotary Disk Module </FIG>
+
+
+<H5>  3. Advanced Sewage Recycling System (a part of the Aqua </H5>
+Renaissance '90 Project) 
+  3-1. Experimental Apparatus 
+  The experimental apparatus is comprised of a nitrogen 
+removal 
+tank (1.25 m[.sup]3[/]), a nitrification tank (1.25 
+m[.sup]3[/]), and a rotary disk module (Membrane Area 7.44 
+m[.sup]2[/]). Standard treatment capacity is 10 
+m[.sup]3[/]/d. Retention time in the bioreaction tank was set 
+at 6 hours. The rotary disk module consisted of two shafts, each 
+with 12 disks of 500mm in diameter. The membrane was made out of 
+a polysulfone. The data presented here was taken when using 
+membranes having a cut-off molecular weight of 600,000. 
+  The types of raw water were tested: sewage (case 1); water 
+from methane-fermentation of sewage (case 2); and water from SS 
+separation and from SS methane-fermentation of sewage (case 3). 
+Flow paths and operating results are shown in Table 1. Figures 
+for water quality shown in the table are average values 
+throughout the operating period. 
+
+<FIG ID=JPRS-JST-018L-19A>      FIGURE </FIG>
+
+
+  3-2. Membrane Reactor Effectiveness 
+  The rate of nitrogen removal in the activated sludge process 
+increases with an increase in the recirculation ratio. Figure 3 
+[not reproduced] presents data showing the effect of 
+recirculation ratio in a membrane reactor. In both cases 1 and 
+2, we see that, relative to theoretical removal rates for 
+conventional processing, higher removal rates were obtained even 
+at lower circulation rates. This is because of (a) nitrogen 
+removal in the nitrification tank due to a higher concentration 
+of microorganisms and (b) removal by the membrane of nitrogen 
+components resulting from SS. Here, we note that using membranes 
+is very effective. Furthermore, the very high rate of nitrogen 
+removal observed in case 2 is due to nearly complete 
+nitrification and denitrification resulting from efforts to 
+remove nitrogen after nitrification. 
+  The microorganisms had been acclimated from some time back, 
+so this trial did not last long. Even so, we did achieve stable 
+operation from the 15th to 70th day, producing, with retention 
+times of 3 to 6 hours, treating water having 5 ml/l or less of 
+T-N and 2 mg/l or less of BOD. Furthermore, the amount of excess 
+sludge in this period was one-fifth of that resulting from 
+conventional process. 
+  Operating results for case 2 are shown in Figure 4 [not 
+reproduced]. From the 150th day of operation, we began adding 
+ammonium chloride to the raw water to increase the nitrogen 
+load. Even with this, we were able to maintain stable operation 
+throughout the year. In average values throughout the year, 
+water quality was 31.3 mg/l total nitrogen and 9.5 mg/l BOD for 
+the raw water and 0.93 mg/l nitrogen and less than 2 mg/l BOD 
+for the treated water -- the treated water was fully able to be 
+recycled. Very little excess sludge was generated during the 
+operating period, and nitrogen was removed very efficiently. 
+Furthermore, use of the rotary disk module forestalled any 
+problems with flow blockage or the like -- the membrane reactor 
+operated very smoothly. 
+  3-3. Membrane Module Performance 
+  Figure 5 [not reproduced] shows the change with time in flux 
+upon continuous operation. Nearly the same flux is obtained in 
+cases 1 and 2. In case 2, a flux of 1.5 
+m[.sup]3[/]/m[.sup]2[/]d was obtained over 180 days of 
+operation without chemical cleaning. The pressure at this time 
+was low at 0.09 MPa, and the concentration of microorganisms in 
+the module was 12 to 15 g/l. The power required to draw water 
+through the membrane at this time (cutoff molecular weight = 
+600,000, motor efficiency = 85 percent, pump efficiency = 60 
+percent) was about 1 kWh/m[.sup]3[/]. By this, we confirmed 
+that we could separate highly concentration liquid with 
+relatively little power. 
+  3-4. Comparison With Conventional Method 
+  Table 2 presents a comparison for sewage between the 
+conventional process (nitrified liquor recycling activated 
+sludge process[.sup]4[/]) and the newly developed membrane 
+reactor. Because a high concentration of microorganisms was able 
+to be maintained with the membrane reactor, treatment time could 
+be reduced by about two-thirds, even at low temperatures, and 
+the volume of excess sludge was reduced by about four-fifths. 
+The newly developed system consistently produced water of a 
+quality -BOD = 2 mg/l max., T-N = 5 ml/l max. -- significantly 
+higher than that produced by the conventional system. These and 
+other results demonstrate the effectiveness of membrane 
+reactors. However, it should be mentioned that the membrane 
+reactor is probably not advantageous if the water is to be 
+discharged after treatment -- it is only economically feasible 
+when the treated water is to be recycled. 
+
+<FIG ID=JPRS-JST-018L-20A>      FIGURE </FIG>
+
+
+<H5>  4. Cafeteria Waste Water Recycling System </H5>
+  4-1. Experimental Apparatus and Methods 
+  Figure 6 shows the flow of the experimental apparatus 
+(treatment capacity: 3 m[.sup]3[/]/d). The raw water is waste 
+water from a cafeteria within the Matsudo Works of Hitachi Plant 
+Engineering and Construction. After screening (2.0mm mesh) and 
+oil separation (in a tank), the raw water is fed into a 
+bioreaction tank (0.8 m[.sup]3[/]) for anaoxic and oxic 
+treatment. Afterwards, the water is fed to a rotary disk module 
+for solid/liquid separation. By this, treated water is obtained 
+for recycling. Concentrated liquid from the module is fed back 
+to the anaoxic tank. As treated water is removed from the 
+system, an equal quantity of raw water is fed into the 
+bioreaction treatment tank. 
+
+<FIG ID=JPRS-JST-018L-21A>      Figure 6. Cafeteria Waste Water Recycling System Flow </FIG>
+
+
+  The rotary disk module is comprised of two rotary shafts; 
+the 
+disks on one shaft run between the disks of the other. In this 
+experiment, disk diameter is 500mm, and each shaft has six 
+disks. The membrane is made of a polysulfone; the cutoff 
+molecular weight is 750,000. A constant volume pump was attached 
+to the treated water line (offtake) of the rotary disk module. 
+The water was pulled through the membrane by the suction force 
+of this pump. No chemical cleaning was performed within the 
+period of this experiment. 
+  4-2. Results of Continuous System Operation 
+  The experimental apparatus was run in such a way that BOD-SS 
+load was kept at 0.15 kg/kg-d. Figure 7 [not reproduced] shows 
+the progression in flux over two months in continuous operation; 
+Table 3 shows the results of water quality measurements taken 
+over that period (``raw water'' in the table refers to water at 
+the inlet of the biological treatment tank). At this time, 
+liquid temperature in the biological treatment tank was 25 to 
+33ÎC, and MLSS was controlled to about 10 g/l. From Table 3, 
+we note that high removal rates of over 90 percent were obtained 
+for all water quality items and that the treated water was of a 
+quality sufficient for recycling. Through this experiment, we 
+have confirmed the efficiency of membrane treatment -- flux in 
+the rotary disk module averaged 1.5 
+m[.sup]3[/]/m[.sup]2[/]d, and simple screening was enough 
+to prevent any problems from blockage by foreign objects. 
+
+
+
+  Table 3. Water Quality Under Continuous Operation 
+
+Item           Units       Raw water         Treated water     Removal 
+                           average (range)   average (range)   rate (%) 
+
+
+BOD            mg/l        390 (248-575)     1.9 (1.2-3.1)     99.5 
+
+SS             mg/l        109 (34-303)      &lt; 1               &gt;  99.1 
+
+n-hexane       mg/l        32.8              &lt; 2               &gt;  93.3 
+extract                    (15.2-89.5) 
+
+pH             -           6.10              7.12              - 
+                           (5.54-6.91)       (6.60-7.66) 
+
+T-N            mg/l        11.7              0.88 (0.24-2.1)   92.5 
+                           (9.21-14.6) 
+
+COD            mg/l        126.9 (98-228)    7.4 (6.2-8.6)     94.2 
+
+
+  4.3. Running Cost 
+  Table 4 presents a comparison of running costs between a 
+rotary disk module and a tubular membrane module. Equipment 
+depreciation and maintenance costs are not included. Because the 
+rotary disk module, in comparison to the tubular membrane 
+module, requires less power for filtration and has a higher 
+flux, costs for power can be reduced by about half and costs for 
+membrane changes can be reduced by about two-fifths. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 4. Running Cost Comparison (treatment capacity: 200 m[.sup]3[/]/d)   | 
+------------------------------------------------------------------------------- 
+|                         |Rotary disk              |Tubular type             | 
+------------------------------------------------------------------------------- 
+|Power costs (%)          |25.3                     |47.9                     | 
+------------------------------------------------------------------------------- 
+|Membrane replacement cos-|30.4                     |50.2                     | 
+|ts (%)                   |                         |                         | 
+------------------------------------------------------------------------------- 
+|Chemical costs (%)       |0.04                     |1.9                      | 
+------------------------------------------------------------------------------- 
+|Total                    |55.74                    |100.0                    | 
+------------------------------------------------------------------------------- 
+
+
+<H5>  5. Summary </H5>
+  Advanced sewage recycling system (a part of the Aqua 
+Renaissance '90 Project) 
+  (1) The use of a biological nitrogen removal process has 
+enabled us to obtain recycled water of T-N &lt; 5 mg/l, BOD &lt; 
+2 
+mg/l, SS trace. 
+  (2) By maintaining the microorganism concentration in the 
+bioreaction tank at 10 to 15 g/l, we have succeeded in 
+shortening the treatment time to one-third of that required by 
+the conventional biological nitrogen removal method. 
+  (3) With the rotary disk module, we have achieved stable 
+performance and high flux. We also showed that it is possible to 
+drive the rotary disk module with less power than required for a 
+plate &amp; frame-type module. 
+  Cafeteria waste water re-use system 
+  In continuous operation, we obtained a stable supply of 
+recycled water with a good quality of BOD &lt; 2 mg/l, SS trace. 
+Also, we were able to maintain a flux of approximately 1.5 
+m[.sup]3[/]/m[.sup]2[/]d without chemical cleaning. 
+<H5>  6. Literature Cited </H5>
+  1. K. Misaki: Grey water systems using membrane bioreactors, 
+Heating Pipe and Air Conditioning 23 (11), pp 94-99 (1985). 
+  2. H. Masuda et al.: Study of the UF module with a rotary 
+disk membrane, the 1987 International Congress on Membranes and 
+Membrane Processes Proceedings, pp 395-396 (1987). 
+  3. N. Ohkuma et al.: Application of a rotary disk membrane 
+type UF module to the activated sludge process, ibid., pp 
+408-409 (1987). 
+  4. K. Mori: Advanced treatment at Kasumigaura, Journal of 
+Japan Sewage Works Association (318), pp 18-21 (1990). 
+
+</TEXT>
+
+</DOC>

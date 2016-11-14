@@ -1,0 +1,124 @@
+ID: 210	RANK: 86	SCORE: 5.263049
+<DOC>
+<DOCNO>FT924-13963</DOCNO>
+<PROFILE>_AN-CJMCIACWFT</PROFILE>
+<DATE>921013
+</DATE>
+<HEADLINE>
+FT  13 OCT 92 / Survey of Computers and Communications (1): Paths to open
+systems clear - As telecommunications and computing converge, the drive
+towards seamless networked systems is speeding up and the large vendors are
+at last backing the introduction of an industry-wide set of rules
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+THE SLOW but inevitable convergence of computing and telecommunications is
+providing the motive force for an implosion of new information processing
+practices and technologies.
+A lexicon of neologisms has emerged to label these concepts: enterprise-wide
+computing, co-operative computing, client-server architectures,
+plug-and-play environments, rightsizing.
+What they all amount to is new ways of describing a concept more than a
+quarter of a century old: distributed data processing or ddp, the idea that
+computer power can be spread throughout an organisation if it can be
+contained in small enough packets. For many companies it means substituting
+a large number of small computers connected in networks for a small number
+of larger machines.
+International Business Machines (IBM), the world's largest computer
+manufacturer and staunchest defender of data processing centred on mainframe
+computers, is joining in. Last month among a raft of new communications
+products it announced adaptors (special circuit boards) that allow portable
+computers unprecedented access to corporate information systems as well as
+announcing plans that could see CICS, its flagship transaction processing
+software, dominating the open - or vendor independent - systems environment.
+The range of issues now encompassed by distributed data processing is
+bewilderingly broad. At one end of the spectrum is the dilemma of how to
+manage very large data networks, now the biggest concern among information
+technology managers. At the other, the question of which operating system
+should prevail in the open data processing environment of the late 1990s.
+It is also providing the dynamo for the growth of a large number of
+entrepreneurial companies which were quick to recognise the possibilities of
+computer communications. These include Novell, the leader in software for
+personal computer networking and 3Com and Cisco which specialise in
+'internetworking', providing the hardware and software which allows local
+and wide area networks to talk to one another.
+These developments are taking place against a background of the worst
+instability the computer industry has known. Prices are tumbling as improved
+technology cuts the cost of components. Distribution channels are being
+undermined as gross profit margins narrow. The global recession is forcing
+customers to put a cap on capital investment.
+The large telecommunications companies, meanwhile, are taking a new interest
+in computing services, the fastest growing area of the computer industry.
+BT has emerged as one of the largest systems integration companies in the
+UK. France Telecom is negotiating to take a stake in Sema Group, the large
+Anglo-French services company. Mercury Communications, BT's principal
+competition in the UK is moving into managed data communications, securing,
+among others, a Pounds 15m, five-year contract with TSB Retail Banking and
+Insurance.
+The purpose behind these activities, whether overt or not, is the creation
+of 'intelligent networks' which will give customers greater control of their
+telecommunications and cost savings from improved allocation of network
+resources.
+For the telecommunications companies intelligent networks will provide an
+integrated, managed, services environment. Competition is already developing
+between the big companies to provide managed voice and data networking
+services for international companies.
+The growth of computer communication is underpinned by a number of trends,
+including the evolution of open systems.
+Standards are at the heart of open systems. One of the most abused of
+industry terms, open systems simply imply computers that can easily be
+connected into communications networks and with the capacity to run software
+from any supplier obeying the open systems rules.
+Last month Mr Jim Manzi, chief executive of Lotus Development Corporation
+told the Etre conference of top computer industry executives that open
+systems were the only way customers could expect an uninterrupted return on
+their investment in computerisation.
+Many corporations share a common dilemma. Their operations, whether national
+or international, have grown in response to a business strategy in which
+information technology played little part.
+The result is all too often an electronic Tower of Babel of incompatible
+computers and software which denies senior management the chance to create
+enterprise-wide communications and has meant corporations have derived fewer
+benefits than expected from considerable investments in computers and
+communications.
+This dissatisfaction is driving the open systems movement. Large vendors,
+while paying lip service to open systems, have been less than enthusiastic
+about implementing them because of heavy investment in their own designs.
+Digital Equipment and IBM were networking pioneers - IBM through its
+mainframe networking protocol Systems Network Architecture and DEC through
+its VAX compatible computer line - but tardy in implementing open systems.
+Both are now changing rapidly. Earlier this month IBM announced early
+support for the latest version of an industry-wide set of rules that
+guarantee a product conforms to open systems standards.
+The rules are set by X/Open, a worldwide, independent open systems
+organisation which is dedicated to developing a multivendor Common
+Applications Environment, based on both formal industry standards and
+standards which have become accepted de facto.
+X/Open's new set of specifications, XPG4, comprises 22 separate components
+covering operating systems and languages, data management, user interfaces,
+general interworking, mainframe interworking, PC interworking and media.
+Products which meet the XPG4 specifications will pass the open systems
+interoperability test and can safely be connected together in corporate-wide
+networks.
+Advances in open systems are still confused by the arguments over operating
+systems. There are still those who see open systems as synonymous with Unix,
+a multi-tasking, multi-user operating system developed by AT&amp;T and now
+championed by Unix International, a non-profit organisation responsible for
+directing the evolution of Unix System V, an industry standard.
+Competition for Unix will be seen from Microsoft with Windows NT, IBM with
+OS/2 and Taligent, an IBM and Apple joint venture, with a operating system
+codenamed 'Pink'.
+Just as portable telephones have revolutionised conventional communications,
+so tiny portable 'digital communicators' capable of handling voice, data and
+image, are expected to revolutionise computer communications. Apple, AT&amp;T in
+co-operation with Matsushita, Marubeni and EO, have already announced
+product intentions. IBM is not expected to be far behind.
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page I
+</PAGE>
+</DOC>

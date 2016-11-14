@@ -1,0 +1,255 @@
+ID: 176	RANK: 82	SCORE: 4.267529
+
+<DOC>
+<DOCNO> FBIS3-61018 </DOCNO>
+<HT>    "jpuac002___94005" </HT>
+
+
+<HEADER>
+<AU>   JPRS-UAC-94-002 </AU>
+Document Type:JPRS 
+Document Title:Central Eurasia 
+
+</HEADER>
+
+<ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
+<DATE1>   12 January 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Zenit Reconnaissance Satellites Described </TI></H3>
+<F P=102>  94UM0004E Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+Mar 93 (signed to press 4 Mar 93) pp 41-42 </F>
+
+<F P=103> 94UM0004E </F>
+<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+
+
+<TEXT>
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by Yuriy Mikhaylovich Frumkin under the rubric </F>
+"Without the `Secret' Stamp": "The First Reconnaissance 
+Satellite"] 
+  [Text] Up until recently, only specialists knew that 
+some unannounced areas of work were envisaged, aside from the 
+officially indicated ones, under the Kosmos program. 
+  One of them was the flights of the Zenit reconnaissance 
+satellites. The work on those started in 1956, even before the 
+launch of the first artificial Earth satellite in the world, 
+with design-flight testing in 1962 and standard operations in 
+1963. These spacecraft (later modifications of them) served more 
+than 20 years. One of their developers, Yuriy Mikhaylovich 
+Frumkin, talks about the first Zenit. 
+  Zenit is a heavy satellite intended for the performance of 
+detailed photographic reconnaissance, equipped with three 
+cameras with a lens focal length of F = one meter, one 
+topographic camera (F = 0.2 meter) and radio reconnaissance gear. 
+  The cameras were able to take pictures in a small series of 
+frames and in long paths. The width of the photographed strip in 
+satellite flight at an orbital altitude of H = 200 km 
+[kilometers] was 180 km. Long-focus apparatus provided a 
+resolution of the pictures equal to 10--12 meters, with the film 
+supply sufficient for each spacecraft to take 1,500 frames. 
+  The duration of the flight of the satellite, as confirmed by 
+flight-design testing, was 8--12 days. The data obtained by the 
+radio reconnaissance gear and telemetric information on the 
+functioning of on-board systems, the power plant and structural 
+elements was transmitted to Earth in radio communications 
+sessions. The exposed film was returned to Earth together with 
+the camera in a descent section (SA). Flight control was 
+accomplished from the Control Center, with the participation of 
+many ground and floating command and telemetry stations. Special 
+ground services and aircraft also provided for the retrieval and 
+appropriate delivery of the descent section that had landed. 
+  The Zenit consists of two major sections--the instrument 
+section (PO) and the SA. They are connected by a host of 
+electrical, hydraulic and other types of communications. The 
+descent section has a spherical shape with an outer covering of 
+heat-protective coating. The strong and airtight metallic 
+covering, with thermal protection applied to it, has three large 
+hatches. The cover of one of them is jettisoned to open the 
+parachutes as it reaches the ground. The other two are 
+technological hatches, and provide for the installation of 
+apparatus and equipment. The cover of one holds the portholes 
+for the camera gear. The PO is made in the form of two conical 
+fairings linked by a cylindrical insert. It is destroyed and 
+burns up during passage through the atmosphere with the descent 
+section returning from orbit. The configuration of the Zenit 
+spacecraft and its mass, shape of the SA and basic functional 
+systems in descent and landing are very close to those on the 
+Vostok spacecraft. Despite their outward similarity (they were 
+developed at roughly the same time), however, they have 
+substantial differences (Fig. 1). 
+
+<FIG ID=JPRS-UAC-002C-11A>           Fig. 1. Specific features of the structural </FIG>
+
+
+
+
+
+    The specific nature of the tasks performed by the Zenit 
+spacecraft presupposed fitting it with equipment based on new 
+systems or considerably upgraded from the Vostok spacecraft. A 
+new and quite complex project, requiring the resolution of a 
+large number of problematical scientific and technical issues, 
+was the special apparatus for photographic and radio 
+reconnaissance. Apparatus was created with long-focus lenses. 
+The specific features of its operation through multiple-pane 
+portholes bearing internal pressure, the effects of 
+weightlessness and other factors of flight, along with the small 
+volume of the SA, were all taken into account therein. It was 
+moreover necessary to ensure the high reliability of the 
+apparatus, a broad range of adjustment characteristics, high 
+resolution of the pictures obtained and precision in referencing 
+them to the terrain. 
+  Fundamental difficulties arose in the development of the 
+system for orienting the spacecraft. It was necessary to have a 
+virtually constant, precise three-axis orientation in the 
+orbital system of coordinates in order to photograph the Earth's 
+surface and obtain high-quality images, with one of those axes 
+tracking the direction of the Earth in the orbital movement of 
+the craft. The Zenit craft was able to realize this mode during 
+flight testing for the first time in space science. The 
+orientation system performed "rapid" programmed revolutions 
+across a wide range of angles in order to expand the 
+opportunities to obtain photographic information from the 
+satellite, which made it possible to take pictures of areas 
+located at a considerable distance from the flight path of the 
+satellite. The orientation of the system was structured on the 
+basis of fundamentally new optical and gyroscopic sensors, using 
+logic blocks with a complex functional algorithm and 
+multiple-nozzle control elements with economical modes for the 
+consumption of the working medium (nitrogen). The principal 
+units of this system were located in the instrument section, 
+while the micromotors, tanks with the reserves of the working 
+medium and optical sensors were mounted on its outer surface. 
+  The control system for the on-board complex that provided 
+the 
+logic and electric-power control of all on-board apparatus was 
+also qualitatively altered. The necessity of flexibility in the 
+operational control of the photographic gear, its adjustment 
+depending on the flight altitude, illumination of the Earth's 
+surface, location, planned length of the picture track and much 
+more required the creation of a complex program-logic device 
+with a radiotechnical channel for the on-board program radio 
+line. This was an innovation in the radiotechnical systems of 
+spacecraft. 
+  A number of difficult problems had to be solved by the 
+developers of the system to maintain the thermal conditions of 
+the satellite. The long-focus camera set the terms, since the 
+quality of the pictures and their resolution were directly 
+dependent on the range and rate of change of the temperature of 
+the lens, the camera as a whole and the porthole. The 
+maintenance of the temperature of the gas with a precision of 
+about one degree posed a difficult engineering task in the face 
+of the marked fluctuations in the values of the internal and 
+external thermal fluxes. 
+  The Zenit, as a secret device, had to meet special 
+requirements, and systems were thus included in it for 
+self-destruction in emergency situations (emergency detonation 
+of the craft) and radio telemetry for the radio reconnaissance 
+gear, as well as a means of protecting the information etc. 
+  The design engineering of the Zenit spacecraft was performed 
+on the basis of broad cooperation among scientific-research and 
+experimental-design enterprises and major centers equipped with 
+complex systems and devices for the experimental ground 
+run-through of the satellite as a whole and its systems and 
+assemblies, in close interaction with the customer, the Ministry 
+of Defense, including using test-range services as well as the 
+Kuybyshev OKB-1 [Experimental Design Bureau 1], to which all of 
+the work on this type of spacecraft was transferred upon 
+completion of the program of flight-design testing. The lead 
+organization was Experimental-Design Bureau No. 1 (OKB-1), 
+headed by S. Korolev. 
+  Design research went on for two years (starting in 1956), 
+and 
+concluded with the selection of a configuration for the 
+reconnaissance satellite and its principal flight and 
+engineering characteristics, as well as the composition and 
+operating principles of its on-board systems. 
+  The return of the exposed film from orbit to Earth in a 
+special capsule was envisaged therein. It was to have a 
+relatively small mass, conical shape and be equipped, aside from 
+the film cassettes, with the minimally necessary means to ensure 
+the physical preservation of the film in flight in the 
+atmosphere and in landing, as well as to find the landing 
+location. 
+  The second section of the satellite was designed to be 
+larger. Its shape varied from cylindrical, with small conical or 
+spherical ends, to a combination of complex shapes. This 
+configuration was selected because an opportunity appeared, 
+while reducing the dimensions and mass of the section to return 
+to Earth and the required mass of the satellite as a whole, to 
+increase the period of its active existence and the volume and 
+quality of the information obtained. This was achieved through 
+the installation of more advanced gear, an increase in the film 
+supply and the working medium for the orientation system, and 
+larger-capacity batteries for the electric-power system. 
+  At roughly the same time, starting in 1958, the OKB-1 
+launched work on the creation of the Vostok manned spacecraft. 
+It was designed in two sections of roughly equal mass--an SA 
+that was spherical in shape, and a PO whose outer contours were 
+two cones, with articulated bases. The same configuration was 
+adopted for the reconnaissance satellite under real "pressure" 
+from S. Korolev. 
+  This was not a simple solution, since the descent section 
+was 
+adapted to accommodate a person rather than the equipment of a 
+reconnaissance satellite. The insistence of the Chief Designer 
+and the inventiveness of the participants in the project 
+nonetheless made it possible to solve this problem. 
+  The Zenit (Fig. 2) as a result came to consist of an 
+instrument section and a descent section with dimensions close 
+to those of the Vostok spacecraft. 
+
+<FIG ID=JPRS-UAC-002C-12A>           Fig. 2. Zenit-2 spacecraft </FIG>
+
+
+
+
+
+    The PO accommodated units for the orientation system, the 
+control of on-board systems, electric-power supply, thermostatic 
+gear, radio systems and radio reconnaissance gear, among others. 
+Its external surfaces had a host of antennas for the electronic 
+gear, an optical sensor for orientation to the sun--used in one 
+of the satellite turning modes before the issue of the braking 
+command to descend from orbit--and an infrared vertical 
+reference, which could also be used for orientation before 
+descent from orbit. There were also rocket motors for 
+orientation and tanks with the gas supply. The braking engine 
+installation from the design bureau of A. Isayev and the 
+radiator of the thermal-regulation system were also located in 
+the lower section. 
+  The descent section housed, aside from the camera, the 
+landing system (a parachute system, automatic devices and 
+sensors), means of electric-power supply, control of on-board 
+systems, thermal regulation, radio stations to get a bearing on 
+the SA, and a system for the autonomous recording of the 
+readings of a number of sensors monitoring the process of the 
+flight during the descent. A system for the emergency detonation 
+of the craft was also installed in the SA (a charge, logic unit 
+and sensors), which destroyed the contents of the descent 
+section in the event emergency situations arose. 
+  The transition to the new configuration, through an 
+inconsiderable deviation from the configuration of the 
+reconnaissance satellite optimized from a mass standpoint, made 
+it possible to reduce the spending for its flight testing, since 
+the important stages--deorbiting, descent and landing--had been 
+worked out in testing of unmanned satellites and in the first 
+manned flights of the Vostok spacecraft. 
+  The flight and design testing confirmed the correctness of 
+the decision made in 1958. This was one of many examples of the 
+intuition and ability of the Chief Designer to evaluate problems 
+broadly and comprehensively in the development of complex space 
+projects. The results of the design engineering were formulated 
+in the middle of 1961. The satellite had already been 
+manufactured by this time, had completed a full cycle of ground 
+run-through and was at the Baykonur cosmodrome. The flight and 
+design testing was completed with the flight of a Zenit launched 
+on 19 December 1963 under the name Kosmos-20. 
+  COPYRIGHT: "Aviatsiya i kosmonavtika", 1993. 
+
+</TEXT>
+
+</DOC>

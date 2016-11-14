@@ -1,0 +1,127 @@
+ID: 41	RANK: 16	SCORE: 8.4760
+<DOC>
+<DOCNO>FT944-15438</DOCNO>
+<PROFILE>_AN-EJRCWAGDFT</PROFILE>
+<DATE>941018
+</DATE>
+<HEADLINE>
+FT  18 OCT 94 / Survey of Fraud - Prevention and Detection (6): Networks
+open to hackers - Alan Cane checks the incidence of computer fraud
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+Do not be surprised by the paucity of published examples of computer fraud.
+Perpetrators and victims feel it is in their interests to keep quiet.
+Financial institutions, in particular, do not relish admitting that their
+systems' security has been compromised.
+Fortunately, the danger of 'hackers' breaking into corporate computer
+systems is often exaggerated by the press and by security consultants; it is
+nevertheless real.
+Philip Swallow, a specialist in security with Andersen Consulting, says:
+'Hacking is far from being a myth but neither is it endemic. Managers have
+to be aware of the risks involved. Computer fraud by its very nature can be
+difficult to detect.'
+The European Information Technology Observatory (EITO), an organisation of
+European IT companies, noted earlier this year: 'With the increasingly
+pervasive usage of computers in all contexts and activities, the security of
+information and of the systems that manage the information is becoming of
+great importance.'
+EITO points to two important developments in recent years: the definition of
+security standards within the rules devised to allow computers from
+different manufacturers to work together (Open Systems Interconnect or OSI)
+and the establishment of criteria and rules for the security evaluation of
+information technology products.
+A critical point is that computer security is relative. It is possible in
+theory to create a completely secure system, but cost and inconvenience
+would make it unattractive. The level of security implemented represents,
+therefore, a balance of business interests.
+The diversity of ways of attacking a system lends itself to colourful
+descriptions. There are trap doors (part of the software written in such a
+way that the security of the system is compromised), Trojan horses (parts of
+the software written so the system performs unauthorised and covert
+operations), logic bombs (part of the software written to trigger an
+operation at a subsequent date) and masquerades or piggy backs where a
+fraudulent terminal pretends to have legitimate access to the system.
+Most of these attacks depend on a corrupt member or members of the data
+processing department. Only a software specialist with intimate knowledge of
+a company's software would have the skill and opportunity to insert a trap
+door or logic bomb. Systems compromised by trap doors or logic bombs are
+difficult to detect; the very complexity of many systems makes it difficult
+to check every program and section of computer code.
+Attacks on computer systems from the outside are increasing. In one survey
+in the UK, about a quarter of the companies questioned said there had been
+unauthorised attempts to gain access to their systems. The National
+Computing Centre in the UK estimates the average cost of a security breach
+to a company is Pounds 9,000.
+Alan Stanley of the consultants Coopers &amp; Lybrand says the most recent
+figures for the UK show that some 40 per cent of companies believe their
+systems have been hacked into, although the damage level is low. Some 13 per
+cent of mission critical operations had been compromised, but again, little
+damage was done.
+Measuring the level of security afforded by a computer system has been
+simplified by the publication of evaluation criteria. The lead was taken by
+the US in 1983 with the Orange Book; it provides essentially a set of
+standard security measures for implementation by computer users each with an
+indication of the level of confidence afforded.
+European users, however, have never been wholly satisfied with the Orange
+Book, arguing that it is chiefly geared to military systems. The European
+Union has now published its own set of criteria, the White Book, which EITO
+says 'could be considered as the beginning of European standards for
+evaluating computer trust'. It is, EITO argues, 'one of the most significant
+events in the last decade in the European IT security scenario and it might
+cover the shortcomings and gaps of the Orange Book'.
+The White Book evaluates systems in terms of their functionality and
+effectiveness, with special reference to database management, process
+control, exchange data integrity, high confidentiality and high integrity
+environments.
+The fact remains that computer systems, no matter how secure, greatly
+increase the possibilities for fraud. Funds can be moved virtually
+instantaneously anywhere in the world through computer networks. Is fraud on
+the increase? There is a simple, positive correlation between the level of
+fraud, the number of computers in use, the number of people who have
+knowledge of and access to computers and the number of termin-als attached
+to computers.
+The Internet, the world's largest computer network with more than 25m users,
+represents a special case. Designed as a channel of electronic communication
+between scientists and technologists, it was intended to be as accessible as
+possible. There is little in the way of built-in security. Earlier this year
+thousands of Internet passwords were stolen giving the thieves access to
+secret messages and files.
+Now that commercial companies are taking an interest in the Internet for
+communications, the question of security is more than academic. Managers are
+becoming interested in electronic 'firedoors', methods of preventing
+security lapses on the Internet from compromising their systems. An example
+would be a minicomputer controlling access to the Internet, collecting and
+authenticating messages.
+Encryption is one way to make electronic messages secure but it is
+controversial. The US administration was forced to abandon efforts to
+introduce a special encryption chip, the 'Clipper', which would have allowed
+pc users to protect themselves from hackers and fraudsters. Developed by the
+National Security Agency and the National Institute of Standards and
+Technology, its use would have allowed secret service personnel to decrypt
+the messages.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XGZ  Europe.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P9222 Legal Counsel and Prosecution.
+    P737  Computer and Data Processing Services.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 35
+</PAGE>
+</DOC>

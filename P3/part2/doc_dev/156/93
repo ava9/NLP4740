@@ -1,0 +1,53 @@
+ID: 156	RANK: 93	SCORE: 9.053166
+<DOC>
+<DOCNO> WSJ870223-0082 </DOCNO>
+<HL> Microsoft System for Advanced Machines
+Of IBM to Be Delivered Within 6 Months
+---
+By Brenton R. Schlender
+Staff Reporter of The Wall Street Journal</HL>
+<DD> 02/23/87</DD>
+<SO> WALL STREET JOURNAL (J)</SO>
+<IN> MSFT IBM
+COMPUTERS (EDP) </IN>
+<DATELINE> REDMOND, Wash.  </DATELINE>
+<TEXT>
+   Microsoft Corp. said its long-awaited personal computer operating system and program development tools for advanced International Business Machines Corp. personal computers and compatible machines will finally be delivered to program developers within six months. 
+
+   The new operating system, which will act as an internal traffic cop for data and programs in IBM PC-AT machines and more advanced machines based on Intel Corp.'s 80386 microprocessor, will allow the advanced personal computers to finally tap all their computing power. 
+Since their introduction in 1984, most IBM PC-ATs and compatible machines have used MS-DOS, Microsoft's operating system for the previous, less powerful generation of IBM and compatible personal computers. 
+
+   Microsoft predicted the delivery of what it calls "New DOS" Friday. 
+While Microsoft stopped short of giving specific delivery dates, prices or even the final name of the new operating system, the software concern described many functions and limitations. 
+The company also said that it would offer a souped-up version of the new operating system for computers based on the 80386 chip in about two years. 
+
+   "The period of time has arrived to move to the new generation" of programs that take full advantage of the advanced personal computers, said William Gates, chairman and chief executive officer of Microsoft. 
+Mr. Gates conceded that confusion will remain until accounting, data base and spreadsheet programs using the new operating system are available. 
+The programs probably won't be available to users until late 1987 or early 1988. 
+Still, he said, "There's got to be quite a pot of gold at the end of this rainbow. 
+With New DOS, we want to build a platform to last us for 10 years" as a standard operating system for personal computer work stations. 
+
+   Three and a half years ago, when the company started designing the operating system, Microsoft hoped to deliver it in 1986. 
+Steven Ballmer, Microsoft's vice president, systems software, said customers requested in 1986 subtle revisions that "cost us a few extra months." 
+
+   Industry analysts speculated that IBM, which has a joint development agreement with Microsoft to share the new operating system, might be forcing Microsoft to include some special features for its own efforts to waylay makers of "clones" of future IBM personal computers based on Intel's 80386 microprocessor chip. 
+So far, IBM hasn't started selling a personal computer based on that chip, although Compaq Computer Corp., Zenith Electronics Corp. and several others have. 
+
+   But Mr. Ballmer said that most clones of IBM PC-AT's that use the faster-running 80386 chip instead of the standard 80286 chip "should work just fine with the New DOS." 
+
+   Neither Mr. Gates nor Mr. Ballmer would comment on IBM's plans for new personal computers or any proprietary devices or software methods IBM might use to come up with personal computers that would be difficult to copy. 
+
+   Microsoft doesn't see any conflict between its new operating system and its announcement last week of a joint agreement with American Telephone &amp; Telegraph Co. of New York, to develop a version of AT&amp;T's Unix operating system for personal computers. 
+
+   "There will be very little overlap between Unix and New DOS," Mr. Gates said in an interview. 
+That's because Unix is used mainly for programs and computers shared by many users and terminals. 
+"We think the world is moving more toward networks of single-user work stations, although you could use an 80386 machine in a multiuser way." 
+
+   Microsoft and AT&amp;T hope to ship their new, joint version of Unix for 80386-based personal computers in early 1988. 
+Currently, Microsoft sells a variety of Unix-based operating systems and programs under the Xenix name. 
+Unix operating systems and programs are used widely on minicomputers -- small mainframe computers -- for handling scientific and engineering tasks. 
+On personal computers, Unix-based systems are used mainly to computerize bookkeeping for very small businesses. 
+Microsoft estimates that 200,000 personal computers use Unix or Xenix operating systems and programs, while more than seven million use MS-DOS. 
+
+</TEXT>
+</DOC>
