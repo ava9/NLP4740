@@ -33,8 +33,11 @@ def processLanguage():
       try:
         if ent.label() in whoArr:
           print ent.label()
-          [print x[0][0] for x in ent.pos()]
-      except: pass
+          t = ent.flatten()
+          print [x[0] for x in t]
+      except Exception, e: 
+        print e
+        # pass
 
     #namedEnt.draw()
     #time.sleep(1)
