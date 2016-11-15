@@ -3,6 +3,8 @@
 import os
 from HTMLParser import HTMLParser
 
+SCORETAG = '<Score>'
+
 #Custom Class to parse text files. Rough, needs to be refined 
 #(esp for recognizing potential dates, text fields, etc.)
 class MyParser(HTMLParser):
@@ -12,7 +14,7 @@ class MyParser(HTMLParser):
     self.currDataStack = []
     self.dataDict = dict()
     self.noTag = '<NoTag>'
-    self.scoreTag = '<Score>'
+    self.scoreTag = SCORETAG
     self.dataDict[self.noTag] = []
     self.textMode = 0
 

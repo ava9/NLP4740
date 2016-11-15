@@ -10,28 +10,38 @@ TOPFILES = 6
 
 #take a text field contents and a fileID to make an array of
 #10-grams and fileID tuples
-def make10Grams(text, fileID):
-  outArr = []
+def updatePossibleNES(possibleNES, text, fileID, score, possibleTags):
   tokens = nltk.word_tokenize(text)
-  for i in range(len(tokens)-9):
-    outArr.append((tokens[i:i+10],fileID))
-  return outArr
+  posTokens = nltk.pos_tag(tokens)
+  nes = nltk.ne_chunk(posTokens)
+  for ne in nes:
+    try:
+      lab = ne.label()
+      if lab in possibleNES: possibleNES[lab][0] += score
+      else: possibleNES[lab] = (score, fileID)
+    except AttributeError, e:
+      pass
+  return possibleNES
 
-#get the similarity of two ngrams (make them sets to optimize it)
-def ngramSimilarity(ngram1, ngram2):
-  score = 0
-  if len(ngram2) > len(ngram1):
-    temp = ngram1
-    ngram1 = ngram2
-    ngram2 = temp
-  for tkn in ngram2:
-    if tkn in ngram1: score += 1
-  return score
 
 #get the 5 best 10-grams for a question and an array of ngrams
-def best10Grams(question, ngrams):
+def best10Grams(question, ngrams, nerArr):
   questionLiteral = question
   question = set(nltk.word_tokenize(question))
+  print "i got here"
+  filteredNgrams = []
+  for tup in ngrams:
+    ngramPOS = nltk.pos_tag(tup[0])
+    ngramNER = nltk.ne_chunk(ngramPOS)
+    for i in range(len(ngramNER)):
+      try:
+        if ngramNER[i].label() in nerArr:
+          filteredNgrams.append(tup)
+          break
+      except: 
+        pass
+  ngrams = filteredNgrams
+  print "finsihed loop" 
   bestngrams = []
   bestScores = []
   minBestScore = -1
@@ -69,20 +79,24 @@ if __name__ == '__main__':
       continue
 
     #get array of possible answers (10grams)
-    possibleAnswers = []
+    possibleNES = dict()
     for fileNum, file in fileDicts.iteritems():
       if 'text' in file and len(file['text'])>0:
         allText = reduce(operator.add, file['text'],'')
-        possibleAnswers += make10Grams(file['text'][0], fileNum)
+        possibleNES = updatePossibleNES(possibleNES, allText, fileNum, file[pd.SCORETAG], questions[ID][[1]])
       else:
         print "File " + str(fileNum) + " for ID " + str(ID) + " has no text tag"
 
     #get the best answers
-    bestgrams = best10Grams(questions[ID][0], possibleAnswers)
+    possibleNESArr = []
+    for ne, (score, fileID) in possibleNES:
+      possibleNESArr.append((ne, score, fileID))
+    
+    bestAnswers = filter(lambda x: (x[0], x[2]), sorted(possibleNESArr, key = lambda x: x[1]))
 
     if len(bestgrams)==0:
       outF.write(str(ID)+" 0 nil\n")
-    for ngram, fileID in bestgrams:
-      outF.write(str(ID)+" "+str(fileID)+" "+ngram+"\n")
+    for (ne, fileID) in bestgrams:
+      outF.write(str(ID)+" "+str(fileID)+" "+ne+"\n")
 
   outF.close()

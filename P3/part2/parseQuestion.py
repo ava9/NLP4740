@@ -57,7 +57,7 @@ def getQuestions():
         # first word in question (who, what, when, where, where's, who's) used in p2
         firstWord = line.partition(' ')[0]
         nersToConsider = getNER(firstWord)
-        questionDict[lastQID] = (line, nersToConsider)
+        questionDict[lastQID] = (line, set(nersToConsider))
 
   return questionDict
 
