@@ -3,15 +3,43 @@
 import parseData as pd
 import parseQuestion as pq
 import nltk
+import re
 import random as rand
 import operator
+import datefinder
 
-TOPFILES = 10
+TOPFILES = 6
+
+# timeregex = r'([0-1]?[0-9]|2[0-3]):[0-5][0-9]'
+yearregex = re.compile(r'\b\d{4}\b')
 
 #take a text field contents and a fileID to make an array of
 #10-grams and fileID tuples
 def updatePossibleNES(possibleNES, text, fileID, score, possibleTags):
-  tokens = nltk.word_tokenize(text)
+  """ specifically handle dates and (cant do duration)
+   this is necessary because nltk's ner doesn't seem to be tagging dates. We would also have to 
+   make a manual tagging for durations, but this shouldn't be necessary for when questions
+   datefinder library is pretty bad too... this makes me sad"""
+  if 'DATE' in possibleTags:
+    matches = []
+    matches += datefinder.find_dates(text)
+    t = yearregex.findall(text)
+    for string in matches:
+      try:
+        string = str(string)
+      except ValueError:
+        continue
+      if string in possibleNES: possibleNES[string] = (possibleNES[string][0] + score, possibleNES[string][1])
+      else: possibleNES[string] = (score, fileID)
+    return possibleNES
+
+  # only tokenize documents that have unicode chars, drop data that doesnt
+  try:
+    tokens = nltk.word_tokenize(text)
+  except UnicodeDecodeError:
+    return possibleNES
+
+  # update entities dictionary
   posTokens = nltk.pos_tag(tokens)
   nes = nltk.ne_chunk(posTokens)
   for ne in nes:
@@ -42,7 +70,7 @@ if __name__ == '__main__':
       print "error, ID mismatch for questions and data"
       continue
 
-    #get array of possible answers (10grams)
+    #get array of possible answers (tagged entities)
     possibleNES = dict()
     for fileNum, file in fileDicts.iteritems():
       if 'text' in file and len(file['text'])>0:
@@ -51,14 +79,11 @@ if __name__ == '__main__':
       else:
         print "File " + str(fileNum) + " for ID " + str(ID) + " has no text tag"
 
-    #get the best answers
     possibleNESArr = []
 
-    # print possibleNES
-
+    # get best answers from dictionary
     for ne, (score, fileID) in possibleNES.iteritems():
       possibleNESArr.append((ne, score, fileID))
-    
     bestAnswers = map(lambda x: (x[0], x[2]), sorted(possibleNESArr, key = lambda x: x[1], reverse = True))
     bestAnswers = bestAnswers[0:5]
 
