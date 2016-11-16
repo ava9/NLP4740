@@ -22,13 +22,13 @@ def updatePossibleNES(possibleNES, text, fileID, score, possibleTags):
    datefinder library is pretty bad too... this makes me sad"""
   if 'DATE' in possibleTags:
     matches = []
-    matches += datefinder.find_dates(text)
+    try:
+      matches += datefinder.find_dates(text)
+    except ValueError:
+      pass
     t = yearregex.findall(text)
     for string in matches:
-      try:
-        string = str(string)
-      except ValueError:
-        continue
+      string = str(string)
       if string in possibleNES: possibleNES[string] = (possibleNES[string][0] + score, possibleNES[string][1])
       else: possibleNES[string] = (score, fileID)
     return possibleNES
