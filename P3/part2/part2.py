@@ -9,6 +9,9 @@ import operator
 import datefinder
 
 TOPFILES = 6
+INFILENAME = 'questionP1.txt'
+TRAINFOLDER = 'doc_dev/'
+OUTPUTFILENAME = 'part2output.txt'
 
 # timeregex = r'([0-1]?[0-9]|2[0-3]):[0-5][0-9]'
 yearregex = re.compile(r'\b\d{4}\b')
@@ -24,7 +27,7 @@ def updatePossibleNES(possibleNES, text, fileID, score, possibleTags):
     matches = []
     try:
       matches += datefinder.find_dates(text)
-    except ValueError:
+    except Exception:
       pass
     t = yearregex.findall(text)
     for string in matches:
@@ -59,9 +62,9 @@ def updatePossibleNES(possibleNES, text, fileID, score, possibleTags):
 if __name__ == '__main__':
   #get all data and questions
   data = pd.getAllData(TOPFILES)
-  questions = pq.getQuestions()
+  questions = pq.getQuestions(INFILENAME)
   #prep output
-  outF = open('part2output.txt','w')
+  outF = open(OUTPUTFILENAME,'w')
 
   #loop through all ids and files
   for ID, fileDicts in data.iteritems():

@@ -37,10 +37,10 @@ def getNER(firstWord):
   else:
     return []
 
-def getQuestions():
+def getQuestions(fileName = 'questionP1.txt'):
   questionDict = dict()
 
-  f = open('questionP1.txt','r')
+  f = open(fileName,'r')
 
   lastQID = 0
   for line in f.readlines():

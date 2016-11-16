@@ -79,14 +79,14 @@ def getQIDs():
 
 #main function to get all data into a dictionary of dictionary of dictionaries
 # this is a dictionary for every file for every QID
-def getAllData(TOPFILES = 10):
+def getAllData(TOPFILES = 10, dirIn = 'doc_dev/'):
   ids = getQIDs()
   data = dict()
   p = MyParser()
   for ID in ids:
     data[ID] = dict()
     for i in range(1,TOPFILES+1):
-      f = open('doc_dev/' +str(ID)+'/'+str(i),'r')
+      f = open(dirIn +str(ID)+'/'+str(i),'r')
       contents = f.read()
       p.feed(contents)
       data[ID][i]=p.dataDict
