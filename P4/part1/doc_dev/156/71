@@ -1,0 +1,111 @@
+ID: 156	RANK: 71	SCORE: 9.279057
+
+<DOC>
+<DOCNO> SJMN91-06040021 </DOCNO>
+<ACCESS> 06040021 </ACCESS>
+<DESCRIPT>  COMPUTER; SOFTWARE; MANUFACTURING; GROUP; AGREEMENT  </DESCRIPT>
+<LEADPARA>  A powerful group of computer makers and software publishers is nearing an
+agreement to develop a standard for an advanced desk-top computer that it
+hopes will unseat the reigning powers of the personal computer hardware
+industry by the middle of the decade.;    The emerging alliance, led by
+Microsoft Corp., Compaq Computer Corp. and Digital Equipment Corp., is
+gambling it can create a personal computer based on a chip design called RISC
+that is simpler and faster than that used in computers made by International
+Business Machines Corp., Apple Computer Inc. and Sun Microsystems Inc., the
+leaders in the desk-top sector of the industry.  </LEADPARA>
+<SECTION>  Business  </SECTION>
+<HEADLINE>  BATTLE LINES DRAWN IN DESK-TOP WAR
+NEW ALLIANCE HOPES RISC CHIP CAN UNSEAT IBM,
+APPLE, SUN  </HEADLINE>
+<TEXT>     Industry experts say RISC chips are far faster than those in today's most
+powerful personal computers using conventional chips and are essential to
+providing a range of powerful new computer functions, including video and 3-D
+graphics and handwriting- and voice-recognition.;    The alliance's final form
+is still to be determined and could be announced officially within a few
+weeks. But because of the potency of RISC technology, the group's chances of
+shifting the balance of power in the computer industry are high, industry
+executives and analysts say.;    The challenge threatens not only the three
+desk-top leaders but also the companies that dominate the market for the chips
+in them: Intel Corp. and Motorola Inc.;    The emerging alliance was
+established at a secret meeting in January in California. Several executives
+who attended the meeting said the companies agreed to define standard
+specifications for a personal computer to be built around a RISC chip designed
+by Mips Computer Systems Inc. and software being developed by Microsoft and
+the Santa Cruz Operation, a software publisher partly owned by Microsoft.;   
+"It's the second coming of the PC," said an industry executive at one company
+in the negotiations.;    The new class of personal computers will be based on
+a chip Mips recently announced called the R4000. The new chip is based on a
+technology known as reduced instruction-set computing, or RISC, which
+significantly simplifies and speeds processing.;    It does so by eliminating
+many of the instructions built into conventional chips, and instead processing
+data by performing simpler steps repeatedly at faster speeds.;    The
+executive said the computers would not be available until 1992 and that the
+standard would not have a big impact on the industry until sometime in the
+middle of the decade.;    Crucial to the alliance is Compaq, the third-largest
+maker of personal computers, behind IBM and Apple. Recognizing the power of
+RISC technology, Compaq has apparently decided to adopt a second type of
+computer design.;    Compaq has had extensive discussions with Mips, Sun and
+Hewlett-Packard Co. about different designs and is now preparing to choose
+Mips, industry executives familiar with the negotiations said.;    "The battle
+came down to Compaq being fought over by Sun and Microsoft," said Mark
+Stahlman, an analyst at Alex. Brown &amp; Sons Inc. "But it's not just a battle
+for Compaq; it's a total realignment of the computer business.";    Also
+crucial to the alliance is new software from two companies that have realized
+they need to be in both the RISC camp and the existing camp. Microsoft is now
+developing a new version of its OS/2 operating system that will incorporate
+its popular Windows interface and run on a number of different types of
+computers; Windows is already capturing the market of computers based on Intel
+chips.;    The Santa Cruz Operation would offer a version of the Unix
+operating system for the new RISC-based computers, just as it now offers one
+for computers based on Intel's chips.;    Many industry executives believe
+that by moving aggressively into RISC technology, Microsoft will be the
+software standard setter for the next generation of desk-top computers,
+stealing IBM's role.;    Under the emerging agreement, the new RISC-based
+personal computers would also come equipped with powerful three-dimensional
+graphics systems derived from those developed by Silicon Graphics Inc., a
+Mountain View maker of work stations and member of the consortium.;   
+Digital, which has failed in the personal-computer market and lags in the
+work-station business, is looking for new entry through the alliance.;   
+Notably missing from the new alliance are IBM and Hewlett-Packard, which offer
+their own RISC-based chips for work stations but have not yet made a move for
+such chips in their personal computers.;    The closer relationship between
+Microsoft, Digital and Compaq presents problems for IBM. It may serve to
+further distance IBM from Microsoft, with which it co-developed today's
+dominant MS-DOS software standard.;    In addition to challenging Apple and
+IBM, the alliance is aimed directly at powerful engineering and scientific
+computers being offered by Sun, the leading maker in the market for more
+powerful work stations. Sun has been moving toward the personal computer
+market.;    The move would also serve as the first real competition to Intel's
+domination of the personal-computer chip market. Intel officials are said to
+have been involved in the negotiations, which began in July, but have since
+withdrawn. Intel executives say their chips will be able to keep up with the
+powerful new RISC chips.;    "Clearly this is a major threat to Intel and to
+Sun," said Michael Slater, editor of Microprocessor Report, a computer
+industry newsletter.;    But some industry experts said it would be years
+before the effectiveness of the new computer-industry order is clear.;   
+"It's all geopolitics," said Jim P. Manzi, chairman of Lotus Development Corp.
+"Nobody knows the meaning of these moves until it gets sorted out and people
+start building things.";    In redrawing the battle lines in the computer
+industry, the arrangement could affect many existing alliances, including the
+Open Software Foundation, an early attempt to slow Sun's growth engineered by
+IBM, Digital, Hewlett-Packard and a number of other computer makers.  </TEXT>
+<BYLINE>  JOHN MARKOFF, New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<CITY>  New York  </CITY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  SAN JOSE MERCURY NEWS  </NAME>
+<PUBDATE>   910209  </PUBDATE> 
+<DAY>  Saturday  </DAY>
+<MONTH>  February  </MONTH>
+<PG.COL>  10E  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  969  </WORD.CT>
+<DATELINE>  Saturday February 9, 1991
+00040021,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

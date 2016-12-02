@@ -1,0 +1,85 @@
+ID: 156	RANK: 5	SCORE: 11.781783
+<DOC>
+<DOCNO>
+WSJ910129-0082
+</DOCNO>
+<DOCID>
+910129-0082.
+</DOCID>
+<HL>
+   Technology &amp; Health:
+   Microsoft Confirms
+   Plans for Windows,
+   But OS/2 Will Stay
+   ----
+   By G. Pascal Zachary
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+01/29/91
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B7
+</SO>
+<CO>
+   MSFT
+</CO>
+<IN>
+SOFTWARE (SOF)
+</IN>
+<LP>
+   Microsoft Corp. confirmed that it plans to build its
+future operating software for personal computers around its
+Windows program, but it denied that it will completely drop
+OS/2, an alternative program it is developing.
+   The disclosure followed a report in The Wall Street
+Journal that said Microsoft was, in effect, abandoning OS/2
+and putting Windows in its place.
+</LP>
+<TEXT>
+   In an interview yesterday, Steve Ballmer, who runs
+Microsoft's system software division, said that the company
+plans to keep on marketing products under the OS/2 moniker,
+and that its future operating systems will support programs
+tailored to OS/2's original specifications. But programs
+written for Windows won't run on International Business
+Machine Corp.'s version of OS/2, which uses a command system
+called Presentation Manager. This divergence strikes many
+observers as an abandonment of future OS/2 development,
+further distancing Microsoft from IBM.
+   But Mr. Ballmer emphasized that Windows software would
+work with future versions of OS/2 relying on Presentation
+Manager. "It's a bit of a chameleon," said Mr. Ballmer,
+referring to future versions.
+   Microsoft may be pledging to market OS/2 so as not to hurt
+IBM's investment. "Microsoft is under enormous pressure to
+rationalize {their message} from an industry standpoint,"
+said Peter Rogers, an analyst at Robertson Stephens &amp; Co.
+"They don't want to do disproportionate harm to IBM in the
+process."
+   Four years ago, Microsoft and IBM jointly announced that
+they would produce a new program to replace the function
+performed by DOS, which controls the basic operations of the
+PC. The two companies, which had worked together to establish
+DOS as a standard, called the new program OS/2 and told
+makers of applications to design their OS/2 products around a
+set of specifications called Presentation Manager.
+   But OS/2 never caught on with customers. Instead, Windows
+won the hearts of customers, who are pressing Microsoft for
+an iron-clad assurance that today's Windows' applications
+will work with the company's future operating system.
+   Mr. Ballmer acknowledged that Microsoft's future operating
+system is no longer solely made up of OS/2 and Presentation
+Manager, but will include "subsystems" that make it
+impossible for customers to tell it apart from Windows. He
+also confirmed that recently he has told designers of new
+applications to "target new development at {the} Windows"
+subsystem.
+   However, under Microsoft's revised approach, operating
+systems are like invisible sentries, maintaining the basic
+operations of a computer with little apparent trace. "From
+the developers and users standpoint, then, the operating
+system is irrelevant," Mr. Rogers, the analyst, said. "It's
+Windows where everyone has the assets. Microsoft does too."
+</TEXT>
+</DOC>

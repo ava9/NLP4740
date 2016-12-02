@@ -1,0 +1,120 @@
+ID: 156	RANK: 83	SCORE: 9.198510
+<DOC>
+<DOCNO>FT942-13131</DOCNO>
+<PROFILE>_AN-EDZEDAG3FT</PROFILE>
+<DATE>940426
+</DATE>
+<HEADLINE>
+FT  26 APR 94 / Survey of A-Z of Computing (17): Heart of the software
+conflict - Operating Systems
+</HEADLINE>
+<BYLINE>
+   By PHILIP MANCHESTER
+</BYLINE>
+<TEXT>
+Operating systems software has been at the centre of epic struggles in the
+computer industry for over a decade - when attention first started to shift
+from hardware to software. The choice of operating system continues to be
+one of the most contentious issues in software and is at the heart of a
+battle for dominance between three of the world's largest software
+suppliers: IBM, Microsoft and Novell.
+These three suppliers are responsible for developing the three most
+important contenders in the future operating system market: OS/2, Windows NT
+and Unix.
+Operating systems provide the link between applications software and
+hardware. They insulate the user's software from hardware changes and make
+it possible to move applications to other hardware platforms. This is why it
+is so important for users to choose the right operating system environment.
+If they choose wrongly, they could find themselves out of the mainstream and
+lose the advantages of a mass market.
+There are parallels with the earlier battle for dominance in the proprietary
+large systems market, from which IBM emerged as the winner.
+The current three-cornered conflict is complex and has its origins in the
+changes which began a decade ago. In the 1980s, a shift in the economies of
+scale to chip production led manufacturers away from proprietary hardware
+development to standard 'commodity' products for two different markets. They
+built personal computers for the small 'stand-alone' use and 'open'
+multi-user systems for medium-size applications. In both cases, they adopted
+common operating systems: Microsoft's MS/DOS for the PC and Unix for the
+larger multi-user systems.
+Standard operating systems brought advantages both to software suppliers and
+to customers. The spread of Unix in the technical and engineering computer
+market in the 1970s helped to create today's 'open' systems. And the spread
+of MS/DOS during the 1980s created a mass market for software products. This
+has brought prices down and increased competition.
+As hardware advanced and the demand for new applications increased, the
+limitations of both Unix and MS/DOS became apparent, however. The main
+problem is that MS/DOS could not be used to scale up applications. This gave
+Unix an opportunity to plug the gap. Unix had become widely available on
+smaller computers and threatened the dominance of MS/DOS.
+But although it was more advanced than MS/DOS, Unix, too, had its
+limitations.
+First, there were many different versions. The hardware manufacturers found
+it difficult to break their proprietary technology habits. As a result, they
+'enhanced' their versions of Unix, making it difficult to move applications
+from one version to another.
+Second, Unix's background meant that it was not suited for business use.
+There were no access security features, the user interface was complex and
+its data file system was primitive.
+It was this, and other limitations, which led IBM and Microsoft back to the
+drawing board in 1987. They announced the development of OS/2, a new
+operating system which aimed to overcome many of the problems of MS/DOS and
+fight off the threat from Unix. Progress was slow, however, and Microsoft
+continued to develop its Windows graphical user interface (GUI) in parallel
+to make life easier for MS/DOS users. More important, OS/2 demanded large
+hardware resources and required that applications be completely re-written.
+Although it became possible to run MS/DOS applications under later versions
+of OS/2, the timing was too late.
+In 1989, Microsoft launched Version 3 of Windows, which quickly became one
+of the fastest selling software products of all time. The launch coincided
+with a bitter split between IBM and Microsoft, leading to the latter's
+withdrawal from the project.
+Meanwhile, application developers flocked in their thousands to build
+products for Windows, which was a relatively easy step forward from MS/DOS.
+Windows 3 brought the added advantage that it could run most existing MS/DOS
+applications, in addition to those developed specifically for the GUI. Many
+developers abandoned their OS/2 products or put them on the backburner.
+Windows 3 became the foundation for subsequent Microsoft operating systems:
+Windows for Workgroups and Windows NT which competes technically with both
+OS/2 and Unix, with the added advantage of backwards compatibility with
+Windows. Meanwhile IBM has continued to develop OS/2 and sell it to its
+traditional corporate customer base. And the Unix market has drawn together
+to agree a common specification.
+Last year, the responsibility for Unix development passed to network
+software supplier Novell when it took over Unix System Laboratories (USL)
+from AT&amp;T.
+CONTENDERS
+During the late 1980s, Novell plugged a gap left by Microsoft and IBM -
+networking software for MS/DOS personal computers. It dominates this growing
+market, but is itself under threat. Windows NT and OS/2 include their own
+networking control software, making Netware unnecessary.
+Novell aims to combine Unix with its Netware networking software, which has
+projected it into the front-line of the operating system battle. All three
+contenders are seen as viable winners. But a more likely result is that the
+battle will slowly fizzle out. New techniques for building software, such as
+object-oriented computing, make it less important where the underlying
+control software comes from and the three products seem likely to converge
+in the long term.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page XIII
+</PAGE>
+</DOC>

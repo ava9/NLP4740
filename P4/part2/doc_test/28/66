@@ -1,0 +1,202 @@
+ID: 28	RANK: 66	SCORE: 11.8049
+
+
+
+<DOC>
+<DOCNO> FR940527-1-00040 </DOCNO>
+<PARENT> FR940527-1-00014 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The proposed recalibrated DRG relative weights are 
+<!-- PJG 0012 frnewline -->
+constructed from FY 1993 MedPAR data, received by HCFA 
+<!-- PJG 0012 frnewline -->
+through December 1993, from all hospitals subject to the 
+<!-- PJG 0012 frnewline -->
+prospective payment system and short-term acute care 
+<!-- PJG 0012 frnewline -->
+hospitals in waiver States. The FY 1993 MedPAR file 
+<!-- PJG 0012 frnewline -->
+includes data for approximately 10.5 million Medicare 
+<!-- PJG 0012 frnewline -->
+discharges. 
+<!-- PJG 0012 frnewline -->
+The methodology used to calculate the proposed DRG 
+<!-- PJG 0012 frnewline -->
+relative weights from the FY 1993 MedPAR file is as follows: 
+<!-- PJG 0012 frnewline -->
+&bull;To the extent possible, all the claims were regrouped 
+<!-- PJG 0012 frnewline -->
+using the proposed DRG classification revisions discussed 
+<!-- PJG 0012 frnewline -->
+above in section II.B of this preamble. As noted in section 
+<!-- PJG 0012 frnewline -->
+II.B.4, due to the unavailability of revised GROUPER 
+<!-- PJG 0012 frnewline -->
+software, we simulate most major classification changes to 
+<!-- PJG 0012 frnewline -->
+approximate the placement of cases under the proposed 
+<!-- PJG 0012 frnewline -->
+reclassification. However, there are some changes that 
+<!-- PJG 0012 frnewline -->
+cannot be modeled. 
+<!-- PJG 0012 frnewline -->
+&bull;Charges were standardized to remove the effects of 
+<!-- PJG 0012 frnewline -->
+differences in area wage levels, indirect medical education 
+<!-- PJG 0012 frnewline -->
+costs, disproportionate share payments, and, for hospitals 
+<!-- PJG 0012 frnewline -->
+in Alaska and Hawaii, the applicable cost-of-living 
+<!-- PJG 0012 frnewline -->
+adjustment. 
+<!-- PJG 0012 frnewline -->
+&bull;The average standardized charge per DRG was calculated 
+<!-- PJG 0012 frnewline -->
+by summing the standardized charges for all cases in the DRG 
+<!-- PJG 0012 frnewline -->
+and dividing that amount by the number of cases classified 
+<!-- PJG 0012 frnewline -->
+in the DRG. 
+<!-- PJG 0012 frnewline -->
+&bull;We then eliminated statistical outliers using the same 
+<!-- PJG 0012 frnewline -->
+criterion as was used in computing the current weights. 
+<!-- PJG 0012 frnewline -->
+That is, all cases outside of 3.0 standard deviations from 
+<!-- PJG 0012 frnewline -->
+the mean of the log distribution of charges per case for 
+<!-- PJG 0012 frnewline -->
+each DRG were eliminated. 
+<!-- PJG 0012 frnewline -->
+&bull;The average charge for each DRG was then recomputed 
+<!-- PJG 0012 frnewline -->
+(excluding the statistical outliers) and divided by the 
+<!-- PJG 0012 frnewline -->
+national average standardized charge per case to determine 
+<!-- PJG 0012 frnewline -->
+the relative weight. 
+<!-- PJG 0012 frnewline -->
+&bull;We established the relative weight for heart 
+<!-- PJG 0012 frnewline -->
+transplants (DRG 103) in a manner consistent with the 
+<!-- PJG 0012 frnewline -->
+methodology for all other DRGs except that the heart 
+<!-- PJG 0012 frnewline -->
+transplant cases that were used to establish the weight were 
+<!-- PJG 0012 frnewline -->
+limited to those Medicare-approved heart transplant centers 
+<!-- PJG 0012 frnewline -->
+that have cases in the FY 1993 MedPAR file. Similarly, we 
+<!-- PJG 0012 frnewline -->
+limited the liver transplant cases that were used to 
+<!-- PJG 0012 frnewline -->
+establish the weight for DRG 480 (Liver Transplant) to those 
+<!-- PJG 0012 frnewline -->
+hospitals that are Medicare-approved liver transplant 
+<!-- PJG 0012 frnewline -->
+centers. 
+<!-- PJG 0012 frnewline -->
+&bull;Acquisition costs for kidney, heart, and liver 
+<!-- PJG 0012 frnewline -->
+transplants continue to be paid on a reasonable cost basis. 
+<!-- PJG 0012 frnewline -->
+Unlike other excluded costs, the acquisition costs are 
+<!-- PJG 0012 frnewline -->
+concentrated in specific DRGs (DRG 302 (Kidney Transplant); 
+<!-- PJG 0012 frnewline -->
+DRG 103 (Heart Transplant); and DRG 480 (Liver Transplant)). 
+<!-- PJG 0012 frnewline -->
+Because these costs are paid separately from the prospective 
+<!-- PJG 0012 frnewline -->
+payment rate, it is necessary to make an adjustment to 
+<!-- PJG 0012 frnewline -->
+prevent the relative weights for these DRGs from including 
+<!-- PJG 0012 frnewline -->
+the effect of the acquisition costs. Therefore, we 
+<!-- PJG 0012 frnewline -->
+subtracted the acquisition charges from the total charges on 
+<!-- PJG 0012 frnewline -->
+each transplant bill that showed acquisition charges before 
+<!-- PJG 0012 frnewline -->
+computing the average charge for the DRG and before 
+<!-- PJG 0012 frnewline -->
+eliminating statistical outliers. 
+<!-- PJG 0012 frnewline -->
+When we recalibrated the DRG weights for previous 
+<!-- PJG 0012 frnewline -->
+years, we set a threshold of 10 cases as the minimum number 
+<!-- PJG 0012 frnewline -->
+of cases required to compute a reasonable weight. We 
+<!-- PJG 0012 frnewline -->
+propose to use that same case threshold in recalibrating the 
+<!-- PJG 0012 frnewline -->
+DRG weights for FY 1995. Using the FY 1993 MedPAR data set, 
+<!-- PJG 0012 frnewline -->
+there are 35 DRGs that contain fewer than 10 cases. We 
+<!-- PJG 0012 frnewline -->
+computed the weight for the 35 low-volume DRGs by adjusting 
+<!-- PJG 0012 frnewline -->
+the original weights of these DRGs by the percentage change 
+<!-- PJG 0012 frnewline -->
+in the average weight of the cases in the remaining DRGs. 
+<!-- PJG 0012 frnewline -->
+The weights developed according to the methodology 
+<!-- PJG 0012 frnewline -->
+described above, using the proposed DRG classification 
+<!-- PJG 0012 frnewline -->
+changes, result in an average case weight that is different 
+<!-- PJG 0012 frnewline -->
+from the average case weight before recalibration. 
+<!-- PJG 0012 frnewline -->
+Therefore, the new weights are normalized by an adjustment 
+<!-- PJG 0012 frnewline -->
+factor, so that the average case weight after recalibration 
+<!-- PJG 0012 frnewline -->
+is equal to the average case weight before recalibration. 
+<!-- PJG 0012 frnewline -->
+This adjustment is intended to ensure that recalibration by 
+<!-- PJG 0012 frnewline -->
+itself neither increases nor decreases total payments under 
+<!-- PJG 0012 frnewline -->
+the prospective payment system. 
+<!-- PJG 0012 frnewline -->
+Section 1886(d)(4)(C)(iii) of the Act requires that 
+<!-- PJG 0012 frnewline -->
+beginning with FY 1991, reclassification and recalibration 
+<!-- PJG 0012 frnewline -->
+changes be made in a manner that assures that the aggregate 
+<!-- PJG 0012 frnewline -->
+payments are neither greater than nor less than the 
+<!-- PJG 0012 frnewline -->
+aggregate payments that would have been made without the 
+<!-- PJG 0012 frnewline -->
+changes. Although normalization is intended to achieve this 
+<!-- PJG 0012 frnewline -->
+effect, equating the average case weight after recalibration 
+<!-- PJG 0012 frnewline -->
+to the average case weight before recalibration does not 
+<!-- PJG 0012 frnewline -->
+necessarily achieve budget neutrality with respect to 
+<!-- PJG 0012 frnewline -->
+aggregate payments to hospitals because payment to hospitals 
+<!-- PJG 0012 frnewline -->
+is affected by factors other than average case weight. 
+<!-- PJG 0012 frnewline -->
+Therefore, as discussed in section II.A.4.b. of the Addendum 
+<!-- PJG 0012 frnewline -->
+to this proposed rule, we are proposing to make a budget 
+<!-- PJG 0012 frnewline -->
+neutrality adjustment to assure the requirement of section 
+<!-- PJG 0012 frnewline -->
+1886(d)(4)(C)(iii) of the Act is met. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>

@@ -1,0 +1,114 @@
+ID: 205	RANK: 37	SCORE: 20.338503
+
+<DOC>
+<DOCNO> SJMN91-06112121 </DOCNO>
+<ACCESS> 06112121 </ACCESS>
+<DESCRIPT>  NETHERLANDS; COMPUTER; CRIME; US; PROBE  </DESCRIPT>
+<LEADPARA>  Beyond the reach of American law, a group of Dutch computer intruders has been
+openly defying U.S. military, space and intelligence authorities for almost
+six months.;    Recently they broke into a U.S. military computer while being
+filmed by a crew from a Dutch television station.  </LEADPARA>
+<SECTION>  Front  </SECTION>
+<HEADLINE>  DUTCH COMPUTER INTRUDERS TAP U.S. FILES WITH
+IMPUNITY
+OFFICIALS SAY LAX LAWS ARE SHIELDING GROUP  </HEADLINE>
+<MEMO>  Mercury News Computing Editor Rory J. O'Connor contributed to this report.  </MEMO>
+<TEXT>     The intruders, working over local telephone lines that enable them to tap
+American computer networks at almost no cost, have not done serious damage,
+federal investigators say.;    And they have not penetrated the most secure
+government computer systems. But they have entered a wide range of computers,
+including those at the Kennedy Space Center, the Pentagon's Pacific Fleet
+Command, Lawrence Livermore National Laboratory and Stanford University via an
+international computer network known as the Internet.;    While the
+information on these systems is not classified, the computers store a great
+variety of material, including routine memorandums, unpublished reports and
+data from experiments. Federal officials said the group had tampered with some
+information stored on systems they have illegally entered.;    U.S. government
+officials said they had been tracking the interlopers, but no arrests had been
+made because there are no legal restrictions in the Netherlands barring
+unauthorized computer access.;    "This has been a terrible problem," said
+Gail Thackeray, a former Arizona assistant attorney general who has prosecuted
+computer crimes. "Until recently there have been few countries that have
+computer crime laws. These countries are acting as hacker havens.";    Dutch
+TV report;  American law-enforcement officials said they believed there were
+three or four members of the Dutch group, but would not release any names. A
+Dutch television news report in February showed a member of the group at the
+University of Utrecht reading information off a computer screen showing what
+he said was missile test information taken electronically from a U.S. military
+computer. His back was to the camera, and he was not named.;    Military and
+intelligence agencies physically separate classified computer networks from
+those used by businesses and researchers to protect the data from electronic
+forays. When classified information is transmitted over unprotected computer
+networks or telephone lines it must be specially coded.;    A Bay Area
+computer expert with knowledge of classified systems said a large number of
+unclassified computer programs that simulate the flight of missiles are
+circulating on the Internet. The expert said the programs, many of them
+decades old, are being updated by various programmers, and it is possible for
+intruders on the Internet to easily discover them.;    But the expert, and
+other computer security experts, say it is extremely unlikely the Dutch group
+discovered any secret or highly sensitive military data in their break-ins.;  
+ "Secret stuff isn't on the Internet," said Michael Odawa, a Mill Valley
+programmer and computer security expert. "It's against the rules for anyone
+with classified clearance to put that information on the Internet. If (the
+Dutch group) found something secret, it's a gross exception to the rule.";   
+No fear of punishment;  Because there are no computer crime laws in the
+Netherlands, U.S. investigators said, members of the Dutch group boasted that
+they could enter computers via international data networks with impunity.;   
+But some of the intruders have been identified, and a federal official, who
+spoke on the condition of anonymity, said there were numerous other criminal
+offenses for which they could be prosecuted in both the United States and the
+Netherlands. One possible charge might be telephone fraud.;    But legal
+experts said that because there are no prohibitions against unauthorized
+computer entry in the Netherlands successfully prosecuting the group may still
+prove impossible.;    The case is significant, legal experts said, because
+while the United States and many European countries have strict laws barring
+illegal access to computers, there are many nations that have no computer
+crime laws.;    Standardized law sought;  There is a proposed law before
+parliament in the Netherlands that would make unauthorized computer access a
+crime. Also, a governmental committee of the European Community is now working
+to standardize computer crime laws in Europe.;    In the Netherlands case, the
+group was detected last year after an unusually skilled U.S. government
+computer researcher at a national laboratory tracked the group's every move.
+He notified U.S. authorities of the break-ins.;    The researcher has been
+able to make computer records of the intruders' keystrokes as they have
+electronically prowled through U.S. military, NASA, university and dozens of
+other computers. He then played this information back and gained an exact
+picture of the computer screen as it appeared to the intruders in the
+Netherlands.;    From 1986 to 1988 Clifford Stoll, an astronomer at Lawrence
+Berkeley Laboratory, traced a similar group of West Germans, who were
+illegally entering U.S. computers and selling computer data and software to a
+Soviet intelligence officer.;    Suspended sentences;  Stoll was able to
+persuade law enforcement officials to locate the group in West Germany and
+three arrests were made. A German court eventually convicted them, but gave
+them suspended sentences.;    The tactics of the Dutch group are of particular
+interest to computer security experts because they have repeatedly used
+security loopholes demonstrated by a program written by Robert T. Morris, a
+Cornell University student, more than two years ago.;    Last month a federal
+appeals court upheld the conviction of Morris, who in 1988 unleashed a program
+that jammed several thousand computers in a nationwide network. He was
+convicted of violating federal computer crime statutes and was fined $10,000
+and ordered to perform 400 hours of community service.;    That the same
+security flaws can be used to illicitly enter computers several years after
+they were widely publicized indicates that many computer managers are still
+paying only minimal attention to data security, computer security researchers
+said.  </TEXT>
+<BYLINE>  New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910421  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  April  </MONTH>
+<PG.COL>  1A  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  950  </WORD.CT>
+<DATELINE>  Sunday April 21, 1991
+00112121,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG
+FRONT  </LANGUAGE>
+</DOC>

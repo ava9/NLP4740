@@ -1,0 +1,170 @@
+ID: 210	RANK: 84	SCORE: 5.283427
+<DOC>
+<DOCNO>FT942-8460</DOCNO>
+<PROFILE>_AN-EETCSADCFT</PROFILE>
+<DATE>940520
+</DATE>
+<HEADLINE>
+FT  20 MAY 94 / Technology: Scoring on the digital pitch - Tom Foremski
+believes US computing will fare better in the World Cup than the country's
+football team
+</HEADLINE>
+<BYLINE>
+   By TOM FOREMSKI
+</BYLINE>
+<TEXT>
+The US national soccer team is not expected to go far in the 1994 World Cup.
+But the country's high-tech companies hope to score strongly on the digital
+playing field with a state-of-the art computer network that will support all
+aspects of the competition.
+In what is probably the most sophisticated computer network ever assembled
+for a sporting event, US companies Sun Microsystems, Sybase, Electronic Data
+Systems (EDS) and Sprint, have collaborated to produce a sophisticated
+system for the US-hosted event. More than 1,000 Sun workstations running
+multimedia and other software from Sybase, and applications developed by
+EDS, will form a national and international network linking 12 sites where
+the games will be played.
+In the process, the Dollars 15m (Pounds 10m) network will help propel World
+Cup USA 1994 into the ranks of the Fortune 200 companies from just a few
+dozen employees one year ago. This is an example of a so-called virtual
+corporation - comprising groups of people linked electronically for a
+specific purpose - growing to more than 15,000 staff during the summer
+games.
+The organisers of World Cup '94, which kicks off on June 17, face formidable
+challenges. Unlike Olympic events, where the sporting action takes place
+within a short distance of a central location, the computer network must
+tackle what could easily turn into a logistical nightmare.
+'It's like fighting a war - the logistics problems are very similar,' says
+Norm Koo, technical office director for World Cup, at Sun. 'Things are
+further complicated because we have to take into account the national
+culture of each team. For example, Moslem teams need to be placed in hotels
+that can accommodate their special dietary needs. We also have to be very
+careful that all the hotels are of a similar standard. It would be easy to
+offend a national team if they thought we placed them in a lower standard
+hotel.'
+Nine US cities will host 52 matches played by 24 national teams during four
+weeks across four time zones. The computer network has to calculate all the
+logistics of moving teams and their support staff to the next location
+within two days of the match result.
+Security is another major task. The computer network will be used to
+streamline security procedures developed with the aid of the US defence
+department and the FBI. The system will track security clearances for more
+than 50,000 people, including team players and 15,000 media representatives
+from around the world.
+There are special safeguards to prevent computer virus infections and
+break-ins from computer hackers. This is done by creating 'fire walls',
+explains Bill Alaoglu, director of technology for the organising body, World
+Cup USA 1994. 'The system will not accept file transfers from outside the
+system.'
+Security badges will be issued at various sites connected to the computer
+network. The accreditation system is based on Sybase's Gain Momentum
+multimedia software from its subsidiary, Gain. 'We can feed video images of
+each person through the network to issue photo ID badges,' says Frank
+Strelau, director of product marketing at Sybase. 'Even if someone loses
+their badge, they can get another one within minutes at any stadium site.'
+Sybase's SQL Server database software will be used to deliver match results
+and other news and background information to thousands of journalists. The
+World Cup News Service will include a large database of historical
+information about previous World Cup games, statistics on each team, team
+member biographies and cultural information on each participating country.
+All this information will be in both English and Spanish, with about 80 per
+cent also available in French and German.
+The historical database, based on the records kept by the Federation
+Internationale de Football Association (Fifa), has also been useful to the
+organisers, Koo says. 'Selecting referees can be a difficult matter since
+the nationality of the referee and his experience are taken very seriously
+by each team. With the World Cup database, we can quickly check the
+qualifications of thousands of referees and which games they took part in.'
+Sun workstations and Sybase software are also used to create multimedia
+kiosks, connected to the computer network, in which users can access the
+World Cup database through a touch screen. The original plans called for the
+placement of the multimedia kiosks in public areas but they will now be
+found only in VIP areas.
+However, the World Cup will be accessible to travellers on the information
+superhighway. The World Cup News Service can be reached by computer users
+around the world with a subscription to the Fifa World Cup Bulletin Board
+Service which can be accessed through the commercial online service
+Compuserve. The action on the soccer field will be keyed into the network by
+special observers, providing an online real-time commentary to each game.
+US long distance carrier Sprint will handle the communications links for the
+network. Working with local telephone carriers, it will install more than
+1,000 telephones at each of the nine cities hosting the games. It will also
+provide the data links connecting the nine stadium sites with EDS in Plano,
+Texas, the World Cup USA '94 offices in Century City, California, and the
+Fifa headquarters in Zurich.
+'Each of the cities hosting the games has two data links,' explains Bill
+Heuston, national account manager for the World Cup at Sprint. 'This way, we
+can ensure that should one link fail, we have a back-up that will keep the
+network running.'
+The network is being managed by EDS, which specialises in setting up and
+running computer systems for large corporations. EDS is also developing the
+applications that run on the network and is co-ordinating the efforts of its
+other technology partners.
+The most important feature of the World Cup network is that it uses a
+client/server model rather than terminals linked to a central mainframe. The
+client/server model uses PCs and workstations connected to dozens of small
+but powerful computers called servers. This gives the network remarkable
+adaptability - allowing the organisers to quickly add and move hundreds of
+workstations at a time from site to site.
+Most of Alaoglu's technical expertise was gained in mainframes. 'With a
+client/server approach, we have much more flexibility. With mainframes, I've
+known it to take two weeks to bring in an extra terminal online,' he said.
+Harold Bendic, EDS account manager for World Cup '94, says the network
+performance is impressive. 'Because most of the processing is being done on
+the server in true client/server fashion, we're getting sub-second response
+times, even when we pull data from remote locations thousands of miles
+away.'
+The computer network has already undergone extensive testing when parts of
+it were used for the US Cup competition last year. The last few software
+applications are now being completed.
+The technology employed by World Cup USA '94 has helped it not only to
+achieve its stated goals in a short time, but also to earn the distinction
+of becoming the world's fastest growing 'virtual corporation' with important
+lessons to be found for other organisations.
+While the organisation will disband after the final games, parts of the
+computer network and equipment will survive, donated to the US Soccer
+Federation to help promote soccer in the US. The applications and the
+historical database will go to Fifa and the rest will be taken back by the
+participating companies.
+'The virtual corporation approach means that I don't have an actual plant
+that I have to sell off. And I have outsourced all our computer and
+telecommunications requirements to our technology partners,' Alaoglu
+explains.
+As US and worldwide attention begins to shift to the World Cup soccer finals
+this summer, Sybase, Sun, EDS and Sprint hope that their efforts will create
+a valuable technology showcase. But with the competition looming, few in the
+US seem to know about it. Strelau, an Englishman, isn't concerned.
+'Americans are very good at marketing. They'll get the message out.'
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Sun Microsystems Inc.
+    Sybase Inc.
+    Sprint Corp.
+    Electronic Data Systems Corp.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+    P3572 Computer Storage Devices.
+    P4899 Communications Services, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 14
+</PAGE>
+</DOC>

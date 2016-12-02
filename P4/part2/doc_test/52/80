@@ -1,0 +1,203 @@
+ID: 52	RANK: 80	SCORE: 7.3606
+
+<DOC>
+<DOCNO> FBIS3-59639 </DOCNO>
+<HT>    "jpest003___94043" </HT>
+
+
+<HEADER>
+<AU>   JPRS-EST-94-003 </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Europe/International </ABS>
+<DATE1>   26 January 1994 </DATE1>
+<F P=100> WEST EUROPE </F>
+<F P=101> FACTORY AUTOMATION, ROBOTICS </F>
+<H3> <TI>   Italy: Robots Used in Hospitals </TI></H3>
+<F P=102>  MI1612133593 Turin MEDIA DUEMILA in Italian Nov 93 pp 74-77 </F>
+<F P=103> MI1612133593 </F>
+<F P=104>  Turin MEDIA DUEMILA </F>
+
+
+<TEXT>
+Language: <F P=105> Italian </F>
+Article Type:BFN 
+
+<F P=106> [Article by Giorgio Rivieccio: "And Now Robots in White </F>
+Overalls"] 
+  [Excerpts] [passage omitted] 
+<H5>  The Robot Surgeon Is in Italy Too </H5>
+  The United States does not have exclusive rights in the 
+field 
+of robot surgeons. Italy, a country with a great tradition both 
+in medicine and automation, will also have its automaton in 
+white overalls within a year. The experimental use of a robot 
+during surgical operations will start in 1994 at the Rizzoli 
+Orthopedic Institute in Bologna. The experiments will be 
+conducted by Maurilio Marcacci who, together with Prof. 
+Piergiorgio Marchetti, director of the laboratory of 
+biomechanics, and in collaboration with the CNR (National 
+Research Council) and the University of Genoa, has been working 
+on the orthopedic robot project for some years. The Italian 
+experts have asked the advice of ISS of Sacramento on how to 
+perfect the system. 
+  Marcacci explained: "The robot will essentially consist of a 
+mechanical arm that has a number of joints, able to move itself 
+in space, at the end of which there is an instrument (a cutter, 
+a drill or something else) that can be given prior instructions 
+for its movements, based on precise data resulting from 
+examinations such as a CAT (computerized axial tomography) scan 
+or NMR (nuclear magnetic resonance). It will be possible to 
+execute extremely precise repetitive movements using the arm, 
+and these will be better than a surgeon could do." 
+  Researchers at Rizzoli think that the possible applications 
+of an orthopedic robot include surgery of the knee and spine. 
+<H5>  `Virtual Surgery' at Pisa and at Boston </H5>
+  The orthopedic field is already restrictive for the robot in 
+white overalls. New and promising horizons have already opened 
+up with the marriage between robotics and virtual reality. 
+Digitalizing the images of a patient's organ, something that has 
+been made possible by the diffusion of diagnostic instruments 
+such as the CAT, RMN, and PET [positron emission tomography], 
+seems to have been done to link together and form something that 
+can interpret the data and then intervene on the patient with 
+millimetric precision, that is, a robot. 
+  At Pisa university, researchers from the Santa Chiara 
+Hospital radiology institute, together with researchers from 
+Hewlett-Packard, one of whom is the American Irwin Sobel one of 
+the fathers of computerized graphics, have created the first 
+Italian virtual reality system applied to neurological 
+diagnosis, medicine, and to the preparation of surgical 
+operations. The radiologist Davide Caramella, one of the 
+researchers working on the project, explained that: "The system 
+acquires data from diagnostic instruments like the TAC and 
+magnetic resonance. These supply two-dimensional images that 
+correspond to many very fine `strata', or `slices' of an organ, 
+such as the brain. The computer uses special software to 
+reconstruct a three-dimensional virtual image from this 
+information. The different tissues of the brain are then 
+highlighted using false colors. Finally a pair of stereoscopic 
+glasses that look like an underwater mask recreate the effect of 
+depth for the person wearing them, thanks to which the image 
+literally seems to come out of the screen and invade the room." 
+  Former systems for the visualization of medical images, such 
+as those based on videodisks or multimedia computers, suddenly 
+become out of date because the data they contain cannot be 
+changed and refers to a typical patient, comparable to that 
+shown in the anatomical plates of a text book. On the other 
+hand, using the system developed at Pisa, the neurologist, or 
+the surgeon, finds himself in front of a faithful representation 
+of the brain structure of that particular patient. In this way 
+they can carry out a virtual surgical operation, identical in 
+every part to that which they must then face in reality. For 
+example they can study the best course for an instrument to 
+reach the mass of a tumor without damaging the healthy 
+structures that surround it and they can find out whether they 
+will meet other risky situations during the operation such as an 
+aneurysm that could burst. [passage omitted] 
+  Finally, the potential of virtual reality in neurosurgery is 
+the central point of research being carried out by Cesare Giorgi 
+of the Carlo Besta Neurological Institute in Milan, as part of 
+the CNR targeted robotics project. 
+<H5>  How Much Electronics for Remote Surgery </H5>
+  But virtual reality is not only images. It also makes it 
+possible to intervene on the electronic environment created by 
+the computer and modify it using an "electronic glove," called a 
+"dataglove," that directly translates the movements of the hand, 
+wrist, and individual fingers, into instructions for the 
+computer. 
+  The "dataglove," developed by Jaron Lanier of the American 
+company VPL Research, is made of photo transistors and sensors 
+that capture every movement made by the hand, while tiny 
+gyroscopes keep record of the movements of the complete hand in 
+space. The "dataglove" was also baptized in the medical surgery 
+field, when on 2 December last year the first remote surgical 
+operation was performed between the Milan Polytechnic and the 
+Umberto 1 General Hospital in Rome. 
+  Wearing a "dataglove," Prof. Alberto Rovetta of Milan 
+commanded a robot installed in Rome which performed an operation 
+on a model via cable. The movements of Rovetta's hand, which 
+moved in the air, were transferred with the greatest accuracy to 
+the arm of the robot. With respect to former remote control 
+techniques for robot systems, "dataglove" avoids having to learn 
+the commands and techniques of manipulation. The user only has 
+to perform the natural movements that he would perform on a real 
+patient. 
+  This Italian "first" opens up a horizon that has no 
+limitations and makes it possible to operate on patients that 
+are hundreds or thousands of kilometers away, perhaps in areas 
+where it is not possible to have the specialized assistance 
+necessary for a serious case. 
+  This was quickly confirmed on 7 July by another exceptional 
+experiment conducted by Italy and the United States. For the 
+first time in the world a surgeon, Licineo Angelini of La 
+Sapienza University in Rome, operated via satellite from 
+California on an animal organ in the Milan Polytechnic. The 
+operation was made possible by a robot manipulator, commanded by 
+Angelini and connected to an identical piece of equipment that 
+operated on the sick organ. 
+  The "patient" was a simulator model of the human body in 
+which the liver of a pig and a synthetic gall-bladder had been 
+inserted. The Italian part of the experiment was once again 
+coordinated by Alberto Rovetta of the Milan Polytechnic, who 
+drew from the experience of the American jet propulsion 
+laboratory of Pasadena, the NASA research institute where the 
+"space robots" that explored the planets of the solar system 
+were born. 
+  Angelini had a robot in front of him and an ecographic 
+monitor that sent back the images of the "patient" in Milan. 
+The surgeon commanded the robot, that then transmitted the 
+instructions to its correspondent in Milan, ordering it to make 
+a stitch after having localized the exact point on the model by 
+means of the ecographic scanner images. Then the robot was 
+ordered to make two incisions. 
+  The experiment was part of the CIAO [Collaboration, 
+Intervention and Help in Hospitals] program that plans for 
+remote surgical operations to be performed by robots. 
+<H5>  The Robot That Reconstructs the Organism in Milan </H5>
+  However, in the hospital of the year 2000, the robot will 
+not 
+only take over in the operating theater. Other types of 
+automatons will work in laboratories to reconstruct, with the 
+maximum accuracy, bones and other "inserts" of human tissue that 
+have been destroyed as a result of accidents or destructive 
+surgery. 
+  The prototype computer-robotic reconstruction system, which 
+is unique in Europe at present, has once again been perfected in 
+Milan by the group of Luigi Donati, director of the Statale 
+University plastic surgery institute, and has been built at 
+Niguarda hospital. 
+  It is called MIRUS-Lab (Management of Imaging and Robot 
+Utilization in Surgery) and once again it results from the 
+possibility of digitizing any element of the organism using 
+diagnostic image techniques. The computer, integrating the data 
+coming from these instruments, reconstructs an "electronic twin" 
+of the patient on the screen. Then using techniques similar to 
+those of the CAD-CAM [computer-aided design - computer-aided 
+manufacturing] used in industry for computer design, the system 
+examines the area to be reconstructed and designs the anatomical 
+parts that are missing. Finally it transfers the design to a 
+robot that builds the "bioinserts" to be put into the patient, 
+using numerically controlled fabrication techniques similar to 
+those used by advanced mechanical industries. 
+  Finally, the MIRUS-Lab is also able to help the surgeon to 
+choose, and optimize, different materials with respect to the 
+biological and mechanical characteristics of the parts to be 
+replaced. 
+  Thanks to this system it is therefore possible to carry out 
+reconstructive surgery, by having the exact prosthesis to be 
+inserted in the patient, in bone or other tissue, available 
+before the operation, and eventually to carry out a first 
+simulation of the operation on a computer, to see if the insert 
+has been made correctly and if it adapts exactly to the organism 
+of the patient. In fact, the reconstruction of anatomical parts 
+has hitherto been performed directly in the operating theater 
+and for obvious reasons the surgeon had to prepare these parts 
+extremely quickly. [passage omitted] 
+
+</TEXT>
+
+</DOC>

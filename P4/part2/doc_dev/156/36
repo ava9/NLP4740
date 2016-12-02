@@ -1,0 +1,118 @@
+ID: 156	RANK: 36	SCORE: 9.666363
+<DOC>
+<DOCNO>FT932-6846</DOCNO>
+<PROFILE>_AN-DEZCHAHCFT</PROFILE>
+<DATE>930526
+</DATE>
+<HEADLINE>
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software &amp; Services
+(12): Rival threatens Unix - Open systems
+</HEADLINE>
+<BYLINE>
+   By PHIL MANCHESTER
+</BYLINE>
+<TEXT>
+DESPITE their long history, open systems are only now becoming a meaningful
+reality. The trap of closed proprietary systems, which held most large
+computer users in thrall for three decades, is finally fading to be replaced
+by a freer, more flexible world of open systems, writes Phil Manchester.
+In March this year an important group of leading computer manufacturers and
+software developers announced its intention to put differences on one side
+and co-operate in devising a Common Open Software Environment (Cose).
+Hewlett-Packard, IBM, Santa Cruz Operation, Sunsoft, Univel and Unix Systems
+Laboratories agreed to work towards a Cose 'standard' based on the Unix
+operating system.
+Cose aims to define broad standards for desktop user interfaces, graphics,
+networking, multimedia computing and systems management. Theoretically, any
+Unix software developed by the Cose companies will be able to run on the
+other member companies' platforms.
+But there were two notable absentees from the initiative. Microsoft - which
+is working on a rival operating environment based on its Windows software -
+was not invited and neither was Apple.
+The Cose announcement is the latest in a succession of alliances aimed at
+promoting a single software environment for the computer industry - a factor
+which has led the move to be viewed with some cynicism by commentators and
+users. IBM and HP were already working together within the Open Software
+Foundation, an alliance set up in the late 1980s to promote their respective
+'flavours' of Unix.
+OSF was established in competition with AT&amp;T, the originator of Unix, which
+was promoting its own standards under an alliance called Unix International.
+Its members included USL (now part of Novell) and Sun Microsystems -
+Sunsoft's parent company.
+The two rival groupings have been moving together for two or three years -
+with Unix International adopting several OSF-sponsored standards and vice
+versa.
+The Cose standard, therefore, is a ratification of a process which was
+already well under way.
+The movement towards open systems began in the early 1980s, when many
+companies noticed that their ability to take advantage of information
+technology advances was constrained by the inertia of their investment
+applications based on single manufacturer systems. If they were dissatisfied
+with their hardware supplier, there was little they could do about it. They
+either threw everything away and started again or they continued to dig
+themselves deeper into the proprietary systems hole.
+The advent of personal computing served to highlight the disadvantages of a
+fragmented market. The quick acceptance of the IBM/MS/DOS personal computer
+boosted the market and gave manufacturers and software developers a common
+technology to build on.
+More important, it meant that customers could - to a large extent - rely on
+compatibility across different manufacturers' systems. At the same time, it
+brought software prices down because development costs could be amortised
+across a much large market. Much of the activity in open systems over the
+last two or three years has been aimed at extending the idea of a common
+open standard to large computer systems.
+Mr Bernard Guidon, European marketing manager for Hewlett-Packard and a key
+participant in the Cose discussions, says that the move was a response to
+pressure from customers: 'Large global companies have systems from many
+different manufacturers and want their applications software to be
+consistent across different hardware,' he explains.
+'If we want the Unix market to grow - then we need to get our act together
+and come up with a common Unix.'
+He adds that it was surprisingly easy to get technicians from the various
+Cose members to devise a set of standards on which everyone could agree.
+'We told them not to look at what they had done in the past - but to work on
+the best technology for the future.'
+The simple fact that all of the participants were already working with the
+Unix operating system - despite small, annoying differences between the
+different versions - made things easier.
+Unix has been synonymous with open systems since the mid-1980s when it was
+widely adopted by leading manufacturers as a way to offer a common platform
+to build applications on.
+But there is a growing school of thought which runs against Unix -
+particularly with the increased dominance of Microsoft in the operating
+systems market. About 200m personal computers around the world use Microsoft
+operating software - either in the form of MS/DOS or the more recent Windows
+environment. Microsoft hopes that they will move on to its Windows NT
+environment - once it becomes established. Windows NT offers many of the
+features which have made Unix attractive as the foundation for larger
+computer systems.
+Microsoft has good reason to feel confident that it will prevail. Software
+application developers are strongly committed to re-developing their
+products to work under Windows NT and many users will be looking for a
+smooth upward migration path from their current personal computer systems.
+But Mr Guidon is also optimistic. He expects Microsoft will be forced to
+move closer to Cose standards. 'Large companies will put pressure on
+Microsoft to conform in the long term,' he predicts.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XAZ  World.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3577 Computer Peripheral Equipment, NEC.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page V
+</PAGE>
+</DOC>

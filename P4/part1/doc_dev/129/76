@@ -1,0 +1,69 @@
+ID: 129	RANK: 76	SCORE: 8.643458
+<DOC>
+<DOCNO> WSJ880208-0057 </DOCNO>
+<HL> TECHNOLOGY </HL>
+<AUTHOR> Paul B. Carroll </AUTHOR>
+<SO> </SO>
+<CO> SQNT FDOS SELE </CO>
+<IN> EDP IND ELE CMD </IN>
+<TEXT>
+      New Products Blur
+   Computer Categories
+   TIME WAS when the computer industry was simple, with mainframes, minicomputers and personal computers all staying within their bounds, but now the boundaries are blurring. 
+A desktop supercomputer, for instance, sounds about as likely as a subcompact Sherman tank, yet two of the high-tech world's most closely watched start-ups are about to sell that very product. 
+
+   Ardent Computer Corp. of Sunnyvale, Calif., and Stellar Computer Inc. of Newton, Mass., are both aiming at scientists and engineers who need to turn huge sets of numbers into graphic displays for easier analysis but who can't afford a multimillion-dollar supercomputer. 
+
+   This computer market is already one of the most chaotic, where minisupercomputers, superminicomputers and work stations jostle for turf. 
+But Ardent and Stellar are betting there's still room for a machine that, they contend, marries a supercomputer's power with a personal computer's ease of use. 
+They plan to unveil their products sometime this quarter, at starting prices from about $80,000 and $100,000. 
+
+   Meanwhile, Sequent Computer Systems Inc., Beaverton, Ore., is building a minicomputer out of as many as 30 Intel Corp. 80386 central-processor chips, which are used in personal computers. 
+The system is cheap because it uses personal computer parts. 
+It also brings a lot of power to applications that can be divided up among the processors -- such as a car-rental service, where many people interact with the computer simultaneously. 
+
+   Most computer companies stop at four processors because with higher numbers the chips spend so much time talking to each other that they don't get much work done. But Sequent has overcome many of those problems through what Richard Shaffer, editor of the Computer Letter, says is solid engineering and "a lot of black magic." -
+   Will the Same Machine
+   Also Make the Juice? 
+
+   AN ORANGE-PICKING robot invented in Florida is going to Sicily for commercial development. 
+
+   A laboratory version of the robot is in final testing at the University of Florida's Institute of Food and Agricultural Sciences in Gainesville. 
+The computer-controlled machine has a single arm tipped with a small color television camera that sees the fruit on a tree and a sonar unit that gauges its distance and direction. 
+The machine is about 75% successful in grabbing and cutting loose the fruit it reaches for. 
+
+   A commercial version, however, would need six to 12 picking arms and would require several years of engineering development. 
+A U.S. robotics company, Odetics Inc. in Anaheim, Calif., was asked by the Agriculture Department to analyze the machine's potential and found it "promising," says Tom Bartholet, the company's manager for advanced intelligent machines. 
+The USDA, however, dropped its support "for reasons unspecified," he says. 
+In its stead, Agriculture Industrial Development S.p.A. of Catania, Sicily, came up with a $204,000 grant to the Florida researchers to complete the laboratory version. 
+The Italian company now plans to take over its commercial development. 
+
+   Electronic Versions
+   Of Pocket Dictionaries
+   TWO COMPANIES are giving the term "pocket dictionary" a new meaning by bringing out electronic versions that are roughly the size and shape of small calculators. 
+
+   Textbook-sized electronic dictionaries that provide correct spelling and short definitions have been available for some months. 
+But Franklin Computer Corp., Pennsauken, N.J., and SelecTronics Inc., Minneapolis, say they have developed smaller versions by using better techniques for compressing data and more powerful memory chips. 
+
+   The SelecTronics product includes 100,000 words. 
+The Franklin device has 80,000, including toughies like "abscissa" ("the horizontal coordinate of a point") and "eleemosynary" ("charitable"). 
+Both provide users a list of words to choose from if they aren't sure of the spelling. 
+
+   Franklin says that next month it will show some pocket-sized devices at a trade fair in Hanover, West Germany, that will translate French, German and Italian words into English, and vice versa. 
+Beyond that, who knows? 
+Morton C. David, Franklin's chairman and chief executive, says the technology would lend itself to Scrabble dictionaries, wine directories and, for puzzle players, listings of mythological characters and obscure places. 
+
+   Sometimes, Gray Areas
+   Make Things Clearer
+   VISION SYSTEMS for robots are among those innovations that were supposed to change the world as we know it with broad applications, but so far they've been limited to narrow uses. 
+Cognex Corp. of Needham, Mass., has addressed some of those drawbacks with a system it will soon start shipping. 
+
+   Machine-vision systems typically process images that don't include grays -- meaning they identify a person by his silhouette. 
+But Cognex says it has produced an algorithm that lets its system do the heavy calculations required to handle shading without slowing to a crawl as other systems do. 
+Cognex has compressed its system's components to fit on a single circuit board, making it more compact than competing systems. 
+The system will also cost less than half the $40,000 to $50,000 that such systems normally cost. 
+
+   Machine-vision still has severe limitations, but the Cognex product "would be a good step forward, assuming it does everything they say it will," says John Gilmore, a professor at the Georgia Institute of Technology. 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,155 @@
+ID: 205	RANK: 32	SCORE: 21.041420
+<DOC>
+<DOCNO>
+WSJ910315-0028
+</DOCNO>
+<DOCID>
+910315-0028.
+</DOCID>
+<HL>
+   Technology:
+   Hackers Open Voice-Mail Door to Others' Phone Lines
+   ----
+   By John J. Keller
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+03/15/91
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B1
+</SO>
+<IN>
+TELEPHONE SYSTEMS (TLS)
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+</IN>
+<GV>
+JUSTICE DEPARTMENT (JUS)
+TREASURY DEPARTMENT (TRE)
+</GV>
+<LP>
+   Those friendly electronic voice-mail systems that take
+messages at many offices are being put to a more sinister use
+by computer hackers.
+   In the past six months, computer hackers in the U.S. and
+Canada have been systematically stealing phone records and
+using local and toll-free 800 phone numbers to gain access to
+office voice-mail systems around the country, allowing them
+to use the office phones for their own purposes.
+</LP>
+<TEXT>
+   The size of the intrusion is still being gauged by the
+Secret Service and the Federal Bureau of Investigation, but
+it certainly involves "hundreds of companies and government
+offices," says Earl Devaney, special agent in charge of the
+Secret Service's Fraud Division. "If it continues increasing
+at the rate we're seeing," Mr. Devaney adds, "it could run
+into the tens of millions of dollars in losses" in fraudulent
+phone bills for business and agencies.
+   Current voice-mail systems are vulnerable because their
+access codes are relatively easy to crack. Once hackers
+calling from outside an office break a code and take control
+of an extension, they have several options. They can use the
+line to make long-distance calls, at the company's expense.
+They can leave and receive messages.
+   "The hacker calls on our 800 line for free," says Wes
+Winchester, a data-processing systems coordinator at the U.S.
+Postal Service Center in New Brunswick, N.J. "He creates a
+mailbox for himself, say on extension 5001, and then tells
+the system to forward the messages {for him} by calling his
+house. Our system gets charged for those calls."
+   Some hackers even change the company password, rendering
+the voice system inaccessible to employees trying to retrieve
+their messages. "I pushed my access code in, and the system
+wouldn't accept it," says Phillip Cassidy, finance and
+leasing manager for U-Save Auto Rental of America Inc.,
+Hanover, Md. "The hacker had locked it up."
+   Vincent Howley, U-Save's executive vice president adds:
+"They're giving out company phone numbers across the country,
+in Jersey, California. They have the capacity to cause major
+problems."
+   This isn't the first time that hackers have penetrated the
+nation's phone system. Last November, two teen-agers from
+Staten Island, N.Y., allegedly gained unauthorized entry to a
+computerized voice-mail system owned by International Data
+Group, Framingham, Mass., then changed recorded greetings to
+lewd messages, made bomb threats and erased customers'
+messages. Earlier last year, a group of California hackers
+allegedly breached computer systems at Pacific Bell and a
+secure computer system used by the U.S. Army to intercept
+phone information.
+   Long-distance phone companies, long victimized by phone
+fraud, began moving aggressively against crooks a few years
+ago. The phone companies lengthened the authorization access
+codes used to charge calls to more than 10 digits, making
+them harder to crack. They also worked with law enforcement
+authorities to raid offenders' homes and businesses. Now a
+problem that cost the industry tens of millions of dollars in
+revenues seems to be subsiding, according to Robert Fox,
+assistant vice president of security at U S Sprint
+Communications Co., a unit of United Telecommunications Inc.
+   Computer hackers, however, are finding new victims. "They
+have migrated away from the long-distance carriers and find
+it safer to attack a company's phone system, which usually
+uses four- to seven-digit access codes," Mr. Fox says. "It's
+a lot easier to get a dial tone through that kind of phone
+system."
+   Hackers gain access to corporate voice-mail systems in a
+variety of ways. The toll-free 800 numbers supplied to
+corporate and government phone customers by long-distance
+carriers, plus other sensitive phone records, are stored in
+data banks owned by local phone companies. A hacker using a
+personal computer and modem can break into these data banks
+through phone lines and steal customer records showing phone
+numbers and voice-mail access codes. The hacker can then use
+this information to manipulate voice-mail systems.
+   Once inside a system, hackers may use a stolen password to
+get a dial tone from the company's phone line, and then "the
+real trouble begins," says the Secret Service's Mr. Devaney.
+"They make long-distance calls around the world, and the
+company doesn't find out it has a problem until 30 to 60 days
+after the intrusion, when it gets its phone bill."
+   Hackers can also change passwords or create mailboxes in
+phantom phone extensions. Mr. Winchester noticed the problem
+at the Postal Service office when its phone system's
+data-storage unit became overloaded. "We also saw phony boxes
+for extensions that didn't exist," he says.
+   Some of the messages left by hackers are downright nasty.
+At Health Management Strategies International Inc.,
+Alexandria, Va., a hacker took over a mailbox and left a
+message that identified a Las Vegas, Nev., man by his name,
+age and Social Security number and told fellow hackers to
+inflict punishment on the man and his son. "I really want his
+kid nailed," said the hacker. "Call up the utilities, give
+his name, age and Social Security number and tell 'em you
+want your electricity shut off. Then call the phone company
+and do the same thing. Toast the dude."
+   Another hacker left Visa credit card information for a
+woman in Huntington Beach, Calif.
+   Mr. Devaney recalls one hacker who "called a company and
+said, `I am in control of your phone system. If you don't pay
+me, I'll bring it crashing down.'" The hacker didn't make
+good on his threat but wasn't caught.
+   "Their boldness is fostered by their anonymity," Mr.
+Devaney says. "They're sitting in a bedroom somewhere, not
+robbing a bank where everyone can see them."
+   The hackers themselves have taken names such as Ice Cube,
+Tall Man from the Ministry of Fear and Uppercut. There's even
+a guy named Techno, from Ultralogic, a group of Canadian
+hackers who use Hewlett-Packard computers. "If you're
+Canadian and know hacking, leave a message or call Global
+Genocide," says Techno, leaving a number in Ontario.
+   U-Save's Mr. Howley and others are having a hard time
+figuring where to turn for help against phone fraud. The
+Secret Service targets high-dollar, high-volume fraud, Mr.
+Devaney says. The FBI usually doesn't investigate until the
+local phone company asks it to. And long-distance companies
+can't do much about people who dial phone numbers and reach
+private phone systems that long-distance carriers don't
+control.
+   The real solution, says Richard Petillo, manager of
+corporate security for American Telephone &amp; Telegraph Co., is
+for a company to beef up its own security. Hackers, he says,
+"look to the most available and least protected of systems."
+</TEXT>
+</DOC>

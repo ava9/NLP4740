@@ -1,0 +1,137 @@
+ID: 210	RANK: 66	SCORE: 5.511152
+<DOC>
+<DOCNO>FT942-577</DOCNO>
+<PROFILE>_AN-EF1DKAHLFT</PROFILE>
+<DATE>940628
+</DATE>
+<HEADLINE>
+FT  28 JUN 94 / Survey of Computer Networking (4): Link for 25m users - Rush
+to join the global Internet
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<TEXT>
+Use of the Internet, an global network of computer networks, is expanding
+rapidly as individual personal computer users and companies recognise its
+value for communications, research and marketing.
+The Internet is the most expansive network of computer networks in the
+world, linking an estimated 2.2m computers and over 25m users in 137
+countries. Use of the Internet is growing at a rate of about ten per cent
+per month.
+'The Net,' as it is commonly called, is an outgrowth of a US government
+funded research program that began in the late 1960s to electronically link
+researchers at US universities and government laboratories. Throughout the
+1980s, the Internet grew in popularity among computer hobbyists - it
+provides cheap electronic mail, conferencing and network searching
+capabilities for personal computer junkies. 'Virtual communities' with
+common interests are linked on the Internet, exchanging messages from all
+over the world.
+One of the Internet's attractions is that it allows users to explore
+computer data bases all over the world. It is possible, for example, to pour
+through the catalogue of the Library of Congress, access information about
+NASA space shots, or log on to computers in Australia  - all for the cost of
+a local phone call, plus whatever connect charges are imposed by the 'access
+provider.'
+The growing popularity of the Internet has spawned dozens of these 'access
+providers'; companies and organisations that provide individual and
+corporate computer users with 'dial up' links to the Internet.
+Some, such as the Web in Northern California, encourage social interaction
+on-line and off, among their users. This gives them a distinct 'net culture'
+reflecting the views and interests of their subscribers. Others act simply
+as a connection service, much like a phone company provides links to its
+voice network.
+Until very recently, however, use of the Internet has been limited to those
+with a relatively high level of computer expertise. Most computers on the
+Internet run the UNIX operating system, which is unfamiliar to the majority
+of PC users. The Internet therefore lacked the 'user friendly' features such
+as graphical user interfaces that have made PCs increasingly easy to use.
+Now several interface programs are making the 'Net' more accessible to
+computer novices. In particular, a program called Mosaic, developed by the
+National Center for Supercomputing Applications (NCSA) at the University of
+Illinois at Urbana-Champaign, is gaining popularity as an easy to use point
+and click interface for searching portions of the Internet.
+Millions of new Internet users are also beginning to gain access to the
+worldwide network via commercial on-line information services such as
+Compuserve and America Online.
+Business use of the Internet is also on the rise , with thousands of
+companies hooking their internal networks on to 'the Net.' In the US, the
+number of business 'host' computers directly linked to the Internet
+increased 63 per cent to 567,686 over the 12 months ending in January,
+almost equaling the number of Internet links to US colleges and
+universities. Each 'host' computer can support numerous individual personal
+computer users.
+Use of the Internet in the UK jumped 94 per cent over the same period, with
+113,930 host computers hooked up by the end of January. Much of the UK
+growth is also believed to come from the commercial sector. Companies are
+rushing to take advantage of the Internet as a low-cost route for
+international electronic mail. Digital Equipment, the US computer company,
+is one of the heaviest users of the Internet, with over 31,000 computers
+linked to the system. The company exchanges an average of 1.7m e-mail
+messages with people outside the company per month.
+The open nature of the Internet with its millions of users and the lack of
+any central control has , however, created security problems. Corporate
+users of the Internet therefore typically try to isolate their internal
+computer networks from the Internet to avoid intrusions from curious or
+malevolent computer 'hackers.'
+'Security has become a barrier to the commercial growth of the Internet.
+Many clients want to connect, but won't do it because of the security
+problems,' says Jim Hogan, vice president of global communication and
+information processing services at Digital Equipment. The company has 'at
+least one or two (computer) break-in attempts per week,' he acknowledges.
+'Over the past ten years, we've developed methods of securing our own
+network that, as far as we know, have never been penetrated.'
+Digital recently announced an Internet security service based on the
+technology and expertise that it has developed to protect its own networks.
+Digital's system incorporates two 'gateways,' one that is linked to the
+Internet and a second that is hidden from the outside world. In effect, the
+system builds 'firewalls' around internal networks, protecting them from
+unwanted intruders. Encryption and user authentication systems could bring
+greater security to the Internet, experts say. However, the introduction of
+such systems is not welcomed by many Internet enthusiasts who fear that they
+will detract from the open communications that have long been a central
+facet of 'net culture.'
+O'Reilly and Associates, a US publishing group, has created the Global
+Network Navigator, a free Internet-based information center that includes
+news, an online magazine, an interactive catalogue and a global marketplace
+containing advertiser-sponsored information on a wide range of products and
+services.
+In California's Silicon Valley, a consortium of companies and organisations
+is establishing CommerceNet, an electronic marketplace for high technology
+companies.
+Mecklermedia , a US technology publishing group, recently launched
+'MecklerWeb,' an electronic communications and marketing system aimed at
+companies that want to have a 'corporate presence' on the Internet.
+Such business uses of the Internet will secure its future as a critical part
+of the 'information superhighway,' drawing resources to the development of
+new software for use on the Internet and encouraging its expansion.
+The Internet of the future is , however, likely to be very different from
+the research oriented network that its creators originally envisaged, and
+from the computer hobbyists' playground that the Internet has been for the
+past decade.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+    USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P48   Communications.
+    P737  Computer and Data Processing Services.
+    P357  Computer and Office Equipment.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Services &amp; Services use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page III
+</PAGE>
+</DOC>

@@ -1,0 +1,134 @@
+ID: 210	RANK: 97	SCORE: 5.129018
+<DOC>
+<DOCNO>FT933-10240</DOCNO>
+<PROFILE>_AN-DHECDACIFT</PROFILE>
+<DATE>930805
+</DATE>
+<HEADLINE>
+FT  05 AUG 93 / Technology: Software's secret war - US computer companies
+are at odds with the government over data security plans
+</HEADLINE>
+<BYLINE>
+   By TOM FOREMSKI
+</BYLINE>
+<TEXT>
+A battle over computer data security standards has erupted in the US, with
+private industry and the government at odds over the most effective way to
+protect information that flows through large networks of computers.
+A group of companies led by Novell, the network software company, is
+attempting to set a new data security standard, while the US government is
+getting little industry support for its 'Clipper chip' proposal for voice
+and data security, which was introduced in April.
+The key to protecting computer networks from unauthorised access by computer
+hackers and spies lies in the use of data encryption technologies.
+Encryption also offers individuals much-needed data privacy that can protect
+their electronic communications and their bank accounts.
+Novell says its proposal is based on a more sophisticated data encryption
+technology than the government's Clipper system, and is better suited to
+computer networks.
+The company has formed a coalition consisting of 22 users and vendors to
+define a reliable data security system. Coalition members include Brian
+Gladman, senior procurement manager at the UK Ministry of Defence, and
+Herman Roos, a partner at accountants KPMG Peat Marwick in the Netherlands.
+The government's Clipper technology is based on a secret encryption method
+developed by the National Security Agency and adopted by the National
+Institute of Standards and Technology (NIST). But there is concern within
+industry that the Clipper encryption technology has a secret 'trapdoor' that
+would allow the NSA to decipher messages. The NSA denies that the trapdoor
+exists but will not reveal the Clipper encryption algorithm.
+In June more than 50 organisations united to criticise the government's
+endorsement of Clipper. Members of that group included AT&amp;T, IBM, Apple
+Computer, MCI and public interest groups Computer Professionals for Social
+Responsibility (CPSR) and the Electronic Frontier Foundation (EFF).
+CPSR and the EFF say that allowing law enforcement agencies to snoop on
+communications violates individual privacy rights. And they complain that
+keeping the encryption method secret could leave systems open to attack by
+computer hackers who might stumble upon a way to crack the encryption
+algorithm.
+Communications companies also say that Clipper is too slow. 'We need a data
+security system that can keep up with high-speed networks,' says Charles
+Hart, president of Semaphore Communications, a data security company based
+in Aptos, California.
+Novell proposes using a system based on the IBM-developed Data Encryption
+Standard (DES) and the Rivest-Shamir-Adleman (RSA) encryption method,
+considered almost unbreakable.
+The RSA encryption method relies on the product of two large prime numbers
+and the use of keys - special numbers to encode and decipher messages. Users
+have a public and private key. To send a message, the file is encrypted with
+the sender's private key and the recipient's public key. Only the intended
+recipient can decode the message.
+RSA Data Security, which licenses the RSA encryption technology, claims it
+would take supercomputers running for hundreds of years to decode encrypted
+messages.
+Glenn Hyatt, head of data security consultants HighGate Solutions in
+Wilmington, Delaware, says: 'There is an important need among large
+corporations for a reliable data security model. Novell is the right company
+to co-ordinate this since their software is a de facto standard in
+networks.'
+Despite the protests the US government is expected to press ahead with
+Clipper after the proposal's review period ends in October.
+Officials at the NSA and NIST insist that while Clipper is likely to become
+a government standard its use by the private sector will be voluntary.
+However, US government procurement effectively sets standards that private
+industry - especially those companies that do business with the government -
+will be forced to follow.
+Even as a standard for government computing, Clipper sets a dangerous
+precedent, warns Marc Rotenberg, director of the Washington office of the
+CPSR. 'We believe that privacy protection is important for building a
+national communications infrastructure and Clipper does not provide that
+privacy.'
+Rotenberg is also suspicious that new laws could force private companies and
+individuals to provide a way for the Federal Bureau of Investigation to tap
+into encrypted communications systems. The FBI has been trying to gain
+support in Congress for the passage of the digital telephony bill, which
+will force companies producing communcations equipment to give easy access
+to FBI wire-taps.
+'The government says that Clipper's use will be voluntary, but if the FBI
+succeeds with its digital telephony bill it could make Clipper's use
+mandatory,' Rotenberg says.
+The FBI claims that criminals using encryption technologies make it
+impossible for the bureau to conduct wire-taps. However, the CPSR says the
+agency has not yet shown that a single investigation has been hampered
+through criminals using encrypted communications.
+The computer industry fears that such initiatives will force companies to
+adopt weaker data security measures than those available to foreign
+competitors.
+While US companies are permitted to use whatever encryption technology they
+want, there are restrictions on the export of computer products.
+'For every export order, we have to obtain special permission from the
+Department of Commerce,' says Bill Ferguson, vice-president of sales and
+marketing at Semaphore. 'This paperwork takes about two months to complete,
+even to countries in western Europe. Our competitors abroad don't have these
+restrictions.'
+The Software Publishers Association, which represents more than 1,000 US
+software companies, has also complained to the government that export
+controls on software containing encryption features are harming the software
+industry.
+At a hearing organised in early June by the NIST, the association's general
+counsel, Ilene Rosenthal, testified: 'Unilateral US export controls do not
+make any sense given the widespread legal availability of foreign encryption
+programs.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Safety &amp; Standards.
+    TECH  Patents &amp; Licences.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 11
+</PAGE>
+</DOC>

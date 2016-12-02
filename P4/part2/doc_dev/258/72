@@ -1,0 +1,165 @@
+ID: 258	RANK: 72	SCORE: 7.275330
+<DOC>
+<DOCNO> LA052490-0220 </DOCNO>
+<DOCID> 223811 </DOCID>
+<DATE>
+<P>
+May 24, 1990, Thursday, Home Edition 
+</P>
+</DATE>
+<SECTION>
+<P>
+Business; Part D; Page 3; Column 3; Financial Desk 
+</P>
+</SECTION>
+<LENGTH>
+<P>
+1155 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+COMPUTER FILE: FRESH AIR THROUGH WINDOWS 3.0 
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By LAWRENCE J. MAGID, LAWRENCE J. MAGID is a Silicon Valley-based computer 
+analyst and writer. 
+</P>
+</BYLINE>
+<TEXT>
+<P>
+Microsoft's Windows 3.0, unveiled Tuesday, may turn out to be the most 
+significant development in the nine-year history of IBM and compatible personal 
+computers. The software, which works with the MS-DOS operating system, makes it 
+possible for millions of those machines to use an attractive graphical 
+interface similar to that on the Apple Macintosh. 
+</P>
+<P>
+Windows 3.0, with a suggested list price of $149, is neither a program nor an 
+operating system. It is an operating environment. As such, it governs the look 
+of the screen, the way users interact with programs and even the way programs 
+operate. It runs under the regular MS-DOS operating system on any IBM 
+compatible with an Intel 286, 386 or 486 central processing unit. Machines must 
+also have a hard disk, a graphic display and at least 1 megabyte of memory. 
+Although Windows will work with regular MS-DOS programs, it works best when 
+used with software designed especially for Windows. 
+</P>
+<P>
+Windows 3.0 has four primary advantages over regular MS-DOS. First, all 
+programs written for Windows have a similar look and feel. Once you learn how 
+to use one Windows program, you have a head start on the others. Second, the 
+graphical environment assures that programs operate in a "what you see is what 
+you get" mode so that what you see on the screen looks like what you'll get on 
+paper. Third, Windows, as does the Mac, makes it easy to transfer data from one 
+program to another. It's as simple as highlighting the information with the 
+mouse, copying it to the clipboard and pasting it in another program. 
+</P>
+<P>
+Finally, Windows 3.0 is a multi-tasking operating environment. That means it's 
+possible to load several programs into the computer's memory and switch between 
+them with a single command or mouse movement. You can even have several 
+programs share the screen, each in its own window. As I write this article, I 
+am simultaneously transmitting data to another computer. What's more, my 
+spreadsheet and drawing programs are in memory so that I can switch to them in 
+less than a second without having to stop what I'm doing. 
+</P>
+<P>
+Windows 3.0 can take advantage of up to 16 megabytes of memory. Regular MS-DOS 
+programs can use only 640K. I'm not suggesting you buy that much memory for 
+your system, but the more memory you have, the more programs you can run at one 
+time. Extra memory also increases performance in some situations. 
+</P>
+<P>
+Users whose machines are equipped with an Intel 386 or 486 CPU will be able to 
+use Windows to run several DOS or Windows applications in the background, with 
+each program behaving as if it's running in its own dedicated PC. It's also 
+possible for 386 users to allocate part of their hard disk to simulate random 
+access memory. This so-called virtual memory allows the 386 to continue to run 
+programs even after you've run out of regular memory. 
+</P>
+<P>
+I doubt if anyone but a software reviewer would do this, but as a test, I used 
+Windows on an 8-megabyte 386 to run WordPerfect, WordStar, Microsoft Word, 
+Lotus 1-2-3, Prodigy, Quattro, Word for Windows, Excel, Microphone II and 
+several other Windows and non-Windows programs -- all at the same time. Each 
+behaved perfectly. The only program I couldn't run was the one that controls my 
+compact disc drive. Ironically, that software was developed by Microsoft -- the 
+same company that developed Windows. 
+</P>
+<P>
+You can't run Windows 3.0 on a PC or PC/XT equipped with an Intel 8088 or 8086 
+CPU. However, most of those machines can be modified with faster CPUs. 
+</P>
+<P>
+If you buy Windows you should also count on buying new Windows-compatible 
+software. It's possible to use your old software, but the programs will look 
+and operate just like they always have. They will not offer Windows' graphical 
+user interface, although you will be able to use Windows to copy and paste 
+information between regular DOS programs or between DOS and Windows programs. 
+Some programs written to run under previous versions of Windows must be 
+modified before they can run properly with the new version. 
+</P>
+<P>
+Windows 3.0 comes with several free programs to get you started, including a 
+basic word-processing program, a calculator, a couple of games, a reasonably 
+good communications program and a personal organizer, called Daybook. Daybook 
+includes a place for your schedule, address book and "to do" list. 
+</P>
+<P>
+Early versions of Windows were criticized as being slow and ugly. What's more, 
+there has been a dearth of software. The new Windows is a lot faster and a lot 
+prettier. I've been using a prerelease copy for about a month and I'm extremely 
+impressed with its features, performance and reliability. I didn't get out my 
+stop watch to perform any timing tests, but its performance on my 386-based PC 
+seems at least as good as what I'm getting on a similarly equipped Macintosh 
+IIci -- a machine with a street price that's more than twice the cost of my PC. 
+I was pleasantly surprised at how well Windows performed on a minimal 
+configuration when I tested it on a machine with a 286 CPU and 1 megabyte of 
+random-access memory. If you shop around you can find such machines, equipped 
+with a hard disk and a high-resolution color monitor, for about $1,000. 
+</P>
+<P>
+Microsoft and other software companies are rushing to provide software to run 
+under Windows. Microsoft has already released Windows versions of its 
+spreadsheet (Excel) and word processing (Word) software. Software Ventures has 
+announced a forthcoming version of its Microphone Communications software, and 
+WordPerfect Corp. is working on a Windows version of its best-selling word 
+processing program. hDC Computer Corp. of Redmond, Wash., has released some 
+very good utilities programs for Windows, including one that makes it easier to 
+locate and run programs. Asymetrix, of Bellevue, Wash., has already released 
+ToolBook, a software development tool that is somewhat similar to Apple's 
+HyperCard language. 
+</P>
+<P>
+In an effort to add value to its systems and simplify the lives of its dealers 
+and customers, Zenith Data Systems is loading Windows 3.0 along with ToolBox 
+and DOS 4.0 on the hard disks of all its 286 and 386 desktop machines. Zenith 
+is also including a mouse as standard equipment. 
+</P>
+<P>
+Zenith, along with Microsoft, commissioned a study that concluded that 
+graphical user interfaces such as Windows and Macintosh cause users to work 
+faster and better and achieve higher productivity and lower frustration than 
+those using a regular, non-graphical interface. 
+</P>
+<P>
+Novice users of a graphics-based system completed 42% more tasks than novice 
+users of a non-graphics system, according to the study conducted by the 
+research firm Temple, Baker &amp; Sloane. Experienced users were 35% more 
+productive, according to the report. 
+</P>
+<P>
+The new version of Windows is an exciting and important development, bringing 
+many advantages of the Apple Macintosh to lower-priced IBM compatibles. It 
+breathes new life into the old MS-DOS operating system and has turned me into a 
+born-again DOS user. 
+</P>
+</TEXT>
+<TYPE>
+<P>
+Column 
+</P>
+</TYPE>
+</DOC>

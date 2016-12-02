@@ -1,0 +1,108 @@
+ID: 156	RANK: 62	SCORE: 9.355483
+<DOC>
+<DOCNO>FT932-292</DOCNO>
+<PROFILE>_AN-DF2CGAGXFT</PROFILE>
+<DATE>930629
+</DATE>
+<HEADLINE>
+FT  29 JUN 93 / Survey of Computer Networking (8): A struggle for dominance
+ -The prospects for the main operating systems strategies
+</HEADLINE>
+<BYLINE>
+   By PHIL MANCHESTER
+</BYLINE>
+<TEXT>
+BY THE end of the decade, most personal computers will be attached to a
+network of one sort or another. Many will be attached to local area
+networks, so they can share resources, support 'group working' applications
+and connect personal computers to large corporate databases.
+Like any other, networks of personal computers need a controller - a sort of
+telephone exchange - to make sure that messages get to the right
+destination, cope with hardware breakdowns and maintain security.
+Personal computer networks are controlled by software in the form of a
+network operating system. In the same way that an operating system such as
+Microsoft's MS/DOS looks after the complexities of operating a personal
+computer, network operating systems control the flow of traffic through a
+network.
+It follows that the developers of what becomes the dominant network
+operating system will be assured of a lucrative market well into the next
+century.
+In pole position is the Utah-based software developer Novell with its
+NetWare package. Over the past 10 years Novell has successfully seen off
+sustained attacks from its biggest rivals - IBM and Microsoft - and driven
+at least one potential competitor - 3Com - out of the networking software
+market.
+More recently, it bought out Digital Research - Microsoft's one-time rival
+in the PC operating system market - and formed Univel, a joint venture with
+Unix Systems Laboratories (USL), to market Unix software. Novell is now on
+the verge of completing a takeover of USL, which will give it effective
+control of the Unix operating system.
+Apart from its abortive merger with Lotus Development in 1990, Novell has
+made all the right moves. It is well-placed not only to continue to dominate
+the network software market, but also to challenge Microsoft's dominance of
+the broader PC systems software market.
+Not surprisingly, Microsoft is keen to extend its sphere of influence beyond
+the confines of single, stand-alone personal computers. It wants a slice of
+the network operating system market and has struggled - so far in vain - to
+oust Novell. Microsoft's Lan Manager software, which is also the original
+basis of IBM's OS/2 Lan Manager, has failed to appeal to PC network builders
+ -partly because of technical problems and delivery delays.
+The recent launch of the Windows NT operating system, which puts Microsoft
+in a better technical position to compete with Novell, has raised the heat
+of the battle.
+Windows NT is a gamble for Microsoft. It is much more than a replacement for
+its top-selling Windows 3.1 PC software. It is also designed for use on the
+high-speed reduced instruction set computers (Risc) being developed by IBM
+and DEC. This is traditionally the territory occupied by Unix.
+More important, it comes with a new networking product called Windows NT
+Advanced Server. Although Microsoft has not given a definite delivery date
+for the Advanced Server, it has priced it very competitively and aimed it
+directly at Novell's NetWare.
+Novell's interest in Unix through USL - in addition to the products it
+inherited in the Digital Research takeover - give it the weapons to break
+into Microsoft's market.
+However, Mr Lalit Nathwani, NetWare product manager at Novell UK,
+acknowledges Microsoft's strong position. 'Microsoft will dominate the
+desktop - but not the network server,' he says.
+'The market is looking for stability and proven, reliable networking. And
+customers do not want to be locked into a specific product like Windows -
+it's proprietary. We can take a more independent view. Unlike Microsoft, we
+have no involvement in applications software and we are hardware
+independent.'
+He adds that users are looking for integration across networks and that
+Novell's new involvement in Unix development will make this easier.
+The key to Novell's strategy is the bringing together of Unix and Novell's
+NetWare - a combination which could give Microsoft's Windows NT a run for
+its money. The proven track record of both Unix and NetWare in their
+respective markets gives them a clear advantage.
+But Unix has suffered from a lack of standardisation and confusion over the
+'front-end' interfaces for applications programs and user interfaces. Novell
+could put this right. It has succeeded in making Netware a standard for PC
+networks and given application builders a fixed target to aim at.
+It could do the same with Unix - although whether this will be enough to
+triumph over Microsoft remains to be seen.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ   United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7372 Prepackaged Software.
+    P7373 Computer Integrated Systems Design.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page V
+</PAGE>
+</DOC>

@@ -1,0 +1,180 @@
+ID: 210	RANK: 16	SCORE: 8.325734
+<DOC>
+<DOCNO>FT942-580</DOCNO>
+<PROFILE>_AN-EF1DKAHIFT</PROFILE>
+<DATE>940628
+</DATE>
+<HEADLINE>
+FT  28 JUN 94 / Survey of Computer Networking (3): Buzzwords in brief - From
+Ace and ATM to Lans, Mans and Vans / Although networking has vital
+implications for the business world, the technology is often obscured by
+technical jargon and buzzwords. Here, for the non-technical reader, Michael
+Wiltshire offers some simplified definitions
+</HEADLINE>
+<BYLINE>
+   By MICHAEL WILTSHIRE
+</BYLINE>
+<TEXT>
+Access control method: the main distinguishing feature between different
+local area network (Lan) technologies.
+ACE: advanced computing environment - a standard sponsored by a consortium
+of 22 vendors, including DEC, Microsoft and Compaq.
+ASCII: American Standard Code for Information Interchange. ASCII is the
+standard method of identifying characters, numerals and punctuation marks.
+ATM technology: asynchronous transfer mode, developed in France in the
+mid-1980s, is a breakthrough in communication technology with the potential
+to support transmission of combined data, voice and video at up to 45
+megabits a second.
+ATM opens the door to many new network applications.
+Baud: a measure of signal changes per second in a device such as a modem.
+Backbone: generic term for a Lan or Wan connections 'trunk' between
+sub-networks across an enterprise. Subnetworks are connected to the backbone
+via bridges and/or routers.
+Bandwidth: the range of signal frequencies that can be carried on a
+communications channel.
+Bit: a binary unit of information that can have two values, 0 or 1. The word
+'bit' is a contraction of binary digit.
+Block: a collection of transmitted data.
+Broadband: a term with a number of meanings - it was coined originally to
+describe a channel with more bandwidth than a standard voice grade channel,
+usually a 48kHz link, equal to 12 voice-grade channels. Such channels are
+gradually being superseded by digital circuits.
+Broadcast: when a user sends a message from one terminal to others on the
+network.
+CCITT: an international body, made up of telephone companies and other IT
+players, responsible for setting global communication standards.
+Client-server technology: the most widespread example of network computing:
+moves information processing to where it is most economical, fast and
+useful; divides computer systems into front-end 'client' workstations and
+back-end 'server' processes.
+CTI: computer-telephony integration - also known as computer-supported
+telephony.
+Data compression: a key topic for network managers as multimedia, video,
+document imaging and other technologies emerge.
+Domains: a Microsoft inspired network structure which separates large
+networks into smaller, more manageble segments. A domain can be made up of
+multipler servers and thousands of workstations.
+DBMS: database management system - a software system to manage data.
+DCE: data communications equipment, the hardware that provides connection to
+the network; DTE stands for data terminal equipment on a network, eg
+computers, printers and plotters.
+Digital signature: an encryption method to validate an electronic message.
+Distributed database: data located at multiple sites.
+Digital signal: this has only two values, normally 0 and 1, during
+transmission, as opposed to analogue signals whose values vary all the time.
+Dynamic routing: a way of sending messages across a network - if a line
+fails or is overloaded, the system will automatically re-route the message.
+Packet switching operates on this principle, with the system always poised
+to react to ever-changing conditions.
+EDI: electronic data interchange for business data such as purchase orders
+and invoices between companies.
+Electronic mail: sending and receiving messages and text-based information
+between computers; the most common application on networks.
+Ethernet: one of the oldest Lan technologies, developed by Xerox, Intel and
+DEC to run over coaxial cable; highly successful and still popular.
+File server: a computer attached to a Lan, usually running on a network
+operating system (Nos).
+Frames: a segment of data sent over a network medium using a cable or laser.
+The frame size is dependent on the protocols and services used.
+Frame relay: a data communication method for wide area networks, slowly
+replacing X25 - an X series standard, specifying the interface between
+computers and packet switched networks.
+Groupware: network software that defines applications used by a group of
+people. See page five.
+GUI: a graphical user interface to enable computer users to easily select a
+'menu item' by using a 'mouse' to click on to a graphic icon.
+Hub: the centre of a star topology network or cabling system.
+Interoperability: the ability of applications on two computer systems to
+exchange information so that they can understand each other.
+ISDN: the slow-to-emerge integrated services digital network covering a
+range of voice, data and image services.
+Internet: the most expansive network of computer networks in the world, with
+25m users - see article on facing page.
+ISO: International Standards Organisation, based in Geneva; responsible for
+many data communication standards, the best-known being the seven-layer Open
+Systems Interconnection (OSI) model.
+Lan: a local area network - in its simplest form, a cabling system.
+Installing a private cabling system (to which computers can be connected)
+and by using agreed proceedures (protocols), communications between all
+stations is possible.
+Man: metropolitan area network; usually high speed fibre-optic systems.
+Modems: short for modulators/demodulators; devices for connecting computers
+to public switched telephone networks (PSTN).
+Multimedia: brings voice, video and graphics to the network in the form of
+large files, requiring high disc storage space; plus large amounts of
+bandwidth during transmission.
+NetWare: Lan networking products including an operating system developed by
+Novell that holds a large market share of the Lan server sector. Novell
+claims to have 40m clients on its networks.
+Network audit trail: a continuous record of a network's activity.
+Network management: 'A term used to cover a multitude of sins,' says David
+Palmer-Stevens, author of the Guide to Local Area Networking.* 'As yet,
+there are few complete solutions available - a patchwork of network
+management systems cover a variety of areas . . . basically, vendors'
+systems fall into one of two camps, concerned with either physical
+(hardware) elements or the logical side of the network - the control and
+management of inter-process communication.'
+OME: an open messaging environment.
+Object-oriented technology: reusable software programming that simplifies
+development of applications.
+OS/2: cornerstone of IBM's client-server strategy for desktop computer
+systems.
+OSI model: a seven-layer model developed by the International Standards
+Organisation, ISO, specifying how computers should communicate over a
+network.
+PowerPC: microprocessor architecture developed by Motorola, in conjunction
+with IBM and Apple Computers.
+PDNS: public data networks.
+Packet: a group of bytes, sent over a link.
+Packet switching: a method of switching data in a network where individual
+packets of set size and format are accepted by the network and delivered to
+their destinations. With various companies sharing a network, the packet
+option can be a cost-saving method of communicating data.
+TCP/IP: suite of protocols developed by the US Department of Defense, since
+adopted as an international standard, particularly for networks of
+interconnected Ethernet Lans.
+SNA: Systems Network Architecture, introduced by IBM, the world's first
+network architecture.
+Token ring network: the standard of the Institute of Electrical and
+Electronic Engineers.
+Unix: a multi-user operating system that supports networking and distributed
+file systems.
+Vans: value added network services - a network that provides specialised
+facilities beyond the normal carrier service by adding computer-control and
+communications.
+Wan: a wide area network, covering a larger area than a local area network,
+and including telecom links. Examples include packet switched networks, PDNs
+and Vans.
+X series: recommendations specified by CCITT governing the attachment of
+terminals and computers to a data network.
+Guide to Local Area Networking by David Palmer-Stevens for Cabletron
+Systems, Newbury, Berks. (tel 0635 580.000; fax 0635 44578).
+Local Area Networks: making the right choices: by Philip Hunter;
+Addison-Wesley, Wokingham; pp 323.
+Also recent FT surveys - The Computer Industry: Battle for the Desktop,
+published Tuesday May 31, 1994; also: Telecommunications in Business; June
+15, 1994.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P737  Computer and Data Processing Services.
+    P48   Communications.
+    P357  Computer and Office Equipment.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page II
+</PAGE>
+</DOC>

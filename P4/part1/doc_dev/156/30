@@ -1,0 +1,100 @@
+ID: 156	RANK: 30	SCORE: 9.809586
+<DOC>
+<DOCNO>FT942-13270</DOCNO>
+<PROFILE>_AN-EDZEDAC8FT</PROFILE>
+<DATE>940426
+</DATE>
+<HEADLINE>
+FT  26 APR 94 / Technology: Right to reverse engineer - A US battle to
+produce compatible software
+</HEADLINE>
+<BYLINE>
+   By GEOF WHEELWRIGHT
+</BYLINE>
+<TEXT>
+The US software industry is in turmoil over a court decision that may
+severely limit companies' ability to produce compatible software products.
+At issue is the continuing legal fall-out from two court rulings involving
+Microsoft, the world's largest producer of personal computer software, and
+Stac Electronics - a relatively small producer of 'data compression'
+software.
+Stac recently won a verdict of patent infringement against Microsoft,
+forcing the software giant to remove a 'DoubleSpace' feature that almost
+doubles the amount of data that can be stored on a personal computer hard
+disk, from its products.
+This verdict has caused much discussion in the software industry. But a
+second, less publicised ruling, made in Microsoft's favour, is prompting
+more serious debate. Stac has been ordered to pay Microsoft damages of
+Dollars 13.6m (Pounds 9.3m) for misappropriation of trade secrets.
+Stac denies any wrongdoing, saying that it only 'reverse engineered'
+portions of Microsoft's MS-Dos PC operating system. Reverse engineering is a
+common practice in the computer industry. It involves examining the
+components and functions of a product to produce a competitive product that
+matches the functions of the original.
+Stac revealed during the trial that it made use of what are known as
+'undocumented system calls' to produce its Stacker product. This product
+also expands the data storage capacity of a PC hard disk, to work more
+efficiently with the MS-Dos operating system. Undocumented system calls are
+those parts of the operating system that are not detailed in manuals. Given
+the complexity of the software, there are typically several undocumented
+elements to an operating system.
+'We are concerned that the jury has found that Microsoft can protect
+undocumented calls as trade secrets,' says Gary Clow, chairman and chief
+executive of Stac Electronics. The decision 'will have a profound effect on
+how companies, both large and small, compete in the software industry', he
+predicts.
+Critics of the ruling say the central issue is 'reverse engineering'. They
+say that if companies cannot use reverse engineering design methods it will
+become very difficult to create products that work well with established
+programs from large software companies such as Microsoft. This has prompted
+an investigation of the case by the US Justice Department, which is already
+conducting an extensive anti-trust investigation into Microsoft's business
+practices.
+According to San Francisco-based copyright attorney Robert Barr, who
+represents several US software houses, the ruling could drive some software
+companies to move to Europe because the European Community's software
+directives 'expressly make it proper to reverse-engineer in the way that
+Stac Electronics reverse-engineered parts of MS-Dos 6'.
+'It would be a shot in the arm to the European software industry,' he says.
+'The allegedly wrongful act (of reverse-engineering) would be legal in the
+UK, so Microsoft would be hard-pressed to block exports to the US.'
+Microsoft, however, simply says the jury made the right decision which Stac
+must accept.
+'A federal jury in LA returned a verdict against Stac on a trade-secret
+claim by Microsoft. The jury even awarded punitive damages because it
+considered Stac's actions deliberate,' says Paul Maritz, senior
+vice-president of systems at Microsoft.
+'Since then, Stac's president Gary Clow and others have devoted an enormous
+amount of energy . . . trying to foster the belief that Microsoft will use
+this verdict to pursue claims against (other) third-party developers who
+legitimately use debugging tools to achieve or maintain compatibility with
+Microsoft's operating systems. These statements just aren't true.'
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Microsoft Corp.
+    Stac Electronics Inc.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+    TECH  Safety &amp; Standards.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 18
+</PAGE>
+</DOC>

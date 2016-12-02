@@ -1,0 +1,157 @@
+ID: 156	RANK: 55	SCORE: 9.429877
+<DOC>
+<DOCNO>
+WSJ910128-0135
+</DOCNO>
+<DOCID>
+910128-0135.
+</DOCID>
+<HL>
+   Computers:
+   Microsoft Corp.
+   To Scrap OS/2,
+   Refine Windows
+   ----
+   By G. Pascal Zachary
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+01/28/91
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B1
+</SO>
+<CO>
+   MSFT IBM
+</CO>
+<IN>
+SOFTWARE (SOF)
+</IN>
+<LP>
+   Microsoft Corp., the biggest supplier of software for
+personal computers, is dropping OS/2, a software program that
+four years ago it declared would replace DOS as the system
+that controls the basic operations of the PC.
+   In its place, industry executives said, Microsoft plans to
+build its future operating software around Windows, a program
+that displays information in pictures and menus instead of
+strings of characters. Since an updated version was released
+last May, Windows has caught on like wildfire, and
+practically every important PC application has been or is
+being redone to make use of Windows' graphical features.
+</LP>
+<TEXT>
+   Microsoft said it will offer details tomorrow at a meeting
+at its offices in Redmond, Wash. But in response to
+questions, Steve Ballmer, who runs the company's system
+software division, said "there are elements of truth" in the
+idea that Microsoft was swinging all its marketing efforts
+behind Windows. Mr. Ballmer declined to elaborate, but
+executives familiar with Microsoft's plans said it will
+salvage much of its OS/2 code by incorporating it into future
+Windows programs.
+   Microsoft's action further strains relations with its
+longtime ally, International Business Machines Corp., the
+biggest PC maker. IBM, based in Armonk, N.Y., has been
+lukewarm in its support for Windows, but has been a major
+booster of OS/2, even to the point of assuming a central role
+in its design last September. Still, Microsoft executives
+privately have hinted for many months that the surging
+popularity of Windows meant the death-knell for OS/2, a
+technically impressive program that has never caught on with
+customers.
+   James Cannavino, who heads IBM's desktop computer
+operations, conceded that differences exist between Microsoft
+and IBM on the question of future PC operating systems, but
+he said the partnership between the two companies isn't
+threatened. Mr. Cannavino said IBM is committed to delivering
+fresh versions of OS/2 and added that "as we start attracting
+more customers (to OS/2), Microsoft will see (OS/2) as an
+opportunity."
+   Others doubt that will happen. "OS/2 was a millstone for
+Microsoft," said Ruthann Quindlen, who specializes in
+software deals for investment banker Alex Brown. "Now they
+want to campaign on behalf of something else."
+   The way Microsoft markets its operating software has
+sparked controversy for years. Some rivals complain the
+company uses its position to strengthen its business in
+applications -- word-processing, spreadsheet and other
+programs. Indeed, Microsoft, which years ago derived most of
+its revenue from DOS-related products, now is a huge supplier
+of applications.
+   Others accuse Microsoft of having tricked its rivals into
+spending huge sums to develop applications for OS/2, while
+all along believing Windows would replace DOS as the standard
+for PC software. "I've been saying all along that Microsoft's
+strategy is really Windows," said Phillipe Kahn, chief
+executive officer of software maker Borland International
+Inc., Scotts Valley, Calif.
+   Microsoft repeatedly has insisted it hasn't deceived
+anyone about its plans, but many in the industry think
+Microsoft never fully supported OS/2, but agreed to develop
+it as a concession to IBM. Now that Windows has caught on,
+Microsoft wants Windows applications to work with any future
+replacement for DOS. Microsoft had been calling this future
+system "portable OS/2." Now it's known internally as "NT Win
+32," which refers to new code that enables Windows to process
+32 bits of data at once rather than 16 bits.
+   A version of OS/2 -- to be released later this year by IBM
+-- also will have 32-bit power. But OS/2 is designed for
+computers built around chips made by Intel Corp., Santa
+Clara, Calif., while Microsoft now promises that future
+Windows systems will run on any computer hardware.
+   In building its future operating system, Microsoft isn't
+starting from scratch, but will salvage a great deal of the
+code it has developed for OS/2. So extensive is Microsoft's
+reliance on OS/2 code that Fred Gibbons, chief executive
+officer of Software Publishing Corp. in Mountain View,
+Calif., concludes, "Win32 is simply OS/2 by another name."
+   Not quite. A key part of OS/2 is Presentation Manager,
+another software menu system. Microsoft is scrapping
+Presentation Manager in favor of it Windows menu in future
+operating systems; that stings Lotus Development Corp.,
+Cambridge, Mass., and other Microsoft rivals who invested
+heavily in writing software for Presentation Manager. It also
+hurts IBM, which has told many of its largest customers that
+the combination of OS/2 and Presentation Manager is a big
+part of its effort to neatly tie together PCs with its
+mainframe computers. Indeed, at press time, IBM -- concerned
+about a backlash from its own big accounts -- was lobbying
+Microsoft to speak in support of Presentation Manager
+tomorrow, one software executive said.
+   "Basically, Presentation Manager is a dead-end for
+software developers," said Rick Sherlund, a Goldman Sachs
+analyst.
+   People in the industry say that Microsoft's strategy
+generally should benefit PC owners, who will be assured that
+applications they buy today will work on future combinations
+of hardware and software. "Windows has won a central role in
+the (PCs) of the future," said Paul Grayson, chief executive
+of Micrografx Inc., a Richardson, Texas, software company.
+   Nevertheless, Microsoft's decision to bind itself more
+tightly to Windows could backfire if it pushes IBM into the
+arms of another software supplier. Big Blue already has cut a
+deal with a Microsoft rival to produce basic software for a
+new class of computers without keyboards. And last year, it
+struck a deal with Metaphor Computer Systems Inc. to jointly
+develop an entirely new approach to operating software for
+PCs.
+   Mr. Cannavino, of IBM, said it was too soon to tell where
+Metaphor, based in Mountain View, fits into future plans, but
+the partnership may result in an alternative operating system
+that doesn't have "the liabilities you collected over the
+past 10 years" with DOS and Windows.
+   Many industry executives think IBM's ties to Metaphor and
+other software developers give it leverage over Microsoft --
+leverage IBM needs if it is to convince Microsoft that it
+should continue to support standards such as Presentation
+Manager, which is important to some large IBM customers.
+Others, however, argue it's too late for IBM to set the
+standard for PC software.
+   "Microsoft is now driving the industry, not IBM; the game
+is over," said Mr. Gibbons, of Software Publishing. He added
+that Microsoft had won for the right reasons, because it is
+"more of a champion of the customer, so they won the game on
+fundamentals, not on Machiavellian techniques."
+</TEXT>
+</DOC>

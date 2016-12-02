@@ -1,0 +1,131 @@
+ID: 187	RANK: 9	SCORE: 11.871148
+
+<DOC>
+<DOCNO> FBIS3-21030 </DOCNO>
+<HT>    "jpest007___94027" </HT>
+
+
+<HEADER>
+<AU>   JPRS-EST-94-007 </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Europe/International </ABS>
+<DATE1>   2 December 1993 </DATE1>
+<F P=100> WEST EUROPE </F>
+<F P=101> AUTOMOTIVE INDUSTRY </F>
+<H3> <TI>   Renault Designs Semiautomatic Gearbox </TI></H3>
+<F P=102>  Paris L'USINE NOUVELLE in French 2 Dec 93 p 65 </F>
+<F P=103> Paris </F>
+<F P=104>  L'USINE NOUVELLE </F>
+
+
+<TEXT>
+Language: <F P=105> French </F>
+Article Type:BFN 
+
+<F P=106> [Article by Olivier Lauvige: "Secrets of the Renault Sport </F>
+Semiautomatic Gearbox"] 
+  [Text] In racing, it cuts gearshifting time in half. On a 
+passenger car, it frees the driver from the "acrobatics" 
+required for each shift. The scene is the Limousin Rally, on 10 
+October 1993. Approaching a tricky hairpin turn, Jean Ragnoti, 
+official driver for the Renault team, is manhandling the 
+stickshift of his Clio-Williams and frantically stomping on the 
+clutch for a fast downshift. At the same spot, and with the same 
+type of car, his teammate Philippe Bugalski, presses lightly 
+with his fingers on a "joystick" without letting go of the 
+steering wheel, and downshifts three speeds in record time. His 
+advantage? A semiautomatic gearbox born from a collaboration 
+between Renault Sport and Magneti Marelli. Tested in races, it 
+should soon be installed on certain mass produced cars. 
+  It is in fact a device which activates a conventional 
+gearbox 
+in place of the driver. It consists of two components: one is 
+mounted on the box and the other on the clutch. The shift 
+linkage is replaced by an electric-hydraulic mechanism with five 
+small actuators (two linear and three rotary) which select and 
+engage the six speeds of an H-pattern gearbox. Also, the clutch 
+cable is replaced by an actuator controlled either by a solenoid 
+or by the left pedal, thus leaving the driver in control of 
+clutch release at certain times, such as when starting the car. 
+  The pressure needed for these operations is obtained from a 
+150-bar hydraulic pump which is coupled directly to the 
+camshaft. Gilles Lallement, head of development at Renault 
+Sport, explained that "we opted for this solution in spite of 
+the great complexity presented by its implementation. The fact 
+is that the very high power of these components makes it 
+possible to build actuators that are sufficiently compact and 
+fast, characteristics that are essential to such an application." 
+  The driver therefore no longer has to expend any effort to 
+shift gears. He merely has to pull up on a small handle located 
+near his steering wheel to upshift and pull down on it to 
+downshift. Instructions are sent to a computer which also 
+receives data concerning engine speed, the speed of each wheel, 
+the hydraulic pressure... about thirty parameters altogether. 
+The computer then calculates the shift sequence. 
+<H5>  Adapting Engine Speed </H5>
+  To shift up by one or several gears, the computer sends 
+instructions to the injection system which then adapts the 
+engine speed to the rotation speed of the driveshaft. As soon as 
+this synchronization is achieved, the shift is allowed and the 
+computer activates the sequence of rotary and translation 
+motions needed to engaging the selected gear. The driver can 
+thus go from first to fifth while still flooring the gas pedal. 
+The strategy is somewhat different for downshifting: In this 
+case the computer has to enable the clutch actuator before 
+engaging the gear. 
+  Patrick Landon, head of the Renault Sport racing department, 
+states that "the advantages of this semiautomatic box are 
+undeniable in racing." Notably, it cuts in half the time needed 
+for shifting: from 0.28 seconds manually for an experienced 
+driver to 0.13 seconds in automatic. This means a gain of 0.38 
+seconds per kilometer on a custom car! 
+  For the average motorist, shaving off a few tenths of a 
+second from his commute may hardly seem worth it. But he may 
+well be attracted to some of the advantages of this gearbox. 
+Adapted to a passenger car, it reduces physical fatigue. It is 
+estimated that in city traffic, a driver shifts an average of 
+fifty times per kilometer. Pushing the clutch each time, his 
+left foot expends a cumulated effort of 100 to 150 newtons, 
+which over a distance of 12 kilometers corresponds to moving a 
+load of about 7 tons! With only one leg... 
+<H5>  No More Acrobatics </H5>
+  In addition, the optimization of shift sequences increases 
+the life of the gearbox while software safeguards prevent 
+downshifting above 8500 rpm to protect against racing the 
+engine. And finally, freed from the acrobatics imposed by any 
+gear shifting, the driver can concentrate totally on steering 
+his vehicle. 
+  These advantages are enough for Magneti Marelli to undertake 
+the implementation of a version which is intended for "Everyman" 
+and which can satisfy the expectations of the luxury car driver 
+without frustrating lovers of the stickshift. The possibility of 
+adapting it to any existing box without modifications would 
+enable car manufacturers to offer this automation as an option, 
+at a price lower than that of a completely automatic box. One 
+version has already been unveiled at the Frankfurt Salon on an 
+Alfa Romeo. Volvo also is said to be thinking of installing it 
+very soon on one its top of the line models. 
+<H5>  An Enticing Market </H5>
+  Other equipment makers are just as convinced of the success 
+of "semiautomation" for European drivers. Thus Valeo is devoting 
+intense efforts to implementing a similar system. Benoist Hue, 
+marketing head of the clutch division, says that "we are already 
+putting a mass produced electronic clutch on some Ferraris. And 
+we have a number of projects underway to get it installed on 
+European cars during 1995. But we will have to wait until the 
+following year for completely robotized mass production of 
+gearboxes." 
+  This is an extremely attractive market for the French 
+equipment maker who estimates that by the year 2005, 
+semiautomatic gearboxes will have taken over some 12 percent of 
+European production. It remains to be seen whether Old World 
+motorists can live with a joystick in their hands instead of a 
+shift lever... 
+
+</TEXT>
+
+</DOC>

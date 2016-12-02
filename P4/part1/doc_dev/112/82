@@ -1,0 +1,80 @@
+ID: 112	RANK: 82	SCORE: 14.258477
+<DOC>
+<DOCNO> AP900823-0129 </DOCNO>
+<FILEID>AP-NR-08-23-90 1703EST</FILEID>
+<FIRST>u a AM-Magellan-Venus     08-23 0624</FIRST>
+<SECOND>AM-Magellan-Venus,0640</SECOND>
+<HEAD>NASA Replaces `Corrupted' Memory in Venus Orbiter's Computer</HEAD>
+<BYLINE>By LEE SIEGEL</BYLINE>
+<BYLINE>AP Science Writer</BYLINE>
+<DATELINE>PASADENA, Calif. (AP) </DATELINE>
+<TEXT>
+   A run-amok computer on Magellan got a
+partial memory transplant Thursday as engineers treated symptoms of
+a mysterious ailment that twice made them lose touch with the
+Venus-orbiting spaceship.
+   The malfunctions ``have shaken the spacecraft, but the overall
+spacecraft remains very healthy, and we're very optimistic we'll be
+back to a fruitful mission soon,'' said Ed Sherry, technical
+assistant to Magellan's project manager at NASA's Jet Propulsion
+Laboratory.
+   Magellan is on a $744-million mission to use its radar to peer
+through the clouds of Venus and make the most detailed pictures and
+maps yet of the second planet from the sun. It went into orbit
+around Venus on Aug. 10, about 15 months after it was launched from
+the shuttle Atlantis. It now is about 149 million miles from Earth.
+   Lab spokesman Jim Doyle said it isn't yet known how long
+Magellan's troubles will delay the official start of its mapping
+effort, which was to begin the first week of September.
+   More pictures from Magellan's first radar test will be released
+Friday, he said. The first pictures, released Tuesday, showed
+numerous ``Venusquake'' faults, old lava flows, craters, cinder
+cones, valleys and ridges on the planet.
+   Engineers continued unloading Magellan's computer memory banks
+Thursday to get flight data that will help them figure out why
+Magellan broke off radio contact for more than 14 hours Aug. 16-17
+and again for 17{ hours ending Wednesday afternoon.
+   On both occasions, engineers sent computer commands to
+Magellan's presumed position to get its safety systems to restore
+radio contact.
+   The ultimate problem that made Magellan lose contact on both
+occasions remains unknown. But flight data show that Tuesday night,
+the spacecraft's automatic safety systems were unable to maintain
+radio contact as expected because part of the memory was
+``corrupted'' in a backup computer that helps point Magellan,
+Sherry said.
+   So engineers replaced the faulty contents of that computer's
+memory with a rewritten version that was radioed to the spacecraft
+Thursday, he said.
+   ``We don't know what triggered these events,'' he added. ``We're
+fixing the symptoms. We're taking the steps to keep Magellan
+running.''
+   Engineers also reactivated Magellan's safety systems, some of
+which were intentionally disabled Wednesday to prevent them from
+again cutting off contact between the spacecraft and Earth.
+   The spacecraft has four computers: a main computer and its
+backup, and an ``attitude-control'' computer and backup that help
+aim Magellan.
+   Sherry said the backup pointing computer ``started to run amok''
+Aug. 16 after an unknown problem triggered a chain of events that
+made Magellan lose contact the first time. That's when four
+computer ``words'' in its memory went bad, he added.
+   When another yet-undiagnosed problem developed Tuesday night,
+the main computer checked the condition of the backup pointing
+computer, found ``something was not kosher'' in its memory and, as
+a result, assumed Magellan was pointing in the wrong direction _
+which it wasn't, Sherry said.
+   That mistake prompted automatic safety systems to protect
+Magellan by turning the spacecraft to make sure its solar panels
+could draw power from the sun. When the spacecraft turned, contact
+was lost because its secondary antenna no longer pointed at Earth.
+   Doyle said the mixed message between the main computer and the
+backup pointing computer was ``like someone wants to mail you
+something, but the post office has your address messed up.''
+   After contact was lost Tuesday night, some NASA officials feared
+Magellan might be lost forever. But Sherry said that when contact
+was restored, ``a lot of the engineers sat there smugly and said,
+`We told you the spacecraft was a real honey and would do what it
+was built to do.'''
+</TEXT>
+</DOC>

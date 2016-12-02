@@ -1,0 +1,85 @@
+ID: 205	RANK: 15	SCORE: 28.384390
+<DOC>
+<DOCNO> AP880617-0066 </DOCNO>
+<FILEID>AP-NR-06-17-88 0538EST</FILEID>
+<FIRST>r a PM-ComputerBreak-In     06-17 0661</FIRST>
+<SECOND>PM-Computer Break-In,0680</SECOND>
+<HEAD>Breach Of Pentagon Computer Network Shows Security Measures Weak</HEAD>
+<BYLINE>By LEE SIEGEL</BYLINE>
+<BYLINE>AP Science Writer</BYLINE>
+<DATELINE>PASADENA, Calif. (AP) </DATELINE>
+<TEXT>
+   A hacker's success in penetrating a
+non-classified Pentagon computer network and searching NASA and
+Navy data banks shows security measures are failing to keep pace
+with sophisticated computer systems, scientists say.
+   ``It's a subject that makes (computer) people turn pale and
+sweat,'' said Hal Masursky, a member of a National Academy of
+Sciences subcommittee on computer security.
+   NASA's Jet Propulsion Laboratory said Thursday that one or more
+hackers, or computer buffs, successfully penetrated a Defense
+Department computer network the night of May 16, then examined
+files at the lab, the Patuxent Naval Air Station in Maryland and at
+least one other facility into the early hours of May 17.
+   No damage was done, no data was stolen and the incident is under
+investigation by the FBI and security officers from National
+Aeronautics and Space Administration headquarters in Washington,
+said Haskell G. O'Brien, JPL's manager of communications and
+computing network services.
+   The break-in shows that ``fewer people are monitoring (computer
+access) than should be. More people need to keep their eyes open,''
+said Cliff Stoll, a computer scientist at California's Lawrence
+Berkeley Laboratory. ``It's unfortunately easy for people to
+randomly break in.''
+   The network that was breached, named ARPANET, is a
+non-classified network for sharing scientific information, and is
+operated by the Pentagon's Defense Advanced Research Projects
+Agency, O'Brien said.
+   Thousands of computers are connected to the network at hundreds
+of U.S. and foreign universities and research centers, including
+some military research facilities and other NASA offices, he added.
+   ``Networking has spread like wildfire, but the security
+precautions are a new art,'' said Masursky, a Flagstaff,
+Ariz.-based U.S. Geological Survey geologist who worked on several
+NASA space missions. ``With a hacker who is very clever, trying to
+guarantee he can't access things (computers) is very difficult.''
+   O'Brien said authorities don't know if the hacker operated from
+the United States or abroad, although NASA suspects involvement by
+the Chaos Computer Club in Hamburg, West Germany, which has been
+linked to past computer security breaches.
+   ``The signature looked a little like things they do, but also
+looked a little different,'' he said.
+   A spokesman for the club told The Associated Press in Bonn, West
+Germany, that he was unaware of the break-in.
+   O'Brien called the incident serious because programs used to
+design microcircuits could have been damaged.
+   Pentagon spokeswoman Susan Hansen said from Washington that
+``there is no indication that any classified information has been
+obtained by such hacker activity.''
+   The break-in was the third known violation of computer security
+at JPL in two years, O'Brien said, citing a previously publicized
+August 1986 break-in by a West German hacker, and another last
+summer, in which the perpetrator was caught but not prosecuted.
+   The hacker in last month's incident first gained access to the
+Pentagon network through another computer at an undisclosed
+location, O'Brien said. Once inside, the hacker guessed a password
+_ the name of a JPL employee _ to gain access to the lab's computer.
+   The hacker then used JPL's Digital Equipment Corp. computer as a
+conduit to enter another ARPANET computer at Patuxent, where
+authorities noticed something was amiss and notified JPL, O'Brien
+said, adding he didn't know how many other computers also were
+penetrated.
+   ``NASA security people are working with the FBI investigating
+the details of this,'' he said.
+   JPL spokesman George Alexander said that as soon as the break-in
+was discovered, ``we pulled JPL out of the network.''
+   ``Our procedures are being tightened considerably to make sure
+this won't happen again,'' Alexander said.
+   In April, a West German prosecutor revealed that a 24-year-old
+West German hacker linked his home computer to about 50 U.S.
+military computers by telephone. The electronic break-ins were
+detected in August 1986 by Lawrence Berkeley officials.
+   Targets included computers at JPL, the Berkeley lab and Air
+Force Systems Command in El Segundo, Calif.
+</TEXT>
+</DOC>

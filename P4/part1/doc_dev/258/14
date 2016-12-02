@@ -1,0 +1,148 @@
+ID: 258	RANK: 14	SCORE: 12.528120
+
+<DOC>
+<DOCNO> SJMN91-06133071 </DOCNO>
+<ACCESS> 06133071 </ACCESS>
+<CAPTION>  Photos (2); PHOTO: Apple Computer Inc.; A BETTER VIEW -- Desk accessories like
+those in the Control Panels window may be dragged into a window like any other
+file. Files may be viewed in outline form, as in the Lab Data window. (Color);
+PHOTO: Apple Computer Inc.; For beginners, help 'balloons' appear when the
+cursor is pointed to icons or menu items (Color)  </CAPTION>
+<DESCRIPT>  MICROCOMPUTER; PRODUCT; ANALYSIS  </DESCRIPT>
+<LEADPARA>  System 7.0, Apple Computer Inc.'s new computer operating system, manages to be
+both simpler and more complex at the same time.;     Scheduled for official
+unveiling Monday, the long-promised upgrade to the basic software of the
+Macintosh personal computer is Apple's bid to add life to its 7-year-old
+mainstay product. The Macintosh's once-unique user interface, which
+popularized icons, windows and the "mouse," faces a severe challenge from
+products such as Microsoft Corp.'s Windows. Apple has put hundreds of
+programmers and managers to work on the myriad programs that make up the
+system, announced nearly two years ago and being delivered a year behind
+schedule.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  ADDING MUSCLE TO THE MAC
+IMPRESSIVE SYSTEM 7.0 TESTS USERS  </HEADLINE>
+<MEMO>  Additional information attached to the end of this article.  </MEMO>
+<TEXT>     System 7.0 -- to be shipped on eight floppy disks -- offers some new
+features that have first-timers and experienced users alike buzzing. Apple
+promises that System 7.0 will vastly improve many aspects of the Macintosh,
+from longstanding complaints about the difficulty in installing type fonts and
+"desk accessory" programs, to aiding new users with on-screen help information
+in the form of pop-up "balloons.";    The software also boasts advanced
+features like "live" linking between data in separate programs, which lets
+users change data in a spreadsheet and have it automatically updated in a
+separate report. And there's "virtual memory," which can make the computer
+behave as if it has hundreds of megabytes of RAM inside.;    Macintosh
+partisans believe System 7.0 represents a significant step forward. It is, in
+the words of one booster, "what Windows on the PC would like to be in its
+wildest fantasies.";    But the changes in System 7.0 represent a
+learning-curve challenge to new and veteran users.;    As with any new
+software of this complexity, there also are anticipated bugs in the new system
+-- although Apple officials say they have spent most of the last six months,
+in concert with software beta-testers, hunting down and eliminating them.
+There is also a looming issue of incompatibility between System 7.0 and many
+existing Macintosh programs. That could add hundreds of dollars in upgrade
+fees to the price of System 7.0, expected to be less than $100.;    The result
+is that only the intrepid and the brash are expected to dive right into System
+7.0.;    "I consider System 7.0 to be the Macintosh consultants' Full
+Employment Act," said Howard Hansen, a Seattle-based Macintosh consultant.
+"It's going to fix a lot of things, and it's going to break a lot of others.";
+   Apple is providing a program that will scan Macintosh owners' existing
+programs and flag potentially incompatible ones before System 7.0 is
+installed. The program also will list compatible versions -- if there are any
+-- and the phone numbers of the publishers, so users can call for upgrades.;  
+ Most major applications have been thoroughly tested with System 7.0 and found
+to be compatible, including the latest versions of Microsoft Word and Excel,
+Aldus PageMaker and FreeHand, Adobe Illustrator and Photoshop, FileMaker and
+MicroPhone.;    Users who have been lax in obtaining the latest versions of
+their programs probably will wind up paying for a long list of upgrades.;   
+Hansen advises end users to remove all inits -- programs that custom-configure
+the Mac upon start-up -- and non-mainstream programs before switching, then
+adding and testing them one by one to ensure compatibility.;    "People who
+are learning the Macintosh for the first time might as well learn System 7.0
+since they'll eventually want to anyway," he says.;    Then, there's the
+hardware to consider. A vast number of Macintosh owners -- those with
+Macintosh Plus and other models with 1 megabyte of memory or less -- will have
+to bump that up to at least 2 megabytes to install System 7.0. A hard disk
+with 3 to 5 megabytes of free space also is required, forcing owners of older
+floppy disk and even 20-megabyte hard drive models to consider upgrades.;   
+In any case, only owners of Macintosh IIci, IIsi or IIfx models can take
+advantage of all of System 7.0's features. The Macintosh Plus, Classic, II, LC
+or Portable can't use some features at all. Other models like the SE/30, IIx
+and IIcx require the addition of a special co-processor chip to use one
+feature, "virtual memory." This deficiency has brought protests from many
+users, who are pressuring Apple to provide ROM upgrades.;    Whatever
+complexities it adds to the once simple and uncluttered Macintosh interface,
+System 7.0 is expected to be an eventual must-have.;    Cosmetically, System
+7.0 has a few new wrinkles, including greater use of color and a subtle 3-D
+look to some icons and buttons. And any installed font can be used throughout
+the system -- on file names and other identifiers. Icons can be staggered on
+the desk top as well, avoiding the name overlap that has long irritated Mac
+users.;    Even those switching to System 7.0 are advised to set aside time to
+learn the new features. Among the more prominent:;    (check) "Aliases." For
+users who've longed to have a single file stored in more than one place on a
+disk or network, Apple has come up with the concept of alias files. They are
+essentially small (about 2 kilobytes) "shadow" files linked to a single
+original file. Instead of duplicating the information in the original, the
+alias file simply contains enough information to "point" to the files they
+shadow.;    When you click on an alias, the original file is called up. Any
+changes remain intact under the alias and the original. Alias files look like
+their originals, except they have italicized names and take up only 1 or 2
+kilobytes of space, no matter how big the original. This can save space on the
+hard drive -- a large file can be stored on a floppy, for instance. When its
+alias is called up, System 7.0 prompts the user to insert the floppy.;   
+(check) Publish and subscribe. Also called "live cut and paste," this feature
+permits live links of text or graphics (or combinations) between
+mother-and-daughter files. When a "published" element is copied to another
+file, any changes subsequently made in the original also will be updated in
+the copy. If you make the nose bigger on a clown in an illustration file, for
+example, the clown's nose also will change in its newsletter layout.;   
+(check) Virtual memory. This technique, which originated decades ago with
+large computer systems, employs unused portions of a hard disk drive to act
+like extra RAM. The computer swaps data it doesn't immediately need from RAM
+to disk, freeing up space for data it must have right away. The effect is to
+make the computer appear as if it had a gigabyte of memory, not a few
+megabytes.;    In reality, the constant swapping to disk, which is much slower
+to respond than memory chips, means virtual memory slows down a computer's
+operation and should only be used where necessary.;    (check) "Balloon help."
+Little cartoon-like dialogue balloons pop up when selected by the mouse
+pointer, representing a breakthrough in computer learning aids. An improved
+"file find" feature also makes managing and using the contents of a hard disk
+easier.;    (check) Font handling is much improved, adopting the traditional
+Mac click-and-drag metaphor for installation and removal instead of the clumsy
+font/DA mover of the past. The control panel now operates in its own window,
+making management of desk accessories much more accessible and sensible. (They
+also are available the old way under the Apple menu as well.) And files can be
+better organized with a new feature called "labels," as well as moved freely
+between windows without having to select an inactive window.;    System 7.0
+tips; (box)System 7.0 will be available starting Monday, from dealers and
+directly from Apple. The price is expected to be as much as $100 for eight
+disks and several manuals.; (box)System 7.0 needs at least 2 megabytes of RAM
+and 3 to 5 megabytes of hard disk space. It will run on any Macintosh Plus or
+later model with enough RAM and disk, but only the IIsi, IIci and IIfx models
+can use all features.; (box)The latest versions of most major Macintosh
+applications are compatible with System 7.0; other programs are not. Apple
+provides a program to check existing systems for incompatibility problems.;
+(box)The automated installation process is short, running 15 minutes or less
+on most Macintoshes. That doesn't count the time to install upgrades of
+applications software.  </TEXT>
+<BYLINE>  PAUL ANDREWS, Special to the Mercury News  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910512  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  May  </MONTH>
+<PG.COL>  1F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<FEATURE>  PHOTO  </FEATURE>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,465  </WORD.CT>
+<DATELINE>  Sunday May 12, 1991
+00133071,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

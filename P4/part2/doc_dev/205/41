@@ -1,0 +1,68 @@
+ID: 205	RANK: 41	SCORE: 19.333101
+<DOC>
+<DOCNO>FT931-7090</DOCNO>
+<PROFILE>_AN-DBZCKABWFT</PROFILE>
+<DATE>930226
+</DATE>
+<HEADLINE>
+FT  26 FEB 93 / Computer hacker 'cost FT Pounds 24,871'
+</HEADLINE>
+<BYLINE>
+   By JOHN MASON, Law Courts Correspondent
+</BYLINE>
+<TEXT>
+A SCHOOLBOY who allegedly hacked into a Financial Times computer which
+stored data on share price indices caused considerable disruption at the
+newspaper, Southwark Crown Court was told yesterday.
+Mr Paul Bedworth, now a student at Edinburgh University, hacked into the
+FT's computer to use its account with BT to reach other computing systems,
+the jury was told.
+Mr Anthony Johnson, former head of computing services for the FT, said the
+hacking was noticed in May 1991. Systems engineers discovered a dialling
+program had been inserted. It made one telephone call a second and increased
+the FT's telephone bill by Pounds 705.
+Part of the system had to be removed for investigations which took weeks.
+Fresh equipment had to be rented while this work was carried out. The total
+cost of the hacking was Pounds 24,871.
+The security system had been designed so that only users with a password
+could deliver information to the computer.
+The hacker was able to use a 'back door' in the system to gain entry to the
+computer without such a password, he said. The back doors had been put into
+the system for the convenience of engineers, but were not removed before the
+computer was issued.
+Mr Johnson denied a suggestion from Mr Ian MacDonald QC, defending, that the
+FT's computer was a 'hacker's dream'. Such back doors would not usually be
+known to users of the system, he said.
+Mr Bedworth, from Ilkley, West Yorkshire, denies three conspiracy charges
+under the Computer Misuse Act 1990 alleging unauthorised modification of
+computer information, securing unauthorised access to computer information
+and obtaining telegraphic services unlawfully.
+The trial continues today.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Financial Times.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P9229 Public Order and Safety, NEC.
+    P2711 Newspapers.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>GOVT  Legal issues.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 11
+</PAGE>
+</DOC>

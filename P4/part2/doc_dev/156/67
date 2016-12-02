@@ -1,0 +1,72 @@
+ID: 156	RANK: 67	SCORE: 9.296148
+<DOC>
+<DOCNO>FT932-10646</DOCNO>
+<PROFILE>_AN-DEGCQAFFFT</PROFILE>
+<DATE>930507
+</DATE>
+<HEADLINE>
+FT  07 MAY 93 / International Company News: Sun attacks Microsoft dominance
+in software
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<DATELINE>
+   SAN FRANCISCO
+</DATELINE>
+<TEXT>
+A COMPUTER software battle has erupted between Sun Microsystems, the leading
+manufacturer of computer workstations, and Microsoft, the world's largest
+computer software company.
+Sun has challenged Microsoft's dominant position in the software market by
+announcing the joint development with Unix Systems Laboratories of
+technology allowing Unix computers to run word processing, spreadsheet and
+database applications designed for use on personal computers running
+Microsoft's Windows operating system.
+Sun said its new technology, known as Wabi and based on work by Praxsys
+Technologies, would enable Unix system users to run Microsoft Windows
+applications 'right out of the box'.
+Until now this could be done only by using a software 'emulator' that acted
+like a personal computer, degrading the performance of a Unix computer.
+Sun claimed that, through Wabi, the performance of Unix computers running
+Windows applications would be about 50 per cent higher than other computers
+using the Microsoft's Windows operating system.
+Sun's move is a pre-emptive attack on Microsoft's imminent high-performance
+version of Windows, known as Windows NT.
+Microsoft has announced it would also offer programmes enabling Windows
+applications to run on Unix computers and Apple's Macintosh machines.
+Microsoft questioned Sun's performance claims for Wabi. Mr Bill Gates,
+chairman and chief executive, also said Microsoft would check Wabi for any
+infringement of intellectual property rights.
+However, Sun argued that Wabi technology, which would be available to
+software developers in about 90 days, contained no Microsoft technology.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Sun Microsystems Inc.
+    Microsoft Corp.
+    Unix Systems Laboratories Inc.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    MKTS  Market shares.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 24
+</PAGE>
+</DOC>

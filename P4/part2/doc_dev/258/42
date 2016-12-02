@@ -1,0 +1,138 @@
+ID: 258	RANK: 42	SCORE: 8.982247
+
+<DOC>
+<DOCNO> SJMN91-06315113 </DOCNO>
+<ACCESS> 06315113 </ACCESS>
+<DESCRIPT>  COMPUTER; SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  A FEW WEEKS back, I casually commented that "there are no data bases for
+Windows yet." Boy, did I get calls.;   I could defend myself by saying that
+what I meant was that none of the big data-base names had made it to Windows
+yet. If you want to run dBASE, Paradox or FoxPro, you'll still have to work in
+regular DOS, without the simplifying menus and icons of Windows.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  THERE ARE WINDOWS DATA BASES!  </HEADLINE>
+<MEMO>  Software Review; Phillip Robinson is an author of books and articles about
+computers and an editor for Virtual Information of Sausalito.; Additional
+information attached to the end of this article.  </MEMO>
+<TEXT>     But the big names aren't the only actors. I've auditioned a few
+challengers: AceFile, WindowBase and Superbase 4.;   AceFile (Ace Software,
+$299, (408) 437-3456) is the simplest, least expensive and least powerful of
+the bunch.;   That doesn't mean I dislike it. Installation is quick and easy.
+The manual is easy to read -- putting tutorial, reference and tips in a single
+book. Once it's running, you'll find a data base that can read and write dBASE
+III and IV files and that can open up to 10 files at once. As a Windows
+program, it can handle dynamic data exchange, or DDE, and clipboard exchange
+of information with other Windows software. AceFile can certainly build data
+bases large enough -- up to 128 fields and 4,000 characters per record and up
+to 2 billion records per data base.;   Creating forms and tables to view
+information in AceFile is easy, too. You customize a grid with fonts and
+colors just as if you were handling a typical spreadsheet. For analyzing and
+querying data-base information, you can make summaries, cross-tabs and other
+standard data-base tools as well as use some color 3-D charts.;   You build
+AceFile reports graphically on the screen, selecting and placing the
+information you want to print from the data base. You also can use the
+built-in text editor to create form letters for mail-merge work.;   The quick
+up-and-running and easy reporting are AceFile's highlights. The program even
+has an auto-dialer feature that would let your modem dial phone numbers found
+in a data-base report.;   AceFile fails when asked to handle some more
+sophisticated tasks, such as storing graphics, communicating with minicomputer
+data bases (through a language such as SQL) and building custom applications.
+It has a rudimentary macro ability -- to store and play back sequences of
+mouse motions and keystrokes. But it doesn't let you edit those macros and can
+only play them back at the same speed, with the same mistakes and hesitations
+you used when recording.;   WindowBase (Software Products, $495, (800)
+937-4774) is a relational data base that can reach out to other PCs (on a
+network) or other computers (through the SQL language).;   Like AceFile,
+WindowBase can build huge data bases. It also supports DDE or clipboard
+exchange of information with other Windows programs. But it goes way beyond
+AceFile in its ability to talk to other data bases running on a network or on
+minicomputers or mainframes. It offers full support of the standard SQL
+data-base language, with such features as split-screen display for input and
+output of SQL. It even tries to let you find information in other data bases
+without knowing the SQL language -- you click on dialogue boxes and buttons to
+tell what you want, and WindowBase translates that into SQL.;   For creating
+forms, WindowBase offers far more tools than AceFile, such as repeating boxes
+for list entry, alignment tools for neat layout and scroll bars you can insert
+wherever you want them. For reports, it also has up to eight levels of
+subtotals for adding up results.;   However, I found WindowBase much harder to
+get close to than AceFile. Despite the on-line help, examples and tutorial and
+three levels of interface (for beginners, intermediate and advanced users), I
+was often confused. The manual has too many sections, each with its own index,
+and the menus are sometimes too technical.;   Superbase 4 (Software
+Publishing, $695, (408) 986-8000) is the oldest of the three data bases
+mentioned here. It used to come from Precision Software, but Software
+Publishing bought Precision, joining in last year's scurry to acquire Windows
+applications.;   Superbase is, like WindowBase, a relational data base that
+can build huge data bases. It, too, lets you graphically create forms and
+reports, and like WindowBase can store not only numbers and text but also
+images. Superbase can handle up to 24-bit color images, ideal for cataloging
+even realistic photographs.;   Superbase supports DDE and clipboard
+information exchange and like WindowBase lets you add dynamic link libraries
+to extend its abilities.;   Superbase also handles network and SQL links to
+other data-base information. It even has a telecommunications feature for
+connecting to remote data bases.;   AceFile and WindowBase can read and write
+dBASE files. Superbase can not only read and write them, it can also work on
+them without reading them in. Along with its data-base language, this means
+you can create custom data applications that can work with dBASE applications
+instead of entirely replacing them.;   I liked the AceFile menus and manual
+much more than those of this more powerful package. Superbase confused me by
+separating forms design and reporting from data-base browsing and querying. I
+like the VCR-style icon bar for moving within the list of data, though. There
+are forward, backward, rewind to beginning, fast forward to end and other such
+buttons to click the mouse on. This is an interface that most people will find
+comfortable.;   If you need just the basics of a data base under Windows,
+AceFile is a good start. But at that price, I think I'd probably just stick to
+the data-base part of an integrated Works-style program. If you need SQL,
+customizing languages and slick network developments, you'll need to weigh
+WindowBase against Superbase. For some uses, such as image data bases,
+Superbase looks stronger. But I give WindowBase the edge for most work because
+of its lower price and 30-day money-back guarantee. Superbase has a long track
+record and one of the largest software companies behind it. The price
+difference alone will be negligible compared with customization costs. The
+real question is how WindowBase and Superbase will look when compared with the
+imminent Paradox for Windows and the eventual FoxPro for Windows.;   Do you
+really have to move your data base to Windows now? If you're looking at
+serious development work and many PCs for installation, you should probably
+wait until the big players arrive. Stick to DOS for now.; AceFile, for PCs or
+compatibles with at least 2 megabytes RAM and running Windows 3.0 or later.
+$299 from Ace Software Corp., 1740 Technology Drive, San Jose, CA 95110. (408)
+437-3456.;   WindowBase, for PCs or compatibles with at least 2 megabytes RAM
+and running Windows 3.0 or later. $495 from Software Products International,
+9920 Pacific Heights Blvd., San Diego, CA 92121-4330. (800) 937-4774.;  
+Superbase 4, for PC or compatible running Windows 3.0 or later. $695 from
+Software Publishing Corp., 3165 Kifer Road, Santa Clara, CA 95051-0804. (408)
+986-8000.; Summary: AceFile is a simple data-base manager for Windows that's
+easy to install, learn from the manual and use to browse through and report on
+dBASE files. It doesn't offer much network or any SQL abilities and has
+extremely limited macros for automating queries. WindowBase and Superbase are
+powerful relational data bases for Windows. They pack SQL and networking
+abilities, customizing languages and image, text and number storage. Both are
+confusing to learn, with too many manual sections, modules and menus. If you
+need just basic data-base features under Windows, AceFile is OK, but you'd
+save money by using the data-base section of an integrated "Works" package. If
+you need connections on a network or to minicomputer data bases, you should
+consider WindowBase (with a lower price and a 30-day money-back guarantee) and
+Superbase (which is best for storing images), but you should delay any big
+decision until you see the imminent Windows versions of Paradox and FoxPro.;
+On a scale of one to four, with one indicating poor and four indicating
+excellent, here's how the product rates:; AceFile: 2 computers; WindowBase: 3
+computers; Superbase 4: 2 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911110  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  November  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,395  </WORD.CT>
+<DATELINE>  Sunday, November 10, 1991
+00315113,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

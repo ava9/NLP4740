@@ -1,0 +1,126 @@
+ID: 243	RANK: 55	SCORE: 13.168674
+<DOC>
+<DOCNO>FT911-3871</DOCNO>
+<PROFILE>_AN-BDWB7AB5FT</PROFILE>
+<DATE>910423
+</DATE>
+<HEADLINE>
+FT  23 APR 91 / Technology: At the sharp end of a supply chain - Dave Madden
+explains how United Stationers has turned the distribution of its goods into
+a fine art
+</HEADLINE>
+<BYLINE>
+   By DAVE MADDEN
+</BYLINE>
+<TEXT>
+Distribution is one of the duller business ghettos - dusty warehouses,
+broken pallets and diesel oil. But the image, and the reality, are beginning
+to change.
+As Fiat shows off its robot-controlled inventory stacks in glossy
+advertisements and IBM switches off the lights in its automated warehouse in
+Greenock, it is clear that this Cinderella operation has a new set of
+high-tech glad rags.
+Britain's high street retailer Marks and Spencer has long appreciated that
+sophisticated distribution processes are an important part of supply chain
+management. They influence customer loyalty, product differentiation and
+profit margins. According to Lee Iacocca, chairman of Chrysler: 'The company
+with the best distribution systems and service level will win all the
+marbles.'
+In short, advanced logistics is no longer a luxury. One consequence of this
+shift is the emergence of a new type of wholesale service company where
+distribution is just as important as the product that is shipped.
+Take paper clips. If you are an office products wholesaler, how do you get
+retailers to buy such a simple, undifferentiated item from you, rather than
+from any number of your competitors?
+The answer, in the US at least, is 'value-added' distribution. United
+Stationers, the country's biggest office products distributor, can sell and
+ship a single pencil or one box of paper clips and still make a profit.
+The same is true on all 25,000 items in its catalogue, from pens to filing
+cabinets. And if a customer places an order by 6.00 pm it will be delivered
+by 9.00 am the next morning to any location in the US.
+Not surprisingly, this demands an extensive physical operation. United
+Stationers, based near Chicago, sells products from around 400 manufacturers
+to some 10,000 retailers across the US, via 14 regional distribution
+centres.
+This physical network is entirely dependent on a complex computing and
+telecommunications infrastructure: Amdahl 5995 and IBM 3090 mainframes
+supported by robotic storage devices from Storage Technology as well as
+telephone and satellite communications networks. In all an incremental
+investment of some Dollars 200m (Pounds 115m).
+United's customers obtain information on the company's inventory via a
+computer network which connects their machines to United's system of 1,400
+PCs. This automates the ordering process and allows clients to see whether
+United has a particular product in stock.
+'Our customers enter upwards of 70 per cent of our orders for us,' says
+Patrick Murray, IT vice president. 'We do it in lots of different ways. We
+talk to everybody's computer. We do it in batch mode, we do it online -
+however a customer requires it.'
+Ultimately, Murray expects United's terminals to be on the desks of his
+customers' customers too, and he intends to apply the same technology to
+links with his own suppliers.
+Ordering is only part of the value-added process. The sooner the retailer
+knows that United has shipped goods, the sooner he can bill his customer and
+collect his money, says Murray. Similarly United uses the system to get the
+latest manufacturers' pricing information to these retailers, so that they
+can manage their prices too.
+Giving retailers such access to and control over the ordering and inventory
+process, and the imperative to turn orders around in hours, has had serious
+implications for United's warehousing operation.
+Items are not stored in pre-defined areas. Rather, they are put in the next
+available bin, as dictated by United's disparate product range: boxes of
+pencils and desks do not take up the same shaped space. The warehouse map is
+computer-controlled and the system tracks every individual batch of items.
+Surprisingly, this random binning is not completely arbitrary. The system is
+able to analyse the inventory and track 'hot' products - high moving items -
+and guide them to where they are most accessible.
+When a piece of inventory is manually put into store, staff use radio
+frequency data entry terminals, complete with bar-coded reading guns, to
+update the control system directly on line.
+The logical extension of all this, says Murray, is to use similar tools and
+the same bar code in the transportation and delivery process so that a
+driver can verify that the right carton has been dropped at the right door,
+and give proof of delivery. United hopes to introduce such an innovation
+this year.
+The same integrated technology feeds United's sales and marketing effort.
+Its primary marketing tool is a catalogue of products, and United publishes
+and distributes some 4m copies a year.
+But because the catalogue becomes out of date almost immediately after it is
+issued (with products being added or dropped), Murray has to provide regular
+updates. He is hoping in the near future, however, to produce an electronic
+catalogue, with colour pictures, dimension data and moving price
+information.
+At the hub of United's operation is a central IT development and operations
+staff. Typically this is pared to the bone - 40 people to manage data and
+voice communications, systems operations and a help desk (there is no
+computer expertise in the regional centres). In addition, Murray has 100
+staff in applications development and product introduction.
+The effect of this technological commitment is two fold, Murray says. First,
+United has grown significantly - it is now a Dollars 1bn company, and one of
+just four national office products distributors in the US. Second, its
+technology culture has enabled United to set pioneering service levels.
+For example, Murray explains: 'We are doing lots of small orders. About 80
+per cent of what we sell is not in the same packaging that it came to us in.
+We don't sell a whole carton of paper - we'll sell one ream. Now the service
+we provide for our reseller says you go out to each of your customers and
+you take the orders the way they want them.
+'You send the orders to us and we'll package them in such a way that they
+can be delivered directly to the end user and you don't have to add labour.
+When we put the label on the box the label says it came from you not from
+us. Our dealer doesn't have to handle the merchandise at all. The most
+profitable dealer is the guy who never sees the merchandise, absolutely
+never sees it at all.'
+The downside is that higher expectations become institutionalised. Because
+United delivers anywhere in the US by the following day, and guarantees to
+be in stock on all of its inventory, that has become the service norm.
+Similarly United cannot afford to let up on its technical innovation. Murray
+claims that the company currently has a lead of six to 12 months, but 'the
+competition is pretty good at copying - so we better have the next thing
+coming up to keep the gap open. To get the order we've got to be the easiest
+company to do business with,' he says.
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 12 Illustration (Omitted).
+</PAGE>
+</DOC>

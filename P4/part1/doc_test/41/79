@@ -1,0 +1,111 @@
+ID: 41	RANK: 79	SCORE: 6.7883
+<DOC>
+<DOCNO>FT921-5724</DOCNO>
+<PROFILE>_AN-CCCA8AA6FT</PROFILE>
+<DATE>920303
+</DATE>
+<HEADLINE>
+FT  03 MAR 92 / Technology: Bitten by the bug - The computer virus that is
+set to attack this week
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<TEXT>
+A computer virus that is set to wipe out data stored on infected personal
+computers this Friday is causing widespread concern among US computer users
+and manufacturers. The 'Michelangelo' virus may be the most widespread and
+potentially destructive computer virus to date, according to computer
+security experts.
+Estimates of the number of computers that may be affected range up to 5m,
+but are impossible to verify. Commentary on the virus attack is ranging from
+hysterical to cynical. Some are predicting a worldwide catastrophe as
+millions of computer files are destroyed.
+Others view the virus scare as a marketing ploy by companies that sell
+anti-virus programs and services. Whether Michelangelo turns out to be an
+epidemic or isolated problem, however, there is no doubt that computer
+viruses are multiplying and threatening to disrupt the free flow of
+information among computers that is one of the prime benefits of the desktop
+machines.
+There are now about 1,000 identified viruses and at least 100 new ones have
+cropped up over the past two months. The sources of most viruses are
+unknown. However, this week two students at Cornell University in New York
+were arrested on charges that they unleashed a computer virus that paralysed
+computers in California and Japan.
+The virus - known as the MBDFA virus - was launched on February 14 in three
+Macintosh computer games. It infected the computers of people who accessed
+the university's public computer archive to play the games.
+Computers at Stanford University in California and others in Osaka, Japan
+were affected. The Michelangelo virus can be contracted only by using
+infected floppy disks, unlike many viruses which are spread over networks.
+In the past, computer users could be reasonably sure of avoiding viruses so
+long as they used only newly purchased copies of programs and did not
+'borrow' copies of programs from other users.
+Recently, however, viruses have infected computers at some of the largest
+software publishing companies in the US and at computer hardware
+manufacturers. Unwittingly some of these companies have passed the virus on
+to their customers.
+Among those that have discovered the scourge in time, stringent security
+measures have been put in place. One of the largest suppliers of computer
+networking software, for example, has created a 'clean room' environment in
+its software development laboratories by requiring employees to scan all
+computer disks through a virus detection system before entering.
+Michelangelo is only the latest of hundreds of computer viruses to be spread
+among desktop computers. According to a recent survey conducted by the US
+National Computer Security Association and Dataquest, a market research
+firm, 63 per cent of personal computer users have already encountered a
+computer virus and 9 per cent have experienced a 'virus disaster'.
+The survey covered more than 600,000 personal computers in businesses
+throughout the US and Canada. Corporate personal computers are particularly
+vulnerable to computer viruses, according to officials at McAfee Associates,
+a California computer security firm, because they are often shared among
+several users and typically run more programs than a home computer.
+Already there have been several reports in the US of Michelangelo victims
+who have lost valuable data when the virus activated prematurely. These have
+ranged from the US National Institute of Standards and Technology to West
+Coast law firms and charity groups.
+Michelangelo can cause total loss of data on a personal computer hard disk
+by writing over it with random characters. 'It is a digital paper shredder,'
+says Martin Tibor of Synapse Data Recovery, a San Rafael, California,
+company that specialises in eradicating infections.
+This virus is spread on infected floppy disks. It is transferred to the
+computer memory and hard disk when an attempt is made to 'boot' the computer
+with the infected floppy disk in place in the drive. Once the hard disk is
+infected the virus will infect every other floppy that is used in the
+computer.
+Several software companies offer programs that can eradicate the virus.
+Users 'scan' their computers to find out if any rogue programs are lurking
+in the machine's memory bank. If an infection is found, the anti-virus
+program will wipe it out, but that is not the end of the story.
+Typically, an infected machine will have transferred the virus to every
+floppy disk that has been used on the computer. Users must, therefore,
+systematically scan the machine until every floppy disk has been checked. In
+a corporate setting, this can be particularly tiresome.
+Tibor, who has worked on several such projects, says that it becomes
+essential to search the premises for disks that people have, for example,
+stashed in desk drawers. 'I usually tell employees to bring in their home
+computers as well.'
+They are typically infected by disks that people take home to work on, he
+explains. Constant vigilance is the only sure way to avoid viruses. With new
+ones cropping up all the time, it becomes necessary to update frequently
+anti-virus programs, which only wipe out the viruses known at the time they
+are sold. Too many computer users scan their machines once and then forget
+about the problem, warns Tibor.
+To deal specifically with the Michelangelo virus, several companies are
+offering anti-viral software programs. Central Point Software has a
+Michelangelo Protection Kit, which it is selling in the US for Dollars 29
+(Pounds 16.50). Symantec is also offering a special Michelangelo edition of
+its Norton anti-virus program for a nominal fee to cover shipping.
+As a precautionary measure, personal computer users may also advance the
+'clock' on their machines beyond Friday to try to outwit the virus program.
+Past scares about viruses often have proven to be overblown. But the
+unusually destructive nature of Michelangelo makes it hard to ignore.
+Following the 'better safe than sorry' principle, seems to be a wise
+approach.
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 16 Illustration (Omitted).
+</PAGE>
+</DOC>

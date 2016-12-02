@@ -1,0 +1,148 @@
+ID: 258	RANK: 67	SCORE: 7.428260
+
+<DOC>
+<DOCNO> SJMN91-06224096 </DOCNO>
+<ACCESS> 06224096 </ACCESS>
+<DESCRIPT>  COMPUTER; MICROCOMPUTER; SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  TRADITIONALLY, the PC side of the presentation graphics business has been a
+dogfight between Software Publishing's Harvard Graphics and Lotus' Freelance
+Graphics. But now they have to contend with another contestant, IBM's
+Hollywood.;    Each program has strengths and flaws.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  IBM'S HOLLYWOOD JOINS PRESENTATION GRAPHICS
+FRAY  </HEADLINE>
+<MEMO>  Software Review
+Phillip Robinson is an author of books and articles about computers and an
+editor for Virtual Information of Sausalito.
+Additional information attached to the end of this article.  </MEMO>
+<TEXT>     Harvard Graphics 3.0 (Software Publishing, $595, (800) 336-8360) has long
+been best for working with lots of numbers and data. It performs complex math
+on the data before turning it into neat charts and graphs. You enter the
+numbers or suck them in from some spreadsheet (a new feature lets you select
+them directly from a spreadsheet file), and Harvard automatically creates,
+sizes and labels any of a dozen chart types from them, including 3-D charts.; 
+  Harvard also packs a complete drawing program, if you want to add your own
+lines, curves and colors to those charts. The new version brings the drawing
+commands right in with the others. It also adds more commands, including
+something called "evolve" for a crude step-by-step animation of an image
+across the screen. There's also more use of color, with shaded backgrounds,
+color mixing and chart templates.;    It has always been easy to make "text
+charts" in Harvard, just choosing the chart type from a menu. But 3.0 includes
+Bitstream's Speedo "scalable fonts." That means it can make sharp and clear
+text characters at almost any size, including the text that labels graphic
+charts.;    Scalable fonts are more important in presentations than anywhere
+else. Where else will people be staring at a few letters or words, possibly
+magnified to fill a wall-size screen, for several minutes? An "auto-build"
+feature makes it easy to create a sequence of text slides.;    Presentation
+graphics programs can generally show their works on the computer screen, as a
+series of "slides" with special-effects transitions between the images. The
+most advanced give the speaker control of the timing and add audio effects.
+Harvard's screen show offers a dozen special effects and a "hypertext" feature
+for hiding more information behind images. Unfortunately, it only runs in EGA
+mode, not using the best resolution of a powerful graphics adapter.;    And
+Harvard doesn't let you organize all the images of a screen show as tiny
+"thumbnail" images on screen, nor does it automatically collect them into a
+single disk file for easy copying and backing up.;    Freelance Graphics for
+DOS (Lotus, $495, (617) 577-8500) has menus that resemble those in Lotus'
+popular 1-2-3 spreadsheet program. Freelance makes a neat partner with 1-2-3,
+taking data from it for the charts. The OS/2 version of Freelance does even
+more of this.;    For text charts, Freelance has an outliner -- to let you
+organize your ideas -- but that outliner and its spelling checker are a
+separate program, not a fully integrated part of Freelance.;    For drawing,
+Freelance offers only basic commands, such as lines, arrows, rectangles,
+polygons, circles and freehand sketching. It's too bad Freelance can only show
+12 colors at a time. It does have the unique ability to place small data
+tables beneath the relevant elements in a chart. The program also comes with a
+large library of clip art on disk, nearly 1,000 images, which you may add to
+charts.;    One of the parts of Freelance I like best is the "Smart Features."
+These start with predesigned, artistically correct chart templates. The smarts
+continue with "Smart Chart Composition," which automatically positions and
+sizes charts to fit within the area you're using, for the output device you're
+planning to use (slide, overhead, printed page), moving and sizing headings,
+and labels so they don't run off edges. And this new Freelance adds the
+Bitstream fonts for smooth text on screen and page.;    Freelance can run a
+"screen show" of its charts, offering more than a dozen special transition
+effects and a stand-alone module to run the shows without having the full
+Freelance program at hand. Organizing such a show is easier with Freelance
+than with Harvard because of Freelance's portfolio feature for collecting
+charts and related files into one set.;    I don't like that Freelance still
+makes you choose your charts from a text-only menu, instead of from small
+pictures. Also, Freelance still offers fewer output file formats (for moving
+charts to other programs) than the competing programs. And I'm definitely not
+thrilled that the technical support lasts only six months, giving way to a
+900-number you'll have to pay to use.;    Hollywood (IBM, $495, (800)
+IBM-7699) runs under Windows, so it needs more hardware power than either
+Harvard or Freelance. But the Windows foundation also means Hollywood can be
+easier to use, especially for editing graphics and organizing screen shows.;  
+ Although Hollywood doesn't have some of the wonderful features of the other
+programs, it has several things I think are vital in a presentation package.
+One is a built-in outliner (for organizing your thoughts, instantly converting
+them into text charts and then quickly reorganizing them later). You may
+import text from a word processor or spreadsheet to this outliner, apply some
+templates (using any of six text chart types) and have a presentation in no
+time. Hollywood also has scalable fonts and lets you distort them in all sorts
+of ways -- even running them vertically. It uses the same Bitstream fonts as
+Harvard and Freelance.;    Another practical text-chart feature is "layering"
+that helps you add one item at a time to a chart, then dim that item as the
+next item appears. This is called "build and subdue" and is a basic part of a
+complete presentation diet.;    The thumbnail image I missed in Harvard and
+Freelance shows up here, for organizing your final screen show. It's called a
+slide sorter. There are plenty of special effects for screen-show transitions
+and an independent screen-show module.;    Hollywood can import spreadsheet
+numbers for creating charts. And for customizing those charts, the drawing
+commands include Bezier curves, rulers, and grids with "snapping" (for precise
+positioning). There's only a small amount of clip art on the disk -- about 100
+images. Hollywood is a slick producer of 3-D effects and color gradients.;   
+So how do you choose among these presentation packages? None has all of the
+features I'd like to see, and the competition will change when the Windows
+versions of Harvard and Freelance appear this fall.;    For now though,
+Harvard is the best if your charts involve many numbers and calculations. I
+also think it is the simplest of the three to learn. Freelance could be the
+best if you're a confirmed 1-2-3 addict and want the artistic assistance of
+the Smart Charts feature, or if you also work with OS/2 and want a program
+that runs in both operating systems. Hollywood shines when it comes to
+organizing and reorganizing sequences of charts, with its layering, outliner
+and thumbnail-slide sorter.;  Freelance Graphics for DOS 4.0, for PC or
+compatible with at least 640K memory, hard disk, DOS 3.0 or later and graphics
+display. $495. From Lotus Development Corp., 55 Cambridge Parkway, Cambridge,
+MA 02142. (617) 577-8500.;    Harvard Graphics 3.0, for PC or compatible with
+at least 640K memory, a high-density floppy disk drive, a hard disk and a
+graphics adapter. $595. From Software Publishing Corp., P.O. Box 7210, 1901
+Landings Drive, Mountain View, CA 94039-7210. (800) 336-8360.;    Hollywood
+1.0, for PC or compatible running Windows 3.0. $495. From IBM Desktop
+Software, P.O. Box 2150, Atlanta, GA 30301-2150. (800)-IBM-7699.;    Summary:
+Not one of these three presentation graphics programs has all of the features
+I'd like to see. For now, Harvard is the simplest to learn and the best if
+your charts involve lots of numbers and calculations, but it doesn't show your
+charts as you make them and lacks an outliner. Freelance could be the best if
+you're building charts from 1-2-3 spreadsheet data or if you also work with
+OS/2. But Freelance has limited color abilities and an awkward connection to
+its spelling checker and outliner. Hollywood is a Windows program that shines
+in organizing and reorganizing sequences of charts. But Hollywood needs more
+processor and memory than the others do and does not have the numeric
+strengths of Harvard nor the tight 1-2-3 links of Freelance.;    On a scale of
+one to four, with one indicating poor and four indicating excellent, here's
+how the product rates:; Freelance Graphics;    Performance: 2 computers;   
+Ease of use: 2 computers;    Value: 2 computers; Harvard Graphics 3.0;   
+Performance: 2 computers;    Ease of use: 2 computers;    Value: 2 computers;
+Hollywood 1.0;    Performance: 3 computers;    Ease of use: 3 computers;   
+Value: 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910811  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  August  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,470  </WORD.CT>
+<DATELINE>  Sunday August 11, 1991
+00224096,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

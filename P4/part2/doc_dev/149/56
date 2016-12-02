@@ -1,0 +1,120 @@
+ID: 149	RANK: 56	SCORE: 8.043525
+<DOC>
+<DOCNO>FT932-290</DOCNO>
+<PROFILE>_AN-DF2CGAGZFT</PROFILE>
+<DATE>930629
+</DATE>
+<HEADLINE>
+FT  29 JUN 93 / Survey of Computer Networking (10): A long wait for
+'vaporware' - The prospects for the main operating systems strategies
+</HEADLINE>
+<BYLINE>
+   By PHIL MANCHESTER
+</BYLINE>
+<TEXT>
+WINDOWS NT 'represents nothing less than a fundamental change in the way all
+companies can address their computing requirements,' Mr Bill Gates, head of
+Microsoft, proclaimed at the end of May.
+Modesty may be inap- propriate at the official launch of a company's
+flagship soft- ware product, but it is fair to accuse Mr Gates of premature
+optimism. Development of Windows NT, an operating system for a wide range of
+computers, is well-advanced. But it will be at least two months before the
+basic software is generally available and it will be even longer before
+other important components are released.
+It is, of course, a common ploy to announce products before they are ready.
+It is the classic way to protect an installed base. Microsoft, like its
+rivals, has used the ploy before - with the original Windows software, for
+example - and will doubtless use it again.
+Mr Stuart Allsop, a US newsletter publisher, coined the term 'vaporware' to
+describe the practice. He regularly publishes a Top Ten chart of the
+products which have been 'in vapor' the longest.
+Windows NT has been on the list since the start of the year, after Microsoft
+failed to meet its scheduled delivery date in December 1992. Windows NT was
+first announced in April 1991 - putting it 'in vapor' for over two years.
+Although NT officially stands for New Technology, it suggests other
+interpretations - Not Today, Not Tomorrow, etc.
+But it would be wrong to single out Microsoft for castigation. Novell, its
+fiercest critic and closest rival in the operating systems market, had
+similar delivery problems with the latest version of its NetWare networking
+software. NetWare 4.0 was 'in vapor' for 13 months before being finally
+released in March this year.
+All is fair in the current 'soft wars' and premature announcements are low
+down the list of marketing weapons currently being deployed by all the
+participants.
+In March, for example, a group of Microsoft's main rivals banded together to
+announce a possible, final solution to the problem of the many different
+versions of Unix in anticipation of the final arrival of Windows NT. IBM,
+Hewlett-Packard, Sun, Unix Systems Laboratories and Santa Cruz Operation -
+all formerly in different factions of the Unix camp - said that they would
+conform to a Common Open Software Environment specification.
+Microsoft was conspicuously absent from the party - a factor which leaves
+Cose lacking in credibility. Microsoft is, after all, the world's biggest
+supplier of open software environments.
+Although Mr Gates may have overstated its significance, Windows NT will
+certainly mean change for the biggest single constituency in the computer
+industry: tens of millions of users of MS/DOS-based personal computers.
+It is more than a replacement for MS/DOS and Windows 3.1. Windows NT gives
+Microsoft a product specifically to compete in the mid-range and enterprise
+systems market against Unix and IBM's OS/2. It is designed to use the
+so-called client-server architecture, a technique for distributing functions
+across a network of many different computers.
+Microsoft aims to extend the client-server principle from the most humble
+desktop 'client' computer up to the new high-performance reduced instruction
+set computers (Risc). It is working with Digital Equipment to build systems
+based on DEC's Alpha Risc, for example.
+The combination of Alpha's advanced architecture and Windows NT could
+challenge even the largest mainframe systems on both performance and
+function. If Windows NT succeeds, Microsoft may come to dominate the entire
+software market.
+But the question remains whether Microsoft can convince the market that it
+has got certain important components in the NT 'family' right. The
+networking component, in particular, will come under close scrutiny.
+Microsoft has made several attempts to break into the market for PC
+networking software, but to no avail.
+While it seems unlikely that Microsoft will lose its grip on desktop
+computers, it faces a real challenge in the networking market from Novell -
+which currently dominates with NetWare.
+But Novell, too, has had its failures. Its attempts to break into the
+desktop operating system market - by taking over Microsoft's former rival
+Digital Research - have had little impact.
+The most likely resolution to the conflict is that the two companies will
+continue to dominate their respective markets and be forced to combine their
+efforts.
+Mr Dan Kikinis, president of California-based Oakleigh Systems and the
+designer of Elonex's range of PCs, says: 'Microsoft has not been very
+successful in the Lan market and Novell is not really successful in the
+operating systems market. The two will have to work together whether they
+like it or not.
+'Windows NT needs another year before it will make any real impact. It will
+be difficult for Microsoft to get users to change how they work - and Novell
+is still well ahead in networks,' he adds.
+So it will be some time before the jury of the marketplace reaches its
+verdict on Mr Gates's latest brainchild.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>Microsoft Corp.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ   United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page V
+</PAGE>
+</DOC>

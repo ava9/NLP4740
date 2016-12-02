@@ -1,0 +1,132 @@
+ID: 156	RANK: 57	SCORE: 9.393615
+<DOC>
+<DOCNO>FT942-6304</DOCNO>
+<PROFILE>_AN-EE4DFAD1FT</PROFILE>
+<DATE>940531
+</DATE>
+<HEADLINE>
+FT  31 MAY 94 / International Company News: IBM realignment aims to regain
+market leadership - Focus of software development work is being switched to
+client-server computing
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<TEXT>
+Mr Lou Gerstner is making his biggest product strategy change at
+International Business Machines since his appointment as chairman and chief
+executive just over a year ago.
+The move is centred on realigning IBM's worldwide software development
+operations through a strategic initiative, known internally as Workplace.
+The aim is to re-establish its market leadership and improve the efficiency
+of software development.
+In a memo to managers, Mr John Thompson, IBM senior vice-president, said
+Workplace technologies would 'revolutionise the way we and our customers
+develop and use software'.
+IBM will refocus much of its software development work on distributed
+computer networks, known as client-server computing, rather than the
+mainframe computers that have consumed most of its software development
+budget in the past.
+Last year, IBM spent almost Dollars 1.1bn on software research and
+development, and its total software revenues were close to Dollars 11bn, or
+more than 17 per cent of total revenues. However, most of the company's
+spending and revenues have come from the mainframe sector, where sales are
+declining.
+Workplace technologies will create common building blocks for future
+versions of IBM's most widely used computer operating systems: MVS for
+mainframes, OS/400 for mid-range computers, AIX for workstations and OS/2
+for personal computers and network servers. Currently, software for each of
+these segments is developed separately.
+The company-wide effort will involve unprecedented global collaboration
+among IBM's product divisions, research laboratories and marketing
+divisions.
+This reflects the management philosophy of Mr Gerstner, who has been urging
+co-operation, rather than competition, among IBM's product divisions.
+The Workplace project emanates from IBM's PC software division where it
+began as an effort to expand the capabilities of OS/2 and leap-frog
+competition from Microsoft, the leading PC software company.
+The elevation of Workplace to a company-wide initiative follows a review of
+IBM's software strategies by the company's Corporate Executive Committee
+(CEC), a group comprising 10 of the company's top executives that was formed
+by Mr Gerstner last year.
+'We've developed a single, unifying strategy for the entire spectrum of IBM
+software,' said Ms Ellen Hancock, IBM senior vice-president and head of the
+CEC task force that has been examining company-wide software strategy.
+IBM announced several management changes in connection with the Workplace
+initiative. These include the appointment of Mr Peter Schneider, an IBM
+vice-president previously in charge of corporate software development and
+environmental affairs, to take charge of the Workplace project. Mr Schneider
+co-ordinates the development and implementation of the new technologies
+across all IBM divisions.
+A core element of the project is the development of a 'microkernel' of
+software that contains the basic functions that control a computer. This
+microkernel will become the common foundation for new versions of OS/400,
+AIX and OS/2.
+One of the advantages of such technology is that it will allow IBM's
+operating systems to be more easily transported to different types of
+computers. For example, OS/2 will be able to work on devices ranging from
+hand-held PC to high performance workstations.
+Another important aspect of the initiative is to incorporate 'object
+technology' into IBM's software. Object technology breaks software programs
+into components that can be re-used in new applications. IBM will use this
+approach to create common 'services', such as database management and
+network management, for all of its operating systems.
+The object technology will be drawn in part from Taligent, IBM's joint
+software venture with Apple Computer and Hewlett-Packard. This move appears
+to quash rumours that IBM was losing faith in Taligent.
+Workplace will shorten software development cycles and reduce costs,
+enabling IBM to bring new software products to market more quickly, said Mr
+Thompson. 'With Workplace we have an opportunity to solve customer problems
+and assert industry leadership, giving us a clear competitive advantage.'
+These are ambitious goals, particularly in the PC arena where IBM's OS/2
+operating system, with about 5m copies sold, is trailing way behind
+Microsoft's Windows program, which is estimated to be in use on about 50m
+PCs.
+It will take considerable time for IBM to complete the Workplace project.
+The first 'elemental' results will emerge this year, Ms Hancock said. 'You
+will start to see more in 1995, but it will take us until 1996 and 1997 to
+execute (fully) on these plans.'
+The broad scope of the Workplace initiative will test IBM's management team.
+Beyond the technical challenges, 'it will require tremendous teamwork,' Mr
+Thompson said in his memo.
+While senior IBM executives say Mr Gerstner has created an esprit de corp at
+the highest levels of the company, they acknowledge this has yet to filter
+down to the ranks where divisional loyalties are overriding. Mr Gerstner's
+predecessor, Mr John Akers, encouraged product groups to operate as
+autonomous business units.
+There is a danger that as IBM struggles to co-ordinate software development
+across its divisions, the company may lose sight of the real, external,
+competition.
+The name Workplace suggests IBM believes it can re-establish its role as a
+setter of software standards, defining how computers are used in the
+workplace. However, several other companies - including Microsoft, Novell
+and Oracle - have strong claims to that role.
+</TEXT>
+<XX>
+Companies:-
+</XX>
+<CO>International Business Machines Corp.
+</CO>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7372 Prepackaged Software.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+    MGMT  Management &amp; Marketing.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 21
+</PAGE>
+</DOC>

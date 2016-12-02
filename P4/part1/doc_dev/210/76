@@ -1,0 +1,132 @@
+ID: 210	RANK: 76	SCORE: 5.387692
+<DOC>
+<DOCNO>FT934-12473</DOCNO>
+<PROFILE>_AN-DJZDHAG9FT</PROFILE>
+<DATE>931026
+</DATE>
+<HEADLINE>
+FT  26 OCT 93 / Survey of Technology in the Office (9): The high cost of
+'downtime' / PC Networks
+</HEADLINE>
+<BYLINE>
+   By MONICA HORTEN
+</BYLINE>
+<TEXT>
+PERSONAL computer network technology today is a mature technology, which is
+well-understood by the technical experts. It has also become so
+sophisticated that it is deceptively easy to install and look after. The
+truth, however, is far from that, as some organisations are discovering to
+their cost.
+One City of London law firm recently had its entire network crash in the
+middle of a working day. The network - comprising desktop PCs for more than
+200 staff - ran its client files, as well as accounting and word processing.
+The crash meant the 150 solicitors employed could do no work.
+The firm's IT consultants found that a piece of faulty applications software
+on one of the network server machines had been the cause. When the software
+was removed, the system began to function again. Nevertheless, the
+consultants spent most of the day trying to get everyone back on-line.
+In another case, a leading bank in London put all the PCs on its trading
+floor onto two fault-tolerant server machines, and relied on these machines
+to keep the network running. No-one managed it on a daily basis, and neither
+did anyone realise that one of the servers have fallen over until the second
+one also developed a problem. The entire trading floor was out action for
+two working days.
+According to John Godden, principal consultant with network specialist
+Azlan, the cost of the 'downtime' in such situations can be much larger than
+the simple cost of fixing the system. These networks, in common with most
+that are being installed today, are commercially driven. They are used to
+support the day to day business functions, in a way that did not used to be
+the case even two or three years ago.
+The old-style PC networks were 'device sharing' facilities, giving people
+access to a departmental printer or fax. If they went down, people could
+carry on working. Today they cannot. People use their PC to log on to the
+network for all their software, from wordprocessing through to databases.
+They also use the network to get information from software held elsewhere in
+the organisation - 'the true cost is the cost per hour in lost business for
+every hour the network is down,' says Godden.
+Networks need to be planned differently to support the new applications,
+says Andy Rolfe, technical director of Logical Networks. The design should
+be sufficiently resilient and robust to properly support the new business
+applications, and the increased traffic volumes which they create - 'many
+companies under-estimate the complexity of the system they want,' he adds.
+Technically, a network consists of several 'layers' of equipment and
+software. The bottom layer is the wiring. The comes the 'pipe' - ethernet,
+token ring, or FDDI (fibre distributed data interface).
+On top of that is the transport protocol which determines how the data will
+be transported. Next is the operating system, such as Novell Netware or
+Banyan Vines, which manages what goes where, and finally there is the
+applications software held on the server. To complicate matters, there are
+other pieces of equipment known as routers, bridges, hubs and switches,
+which play a part in sending the data traffic around the wires.
+Some problems happen because the 'pipes' installed do not have sufficient
+capacity, as one insurance company found out to its cost. It had tried to
+stretch the ethernet pipe beyonds its technical limit, and wondered why
+'protocol error' messages kept appearing on the screens.
+In other cases, the network has just grown organically, and gets to a point
+where it is simply over-stretched. Re-assessing the applications software
+may solve the problem.
+One such case was the British Airports Authority resource management system.
+It supported 150 PCs, which log faults which occur at UK airports, including
+London Heathrow. It ran a PC database system, but the application was
+drowning the network with too much data traffic. Consultants ACT business
+Systems solved the problem by redesigning the applications software to use a
+client-server architecture, cutting down the volume of traffic on the
+network.
+Mike Long, principal consultant at Hoskyns, stresses that a sound network
+infrastructure does not come cheaply, but the long term benefits can
+outweigh the cost - 'it must be flexible, and easy to add more people. That
+is a heavy commitment. For a large building, of say 180,000 square feet, and
+five or six storeys, the cost could come to between Pounds 500,000 and
+Pounds 750,000,' he says.
+But even a well-designed robust network is not trouble-free. An issue that
+many large organisations are now wrestling with is data management. As
+networks, the number of servers increases in proportion, and that creates
+problems for users. They do not know where files are stored, or find that
+duplicate file copies do not match.
+'If you have 250 users, you would have to think about controlling the data.
+Problems arise such as who has a copy of this document, what did they file
+it under, on which server,' says Andy Mulholland of network services
+company, BISS.
+Difficulties arise when two copies of the same file are held on different
+servers, but one has been altered. Anyone calling up the unaltered file
+could unknowingly be working with out of date information.
+At BISS, they have first-hand experience. The company's 200 employees all
+have a PC, connected to 10 servers, with 500 Mbytes of storage each.
+Documents transferred from one department to another are regularly re-filed
+on a different server under another name. The copy in the originating
+department does not get updated. BISS is hoping to solve the problem by
+replacing its 10 500Megabytes servers with two 3Gigabyte 'super-servers.'
+These 'super-servers' also have other advantages. It is easier to keep them
+in a single physical location, where they can be protected not only against
+theft, but against spilled drinks and other hazards of the office
+environment.
+An alternative way to improve the management of the network might be to use
+new operating software, such as Novell's Netware 4. This has been designed
+to provide sophisticated data management facilities, in particular to make
+file access simpler. However, the software was only launched this year, and
+most consultants are advising people to wait until it has proved itself
+before they embark on a substantial installation.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>GBZ  United Kingdom, EC.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7376 Computer Facilities Management.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page V
+</PAGE>
+</DOC>

@@ -1,0 +1,108 @@
+ID: 42	RANK: 9	SCORE: 12.7290
+<DOC>
+<DOCNO>FT921-16501</DOCNO>
+<PROFILE>_AN-CACBJAA6FT</PROFILE>
+<DATE>920103
+</DATE>
+<HEADLINE>
+FT  03 JAN 92 / Technology: Satellite sets sail - James Buxton and Keith
+Wheatley report on a canoe expedition that will test communications
+equipment
+</HEADLINE>
+<BYLINE>
+   By JAMES BUXTON and KEITH WHEATLEY
+</BYLINE>
+<TEXT>
+Later this month, John Ridgway, who became famous for rowing the Atlantic in
+1966 and has sought new adventures ever since, will lead a party on what
+many think is the ultimate test of canoeing: paddling round Cape Horn.
+The canoeists will face drifting pack ice, gales that can surge from calm to
+Force eight in 10 minutes and 'williwaws' - squalls which can gust off
+glaciers at up to 130mph. Where they canoe beneath cliffs, they may
+encounter waves than can throw a canoe clean into the air.
+The only reassuring fact about the expedition, which should make Ridgway's
+23-year-old daughter Rebecca the first woman to canoe round Cape Horn, is
+that it will be in touch to an unprecedented degree with helpers in Britain.
+BT, formerly British Telecom, is using the expedition, of which it is the
+main sponsor, to test satellite telecommunications equipment that will
+enable the canoeists to position themselves, obtain weather forecasts, send
+back news reports and allow the 53-year-old Ridgway to keep in touch with
+the management of the salmon farm at his adventure school home at Ardmore,
+near Cape Wrath in Scotland.
+Assuming it survives this arduous test, the equipment will be installed on
+yachts competing in the 1993-94 Whitbread round the world race, which also
+passes Cape Horn.
+The expedition consists of a five-person main team in single seat kayaks,
+two double canoes (including a TV cameraman from Independent Television
+News) and the 47-foot Chilean fishing boat Skyring as support boat.
+The expedition, which will last about two months, will hug the coast down
+the Beagle Channel, with the canoe party camping onshore at night and the
+Skyring staying at sea. The party then cross the Bahia Sea to the Wollaston
+islands, the archipelago which includes Cape Horn.
+Having landed on Cape Horn island, the canoeists will wait for a window in
+the almost permanent gales until they can circumnavigate the island. They
+then return in the support boat.
+On board the Skyring, Nigel Tedeschi, a BT research engineer, will operate a
+miniaturised Global Positioning System (GPS) receiver which, using a small
+satellite aerial the size of a motorcyclist's helmet, will calculate the
+boat's position using three satellites.
+The position will be transmitted using a rugged notebook-sized computer and
+portable C-Sat terminal up to the Inmarsat-C satellite, and from there via
+an earth station in the Netherlands to BT's research establishment at
+Martlesham, Suffolk. Here it will be fed into a new computerised tracking
+system being developed for the Whitbread race which will supply
+laser-printed maps showing the canoeists' daily progress to ITN and Anglia
+TV, also following the voyage.
+Since the support boat and the canoeists will not always be together, a
+second GPS receiver and aerial will be carried in one of the double canoes.
+It will record a half-hourly fix which will be handed over to Tedeschi when
+the canoeists liaise.
+The expedition's position will also be relayed from Martlesham to the
+Meteorological Office in Aberdeen. There it will be fed into a computer
+model of the weather around Cape Horn composed from reports from a variety
+of stations and passing ships.
+Aberdeen will issue a daily weather forecast including the expected height
+of waves each morning, stepping up their frequency for the crossing of the
+Bahia Sea and for the circumnavigation of Cape Horn Island. 'Depressions can
+come through there at the rate of three in 24 hours,' says Ridgway. 'We need
+to wait for an anticyclone for the voyage round the island.'
+The weather forecasts will be sent at speeds of up to 600 bits per second to
+the C-Sat terminal on the Skyring, where Tedeschi will pass them to the
+canoe party.
+For the voyage around the Horn, the C-Sat terminal and the computer will be
+installed on one of the double canoes so that stories can be written and
+filed from the canoes. 'The kit all fits very snugly into the bulkhead,'
+says Tedeschi. The terminal is about the size of a car radio.
+All yachts in the Whitbread race will be equipped with this C-Sat system,
+for which BT envisages a large market among yachtsmen. Some, however, will
+also install equipment which will remedy a shortcoming of the last Whitbread
+race: the lack of 'off-the-deck' TV footage.
+To achieve this, BT has adapted videophone technology to the problem of
+bringing pictures from remote sites with minimal power sources. It has
+developed a small codec, a device which converts video signals from a camera
+into compressed digital data for satellite transmission.
+Signals from the codec will be transmitted over the Inmarsat-A satellite.
+Without compression through the codec, such a signal would require a
+satellite pathway more than 2,000 times larger than that available to a
+moving source such as a racing yacht, requiring much larger equipment.
+The VC-9000 codec (which weighs only 8kg, one-fifth the size of a US rival)
+can handle data at 64 Kbits per second, much faster than any previous unit.
+It also requires only 400 watts of power to transmit.
+This will allow live TV pictures to be transmitted from yachts anywhere in
+the world and interviewers in the studio can interrogate yacht skippers at
+sea.
+'We have taken the videophone to sea. The implications for all kinds of
+remote sporting events and expeditions are enormous,' said Edward Scott of
+BT. 'But so are they also for businesses that operate in remote areas.'
+Oil companies exploring in remote parts of the Soviet Union are interested,
+he says. 'The problems of sending back vast quantities of seismic data are
+quite similar to the technical parameters of moving television pictures
+about.'
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 6 Photograph The canoeists will face drifting pack ice and
+severe gales as they attempt to circumnavigate Cape Horn (Omitted).
+</PAGE>
+</DOC>

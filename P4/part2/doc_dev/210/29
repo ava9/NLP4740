@@ -1,0 +1,98 @@
+ID: 210	RANK: 29	SCORE: 7.039194
+
+<DOC>
+<DOCNO> SJMN91-06287010 </DOCNO>
+<ACCESS> 06287010 </ACCESS>
+<DESCRIPT>  COMPUTER; SCIENCE; MEDICAL; HEALTH; TECHNOLOGY; DESIGN; PROGRAM; RESEARCH  </DESCRIPT>
+<LEADPARA>  Biologists have learned to harness viruses to create vaccines and, in recent
+years, to reprogram faulty chromosomes by using viruses to smuggle new genes
+into cells.;   Now a small but growing group of computer scientists is
+examining the possibility of designing computer viruses and similar programs
+called worms to burrow into computer networks and set in motion a whole range
+of beneficial activities.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  DESIGNERS SEE HOPE FOR VIRUSES  </HEADLINE>
+<MEMO>  Cover Story  </MEMO>
+<TEXT>     Many computer users have been the victims of malicious virus programs
+propagating through networks and erasing data or causing the whole system to
+fail. But now some researchers are suggesting it is possible to harness the
+subtle power of computer viruses to perform useful tasks.;   They imagine
+self-propelled programs gliding through a network of hundreds of thousands of
+computers, automatically updating software, diagnosing hardware problems,
+seeking out information stored in vast data banks or doing routine garbage
+collection -- mopping up the residue of leftover calculations that can clog up
+memory banks.;   "Although malicious viruses certainly must be brought under
+control, it is also imperative that the fear of viruses not keep computer
+scientists from exploring the many benefits they could bestow," Fred Cohen,
+the scientist who coined the term "computer viruses," wrote in the current
+issue of The Sciences, published by the New York Academy of Sciences.;   Some
+computer security experts scoff at the idea. Eugene Spafford of Purdue
+University says he is not opposed in principle to computer virus research. But
+the experts argue that in a world increasingly dense with computer networks,
+software designers must rethink the potential hazards of releasing autonomous
+programs into the electronic milieu.;   "It's just as if we're doing
+biological research," Spafford said. "We wouldn't encourage somebody to work
+on recombinant DNA in their garage.";   The power of computer viruses for
+constructive and destructive uses is growing. In May, for example, the U.S.
+Army Signals Warfare Division issued a $550,000 contract for research into the
+study of viruses as military weapons.;   Cohen was one of the first academic
+researchers to openly study computer viruses. As a graduate student at the
+University of California, Los Angeles, he conducted experiments showing that
+viruses could be as useful as they are dangerous.;   But when he set loose a
+virus to demonstrate to campus administrators that their systems were
+vulnerable, their response was to shut their machines to further experiments.;
+  In his article, Cohen described a virus-based bill-collecting program he has
+invented. In a traditional bill collector, a single program, often cumbersome
+and complex, monitors all accounts and sends out overdue notices.;   In
+Cohen's system, a simple virus program is spawned each time a customer makes a
+transaction. Every month, the virus checks to see what its customer owes and
+dispatches a bill. Once the account is settled, the collector deletes itself.;
+  Useful as such devices might be, other experts are uneasy about the idea of
+distributed systems, in which friendly viruses wander through a network,
+performing maintenance chores or borrowing computer time here and there to
+solve especially difficult problems.;   Spafford says there is always an
+ethical question raised when a program is written to run on somebody else's
+computer.;   "There is no easy answer to this problem," said Peter Neumann, a
+computer security expert at SRI International research center in Menlo Park.
+"Distributed computing has enormous potential, but you can use it
+destructively. It's a two-edged sword.";   Computer viruses actually started
+out as helpers rather than invaders. The precursor of modern software viruses
+and worms is probably a simple game called Darwin, invented in 1962 by two
+Bell Laboratories computer scientists, Doug McIlroy and Victor Vyssotsky.;  
+The two researchers designed a game in which programs competed within the
+computer's memory. The winner was the one that could kill all its opponents by
+erasing them.;   In 1981 at Xerox's Palo Alto Research Center, John Shoch and
+Jon Hepp wrote a series of computer programs that would scurry around the
+laboratory's network performing helpful tasks. They named their programs worms
+after similar programs that had been described in a science-fiction novel.;  
+One of their most powerful programs was called a vampire worm. It was designed
+to hide until the human users had left for the night and then come to life and
+parcel out a large calculation to computers all over the network.;   In the
+morning, as the computers were reclaimed, the vampire program would shrink
+away and wait until the machines were freed again the next evening.;  
+Carrying the biological metaphor even further, scientists today are
+experimenting with systems to create software too complex to be designed by
+humans, using a type of Darwinian evolution instead. They start with a seed
+program that changes slightly each time it runs. Most of these random
+mutations don't help, but every once in a while the system hits upon a slight
+improvement. After millions of these tiny adaptations, a complex program is
+born.  </TEXT>
+<BYLINE>  JOHN MARKOFF, New York Times  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911013  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  October  </MONTH>
+<PG.COL>  1F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  813  </WORD.CT>
+<DATELINE>  Sunday, October 13, 1991
+00287010,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  1  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

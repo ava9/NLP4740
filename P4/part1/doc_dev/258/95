@@ -1,0 +1,127 @@
+ID: 258	RANK: 95	SCORE: 6.719838
+
+<DOC>
+<DOCNO> SJMN91-06175239 </DOCNO>
+<ACCESS> 06175239 </ACCESS>
+<DESCRIPT>  SOFTWARE; REVIEW  </DESCRIPT>
+<LEADPARA>  ONE OF THE most vital jobs of a computer's operating system -- its basic
+software -- is storing and retrieving information on disks at the request of
+programs like word processors or spreadsheets.;    Unfortunately, neither DOS
+(the operating system for IBM and compatible personal computers) or Apple's
+Macintosh operating system offers data compression, a technique to snip blank
+areas out of graphics images, cut repeated spaces and characters from text and
+so on. While some files can be compressed just a bit, others can be reduced to
+as little as one-tenth their initial size, letting you put more files on a
+disk. And the computer stores and retrieves smaller files more quickly.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  DATA SQUISHERS STRETCH DISK SPACE
+2 PROGRAMS DO THE JOB  </HEADLINE>
+<MEMO>  Software Review
+Phillip Robinson is an author of books and articles about computers and an
+editor for Virtual Information of Sausalito. If you have a comment or want to
+suggest hardware or software you'd like to see reviewed, write him care of the
+San Jose Mercury News, 750 Ridder Park Drive, San Jose 95190.  </MEMO>
+<TEXT>     The disadvantage of compression is that squishing or unsquishing each file
+takes time and requires extra work from the computer's microprocessor. If you
+have compression hardware -- a special chip tailored to the task -- you don't
+notice the delay. But if you depend on a software utility for the work, which
+is a less-expensive choice, you might.;    Whether this bothers you depends on
+how often your programs read and write disk information and on how fast your
+processor chip is. (With a fast processor like a 486 chip, compression can
+actually speed operations because the squishing and unsquishing time is so
+much less than the time saved by reading and writing smaller files.);    The
+practicality of compression depends on your object and patience. If you have
+huge graphics files that eat up too much disk space, you'll probably be happy
+enough with a special program that you must call for explicitly, one that
+squishes them as much as possible.;    But if you want to compress everything
+to make more effective use of your disk space, you'll want a compression
+program that's automatic yet unobtrusive. These "on-the-fly" programs are
+available for both DOS and Macintosh computers.;    SuperStor (AddStor, (415)
+688-0465, $129) adds to any personal computer's DOS operating system. It
+installs automatically, though it asks you to answer some questions about
+intimidating terms such as "mounting" a drive. Once it is installed, however,
+it runs completely automatically. Then it not only compresses and decompresses
+all files with no more trouble from you, but also it uses the disk more
+efficiently by decreasing the minimum stored chunk size from 2,048 bytes to
+512. (DOS wastes some disk space by insisting on that minimum size.);    My
+Zenith Data Systems 486-based PC compatible seemed like the perfect candidate
+for SuperStor. It has a fast processor and a 180-megabyte hard-disk drive.
+(That may seem like a lot of storage space, but if you have Windows, desk-top
+publishing and multimedia in mind, you can always use more space.) After I
+installed SuperStor -- which took about 15 minutes -- I had the equivalent of
+a 340-megabyte hard disk.;    After that, I didn't even need to know that
+SuperStor was in town. I started and ran programs as always, but I had more
+room to move.;    SuperStor also will double the size of a floppy disk (or
+even of a random-access memory disk). However, I'm a bit less comfortable with
+that prospect because I want floppies that other PCs can read.;    I won't be
+completely at ease with SuperStor until I've used it for a while and don't
+find conflicts with my programs. And there are some utilities that it is known
+not to work with, including some parts of popular packages like PC Tools. But
+in general, it has everything you could want for simple, automatic
+compression, from the ability to handle large hard disks (up to 512 megabytes)
+to fitting its program code into high DOS memory (to keep as much of your 640
+kilobytes of main memory free as possible).;    SuperDisk! (Alysis, (415)
+566-2263, $89) can increase your Macintosh disk space, but it doesn't work in
+just the same way SuperStor does on the PC.;    SuperDisk! is easier to
+install, largely because Mac software is easier to install than PC stuff. You
+copy the SuperDisk! program into the Mac's system folder and restart your Mac.
+Thereafter, any files you name with a ".s" at the end are automatically
+compressed when out of use and automatically decompressed when needed again.
+You may also name folders with a ".s" at the end, and then all files within
+the folders are compressed and decompressed.;    The compression is fast. For
+instance, I compressed a 280K file down to 50K in just four seconds on the
+relatively slow Mac Portable. You can choose faster or slower compression and
+tighter (which takes longer) or larger (which is faster) results.;    You may
+assign passwords to compressed files to limit who can decompress them. You can
+also make "auto-expanding" files, squished files that any Macintosh can
+decompress, even those without SuperDisk! (The decompression software is built
+into the squashed file.) This is very handy if you want to send files to other
+Mac owners (smaller files cost less to send through a modem). I even like
+SuperDisk!'s cute graphics (like a crushed cola can showing you the
+compression progress) and thorough on-line help and explanations.;    My only
+beef with SuperDisk! is that compressed files aren't always recognized by
+their programs. My TouchBase program couldn't find its data-base file when
+that file was compressed, so all of my phone numbers and addresses were out of
+reach. In other words, you cannot just compress your entire disk, as SuperStor
+allows you to do on the PC.;    Both SuperStor and SuperDisk! are inexpensive
+ways to get a lot more disk space. They're both easy to use, too, though with
+a few rough spots. And they're much faster than I expected -- fast enough to
+prevent bothersome delays (though I didn't test SuperStor's pace on a slow PC
+like the PC itself or an XT). If you've been cramped lately and have already
+reorganized, thinned and defragmented your disks, look to compression for some
+elbow room.; SuperStor, for IBM PC or compatible with at least 640 kilobytes
+of random-access memory and DOS 3.2 or later. $129. From AddStor Inc., 3905
+Bohannon Drive, Menlo Park, CA 94025. (415) 688-0465.;    SuperDisk!, for
+Apple Macintosh Plus or later with System 6.0 or System 7.0. $89. From Alysis
+Software Corp., 1231 31st Ave., San Francisco, CA 94122. (415) 566-2263.;
+Summary: "On-the-fly" compression programs can automatically squeeze program
+and data files smaller so they'll occupy less disk space and can be more
+quickly stored and retrieved. SuperStor is a good example for PCs and can
+easily double your PC disk capacity. SuperDisk! does the same for Macs, though
+it requires you to explicitly name the files or folders you want to compress.
+SuperDisk! makes up for that flaw with another fine feature -- it can create
+"auto-expanding" compressed files that any Macintosh can receive and unsqueeze
+even without its own copy of SuperDisk!.; On a scale of one to four, with one
+indicating poor and four indicating excellent, here's how the products rate:;
+SuperStor; Performance: 4 computers;    Ease of use: 3 computers;    Value: 3
+computers; SuperDisk!; Performance: 4 computers;    Ease of use: 3 computers; 
+  Value: 4 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   910623  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  June  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,245  </WORD.CT>
+<DATELINE>  Sunday June 23, 1991
+00175239,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

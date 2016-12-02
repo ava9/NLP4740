@@ -1,0 +1,176 @@
+ID: 210	RANK: 49	SCORE: 6.099031
+<DOC>
+<DOCNO>FT932-303</DOCNO>
+<PROFILE>_AN-DF2CGAGMFT</PROFILE>
+<DATE>930629
+</DATE>
+<HEADLINE>
+FT  29 JUN 93 / Survey of Computer Networking (1): One stop that does it all
+ -The growth of applications running on 'client-server' networks amounts to
+a second computer revolution. Low-cost hardware and sophisticated software
+have opened the way, while calls for greater business productivity are the
+spur
+</HEADLINE>
+<BYLINE>
+   By ALAN CANE
+</BYLINE>
+<TEXT>
+It is being described as the second computer revolution, the most profound
+shift in the pattern of use of information technology since the advent of
+mainframe systems in the 1950s.
+Computers and telecommunications are merging to allow the creation of IT
+networks that are narrow enough to serve a single department in a
+corporation or as broad as a global enterprise. The key development is the
+growth of applications running on 'client-server' networks, workstations and
+larger computers linked together to process data co-operatively. This has
+been made possible by improved local and wide-area communications and
+cheaper processing power and memory on small computers.
+Among the moves that suppliers are making which indicate that the networking
+revolution is fully under way are:
+Microsoft, the world's largest personal computer software house, this year
+launched Windows NT, its next generation operating system. Windows NT, a
+large and complex piece of software, is the first Microsoft operating system
+designed for enterprise-wide computing. It competes not only with
+International Business Machines' OS/2 personal computer operating system,
+but also with MVS, IBM's flagship mainframe operating system.
+Novell, the local area network (Lan) software supplier, acquired Unix
+Systems Laboratories last year and forged an alliance with the database
+vendor Oracle this year, in moves to consolidate the position of both
+companies and fight the challenge from Windows NT.
+Most significant of all, IBM, the stumbling giant of the computer industry,
+established a client-server business unit, a startling change of direction
+for a company whose business success has been based on centralised
+mainframes.
+There are equally significant moves on the telecommunications side of the
+fence. The world's large carriers are increasingly concerned to offer their
+large customers 'one stop' shopping in voice and data communications. The
+range of activity is broad. AT&amp;T of the US, for example, is involved in the
+development of 'personal digital assistants'. These inexpensive, hand-held
+devices combine the functions of a telephone, computer, facsimile machine
+and electronic organiser.
+The scene is thus being set for a business environment where corporate
+information is readily available to executives either in the office or on
+the move.
+Wireless communications is enjoying a new vogue. According to CSC Index, a
+leading US IT consultancy, 'wireless communications is a technology in which
+global players are making multi-billion dollar investments and forming
+cross-industry alliances'. It says that cellular radio carriers in the US
+alone have made more than Dollars 10bn in capital investments since 1984.
+The business logic derives from the 'Negroponte Switch', the observation by
+Prof Nicholas Negroponte of the MIT Media Laboratory that communications to
+people on the move should shift to wireless means, leaving television and
+other transmissions to fixed targets to cables in the ground.
+Olivetti of Italy has already announced a system for connecting personal
+computers using radio frequencies rather than cables.
+It is clear, therefore, that the scope of networking has changed over the
+past decade. In earlier days the emphasis would have been on linking
+mainframes and on standards contests such as the battle between IBM's
+Systems Network Architecture and the world standards organisations' Open
+Systems Interconnect.
+Today the emphasis is on effectiveness; what makes the revolution possible
+is a combination of low-cost computer hardware and sophisticated software;
+what makes it necessary is a universal demand for greater business
+productivity and competitiveness.
+An example is Equipment et Composants pour L'Industrie Automobile (ECIA),
+which is majority owned by Peugeot of France. It has established a
+pan-European network of 10 sites running the IBM mid-range AS/400 system.
+The network runs on IBM's SNA rules and is driven by an IBM mainframe based
+at Audincourt near Paris. It is part of a ECIA project called 'Parler le
+Meme Langage (Pamela)' which is being built to ensure that all parts of the
+group work in the same way with standardised information and with objectives
+and results which can be compared on the same basis. The key element is a
+package called Data 3, manufacturing resources planning software written by
+Hoskyns, the UK arm of Cap Gemini Sogeti of France.
+Mr William McGilvray, supply manager at ECIA subsidiary HPC of Coventry,
+explains: 'Under the old system, top management could not have looked at the
+1992 devaluation of sterling and said: 'Let's put more work into the UK
+because costs are lower there'. Now comparisons of this kind can be made
+quickly and objectively.' Other motor manufacturers are installing similar
+aids to productivity.
+Why has computer networking assumed this new significance? The starting
+point is today's business environment. Customers are demanding better and
+more flexible service. They expect shorter lead times, improved quality and
+responsiveness. IT networking, through electronic data interchange (EDI),
+computer aided engineering (CAE) or group working can provide the means of
+fast and flexible response.
+The computer industry has been quick to coin expressions to describe the
+essential features of the revolution: 'downsizing' - moving applications
+from mainframe systems to less expensive but no less powerful microprocessor
+based computers; 'client-server computing' - processing data on networks of
+computers, some of which provide computing or data services to the network,
+the rest serving as workstations; 'co-operative computing' where the network
+functions as a single processing unit.
+Among the companies which are helping to shape the new communications worlds
+are, at the personal computer level, network operating system supplier
+Novell, the market leader with NetWare version 4.0, Microsoft and Banyan. At
+the local area network level, fast-growing hardware companies Cisco and 3Com
+as well as Ungermann-Bass provide the essential hubs and routers for network
+interconnection while suppliers of wide area networks include the
+telecommunications companies AT&amp;T and BT. At the systems level computer
+hardware and software vendors include IBM, Digital Equipment,
+Hewlett-Packard, Sun Microsystems and Bull.
+The aim of networking is simple: to enable computer users to have access to
+information, applications software and computing resources without needing
+to know where any of these are located. But there are dangers, not least of
+which is the comparative novelty of the technology.
+Prof Stephen Bradley of Harvard Business School sounded a powerful warning
+recently: 'Competitors may invest first without fully understanding the
+strategic implications or evaluating the financial impact of their
+investment, and other firms may copy these investments lest they be left
+behind in a rapidly changing industry', he wrote, arguing that many
+companies were investing heavily in IT networking in the forlorn hope of
+gaining significant advantages. 'Most firms', he concluded, 'do not realise
+a competitive advantage from their investments and those that do find it
+difficult to sustain.'
+It is a damning judgment, but it echoes the concerns that managers have
+frequently expressed over the difficulty of justifying investment in IT. The
+answer, according to Prof Bradley, is to assess spending on IT and
+telecommunications as part of a coherent business strategy; to view it as a
+strategic necessity rather than an attempt to gain sustainable competitive
+advantage.
+Putting networks together is, in practice, hard work and the larger the
+network, the more complex the problems. To judge from the enthusiasm with
+which networks are being installed, the rewards seem worth the risk.
+According to Mr Peter Wright, European director of Dell Computer's
+integrated systems division, the number of personal computer local area
+networks (PC Lans) grew by 33 per cent last year to 780,000. He says the
+principal aim is not to save money through downsizing, but to gain greater
+efficiencies in all parts of the business. In short, it is the essential
+underpinning for business process re-engineering, today's shorthand for
+rethinking a business from the bottom up.
+With the growth of networking, the problems of network management have
+expanded. It is now the single greatest concern of IT managers in larger
+companies. The London consultancy Ovum forecasts that the market for
+management frameworks will be worth nearly Dollars 900m in the US and Europe
+by 1998.
+Today, the concern is to manage a broad range of communications and
+computing devices from a variety of suppliers distributed over many sites.
+The more aware organisations are already looking beyond that to ways of
+managing business applications - software that supports practical business
+processes - across a diversity of networking technologies.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ   United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P3571 Electronic Computers.
+    P7372 Prepackaged Software.
+    P3577 Computer Peripheral Equipment, NEC.
+    P3661 Telephone and Telegraph Apparatus.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products &amp; Product use.
+    CMMT  Comment &amp; Analysis.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page I
+</PAGE>
+</DOC>

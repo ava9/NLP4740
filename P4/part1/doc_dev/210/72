@@ -1,0 +1,130 @@
+ID: 210	RANK: 72	SCORE: 5.460268
+<DOC>
+<DOCNO>FT931-2009</DOCNO>
+<PROFILE>_AN-DCXAWABOFT</PROFILE>
+<DATE>930323
+</DATE>
+<HEADLINE>
+FT  23 MAR 93 / Survey of Information and Communications Technology (9): 'No
+LAN is an island' - Enlarged Local Area Networks
+</HEADLINE>
+<TEXT>
+AT a time when IBM and other leaders of the information technology industry
+are in trouble, one sector is growing by leaps and bounds. Internetworking -
+the linking together of small personal computer networks to create one giant
+computer - is flourishing as businesses everywhere seek to make the most of
+existing information technology investments.
+Internetworking has sprung out of the local area network (LAN) industry.
+LANs were originally only intended to link small groups of personal
+computers. But they have proliferated in many organisations, and their cost
+has come down so low that they have become a commodity item.
+Now, many companies are realising that these isolated LANs could bring more
+benefit if they were tied together. The enlarged LAN should improve the
+dissemination of corporate information and increase staff productivity:
+where data was previously requested by telephone delivered by courier, it
+can instead be retrieved electronically.
+For example, staff at Strathclyde Regional Council are soon going to be able
+to tap into data on debtors and creditors from any of the council's 120
+office sites. The system will also provide up to date information on other
+activities such as social work.
+'I have a saying here that 'no LAN is an island.' While they might start as
+a standalone LAN, we find they rapidly grow and need to share information,
+says Mr Lindsay Barr, distributed systems services manager at Strathclyde.
+Internetworking has gained further momentum from the trend towards
+'downsizing' - replacing large, expensive mainframes, with smaller personal
+and mid-range computers. As a result, leading vendors are growing at rates
+of 40 per cent or more per year.
+Synoptics, a leading vendor of internetwork hub products grew 57 per cent in
+1992 over 1991, reporting revenues of Dollars 388m, over Dollars 248m the
+previous year. Its smaller rival, Chipcom, grew its 1992 sales by 82 per
+cent, up to Dollars 87m from Dollars 47m in 1991.
+Wellfleet, number two to Cisco for the supply of routers - products which
+transmit traffic between LANS - almost doubled its revenues for the six
+months to December 31 last year. It reported Dollars 72m, up from Dollars
+34m the previous year. However, customers are becoming concerned that the
+vendors are riding high on their growth figures and failing to address a
+number of key problems.
+Internetworking is not a simple process. John Wise, who heads up the lobby
+group known as European Network Users' Forum, says that network managers
+commonly run into difficulty when they try to interwork different types of
+networks. But the vendors are not being helpful in finding a solution.
+For example, joining a Novell Netware network with a Microsoft LAN Manager
+network will result in many of the functions of both networks being lost. In
+such a case, someone in one office wanting to access a database held
+elsewhere, may find they can't do so - 'if your LAN strategies have evolved
+independently - and this tends to be the case historically - then you have
+disparate collection of LANs which you then have to interwork. You have to
+find a way of doing this. I think it's a problem,' says Mr Wise.
+There are further difficulties when it comes to managing the network. This
+entails checking how much data is stored on file servers, and how much
+traffic is travelling along the lines. This information is important for
+planning the system capacity, so that users always have access to what they
+need.
+Jim McMahon, an independent networking consultant, says that the problem
+occurs because most network operating systems, such as Netware and LAN
+Manager, remain proprietary.
+'There seems to be an ambiguous approach to being open, because the vendors
+don't want to lose their competitiveness. The support for interworking of
+multi-vendor LANs is not as good as if you've got all of one environment or
+the other,' he says.
+Novell claims to address this issue, at least partially, in its latest
+version of Netware, version 4, released earlier this month. It says the new
+software offers better interworking with networks running the Unix operating
+system. But Mr McMahon, who is having to find a solution to this issue for a
+pan-European LAN-based network, remains sceptical - 'wait and see,' he says.
+Novell also says it does supply products to interwork Netware with other
+networks, but has not been very good at telling its customers of their
+existence.
+Another issue that concerns users is the implementation of new technologies.
+Chief among these is known by the ungainly title of asynchronous transfer
+mode or ATM. This will eventually provide super-fast data transmission at
+speeds of up to 2.4 gigabits per second.
+Such high speeds should make it easier for companies to transmit large data
+files, such as video and image. A problem today is that LANs become
+overloaded and crash if too many people try to access the system at once;
+video or image transmission on a large scale is difficult. It is envisaged
+that ATM could provide the backbone network, carrying the bulk of the
+traffic.
+ATM was originally conceived by the telecom industry for wide area
+transmission, but has been hi-jacked by local area network vendors.
+Unlike telecom suppliers, they exist in a ferociously competitive market.
+They have therefore pressed ahead much faster with product development.
+Products are scheduled to appear this year. Cisco, Synoptics, and UK vendor
+Fibrenet all say they will have an initial product by the autumn of this
+year. And Wellfleet, Network Equipment Technologies and another UK company
+Netcomm, could be ready sooner.
+But as the vendors rush to lay out their ATM stalls, customers want to know
+how they will migrate from today's products to ATM. Mr Laki Marangos,
+communications manager at merchant bank Morgan Grenfell says he wants to see
+stepping stones to new technologies, so that he can meet new business
+requirements for networking facilities with an incremental cost.
+Mr Marangos would not want to buy an entire new network, in order to get ATM
+capability - 'if you buy products today, they must fit in with your existing
+and future requirements,' he says.
+Many are also unsure of the true benefits of ATM. Mr Barr says he will be
+looking at ATM, but it's too early to say what use it might be. And he adds:
+'Every technology is of interest, but being at the leading edge is
+expensive, in terms of resources as well as finance.'
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>XAZ  World.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7373 Computer Integrated Systems Design.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>TECH  Products.
+    IND  Industry profile.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page IV
+</PAGE>
+</DOC>

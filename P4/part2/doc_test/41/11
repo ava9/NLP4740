@@ -1,0 +1,134 @@
+ID: 41	RANK: 11	SCORE: 9.8174
+<DOC>
+<DOCNO>FT941-6108</DOCNO>
+<PROFILE>_AN-ECCCVAC4FT</PROFILE>
+<DATE>940303
+</DATE>
+<HEADLINE>
+FT  03 MAR 94 / Technology: Crime on the line - Louise Kehoe examines the
+greater need for security on the Internet
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<TEXT>
+Internet has grown into a global metropolis but, like many large cities,
+this electronic community linked by computer networks is now struggling to
+deal with rising crime.
+Last month, Internet officials reported that tens of thousands of secret
+passwords had been stolen. The thieves obtained keys to the private computer
+files and messages of their victims.
+The incidents demonstrate the vulnerability of Internet and raise questions
+about its use as an information thoroughfare by businesses and others who
+may be sending or receiving sensitive information via electronic mail or
+file transfers.
+Despite its genesis in a US Department of Defence programme in the early
+1970s, Internet was never intended to be a secure network - quite the
+opposite. It began as an electronic communications system for researchers in
+US universities and government laboratories, with the idea of encouraging
+dialogue and sharing ideas.
+Early Internet users seldom thought of protecting computer files from
+intruders. 'Security was not a very high priority on Internet. Openness and
+communications were the most important issues,' says William Yundt, director
+of networking at Stanford University, California. 'As the Internet
+population grows, however, that is inevitably changing.'
+Over the past few years, use of Internet has grown exponentially as
+individuals, businesses and colleges throughout the world have linked up
+their computers and local networks to 'The Net', as it is commonly called.
+There are now an estimated 20m Internet users and commercial data traffic is
+increasing at a compound rate of 20 per cent a month, says Al Hoover,
+vice-president of ANS, a data communications company which operates the
+high-speed US coast-to-coast 'backbone' of Internet for the National Science
+Foundation.
+The expanding population of Internet has brought with it some undesirable
+elements. These include 'crackers' who make a hobby of breaking into private
+computer files. To date, most such incidents appear to have been pranks by
+individuals out to prove their computer prowess.
+The latest incidents are, however, unprecedented in scale and may be the
+work of an organised group, Internet experts fear. A 'sniffer' program
+masquerading as an innocent computer program was planted in several
+computers on Internet, says Terry McGillen of the Computer Emergency
+Response Team (CERT) Coordination Centre at Carnegie-Mellon University in
+Pennsylvania. This secretly recorded the passwords and names of individuals
+who accessed the affected computers. Armed with these passwords, the
+'crackers' can examine private computer files and record, change or destroy
+data or send computer messages in the name of the password holder.
+Last October, a cracker obtained passwords that may have been used to access
+dozens of computers in US, Japanese and European companies as well as
+universities and government departments. In another case, a month earlier,
+the electronic mail and files of a California magazine were invaded by a
+cracker. Computers at the University of California have been 'cracked', as
+has the host computer of 'The Well', a California group providing public
+access to Internet.
+Victims of the latest incidents include users at computer sites in the US
+and Europe, McGillen says. 'And the preliminary estimate that tens of
+thousands of passwords may have been compromised could significantly
+increase. We have been flooded with calls and are still gathering data.'
+CERT has warned all Internet users to change their passwords as a
+precaution. However, this is only a temporary solution because new passwords
+could be stolen in the same way.
+The crux of the problem is that passwords currently flow through most
+computers on Internet in 'clear type', making it all too easy for crackers
+to record them illicitly. Password encryption is the obvious solution, but
+implementing such a change will take time and is fraught with problems.
+First, there needs to be an encryption standard for all computers linked to
+Internet. Then it would have to be adopted by all computer sites.
+Development of an encryption standard is under way. However, as Yundt points
+out, security measures are a nuisance for legitimate network users and can
+be expensive to implement. They also run contrary to the free spirit of open
+communication that is at the heart of Internet culture.
+Another potential hurdle is that, despite protests from the computer
+industry, the Clinton administration this month determined that export
+controls should remain on most types of encryption technology. These
+controls have already forced the elimination of encryption features from the
+latest version of the Unix operating system used on most Internet host
+computers.
+In the meantime, large corporate users of Internet are erecting barriers
+between their internal computer networks and Internet. 'Prudent
+organisations no longer keep sensitive information on any computer that is
+linked to the Internet,' says Bruce Baker, head of the information security
+program at SRI International, a research and consulting group.
+For Nick Trio, Internet administrator for International Business Machines'
+Watson Research Centre, the challenge is to provide IBM researchers with the
+benefits of access to Internet, while protecting IBM's internal computer
+networks.
+To achieve this, IBM and many other commercial Internet users create
+'firewalls' between Internet and their internal computer networks. 'We use
+secure gateways - minicomputers that are one-way links to the Internet,'
+Trio explains. All electronic mail sent to IBM via Internet, for example, is
+collected in a 'mail gateway' isolated from the company's internal networks.
+User authentification, a technique widely used to secure corporate networks,
+is also used by IBM to ensure that unwanted visitors do not access its
+computers via Internet. IBM researchers wanting to access their computer
+files while working at home or travelling must identify themselves with a
+password and also use a 'smartcard' security device that generates the
+answer to a 'random challenge' which changes every time the system is used.
+Fencing off computers from the Internet is, however, analogous to installing
+burglar alarms on houses without having a police force to deter criminal
+activity throughout a city. Ultimately, there will have to be some form of
+policing of the network to ensure data security if the 'Internet metropolis'
+is to remain habitable.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7373 Computer Integrated Systems Design.
+    P4822 Telegraph and Other Communications.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>CMMT  Comment &amp; Analysis.
+    TECH  Products &amp; Product use.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 18
+</PAGE>
+</DOC>

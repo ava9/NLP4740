@@ -1,0 +1,474 @@
+ID: 123	RANK: 26	SCORE: 3.750366
+<DOC>
+<DOCNO> LA040190-0005 </DOCNO>
+<DOCID> 197692 </DOCID>
+<DATE>
+<P>
+April 1, 1990, Sunday, Home Edition 
+</P>
+</DATE>
+<SECTION>
+<P>
+Magazine; Page 24; Magazine Desk 
+</P>
+</SECTION>
+<LENGTH>
+<P>
+3642 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+MAKING EVERYTHING PERFECTLY FUZZY; 
+</P>
+<P>
+INVOKING ASIAN THINKING, USC'S BART KOSKO ARGUES THAT THE WORLD IS FAR MORE 
+AMBIGUOUS THAN ARISTOTLE EVER IMAGINED 
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By SHELDON TEITELBAUM, Sheldon Teitelbaum writes for USC's Transcript, for USC 
+Trojan Family and for Cinefantastique. 
+</P>
+</BYLINE>
+<TEXT>
+<P>
+FROM THE UPSTAIRS PORCH window of his split-level house in the Puente Hills, 
+Bart Kosko enjoys a view of the largest Buddhist temple in the Western 
+Hemisphere. Others can keep their manicured lawns, swimming pools, hot tubs, 
+nearby golf courses and sundry suburban amenities. For Kosko, a 30-year-old 
+assistant professor of electrical engineering at USC, it is enough to be able 
+to gaze at one of the few buildings in the country where his concept of reality 
+would not be denounced as scientific heresy, as well as an affront to common 
+sense. 
+</P>
+<P>
+"You have to have a great belief in the truth of your own statements," says 
+Kosko, whose mathematical ideas continue to encounter resistance and outrage 
+from the scientific community in this country despite their widespread 
+acceptance and application in Asia. "You may have stumbled, humbly, upon a 
+universal truth, but if the world, everyone from Aristotle to Bertrand Russell, 
+says you're wrong, it takes immense ego not to agree with them." 
+</P>
+<P>
+The universal truth to which he refers is called fuzziness. Developed by Polish 
+mathematician Jan Lukasiewicz during the 1920s and expanded (and named) 40 
+years later by UC Berkeley computer scientist Lotfi A. Zadeh, fuzziness refutes 
+the traditional Aristotelian theory of absolutes, arguing that the world is 
+full of things that defy categorization by Western logic, things whose 
+definitions are a little fuzzy. Its applications are, among other things, 
+revolutionizing the computer world by creating systems of machine intelligence 
+that compute in terms of humanlike reasoning. 
+</P>
+<P>
+Kosko, a Zadeh protege, is the veritable St. Paul of Fuzziness. The American 
+scientific community does not always take kindly to his devotions, however. 
+Telling a modern scientist that there can be logic without Aristotelian tenets 
+is like telling a Catholic there can be Christianity without Christ -- some 
+scientists have apoplectic fits at the mention of Kosko's name. Yet in this 
+time of technological competition with the East, Japanese and Chinese 
+scientists embrace fuzziness; with its acceptance of universal ambiguity, 
+fuzziness is the mathematical equivalent of Taoism and Zen Buddhism. In Japan, 
+especially, Kosko is the Carl Sagan of fuzzy technology. Indeed, as many 
+Western scientists begin rethinking Kosko, this mathematical doctrine may force 
+the first actual confrontation, and eventually a melding, of Eastern and 
+Western philosophical and scientific ideology. 
+</P>
+<P>
+Kosko is, in essence, the quintessential scientific cyberpunk -- a hip, 
+street-smart prophet of life in the Information Age. He's also a musician, an 
+essayist, a screenwriter -- and a pugnacious sort. He just may be able to pull 
+it off. 
+</P>
+<P>
+ZADEH EXPERIENCEDhis first flash of fuzzy revelation in a hotel bed; Kosko did 
+his mentor one better -- he worked out key facets of the geometry of fuzziness 
+while soaking in the hot tub behind his house. 
+</P>
+<P>
+The hot tub is a fitting place for lambasting Aristotle. The baths were an 
+ideal setting for ancient Greeks to debate the merits of the philosopher's 
+world view. In his hot tub, Kosko contemplates his longstanding frustration 
+with the way those theories continue to prejudice Western imagination. 
+Aristotle, Kosko says, was just too rigid in his thinking. 
+</P>
+<P>
+"Aristotle was never one to split hairs," he explains. "He believed you were 
+either hairy or you weren't. If I were inclined to start plucking my own -- 
+which I'm not -- I would eventually pull out the one hair that he would have 
+argued separates hairy people from non-hairy people. Say that hair is number 
+5,000. With it, I'm hairy. Without it, I'm not." 
+</P>
+<P>
+In science, Kosko says, this absurd yet inviolable rule -- that everything must 
+fit one category or another at all times -- is called the Law of the Excluded 
+Middle. In it, there can be no shades of gray, no concepts such as "partly" or 
+"mostly." 
+</P>
+<P>
+"We've all been conditioned to behave as if this was true," Kosko says. "But it 
+isn't -- not in the real world. These binary assumptions offer a handy first 
+approximation of reality. But sooner or later they break down." 
+</P>
+<P>
+Computers, symbols of pure logic, offer a good illustration of the difference 
+between fuzzy and non-fuzzy thinking. Non-fuzzy computers, the technological 
+epitome of Western thought, rely entirely on binary thinking. Everything they 
+do is the result of combining ones and zeroes with and, or and not. The only 
+thing programmed into the system is yes or no, categories of equality and 
+inequality, and that's all that will come out. 
+</P>
+<P>
+A traditional computer would have difficulties accommodating the concept of a 
+platypus, for example, because it is an animal that is and is not, in equal 
+measure, a mammal. Faced with this peculiar creature, the computer, like 
+Western thought, is reduced to spinning its figurative gears. It simply cannot 
+grapple with a world in which reality does not come prepackaged in crisp binary 
+packages. 
+</P>
+<P>
+Western scientists have tried to account for inherent ambiguities of the 
+universe with probability theory -- the mathematical expression of the chance 
+that a specific event will or will not occur. It usually takes the form of a 
+number between one and zero. In the case of a set of tall people, for instance, 
+individuals always would be categorized as tall or short. But a 5-foot-tall 
+person might be described as having a 50% probability of belonging to the set, 
+a 6-footer 90% and a 7-footer 100%. In other words, probability reflects the 
+statistical averages of the population -- 50% are below 5 feet, 90% are shorter 
+than 6 feet and 99% are shorter than 7. 
+</P>
+<P>
+Probability works with large statistical populations, Kosko says, but is 
+incapable of dealing with most individual situations. 
+</P>
+<P>
+"It assumes the world is black or white," Kosko says, "but it's never sure 
+which one. There's uncertainty in fuzziness, too, but it's deterministic 
+uncertainty." 
+</P>
+<P>
+Fuzziness, he says, measures the degree to which an event occurs. In other 
+words, it models reality, basically providing a shortcut that probability 
+cannot. A computer programmed with fuzzy chips can deal with degrees. It may, 
+for instance, be drizzling slightly outside. A fuzzy computer chip will not try 
+to categorize it as raining or not because it relies on a user-defined alphabet 
+of functions rather than the usual ones and zeros. It can compute variations of 
+measurement from light to heavy, small to large or slow to fast. 
+</P>
+<P>
+An ordinary air conditioner, for instance, kicks in when it senses the 
+environment is either too hot or too cold. It either will begin blasting at 
+full power or shut down. But this isn't efficient or conducive to maintaining 
+maximum levels of comfort. A fuzzy air conditioner, however, would be able to 
+identify the more-comfortable temperature ranges. Instead of shutting down, the 
+fuzzy air conditioner would taper off its activities as the area being cooled 
+became more comfortable. 
+</P>
+<P>
+So when a fuzzy computer is charged with control functions such as, say, 
+docking a space shuttle with a space station, these translate into a smoothness 
+of performance in control systems that cannot be replicated otherwise. 
+</P>
+<P>
+Although many of Kosko's theories revolve around computer applications, he has 
+dozens of everyday examples to explain the difference between fuzziness and 
+probability: Whether or not an article is published, to use one of his 
+favorites, is a matter of probability. The degree to which it is published -- 
+it may or may not have been heavily edited -- is one of fuzziness. Or suppose, 
+he says, there is a 50% chance that there is an apple in your refrigerator. 
+That is probability. But what if there is half an apple in the refrigerator? 
+That half an apple has a 50% degree of membership in the set of whole apples. 
+Numerically, these two situations are equivalent. Physically, however, they are 
+distinct. 
+</P>
+<P>
+KOSKO HIMSELF embodies the fuzzy idea of many things concealed in one. A former 
+farm boy who escaped the Midwest on a full music scholarship to USC in 1978, 
+Kosko straddles the disparate, and often antagonistic, cultures of science and 
+art. As a neural networks expert and a fuzzy theorist, he has organized several 
+important international conferences and is about to publish the first college 
+textbook about neural networks -- computer systems that emulate an organism's 
+ability to learn by experience. NASA uses him as a consultant on the space 
+shuttle, as did the Strategic Defense Initiative Office. Outside the realm of 
+science, Kosko is an accomplished composer who scores his own videotaped 
+lectures and a published writer and essayist. Currently, he is collaborating 
+with Bill Gray, co-writer of "The Philadelphia Experiment," on a 
+science-fiction screenplay. 
+</P>
+<P>
+"I realize that many people within academia frown upon my outside pursuits," 
+Kosko says. "I suppose they view it as a dissipation of energy. I see it as a 
+stimulant. I have a lot of energy." 
+</P>
+<P>
+Kosko is a "bewildering combination of talents," says Marvin Minsky, an 
+artificial intelligence pioneer at MIT. George Klir, editor of the prestigious 
+International Journal of General Systems (soon to publish Kosko's latest paper, 
+which details the theorems proving fuzziness) calls Kosko's mathematical ideas 
+"quite profound." And Zadeh, his mentor, calls him "one of the most unusual and 
+most highly gifted individuals I have ever met." 
+</P>
+<P>
+Beneath it all lies obduracy that prevents Kosko from ever backing down from a 
+fight. Bart Kosko is cocky and tenacious and driven by the belief that time is 
+the enemy of all things. And to keep up with the exponential rate of change 
+engulfing the world, he is prepared to do without sleep -- Kosko puts in a mere 
+four hours of sack time nightly. Uncharacteristically for one so young, Kosko 
+feels the clock ticking deep in his gut. 
+</P>
+<P>
+Kosko grew up in a largely Slavic, working-class Kansas City neighborhood 
+called Strawberry Hill. His childhood was an odd mixture of "Little House on 
+the Prairie" and the "Lord of the Flies." The woods behind his house were great 
+for woodcraft, hunting and trapping and amateur rocketry. But they were also 
+the scenes of sometimes vicious B B gun, wrist-rocket and Molotov cocktail 
+battles between warring neighborhood kids. Bart, his friends recall, could 
+always be found in the front lines. 
+</P>
+<P>
+"Bart was the most passionate person I ever met," recalls childhood friend 
+Kevin Helliker, an author and journalist who lived two houses down from him as 
+a boy. "Our sense of the Koskos was that they had more fun than anybody." 
+</P>
+<P>
+That changed tragically in Bart's 10th year, when their house burned down 
+because of an electrical short. A few months later, Bart's father, a building 
+contractor, was killed in a car accident. 
+</P>
+<P>
+"All kids have a keen sense of what's fair and not," Helliker says. "But Bart 
+had this tremendous, inborn outrage at injustice. That outrage only increased 
+after the death of his father." 
+</P>
+<P>
+The financially strapped Koskos moved to a farm near Lansing, Kan., where Bart 
+threw himself into a variety of pastimes to escape his loneliness and anger. He 
+gobbled up books on science, philosophy, literature, art and politics. Along 
+with improving his karate, he taught himself how to play the mandolin, guitar, 
+balalaika and piano. His friends never knew of his musical acumen until they 
+read in the newspapers that he had won a national Young Composers Contest. Then 
+in 1977, he won a full scholarship to USC, having composed an orchestral 
+overture to "The Count of Monte Cristo" in high school. 
+</P>
+<P>
+As an undergraduate at USC, Kosko decided to supplement his income by writing 
+for pay. Learning that the men's adventure market was wide open, he placed 
+short pieces in magazines such as Oui and Gallery. 
+</P>
+<P>
+What motivates Kosko? "You have to understand that Bart is indignant over the 
+ultimate imminence of his own death," says Helliker in an attempt to analyze 
+his friend's drive to succeed in so many areas. "Last year, when we spent some 
+time together, he advised me almost daily to reflect on the fact that the 
+coroner would be cutting out my guts sooner than I imagine. Death was never far 
+off -- it should be stared in the face on a daily basis, he said, to remind us 
+we don't have time to waste." 
+</P>
+<P>
+Kosko agrees that he views "with dread" the prospect of his own demise. 
+Mortality is, in fact, what makes Bart run as if someone -- or something -- 
+were chasing him. 
+</P>
+<P>
+KOSKO'S STAY at the USC School of Music was short-lived. Although he had passed 
+his graduate placement exams, he and the school differed over what he should be 
+studying. "I just hated atonal music," he says. 
+</P>
+<P>
+Kosko kept his scholarship for a year, but he was strongly urged to find 
+another major. He chose philosophy and economics, eventually becoming a fan of 
+free market economist Milton Friedman and a campus libertarian activist. But he 
+soon ran into conceptual difficulties that might not have fazed his fellow 
+students. 
+</P>
+<P>
+"In philosophy," he explains, "one does logic. But the Aristotelian theories 
+underlying it hadn't changed in 3,000 years. That is never symptomatic of a 
+healthy theory. 
+</P>
+<P>
+"I eventually abandoned philosophy because I felt that there was no room in 
+academia for philosophers in the classical sense that Kant, Aristotle, Hume and 
+Descartes had been. They had done their best to master all the science and 
+mathematics of their day. In many cases they actually contributed to it. I 
+began checking out math books." Kosko went on, in fact, to secure a master's 
+degree in mathematics and a Ph.D. in electrical engineering, which he viewed as 
+a field in which most of his scientific interests converged. 
+</P>
+<P>
+Kosko's fuzzy road to Damascus ran through Austin, Tex., where he met Zadeh at 
+an artificial intelligence conference in 1984. A year before that, he first saw 
+the word fuzzy in a scientific paper. Kosko recalls being struck by revelatory 
+wonder. "This really seemed to tie together many of my concerns," he recalls. 
+</P>
+<P>
+At the conference, Zadeh was fiercely attacked for his ideas. Kosko, a young 
+graduate student, without a doctorate much less professional standing, stood in 
+front of a room filled with the Pharisees of the scientific community and 
+mounted an impassioned defense of a concept of fuzziness, although the 
+mathematical questions had not been asked or answered. (Two years later at 
+another conference, this same fervor would induce one scientist to bang on a 
+table in Kruschevian fury, yelling that "a set is a set is a set.") Zadeh was 
+impressed. Immediately afterward, Kosko mailed Zadeh a theorem supporting 
+fuzziness. Zadeh eventually became Kosko's thesis adviser. 
+</P>
+<P>
+A year later, Kosko attended another conference at which a well-known 
+probabilist insisted publicly, and almost persuasively, that Zadeh was 
+violating some inherent law of nature with his theories. 
+</P>
+<P>
+"I remember a chill going through the audience," recounts Kosko. "I suddenly 
+had the sinking feeling that maybe there really is no fool like an old fool. At 
+that point, I decided I had to know definitively if fuzziness was true. I was 
+like a theist impelled to establish the existence of God. If it were so, I'd 
+become a priest. If not, I'd be the biggest atheist that ever lived." 
+</P>
+<P>
+After conscientious deliberation and much back-to-the-basics mathematical 
+formulation, Kosko eventually decided in favor of fuzziness. His dedication 
+marked him as both maverick and dangerous iconoclast. Notoriety came during the 
+mid-'80s, when he began to vigorously champion neural networks. Now an accepted 
+part of the computer world, they were as scientifically outre then as fuzziness 
+is now. 
+</P>
+<P>
+IN ADDITION TO being its prophet, Kosko has made a unique contribution to fuzzy 
+set theory. He geometrized fuzziness, gave it concrete form and functionality, 
+just as Einstein geometrized space and time. 
+</P>
+<P>
+Kosko pictures the set of fuzzy sets as a Rubik's cube. Each set becomes a 
+point in the cube. Conventional sets occupy the corners of the cube with fuzzy 
+sets occupying the rest of the cube. Each element in the fuzzy sets belongs to 
+the set to a different degree. The farther the set is from the corner, the more 
+it resembles its own opposite. At the midpoint, the set equals its own 
+opposite. That's where the world's classical paradoxes reside, Kosko says. The 
+points within the cube model ambiguity. Once within the cube, he says, we can 
+accept and understand the paradoxes and ambiguities of life. 
+</P>
+<P>
+Kosko calls this "the black hole of set theory, where a thing can be its own 
+opposite." Here, for instance, you will find the proverbial cup that is half 
+empty and half full, the Taoist concept of yin yang, the liar from Crete who 
+said all Cretans are liars, Bertrand Russell's set of all sets that are not 
+members of themselves, and Russell's barber. 
+</P>
+<P>
+Russell's barber, Kosko explains, is a bewhiskered man who lives in a town and 
+who shaves a man if and only if he does not shave himself. So who, one might 
+ask, shaves the barber? If he shaves himself, by definition he does not. But if 
+he doesn't, he does. 
+</P>
+<P>
+This kind of speculation is enough to drive most Westerners crazy, and 
+according to the annals of mathematical history, many have despaired over 
+resolving such enigmas. But, Kosko says, despair only sets in if one rigidly 
+ascribes to an arbitrary insistence on bivalence. People in the Far East, he 
+says, would not likely fall into such a trap. In societies where Buddhism is 
+common, such as Japan -- which he visits frequently as consultant, conference 
+organizer and general representative of what many Japanese corporations 
+consider the future of technology -- the idea of a thing containing its own 
+opposite is not hard to accept. It may, in fact, be a characteristic of mature 
+civilizations that they are simply more capable of recognizing fundamental 
+limits in man's ability to know the real world. 
+</P>
+<P>
+"In the end," he says, "the insistence on either / or interpretations of 
+reality, which Western science relies upon, is merely a cultural preference." 
+</P>
+<P>
+Fuzzy proponents believe that fuzzy thinking may hold the key to the 
+development of the kind of artificial intelligence suggested by HAL, the 
+computer in Stanley Kubrick's film, "2001: A Space Odyssey." Katsushige Mita, 
+president of Hitachi Ltd. and chairman of the board of LIFE, Japan's new 
+Laboratory for International Fuzzy Engineering Research (which is funded by the 
+Ministry of International Trade and Industry and more than 45 of Japan's 
+largest high-tech corporations), believes that "fuzzy artificial intelligence 
+will play an important role in the future intimate relationship between men and 
+computers." 
+</P>
+<P>
+Already, manufacturers in Japan are spinning off a host of applications, from 
+air conditioners, camcorders and automobile transmissions to subway trains and 
+stock-trading programs. All use fuzzy chips that enables control systems to 
+smooth out functions that otherwise might oscillate between minimum and maximum 
+values. 
+</P>
+<P>
+Many American scientists insist that probability can do anything fuzziness can, 
+and generally with better results. Only one U.S. company, Togai Infralogic of 
+Irvine, designs and produces fuzzy chips. Some critics argue that the concept 
+of fuzziness has never been articulated in a manner scientists could validate. 
+Judea Pearl, a professor of computer science at UCLA, says he is "still waiting 
+for a good definition of what a fuzzy system actually is. I haven't yet seen 
+one that is divorced from jargon." 
+</P>
+<P>
+"Any problem which fuzzy technique is designed to handle can be solved just as 
+well, if not better, within a probabilistic framework," adds Peter C. 
+Cheeseman, a researcher at the Research Institute for Advanced Computer Science 
+now on contract with NASA Ames Research Center near San Francisco. Scientists 
+there are exploring fuzzy control techniques for space-shuttle docking 
+maneuvers. Cheeseman is not impressed by these efforts. According to Cheeseman 
+and other digital purists, Kosko and other fuzzy advocates have vastly oversold 
+the benefits of their reasoning. Fuzziness, by its very nature, may lead to 
+unreliable systems. 
+</P>
+<P>
+"I wouldn't want to be on a spacecraft being docked by fuzzy techniques," he 
+says. "It may work well 99% of the time until, whoops, hey, no space station!" 
+</P>
+<P>
+KOSKO'S CRITICS must wonder how long he can remain so brash. Burnouts are no 
+rarity in science, and Kosko, who for five years has been passionately 
+campaigning for fuzziness, seems to be pushing his luck. Those who know him 
+well, however, have few such qualms. 
+</P>
+<P>
+"In Einstein's day," recalls Robert Hecht-Nielsen, a former colleague of 
+Kosko's who is now owner and president of a high-tech firm in San Diego, "there 
+were a number of great intellects who did amazing things. But they never 
+achieved Einstein's prominence, despite their talent, because they had no 
+staying power. I'm not comparing Bart to Einstein in any definitive sense, but 
+I do think he can hang in there." 
+</P>
+<P>
+So, Kosko believes, can fuzziness. He says that it will ultimately make 
+possible genuine reasoning systems in machine intelligence, where artificial 
+intelligence and neural network approaches have failed. Working a fundamental 
+change in the way people regard the world, however, will take decades, if not 
+longer. 
+</P>
+<P>
+To this day, Westerners have not yet faced, in any deep sense, the inherent 
+screwiness of the physical universe as demonstrated by physicists during the 
+early decades of this century. Eventually, Kosko says, "our physical 
+explorations of subatomic reality, antimatter, and the space-time fabric will 
+probably lead us to entirely different times and places, different definitions 
+of reality." 
+</P>
+<P>
+"There may be no God but the Mathmaker," Kosko has written. "And Science is his 
+prophet." Kosko's own prophecies, he prefers to make known in his upcoming 
+science-fiction movie. The one thing we can count on, he says, is that 
+fuzziness is here to stay. 
+</P>
+<P>
+The question, however, is to what degree. 
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+Photo, COLOR, Bart Kosko in the hot tub, where he and the Greek philosopher 
+Aristotle could have debated centuries ago. ; Photo, COLOR, Bart Kosko in front 
+of the Buddhist Temple Eric Myer 
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+Profile 
+</P>
+</TYPE>
+</DOC>

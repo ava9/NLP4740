@@ -1,0 +1,69 @@
+ID: 41	RANK: 9	SCORE: 9.9803
+<DOC>
+<DOCNO>FT941-11158</DOCNO>
+<PROFILE>_AN-EBFAAADFFT</PROFILE>
+<DATE>940205
+</DATE>
+<HEADLINE>
+FT  05 FEB 94 / Password 'theft' puts information network at risk
+</HEADLINE>
+<BYLINE>
+   By LOUISE KEHOE
+</BYLINE>
+<DATELINE>
+   SAN FRANCISCO
+</DATELINE>
+<TEXT>
+Tens of thousands of users of the Internet, a global 'information highway',
+have had their passwords stolen, leaving their private computer files
+andmessages vulnerable to intruders.
+Internet is an international web of computer networks linking about 2m
+computers in businesses, government offices, universities and homes. Use of
+the Internet has grown fast, especially in companies which see it as a
+low-cost international electronic mail system. Up to 1m new users per month
+are tapping into the Internet, according to data traffic counters.
+'Intruders have already captured access information for tens of thousands of
+systems across the Internet,' says an advisory issued by the Computer
+Emergency Response Team, a US-government funded panel of computer experts
+that oversees Internet security.
+The alert was issued on Thursdaynight. 'All systems that offer remote access
+(to the Internet) are at risk,' CERT warned. 'Intruders have already
+captured access information for tens of thousands of systems across the
+Internet.'
+Secret passwords have apparently been collected illicitly by people using
+sophisticated surveillance software programs called 'sniffers' that record
+the first several words typed by a legitimate Internet user to establish a
+link with another computer on the Internet. This usually includes a user's
+name and password.
+CERT has recommended that all Internet users change their passwords. This is
+only a short term solution because new passwords may also be illicitly
+recorded. Expert advice is that computer systems be isolated from the
+Internet to prevent invasion.
+Security on the Internet is a rising problem, said Mr Bruce Baker, head of
+information security program at SRI International. 'There are now many, many
+peopledoing unethical things on the Internet.'
+Thesecurity problems on the Internet raise questions about future
+'superinformation highways' that the Clinton administration is promoting as
+a boon to the US economy and society.
+</TEXT>
+<XX>
+Countries:-
+</XX>
+<CN>USZ  United States of America.
+</CN>
+<XX>
+Industries:-
+</XX>
+<IN>P7373 Computer Integrated Systems Design.
+</IN>
+<XX>
+Types:-
+</XX>
+<TP>NEWS  General News.
+</TP>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 22
+</PAGE>
+</DOC>

@@ -1,0 +1,134 @@
+ID: 258	RANK: 3	SCORE: 34.651802
+
+<DOC>
+<DOCNO> SJMN91-06322041 </DOCNO>
+<ACCESS> 06322041 </ACCESS>
+<DESCRIPT>  COMPUTER; SOFTWARE; REVIEW; IMAGE; PROGRAM  </DESCRIPT>
+<LEADPARA>  IMAGE PROCESSING is the buzzword. Now that computers have the memory to store
+gigabytes on disk and megabytes in RAM, the processor power to hum at 25
+megahertz and faster and the screens to show a million pixels, they can
+graduate from "paint" programs to "image processors." Where once we were
+fascinated by creating crude sketches on screen, soon we'll be cropping,
+resizing and retouching photographs on screen.;   Professionals are already
+doing it. The ad producer who wants Madonna or the latest Ford truck to look
+just so in a magazine ad, the animator cobbling together an introductory tape
+for a TV broadcast, the artist looking for new media and the scientist
+studying patterns in geographic data no longer live and die by the manual
+methods of 1960 or even the $100,000 image computers of 1985. Now they often
+switch on a PC or Mac.  </LEADPARA>
+<SECTION>  Computing  </SECTION>
+<HEADLINE>  PROGRAMS TO POLISH YOUR IMAGES  </HEADLINE>
+<MEMO>  Software Review; Phillip Robinson is an author of books and articles about
+computers and an editor for Virtual Information of Sausalito.; Additional
+information attached to the end of this article.  </MEMO>
+<TEXT>     While the hardware had to reach a certain level to make desk-top image
+processing possible, the software is now the crucial choice. There are a few
+general-purpose programs you'll hear more about as image processing becomes a
+staple in the computing diet.;   (check) Publisher's Paintbrush 2.0 (ZSoft,
+(404) 428-0008, $495) probably will be one of these. It follows in the
+footsteps of ZSoft's PC Paintbrush, the most popular paint program for the IBM
+Personal Computer and compatibles. It isn't much like Publisher's Paintbrush
+1.0 -- I'm not even sure why it has the same name.;   Publisher's 2.0 can work
+on black-and-white, 256-shade gray-scale, 256-color or 16.7 million-color
+images. That last is important because the eye can see millions of colors. If
+you work with fewer, the eye can tell that the image is false.;   Publisher's
+starts with the basic painting tools found in every paint package since
+MacPaint -- lines, circles, brushes, erasers, text and so on. For text, it
+even offers several font types and effects (such as 3-D type). Then there are
+more advanced features and commands, such as for filtering to create a mosaic
+effect, to remove spots, to sharpen an image. There are also special effects
+that can make a picture look embossed or leatherized, and a table for you to
+build your own filters. Publisher's can directly read images from optical
+scanners and lets you calibrate your scanner input to your screen display and
+your printer output.;   This is a great replacement for the very simple paint
+program that comes with Windows, a fine graphics file translator and a capable
+image processor.;   Because it runs under Windows, you'll probably find it
+relatively easy to learn and use, with plenty of help information on hand. I
+like it enough that I wrote a book about it ("Using PC Paintbrush IV," M&amp;T
+Books, 1991).;   (check) ColorStudio 1.5 (Letraset, (800) 343-8973, $995) is a
+major upgrade to a powerful program. It comes with a 90-day money-back
+guarantee. The original program had a complete set of painting and drawing
+tools and a great depth of image-processing commands. In this new version, you
+find more options for the tools that were in place and some important new
+tools and commands as well.;   One of the additions is the Shapes Annex, tools
+for creating PostScript objects in a separate layer that you can make part of
+an image. Drawing directly in PostScript makes for more precise results when
+you print but is normally found only in dedicated PostScript drawing programs
+like Adobe Illustrator or Aldus Freelance.;   Another addition is a Color
+Calibrator to precisely match the printed proofs to what you're doing on
+screen. Calibration such as this is becoming vital to image processing and is
+a complex undertaking. Along with calibration, you'll find full CMYK editing.
+(CMYK is the Cyan, Magenta, Yellow, Black primary colors used in printing. RGB
+is the Red, Green and Blue primaries used in displaying. Processing images as
+mixtures of RGB on screen and then printing them as mixtures of CMYK sometimes
+distorts the result.);   ColorStudio now offers a ColorTalk language for
+customizing the program. It also has a "module plug-in" option that will
+automatically integrate new filter and effects miniprograms, or "modules."
+This means you can buy customizing elements. Letraset took the idea from Adobe
+and lets ColorStudio use PhotoShop plug-in modules.;   (check) PhotoShop
+(Adobe, (415) 961-4400, $895) is clearly the leader in image processing.;  
+Although Publisher's Paintbrush will carve out some territory because it runs
+on PCs, most advanced graphics happen on Macs. And although ColorStudio is a
+potent challenger, PhotoShop has something like 90 percent of the Mac market.
+I find its menus more organized and easier to use than those of ColorStudio,
+though in some areas ColorStudio actually offers more commands.;   If you're
+looking for related products, the market domination by PhotoShop is obvious.
+Bantam publishes "The Official Adobe Photoshop Handbook" by David Biedny and
+Bert Monroy if you want a different approach from that in the manual. And you
+can find classes in PhotoShop at many computer and publishing centers these
+days. There's even an interesting class-in-a-box for PhotoShop, with two audio
+cassettes and a couple of tutorial disks from Color Digital Marketing, (408)
+358-7793.;   This new version comes bundled with a copy of Adobe Type Manager,
+so text in images (and in any other programs) will be smoother on screen and
+when printed. PhotoShop doesn't have the PostScript drawing tools of
+ColorStudio, though you can import PostScript objects to add to images. Though
+creating your own filters isn't easy, certainly not as simple as in
+Publisher's Paintbrush or ColorStudio, PhotoShop does permit customization
+through the plug-in modules idea. Version 2.0 has CMYK editing and some
+calibration abilities. For very advanced work, PhotoShop 2.0 offers special
+8-bit channels beyond those necessary for standard image editing, so you can
+create unusual effects in images.;   You can't go wrong with PhotoShop, which
+is more of a standard than 1-2-3 is in spreadsheets or WordPerfect is in word
+processing. However, ColorStudio does have some great abilities and also would
+be a good choice. If you're working at the PC, Publisher's Paintbrush is a
+fine image editor and a great paint program.; Publisher's Paintbrush 2.0, for
+PC or compatible running Windows 3.0 or later and with at least 7.5 megabytes
+free disk space. $495. From ZSoft Corp., 450 Franklin Road, Suite 100,
+Marietta, GA 30067. (404) 428-0008;    ColorStudio 1.5, for Mac LC or II with
+at least 4MB of RAM and hard disk. $995. From Letraset GDS Inc., 40 Eisenhower
+Drive, Paramus, NJ 07653. (800) 343-8973.;   Adobe PhotoShop 2.0, for Mac SE
+or II with at least 2MB RAM and hard disk. $895. From Adobe Systems Inc., 1585
+Charleston Road, Mountain View, CA 94039. (415) 961-4400.; Summary: PhotoShop
+is the absolute standard in image processing, and Version 2.0 keeps it solidly
+in that position. With its plug-in software modules for customization, CMYK
+editing and popularity, it is a safe and smart choice. ColorStudio 1.5 weighs
+in with a similar set of features, including the ability to use PhotoShop
+plug-in modules, and adds a PostScript drawing ability, more complete color
+calibration, more System 7 support and a customizing language. But it is more
+expensive and harder to learn than PhotoShop and doesn't have its huge hold on
+users and related products. Publisher's Paintbrush is a Windows alternative to
+these powerful Mac programs, lacking some of their sophistication but with
+plenty of painting and image-processing power, including direct control of
+scanners and several calibration options to match printed results to on-screen
+colors.; On a scale of one to four, with one indicating poor and four
+indicating excellent, here's how the product rates:; Publisher's Paintbrush; 3
+computers; ColorStudio; 3 computers; PhotoShop; 3 computers  </TEXT>
+<BYLINE>  Phillip Robinson column  </BYLINE>
+<COUNTRY>  USA  </COUNTRY>
+<EDITION>  Morning Final  </EDITION>
+<CODE>  SJ  </CODE>
+<NAME>  San Jose Mercury News  </NAME>
+<PUBDATE>   911117  </PUBDATE> 
+<DAY>  Sunday  </DAY>
+<MONTH>  November  </MONTH>
+<PG.COL>  4F  </PG.COL>
+<PUBYEAR>  1991  </PUBYEAR>
+<REGION>  WEST  </REGION>
+<STATE>  CA  </STATE>
+<WORD.CT>  1,330  </WORD.CT>
+<DATELINE>  Sunday, November 17, 1991
+00322041,SJ1  </DATELINE>
+<COPYRGHT>  Copyright 1991, San Jose Mercury News  </COPYRGHT>
+<LIMLEN>  0  </LIMLEN>
+<LANGUAGE>  ENG  </LANGUAGE>
+</DOC>

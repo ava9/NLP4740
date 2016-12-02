@@ -1,0 +1,84 @@
+ID: 205	RANK: 42	SCORE: 19.178232
+<DOC>
+<DOCNO>
+WSJ900507-0106
+</DOCNO>
+<DOCID>
+900507-0106.
+</DOCID>
+<HL>
+   Technology:
+   Computer `Hacker'
+   Robert Morris Gets
+   3 Years Probation
+   ----
+   By David Stipp
+   Staff Reporter of The Wall Street Journal
+</HL>
+<DATE>
+05/07/90
+</DATE>
+<SO>
+WALL STREET JOURNAL (J), PAGE B3
+</SO>
+<IN>
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+</IN>
+<GV>
+JUSTICE DEPARTMENT (JUS)
+</GV>
+<LP>
+   Robert T. Morris Jr., the computer "hacker" who unleashed
+a virus that disrupted a nationwide electronic mail network
+in 1988, was sentenced by a federal judge in Syracuse, N.Y.,
+to three years probation and a $10,000 fine.
+   Judge Howard Munson also ordered Mr. Morris, 25 years old,
+to perform 400 hours of community service.
+</LP>
+<TEXT>
+   Computer experts said the sentence was too light to serve
+as much of a deterrent to similar crimes by hackers.
+   In January, Mr. Morris was convicted of violating the
+federal Computer Fraud and Abuse Act, under which he could
+have been imprisoned for as long as five years and fined as
+much as $250,000. The case has been closely watched in the
+computer industry because of rising concern about breaches of
+computer security.
+   "I don't think people in this country are quite ready to
+send someone to the slammer" for launching a computer virus,
+said Belden Menkus, a computer-security consultant in
+Hillsboro, Tenn. "If there had been a theft of funds, a jail
+term would have been more likely." Added Clifford Stoll, a
+Harvard University astronomer known as an authority on
+computer breakins: "I'm not surprised {by the sentence}
+because of the nature of what {Mr. Morris} did and the lack
+of malice involved."
+   During Mr. Morris's trial, his attorney argued that he was
+guilty of a mistake rather than a crime. Mr. Morris's virus,
+or "worm" program, was designed to spread quietly through
+Internet, an electronic mail system used by academic,
+corporate and government researchers. But because of a
+programming error, Mr. Morris said in his testimony, it
+careened out of control. The program sped through thousands
+of computers nationwide and disrupted operations at many
+computer centers linked by the network.
+   Federal prosecutors argued that Mr. Morris was guilty of
+more than an innocent prank, noting that he stole computer
+passwords and designed his program to be difficult to
+eradicate from computers.
+   Among computer professionals, "the consensus was that {Mr.
+Morris} should have gotten at least a modest amount of jail
+time as a deterrent," said Jack Bologna, editor of Computers
+and Security magazine in Plymouth, Mich. "Even 90 days would
+have been better than nothing at all."
+   Mr. Morris plans to appeal his conviction in an attempt to
+erase the felony from his record, said Thomas Guidoboni, his
+attorney, at a news conference. He added that Mr. Morris
+already has had offers from computer-service providers
+willing to put him to work to discharge his community-service
+requirement. One offer came from a state agency in West
+Virginia that wants Mr. Morris to work on computer programs
+that help in collecting child-support payments, Mr. Guidoboni
+added.
+</TEXT>
+</DOC>
