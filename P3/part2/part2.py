@@ -8,10 +8,10 @@ import random as rand
 import operator
 import datefinder
 
-TOPFILES = 6
-INFILENAME = 'questionP1.txt'
-TRAINFOLDER = 'doc_dev/'
-OUTPUTFILENAME = 'part2output.txt'
+TOPFILES = 10
+INFILENAME = 'questionP2.txt'
+TRAINFOLDER = 'doc_test/'
+OUTPUTFILENAME = 'part2outputTest.txt'
 
 # timeregex = r'([0-1]?[0-9]|2[0-3]):[0-5][0-9]'
 yearregex = re.compile(r'\b\d{4}\b')
