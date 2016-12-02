@@ -1,0 +1,66 @@
+Well	RB	_
+-	HYPH	_
+thrown	VBN	_
+breaking	NN	_
+balls	NNS	_
+have	VBP	_
+movement	NN	_
+,	,	_
+usually	RB	_
+sideways	RB	_
+or	CC	_
+downward	RB	_
+.	.	_
+
+The	DT	_
+goal	NN	_
+is	VBZ	_
+usually	RB	_
+to	TO	_
+make	VB	_
+the	DT	_
+ball	NN	_
+difficult	JJ	_
+to	TO	_
+hit	VB	_
+or	CC	_
+confusing	VBG	_
+to	IN	_
+batters	NNS	_
+.	.	_
+
+Most	JJS	_
+breaking	VBG	_
+balls	NNS	_
+are	VBP	CUE-1
+considered	VBN	CUE-1
+off	IN	_
+-	HYPH	_
+speed	NN	_
+pitches	NNS	_
+.	.	_
+
+The	DT	_
+most	RBS	_
+common	JJ	_
+breaking	VBG	_
+pitches	NNS	_
+are	VBP	_
+:	:	_
+
+Curveball	NNP	_
+
+Knuckle	NNP	_
+curve	NN	_
+
+Slurve	VB	_
+
+Slider	NN	_
+
+Screwball	JJ	_
+
+12	CD	_
+-	SYM	_
+6	CD	_
+curve	NN	_
+

@@ -1,0 +1,26 @@
+The	DT
+rock	NN
+group	NN
+P.O.D.	NNP
+'s	POS
+single	JJ
+"	``
+Youth	NNP
+of	IN
+the	DT
+Nation	NNP
+"	``
+includes	VBZ
+some	DT
+lyrics	NNS
+that	WDT
+are	VBP
+widely	RB
+believed	VBN
+to	TO
+be	VB
+based	VBN
+on	IN
+Columbine	NNP
+.	.
+

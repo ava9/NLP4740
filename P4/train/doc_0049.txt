@@ -1,0 +1,56 @@
+Phawngpui	NNP	_
+Peak	NNP	_
+in	IN	_
+Mizoram	NNP	_
+exhibits	VBZ	_
+the	DT	CUE-1
+most	RBS	CUE-1
+enchanting	JJ	CUE-1
+view	NN	_
+of	IN	_
+Mizoram	NNP	_
+.	.	_
+
+This	DT	_
+cliff	NN	_
+is	VBZ	CUE-1
+believed	VBN	CUE-1
+to	TO	_
+be	VB	_
+haunted	VBN	_
+by	IN	_
+spirits	NNS	_
+.	.	_
+
+The	DT	_
+area	NN	_
+is	VBZ	_
+encircled	VBN	_
+by	IN	_
+matted	JJ	_
+bamboo	NN	_
+groves	NNS	_
+and	CC	_
+other	JJ	_
+alluring	JJ	_
+vegetations	NNS	_
+.	.	_
+
+You	PRP	_
+will	MD	_
+come	VB	_
+across	IN	_
+varieties	NNS	_
+of	IN	_
+butterflies	NNS	_
+,	,	_
+including	VBG	_
+some	DT	_
+rare	JJ	_
+species	NNS	_
+found	VBN	_
+in	IN	_
+this	DT	_
+region	NN	_
+.	.	_
+

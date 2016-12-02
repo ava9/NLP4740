@@ -1,0 +1,17 @@
+The	DT
+BBC	NNP
+television	NN
+programme	NN
+Autumnwatch	NNP
+was	VBD
+broadcast	VBN
+live	RB
+from	IN
+Martin	NNP
+Mere	NNP
+in	IN
+2006	CD
+and	CC
+2007	CD
+.	.
+

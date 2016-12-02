@@ -1,0 +1,14 @@
+Many	JJ
+teachers	NNS
+and	CC
+professional	JJ
+musicians	NNS
+are	VBP
+critical	JJ
+of	IN
+the	DT
+Graded	NNP
+Examination	NNP
+System	NNP
+.	.
+

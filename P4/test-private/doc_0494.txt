@@ -1,0 +1,11 @@
+Patrick	NNP
+Gordon	NNP
+Walker	NNP
+died	VBD
+in	IN
+London	NNP
+,	,
+aged	VBN
+73	CD
+.	.
+

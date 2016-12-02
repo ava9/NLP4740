@@ -1,0 +1,14 @@
+Representative	NNP	_
+James	NNP	_
+S.	NNP	_
+Sherman	NNP	_
+of	IN	_
+New	NNP	_
+York	NNP	_
+received	VBD	_
+the	DT	_
+vice	NN	_
+presidential	JJ	_
+nomination	NN	_
+.	.	_
+

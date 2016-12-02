@@ -1,0 +1,36 @@
+In	IN
+December	NNP
+1978	CD
+,	,
+she	PRP
+resigned	VBD
+from	IN
+'	''
+The	DT
+Sunday	NNP
+Times	NNP
+'	''
+and	CC
+returned	VBD
+home	RB
+to	IN
+Crosby	NNP
+to	TO
+recover	VB
+from	IN
+her	PRP$
+alcoholism	NN
+.	.
+
+She	PRP
+then	RB
+began	VBD
+working	VBG
+for	IN
+the	DT
+'	''
+Liverpool	NNP
+Echo	NNP
+.	.
+'	''
+

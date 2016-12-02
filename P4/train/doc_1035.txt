@@ -1,0 +1,42 @@
+The	DT	_
+motivations	NNS	_
+of	IN	_
+slave	NN	_
+owners	NNS	_
+in	IN	_
+manumitting	VBG	_
+slaves	NNS	_
+were	VBD	_
+complex	JJ	_
+.	.	_
+
+Three	CD	_
+strands	NNS	_
+may	MD	CUE-1
+be	VB	_
+detected	VBN	_
+,	,	_
+though	IN	_
+they	PRP	_
+can	MD	_
+not	RB	_
+always	RB	_
+be	VB	_
+disentangled	VBN	_
+from	IN	_
+each	DT	_
+other	JJ	_
+.	.	_
+
+The	DT	_
+following	VBG	_
+relates	VBZ	_
+particularly	RB	_
+to	IN	_
+classical	JJ	_
+Greek	NNP	_
+and	CC	_
+Roman	JJ	_
+forms	NNS	_
+.	.	_
+

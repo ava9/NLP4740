@@ -1,0 +1,40 @@
+'	``	_
+Artemia	NN	_
+'	''	_
+were	VBD	_
+first	RB	_
+discovered	VBN	_
+in	IN	_
+Lymington	NNP	_
+,	,	_
+England	NNP	_
+,	,	_
+in	IN	_
+1755	CD	_
+.	.	_
+
+The	DT	_
+name	NN	_
+'	``	_
+Artemia	NNP	_
+salina	NN	_
+'	''	_
+should	MD	CUE-1
+not	RB	_
+be	VB	_
+used	VBN	_
+anymore	RB	_
+.	.	_
+
+Instead	RB	_
+Artemia	NNP	_
+species	NNS	_
+should	MD	CUE-1
+be	VB	_
+used	VBN	_
+species	NNS	_
+"	''	_
+Compound	NNP	_
+eye	NN	_
+"	''	_
+

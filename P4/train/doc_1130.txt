@@ -1,0 +1,36 @@
+'	``	_
+Avisa	NNP	_
+Nordland	NNP	_
+'	''	_
+is	VBZ	_
+a	DT	_
+newspaper	NN	_
+published	VBN	_
+in	IN	_
+Bodo	NNP	_
+,	,	_
+Norway	NNP	_
+.	.	_
+
+It	PRP	_
+was	VBD	_
+established	VBN	_
+through	IN	_
+a	DT	_
+controversial	JJ	_
+merger	NN	_
+of	IN	_
+the	DT	_
+two	CD	_
+competing	VBG	_
+newspapers	NNS	_
+'	POS	_
+Nordlandsposten	NNP	_
+'	''	_
+and	CC	_
+'	''	_
+Nordlands	NNP	_
+Framtid	NNP	_
+'	''	_
+.	.	_
+

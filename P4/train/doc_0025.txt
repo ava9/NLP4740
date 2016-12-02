@@ -1,0 +1,35 @@
+Commander	NNP	_
+Henry	NNP	_
+G.	NNP	_
+Munson	NNP	_
+relieved	JJ	_
+Commander	NNP	_
+Laughon	NNP	_
+as	IN	_
+commanding	VBG	_
+officer	NN	_
+of	IN	_
+'	``	_
+Rasher	NNP	_
+'	''	_
+.	.	_
+
+'	``	_
+Rasher	NN	_
+'s	POS	_
+fifth	JJ	_
+patrol	NN	_
+was	VBD	_
+spent	VBN	_
+largely	RB	_
+with	IN	_
+in	IN	_
+the	DT	_
+South	NNP	_
+China	NNP	_
+Sea	NNP	_
+west	NN	_
+of	IN	_
+Luzon	NNP	_
+.	.	_
+

@@ -1,0 +1,869 @@
+89 3  Caribbean
+89 1  Caribbean Sea
+89 13  Caribbean Basin
+89 13  West Indian
+89 13  Caribbean Economic
+90 11  Booze
+90 5  Murray
+90 17  Moody
+90 15  Reagan
+90 1  Desk Reference
+91 5  Ballet
+91 3  Gaza Strip
+91 3  Gaza
+91 8  Upper Room
+91 11  Balanchine
+92 5  Hendrix
+92 1  Fender
+92 2  Jimi Hendrix
+92 4  Johnson
+92 7  Paul
+93 4  Gandhi
+93 1  Mr. Narasimha Rao
+93 3  Mr. Rao
+93 1  Berlin
+93 3  Kashmir
+94 18  UCLA
+94 5  Whitcomb
+94 1  Desk Reference
+94 5  National Guard
+94 5  Quayle
+95 1  Paul Keating
+95 1  Vietnam
+95 3  LPDR
+95 1  Vo Van Kiet
+95 3  Khamtai Siphandon
+96 1  Martin Luther
+96 2  King
+96 19  Dukakis
+96 2  Martin Luther King
+96 2  Coretta Scott King
+97 8  San Francisco
+97 8  Mountain View
+97 8  Center
+97 1  Santa Cruz
+97 1  San Jose
+98 13  Montenegro
+99 10  Nicholas
+99 3  Iliad
+99 1  Vordonis
+99 8  Troy
+99 1  Onassis
+100 0 nil
+101 6  Far East
+101 16  North Hampton
+102 2  USC
+102 9  Sanders
+102 3  Biondi
+102 4  Evans
+102 4  Jager
+103 0 nil
+104 1  Vichy
+104 2  Bousquet
+104 1  Nazi
+104 1  Nazis
+104 3  De Gaulle
+105 1  Farnsworth
+105 1  RCA
+105 1  Utah
+105 1  Philo T. Farnsworth
+105 5  Hall
+106 11  Newman
+106 1  Southwest
+106 6  Whitehead
+106 5  Boeing
+106 6  Gordeuk
+107 2  Whitehead
+107 2  Gordeuk
+107 2  Wright
+107 1  Lockheed
+107 17  Raymond
+108 1  Coronado
+108 1  San Diego
+108 3  Herron
+108 9  Imperial Beach
+108 4  Imperial
+109 1  Jordan
+109 1  Deaton
+109 1  Barbara Jordan
+109 1  Bentsen
+109 1  Democratic
+110 14  West Side
+110 17  Southern California
+110 11  West Coast
+110 20  West
+111 6  Mr. Costescu
+111 1  Abner
+111 5  Clark
+111 10  Mr. Hall
+111 1  Cartwright
+112 3  Earth
+112 1  Southern
+112 8  Carolina
+112 8  North Carolina
+113 1  Confederate
+113 1  Gettysburg
+113 1  Union
+113 1  Battle
+113 2  Lincoln
+114 1  West Bank
+114 9  West Valley
+114 3  Western Valley
+114 7  Southern
+114 16  West
+115 6  Guatemala
+115 20  Far East
+115 4  North Acropolis
+115 5  Caribbean
+115 8  Caribbean Taino
+116 0 nil
+117 1  Wordsworth
+117 4  Chatterton
+117 4  Coleridge
+117 13  Clare
+117 1  William Wordsworth
+118 12  Bass
+118 9  Levin
+118 4  Ilesic
+118 8  Shoe Lace
+118 8  Sharp
+119 1  Hawass
+119 2  Sphinx
+119 1  Giza Plateau
+119 1  Cheops
+119 1  Giza
+120 1  Northeast
+120 6  West
+120 6  West Virginia
+120 10  Caribbean
+121 0 nil
+122 1  Almanac
+122 1  Old Farmer
+122 7  Geiger
+122 5  Mr. Hale
+122 13  Phil
+123 11  Earth
+123 5  Western
+123 19  Far East
+123 17  Guest
+123 17  Caribbean
+124 1  Caesars
+124 9  Mr. Sosnoff
+124 1  Caesars World
+124 1  Caesars New Jersey
+124 11  Pratt
+125 1  Sotheby
+125 1  Christie
+125 1  Pablo Picasso
+125 1  Gogh
+125 4  Picasso
+126 11  Western Hemisphere
+126 4  South
+126 8  Caribbean
+126 11  Persian Gulf
+126 17  Caribbean Sea
+127 3  Western Australia
+127 1  Northern Territory
+127 16  Western
+127 16  Northern Land Council
+127 2  South Australian
+128 1  Samurai
+128 1  Suzuki
+128 5  Consumers Union
+128 1  Consumer Reports
+128 1  Mazza
+129 1  Hasbro
+129 1  Scrabble
+129 3  Mattel
+129 1  Spear
+129 17  Chuck
+130 1  Royex
+130 1  Corona
+130 1  International Corona
+130 6  Mr. Pezim
+130 2  LAC
+131 0 nil
+132 1  Northern Territory
+132 5  Western
+132 10  West Coast
+132 18  West Side
+133 0 nil
+134 1  Tutu
+134 7  Botha
+134 1  Harvard
+134 1  Archbishop
+134 1  African National Congress
+135 0 nil
+136 0 nil
+137 1  Hawaii Island
+137 2  Hawaii
+137 1  Coast Guard
+137 1  Maui
+137 1  FAA
+138 1  Forbes
+138 1  Tsutsumi
+138 1  Walton
+138 1  Yoshiaki Tsutsumi
+138 1  Fortune
+139 1  Browns
+139 1  Kosar
+139 1  AFC
+139 5  NFL
+139 2  Broncos
+140 1  Mohammed
+140 1  Islam
+140 1  Rushdie
+140 1  Satanic Verses
+140 1  Islamic
+141 9  West Texas
+141 10  Illinois
+141 14  Northwest
+142 2  South Africa
+142 1  Western
+142 6  Caribbean
+142 10  Southern Hemisphere
+142 12  Sudan
+143 1  Depardieu
+143 1  Weir
+143 1  MacDowell
+143 1  Card
+143 5  Disney
+144 1  Cody
+144 1  Buffalo Bill
+144 11  Bills
+144 3  Buffalo
+144 8  Remington
+145 1  Sound Barrier
+145 4  Lean
+145 5  East
+145 14  North
+145 14  Western Front
+146 2  San Diego
+146 13  Bartlett
+146 8  Civic Center
+146 12  Spitz
+146 16  Moore
+147 1  Market
+147 1  Canada
+147 2  Paper Association
+147 3  Domtar Inc.
+147 3  Total April
+148 2  Northern Mariana Islands
+148 2  Northern Mariana
+148 1  Northern Marianas
+148 9  Western Pacific
+148 4  Guam
+149 5  Louisiana
+150 19  Korean Daewoo
+150 19  North
+150 5  South
+150 11  Western Europe
+150 14  East
+151 0 nil
+152 1  Republican
+152 1  Senate
+152 1  Martin Luther
+152 8  Henry VIII
+152 1  Union
+153 1  Forbes
+153 1  Fortune
+153 1  Morton
+153 2  Mars
+153 13  Tsutsumi
+154 0 nil
+155 0 nil
+156 0 nil
+157 3  NBA
+157 8  Hall
+157 4  Mikan
+157 8  Brooslin
+157 1  Naismith
+158 1  Pikes Peak
+158 4  Pike
+158 1  Zebulon Pike
+158 6  Holmes
+158 1  Congress
+159 11  Laura Lynn
+159 20  Johnson
+159 3  Herman
+159 15  Moschettas
+159 10  Hilary
+160 1  Langston
+160 3  Angels
+160 5  Padres
+160 1  Montreal
+160 1  Dodgers
+161 1  EMI
+161 1  EC
+161 3  Maastricht
+161 1  European
+161 1  Emu
+162 1  Hawass
+162 1  Sphinx
+162 1  Giza Plateau
+162 1  Cheops
+162 1  Giza
+163 4  Chris
+163 1  Cunningham
+163 1  Lindbergh
+163 1  Charles Lindbergh
+163 1  Christopher
+164 1  Rose Bowl
+164 2  USC
+164 2  Michigan
+164 1  Notre Dame
+164 1  ABC
+165 1  South San Francisco
+165 3  South Bay
+165 6  West Coast
+165 8  Southwestern
+165 13  Far East
+166 4  Earth
+166 13  Northern Territory
+166 14  Northern Star
+166 18  Western Australia
+167 1  Bills
+167 3  NBC
+167 6  Giants
+167 6  Knicks
+167 9  Super Bowl
+168 1  Caribbean
+168 2  West
+168 7  Caribbean Economic
+168 2  Caribbean Community
+168 6  East Indian Moslems
+169 1  North Pole
+169 2  Western Arctic
+169 20  North
+169 15  Canada
+169 6  North Carolina Arts
+170 0 nil
+171 4  Southern Africa
+171 1  South African
+171 4  West
+171 5  Africa
+171 4  Far East
+172 1  Reagan
+172 14  Bush
+172 1  Ronald Reagan
+172 1  Republican
+172 1  House
+173 3  Akihito
+173 1  Emperor Akihito
+173 1  Empress Michiko
+173 9  Hirohito
+173 18  Roh
+174 3  McKinley
+174 3  Mr. McKinley
+174 4  Gerber
+174 1  Mr. Sondheim
+174 10  Mr. Johnson
+175 0 nil
+176 3  Radio Shack
+176 1  Sony
+176 5  Mathews
+176 4  Hughes
+176 4  RCA
+177 14  North
+177 20  Black Sea
+178 1  Reagan
+178 4  PLO
+178 1  Supreme Court
+178 3  Democratic
+178 4  Gorbachev
+179 2  West Coast
+179 10  Persian Gulf
+179 10  Western Europe
+179 16  East Coast
+179 18  Brighton Festival Chorus
+180 1  PPG
+180 1  Clorox
+180 10  Forbes
+180 9  Sotheby
+180 20  Grow Group
+181 1  Viveros
+181 5  Winfield
+181 3  Conboy
+181 5  Veracruz
+181 3  Buscando America
+182 15  Southern Christian
+182 7  Western Institute
+182 15  South
+183 1  Silly Putty
+183 1  BinneySmith
+183 1  Hodgson
+183 4  Barbie
+183 3  Reagan
+184 0 nil
+185 0 nil
+186 1  San Jose
+186 1  Milpitas
+186 1  HOSPITAL
+186 1  David
+186 1  Michael
+187 1  Mazda
+187 1  Wankel
+187 6  Escort
+187 5  Honda
+187 4  Yamanouchi
+188 6  Southwest
+189 0 nil
+190 1  CNN
+190 1  Hoeveler
+190 1  Noriega
+190 1  Supreme Court
+190 1  William Hoeveler
+191 1  Goodall
+191 1  Jane Goodall
+191 19  Berosini
+191 7  NIH
+191 7  AIDS
+192 0 nil
+193 6  West
+194 15  Spain
+195 1  Star Wars
+195 1  Jones
+195 1  Darth Vader
+195 1  Lucas
+195 10  Frankenstein
+196 1  West Point
+196 5  Lake
+196 6  East Coast
+196 11  West Baltimore
+196 19  South Bank
+197 1  West Virginia
+197 1  Southeastern Conference
+197 6  Southern Cal
+197 1  Southwest Conference
+197 8  Southern
+198 0 nil
+199 8  Southern California
+199 1  Southwest Expressway
+199 7  Upper East Side
+199 9  Earth
+199 11  East Coast
+200 7  West Bank
+200 7  Gaza
+200 13  Southwest
+200 16  Southern California
+200 18  West Virginia
+201 1  Henson
+201 1  Disney
+201 1  Muppets
+201 1  Sesame Street
+201 1  Miss Piggy
+202 0 nil
+203 7  Western
+203 4  South African
+203 3  South Africa
+203 5  Southern African
+203 7  West Park
+204 0 nil
+205 1  Stoll
+205 1  Soviets
+205 1  KGB
+205 1  NASA
+205 1  Defense Department
+206 0 nil
+207 4  Earth
+207 9  South
+207 12  Southern
+208 6  Kentigern
+208 10  Western
+208 4  Western Europe
+208 5  North
+208 10  South Bronx
+209 1  Johnson
+209 4  Caro
+209 1  Boswell
+209 10  Doe
+209 6  Savage
+210 1  Cyberspace
+210 7  WWW
+210 10  CompuServe
+210 18  BBS
+210 1  Gibson
+211 1  Sanchez
+211 1  Lozada
+211 1  Gonzalo Sanchez
+211 2  Bolivia
+211 1  BFN
+212 0 nil
+213 1  Scrooge
+213 1  Marley
+213 1  Christmas
+213 1  Charles Dickens
+213 2  Dickens
+214 2  NASA
+214 1  Air Force
+214 1  Yeager
+214 1  Right Stuff
+214 1  Edwards
+215 3  Pacific Bell
+215 1  Orange County
+215 1  Santa Ana
+215 14  Sawaya
+215 3  Bay Area
+216 1  Kid
+216 1  Billy
+216 1  Brushy Bill
+216 18  Miller
+216 1  Hart
+217 3  Queen
+217 3  Charles
+217 1  Labour
+217 1  Church
+217 9  House
+218 0 nil
+219 1  Western
+219 5  Nevada
+219 11  West Point
+219 5  West
+220 5  Upper East Side
+221 2  Christmas
+221 5  Geisel
+221 4  Seuss
+221 1  Grinch
+221 4  Cat
+222 0 nil
+223 1  Morrison
+223 13  Lester
+223 3  Miss Morrison
+223 2  Pulitzer
+223 11  Mason
+224 1  CBS
+224 1  ABC
+224 1  NBC
+224 1  Fatman
+224 20  Hargrove
+225 1  CBS
+225 1  NBC
+225 1  ABC
+225 9  Hargrove
+225 1  Fatman
+226 6  Caribbean
+226 9  Caribbean Common Market
+226 9  Caribbean Development Bank
+226 13  North
+226 16  Western Hemisphere
+227 1  Sam
+227 1  Sam Walton
+227 7  Walton
+227 4  David Glass
+227 8  Sales
+228 1  ABC
+228 1  CBS
+228 1  NBC
+228 1  Sullivan
+228 1  Pauley
+229 0 nil
+230 1  Southern California
+230 1  West German
+230 5  Southwest
+230 14  West Germany
+230 17  West
+231 0 nil
+232 13  Northeast Solar
+233 0 nil
+234 1  Butler
+234 1  Church
+234 1  Popeyes
+234 2  Carlo
+234 3  Williams
+235 0 nil
+236 2  Northern Europe
+236 2  Northern Hemisphere
+236 6  Western Europe
+237 2  Western Australia
+237 2  Northern Territory
+237 5  Northern Miner
+237 5  North
+237 3  South African
+238 0 nil
+239 5  Burnett
+239 7  Mont
+239 4  Mr. Brooks
+239 2  Hays
+239 1  Louise
+240 1  Wales
+240 1  Twickenham
+240 1  Rugby
+240 1  Five Nations
+240 1  Welsh
+241 6  Upper Ward
+241 9  North Terrace
+242 1  Oslin
+242 1  Randy Travis
+242 4  Williams
+242 1  Kathy Mattea
+242 1  Ricky Van Shelton
+243 0 nil
+244 5  Berlin
+244 1  Fain
+244 1  Cahn
+244 11  Feinstein
+244 8  Van Heusen
+245 14  Schultz
+245 8  ABC
+245 9  Gaby
+245 8  Nixon
+245 2  Roddam
+246 0 nil
+247 0 nil
+248 3  Dalton
+248 1  Bond
+248 1  James Bond
+248 3  Davi
+248 3  License Revoked
+249 3  West Orange
+249 11  Western Union
+249 19  North American
+249 4  Southern California
+249 14  West
+250 2  Southern California
+250 19  Western
+250 20  North Carolina
+251 0 nil
+252 3  Rams
+252 1  St. Louis
+252 3  Robinson
+252 4  Everett
+252 5  White
+253 12  South Rim
+253 10  Southern Pacific
+253 1  Western Railroad
+253 1  North Coast
+253 4  West
+254 0 nil
+255 9  Tenasserim Division
+255 1  South Eastern
+255 19  Southeastern Regional
+255 20  Upper
+255 20  Upper Salween
+256 1  Wonder
+256 4  Fain
+256 4  Cahn
+256 1  Garrett
+256 11  Berlin
+257 0 nil
+258 1  PhotoShop
+258 1  RAM
+258 1  Mac
+258 1  Publisher
+258 1  Paintbrush
+259 1  NASA
+259 1  Malone
+259 1  Discovery
+259 8  Atlantis
+259 1  Lisa Malone
+260 0 nil
+261 0 nil
+262 1  Keane
+262 6  Mr. Dodd
+262 6  Mark Trail
+262 1  Garfield
+262 1  Family Circus
+263 10  Northern Shipping
+263 9  Cyprus
+264 1  Huckleberry Finn
+264 2  Mark Twain
+264 2  Tom Sawyer
+264 1  Twain
+264 5  William
+265 1  Scarlett
+265 1  Mitchell
+265 1  Rhett
+265 2  Ripley
+265 1  Margaret Mitchell
+266 0 nil
+267 1  Cela
+267 1  Nobel Prize
+267 3  Paz
+267 4  Mahfouz
+267 1  Swedish Academy
+268 4  Poe
+268 1  Pitts
+268 1  Cottle
+268 6  Winkler
+268 17  Kennedy
+269 1  Maytag
+269 2  Magic Chef
+269 6  Admiral
+269 9  Hadley
+269 11  Hoover
+270 0 nil
+271 1  Led Zeppelin
+271 3  Plant
+271 2  Zeppelin
+271 1  Tortelvis
+271 1  Zep
+272 1  Wilde
+272 9  Wharton
+272 7  Steadman
+272 14  Davis
+272 10  Susan
+273 0 nil
+274 1  Lindbergh
+274 1  Hauptmann
+274 1  Charles Lindbergh
+274 13  Chris
+274 4  Ries
+275 1  United Nations
+275 5  UN
+275 1  U.N.
+275 3  Security Council
+275 1  Butrus
+276 1  Fourth
+276 1  Poets Society
+276 1  Miss Daisy
+276 2  Harry Met Sally
+276 1  Right
+277 1  Western
+277 2  North Sea
+278 1  Domino
+278 1  Pizza Hut
+278 1  McDonald
+278 4  Monaghan
+278 9  Mr. Monaghan
+279 10  South Rim
+279 8  West
+279 11  North Fork
+279 13  Earth
+279 18  South
+280 19  Southern California
+281 12  Southern California
+281 3  West Covina
+281 12  West Boulevard
+281 14  South Los Angeles
+281 15  South Side
+282 1  Pink Floyd
+282 2  Wall
+282 3  Waters
+282 2  Berlin Wall
+282 2  Roger Waters
+283 0 nil
+284 0 nil
+285 5  Caribbean
+285 8  Upper Manhattan
+286 1  Boots
+286 1  BASF
+286 1  UK
+286 1  US
+286 1  Synthroid
+287 1  Bush
+287 9  Baker
+287 2  Reagan
+287 3  Soviets
+287 4  Congress
+288 2  Goldman
+288 1  Hager
+288 2  De Lyser
+288 18  HDTV
+288 11  Rob
+289 1  Upper Huallaga
+289 5  Upper Huallaga Valley
+289 4  Andean
+290 4  Caribbean
+290 4  West
+290 10  Western Caribbean
+290 11  Caribbean Sea
+290 11  Western Hemisphere
+291 6  Southwest
+292 6  Southwest
+293 1  NASA
+293 1  Fisher
+293 12  Nasa
+293 9  Hubble
+293 1  Congress
+294 1  Tass
+294 6  NASA
+294 1  Mir
+294 1  Solovyev
+294 6  Atlantis
+295 0 nil
+296 0 nil
+297 1  CNN
+297 1  Hoeveler
+297 1  Noriega
+297 1  Supreme Court
+297 1  William Hoeveler
+298 1  Potlatch
+298 2  Sales
+298 2  Boise Cascade
+298 2  Revenue
+298 2  Willamette
+299 11  West
+299 19  West Lafayette
+299 20  West German
+300 0 nil
+301 0 nil
+302 1  West Point
+302 6  East Coast
+302 9  West Baltimore
+302 10  Lake
+302 14  South Bank
+303 1  Kennedy
+303 2  Magna Carta
+303 1  John
+303 1  Runnymede
+303 16  Magna
+304 1  Kennedy
+304 2  Magna Carta
+304 1  John
+304 1  Runnymede
+304 3  Jackson
+305 11  Southern Christian
+305 11  South
+305 18  Southern Center
+306 1  Silly Putty
+306 1  BinneySmith
+306 1  Hodgson
+306 4  Barbie
+306 3  Reagan
+307 0 nil
+308 7  West Virginia
+308 9  Southern California
+308 15  West German
+309 1  Disney
+309 1  Henson
+309 1  Muppets
+309 1  Jim Henson
+309 1  Sesame Street
+310 1  Henson
+310 1  Disney
+310 1  Muppets
+310 1  Sesame Street
+310 1  Miss Piggy
+311 1  Powell
+311 1  Bush
+311 1  Joint Chiefs
+311 1  Army
+311 2  Reagan
+312 1  Southeastern Conference
+312 1  Southwest Conference
+312 6  Southern Cal
+312 14  Southern Mississippi
+312 13  Southern
+313 0 nil
+314 0 nil
+315 0 nil
+316 1  South Bay
+316 17  Southern California
+316 10  Oregon
+317 1  West
+317 12  South Bay
+317 2  North Carolina
+317 6  Southeast
+317 9  Southern California
+318 10  Western Playboy
+318 4  West Coast
+318 5  South Florida
+319 8  Western Playboy
+319 1  South Florida
+319 4  West Coast
+319 19  Southern California
+320 1  Mazda
+320 1  Wankel
+320 8  GE
+320 17  AIDS
+320 4  Honda

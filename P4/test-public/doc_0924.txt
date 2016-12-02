@@ -1,0 +1,24 @@
+In	IN
+1896	CD
+Agassiz	NNP
+visited	VBD
+Fiji	NNP
+and	CC
+Queensland	NNP
+and	CC
+inspected	VBD
+the	DT
+Great	NNP
+Barrier	NNP
+Reef	NNP
+,	,
+publishing	VBG
+a	DT
+paper	NN
+on	IN
+the	DT
+subject	NN
+in	IN
+1898	CD
+.	.
+

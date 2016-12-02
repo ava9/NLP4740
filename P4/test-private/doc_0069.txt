@@ -1,0 +1,9 @@
+The	DT
+107	CD
+comes	VBZ
+in	IN
+four	CD
+trim	NN
+levels	NNS
+:	:
+

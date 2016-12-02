@@ -1,0 +1,36 @@
+The	DT
+SPECTRE	NNP
+cabinet	NN
+had	VBD
+a	DT
+total	NN
+of	IN
+21	CD
+members	NNS
+.	.
+
+Blofeld	NNP
+was	VBD
+the	DT
+chairman	NN
+and	CC
+leader	NN
+because	IN
+he	PRP
+founded	VBD
+the	DT
+organisation	NN
+and	CC
+Largo	NNP
+was	VBD
+elected	VBN
+by	IN
+the	DT
+cabinet	NN
+to	TO
+be	VB
+second	JJ
+in	IN
+command	NN
+.	.
+

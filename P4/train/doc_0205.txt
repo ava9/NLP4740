@@ -1,0 +1,17 @@
+Lorre	NNP	_
+has	VBZ	_
+a	DT	_
+star	NN	_
+on	IN	_
+the	DT	_
+Hollywood	NNP	_
+Walk	NNP	_
+of	IN	_
+Fame	NNP	_
+,	,	_
+at	IN	_
+6619	CD	_
+Hollywood	NNP	_
+Boulevard	NNP	_
+.	.	_
+

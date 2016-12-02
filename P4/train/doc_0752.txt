@@ -1,0 +1,26 @@
+There	EX	_
+is	VBZ	_
+a	DT	_
+two	CD	_
+-	HYPH	_
+dimensional	JJ	_
+analog	NN	_
+of	IN	_
+pressure	NN	_
+-	:	_
+the	DT	_
+lateral	JJ	_
+force	NN	_
+per	IN	_
+unit	NN	_
+length	NN	_
+applied	VBN	_
+on	IN	_
+a	DT	_
+line	NN	_
+perpendicular	JJ	_
+to	IN	_
+the	DT	_
+force	NN	_
+.	.	_
+

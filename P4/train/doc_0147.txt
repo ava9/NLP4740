@@ -1,0 +1,23 @@
+Indianapolis	NNP	_
+International	NNP	_
+Airport	NNP	_
+is	VBZ	_
+located	VBN	_
+55	CD	_
+miles	NNS	_
+from	IN	_
+Greensburg	NNP	_
+,	,	_
+and	CC	_
+Cincinnati	NNP	_
+Northern	NNP	_
+Kentucky	NNP	_
+International	NNP	_
+Airport	NNP	_
+is	VBZ	_
+located	VBN	_
+70	CD	_
+miles	NNS	_
+away	RB	_
+.	.	_
+

@@ -1,0 +1,22 @@
+DNA	NN
+evidence	NN
+
+Modern	JJ
+DNA	NNP
+studies	NNS
+on	IN
+the	DT
+Y	NN
+chromosome	NN
+of	IN
+Jews	NNPS
+worldwide	RB
+have	VBP
+largely	RB
+discredited	VBD
+the	DT
+Khazar	NNP
+origin	NN
+theory	NN
+.	.
+

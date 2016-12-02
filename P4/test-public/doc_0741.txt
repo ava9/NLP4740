@@ -1,0 +1,17 @@
+The	DT
+NSW	NNP
+business	NN
+community	NN
+is	VBZ
+represented	VBN
+by	IN
+the	DT
+NSW	NNP
+Business	NNP
+Chamber	NNP
+which	WDT
+has	VBZ
+30,000	CD
+members	NNS
+.	.
+

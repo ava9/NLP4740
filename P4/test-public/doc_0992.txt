@@ -1,0 +1,21 @@
+In	IN
+the	DT
+Wolfenstein	NNP
+-	HYPH
+Boters	NNP
+reaction	NN
+,	,
+benzene	NN
+reacts	VBZ
+with	IN
+nitric	JJ
+acid	NN
+and	CC
+mercury	NN
+nitrate	NN
+to	TO
+give	VB
+picric	JJ
+acid	NN
+.	.
+

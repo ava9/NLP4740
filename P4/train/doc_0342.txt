@@ -1,0 +1,20 @@
+Daly	NNP	_
+and	CC	_
+Phillips	NNP	_
+were	VBD	_
+staff	NN	_
+of	IN	_
+the	DT	_
+Met	NNP	_
+Office	NNP	_
+'s	POS	_
+former	JJ	_
+Northern	NNP	_
+Ireland	NNP	_
+office	NN	_
+based	VBN	_
+at	IN	_
+RAF	NNP	_
+Aldergrove	NNP	_
+.	.	_
+

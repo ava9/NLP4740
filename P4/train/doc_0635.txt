@@ -1,0 +1,26 @@
+Among	IN	_
+some	DT	CUE-1
+open	JJ	CUE-1
+source	NN	CUE-1
+user	NN	CUE-1
+groups	NNS	CUE-1
+exists	VBZ	_
+the	DT	_
+feeling	NN	_
+that	IN	_
+Transgaming	NNP	_
+has	VBZ	_
+been	VBN	_
+"	``	_
+Free	JJ	_
+riding	NN	_
+"	''	_
+on	IN	_
+the	DT	_
+free	JJ	_
+software	NN	_
+movement	NN	_
+with	IN	_
+Cedega	NNP	_
+.	.	_
+
