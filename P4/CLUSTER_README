@@ -1,0 +1,28 @@
+These are Brown clusters created with Percy Liang's wcluster.
+
+No minimum cutoff was used in this data.
+
+The GHA data comes from Twitter, via the University of Sheffield's Garden Hose 
+Archive, which is a random 10% sample of all tweets, drawn from 2009-2014, and 
+tokenized using Brendan O'Connor's twokenizer tool.
+
+The RCV data comes from the Reuters Corpus Volume 1, and has been preprocessed
+as per Percy Liang's masters' thesis and Jo Turian's 2009 NIPS workshop paper.
+
+The file format describes:
+- text type (gha=twitter, rcv=newswire)
+- corpus size in tokens (e.g. 8k = 8x10^3, 1B = 1x10^9)
+- number of clusters generated (after the -c)
+- minimum token frequency cutoff (optional, after the -p, always 1)
+
+This should give you some starting points for your application or 
+hyperparameter tuning.
+
+Please cite our work if you use these clusters:
+
+ Leon Derczynski, Sean Chester, Kenneth Bøgh. 2015.
+ "Tune your Brown clustering, Please!"
+ in: Proceedings of the conference on Recent Advances in Natural Language 
+     Processing
+
+URL: http://www.derczynski.com/sheffield/brown-tuning/

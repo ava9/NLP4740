@@ -13,6 +13,7 @@ preSet = {'may', 'might', 'can', 'would', 'should', 'could', 'suggest', 'questio
 inPath = './clusterPaths/'
 outPath = './biologyPresetClusters/'
 
+
 def readFile(fileName):
 	if os.path.exists(fileName):
 		with open(fileName) as f:
