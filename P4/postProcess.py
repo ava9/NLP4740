@@ -2,7 +2,7 @@
 
 import csv
 
-cueTags = ['B', 'I', 'U' , 'L']
+cueTags = {'B', 'I', 'U' , 'L'}
 
 def backToX(resultFile):
     X = []

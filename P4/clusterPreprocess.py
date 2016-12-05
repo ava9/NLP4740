@@ -6,9 +6,9 @@ import os
 # from website: http://english-language-skills.com/item/177-writing-skills-hedge-words.html
 # preSet = {'about','apparently','appear','around','basically','can','could','effectively','evidently','fairly','generally','hopefully','largely','likely','mainly','may','maybe','mostly','overall','perhaps','presumably','probably','quite','rather','really','seem','somewhat','supposedly'}
 # from paper in wikipedia set
-# preSet = {'probable', 'likely', 'possible', 'unsure', 'often', 'possibly', 'allegedly', 'apparently', 'perhaps', 'widely', 'traditionally', 'generally', 'broadly-accepted', 'widespread', 'global', 'superior', 'excellent', 'immensely', 'legendary', 'best', 'clearly', 'obviously', 'arguably', 'may', 'might', 'would', 'should', 'suggest', 'question', 'presume', 'suspect', 'indicate', 'suppose', 'seem', 'appear', 'favor', 'certain', 'numerous', 'many', 'most', 'some', 'much', 'everyone', 'few', 'various', 'of', 'speculation', 'proposal', 'consideration'}
+preSet = {'probable', 'likely', 'possible', 'unsure', 'often', 'possibly', 'allegedly', 'apparently', 'perhaps', 'widely', 'traditionally', 'generally', 'broadly-accepted', 'widespread', 'global', 'superior', 'excellent', 'immensely', 'legendary', 'best', 'clearly', 'obviously', 'arguably', 'may', 'might', 'would', 'should', 'suggest', 'question', 'presume', 'suspect', 'indicate', 'suppose', 'seem', 'appear', 'favor', 'certain', 'numerous', 'many', 'most', 'some', 'much', 'everyone', 'few', 'various', 'of', 'speculation', 'proposal', 'consideration'}
 # from paper in biology set
-preSet = {'may', 'might', 'can', 'would', 'should', 'could', 'suggest', 'question', 'presume', 'suspect', 'indicate', 'suppose', 'seem', 'appear', 'favor', 'probable', 'likely', 'possible', 'unsure'}
+# preSet = {'may', 'might', 'can', 'would', 'should', 'could', 'suggest', 'question', 'presume', 'suspect', 'indicate', 'suppose', 'seem', 'appear', 'favor', 'probable', 'likely', 'possible', 'unsure'}
 
 inPath = './clusterPaths/'
 outPath = './biologyPresetClusters/'

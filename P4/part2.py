@@ -3,6 +3,7 @@
 
 """
 import sys
+import os
 import optparse
 
 # adapted from http://english-language-skills.com/item/177-writing-skills-hedge-words.html
@@ -10,9 +11,13 @@ import optparse
 # twoWordSet = {'in general','kind of','quite clearly','really quite','sort of'}
 
 # file name to make new word set over
-
-
-
+allClusters = ['gha.1M-c10-p1.paths',
+                'gha.1M-c40-p1.paths',
+                'gha.1M-c320-p1.paths',
+                'gha.1M-c1280-p1.paths',
+                'gha.1M-c10240-p1.paths']
+clusterFileName = allClusters[4]
+clusterFolder = 'wikiPresetClusters'
 
 separator = '\t'
 fields = 'w pos y'
@@ -33,23 +38,21 @@ def toBIOLU(v, p = {'y': 1}, prevCNum = -1):
             v['y'] = 'B'
         return currCNum
     return -1
-U = ['w', 'pos']
-B = ['w', 'pos']
 
 templates = [
     # (('w', -2)),
-    (('w', -1)),
+    # (('w', -1)),
     (('w',  0)),
-    (('w',  1)),
+    # (('w',  1)),
     # (('w',  2)),
     # (('w', -2), ('w', -1)),
     (('w', -1), ('w',  0)),
     (('w',  0), ('w',  1)),
     # (('w',  1), ('w',  2)),
     # (('pos', -2)),
-    (('pos', -1)),
+    # (('pos', -1)),
     (('pos',  0)),
-    (('pos',  1)),
+    # (('pos',  1)),
     # (('pos',  2)),
     # (('pos', -2), ('pos', -1)),
     (('pos', -1), ('pos',  0)),
@@ -60,8 +63,21 @@ templates = [
     # (('pos', -1), ('w', -1)),
     (('inCluster', 0))
     ]
+# (0.676623, 0.364579, 0.436437): 45, 49, 50, 54, 58, 59
+# (0.678949, 0.366530, 0.439435): 45, 49, 50, 54, 58, 59, 64 [0]
+# (0.677460, 0.365555, 0.438083): 45, 49, 50, 54, 58, 59, 64 [1]
+# (0.677460, 0.365555, 0.438083): 45, 49, 50, 54, 58, 59, 64 [2]
+# (0.680385, 0.367506, 0.440777): 45, 49, 50, 54, 58, 59, 64 [3]
+# (0.682937, 0.370221, 0.444084): 45, 49, 50, 54, 58, 59, 64 [4]
 
 import crfutils
+
+def readFile(fileName):
+    if os.path.exists(fileName):
+        with open(fileName) as f:
+            return f.read()
+    else:
+        print 'file not found: ' + fileName
 
 def feature_extractor(X):
     # Converting the tags to BILOU
@@ -80,13 +96,11 @@ def feature_extractor(X):
         elif p['y'] == 'B':
             p['y'] = 'U'
     
-    # Adding feature for in predefined dict
+    # read file contents
+    uncCluster = set(readFile(clusterFolder + '/' + clusterFileName))
+    # Adding feature for in predefined cluster
     for i in range(len(X)):
-        X[i]['inDict'] = X[i]['w'] in wordSet 
-        X[i]['inDict'] = X[i]['inDict'] or (i > 0 and X[i-1]['w'] + " " + X[i]['w'] in twoWordSet)
-        X[i]['inDict'] = X[i]['inDict'] or (i < len(X)-1 and X[i]['w'] + " " + X[i+1]['w'] in twoWordSet)
-        X[i]['inDict'] = str(X[i]['inDict'])
-        # X[i]['inCluster'] = 
+        X[i]['inCluster'] = str(X[i]['w'] in uncCluster)
 
     # Apply the feature templates.
     print "Applying Templates"
@@ -96,6 +110,8 @@ def feature_extractor(X):
     if X:
         X[0]['F'].append('__BOS__')
         X[-1]['F'].append('__EOS__')
+
+    return X
 
 
 #The main run for our training and testing
@@ -146,7 +162,7 @@ attributes, this utility tags the input data when a model file is specified by
 
     #process input
     X = crfutils.readiter(fi, F, options.separator)
-    feature_extractor(X)
+    X = feature_extractor(X)
     if options.mode == "parse":
         crfutils.output_features(fo, X, 'y')
     elif options.mode == "train":

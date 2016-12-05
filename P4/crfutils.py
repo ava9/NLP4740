@@ -147,12 +147,12 @@ def train(X, validatePerc, verbose = 1, model = None, algo = 'lbfgs'):
         })
     trainer.set_params({'feature.possible_transitions': True})
     if not model:
-        model = 'standardModel.model'
+        model = 'standardModelP4.model'
     trainer.train(model, holdout = 1)
 
 def tag(X, fo, model = None, F='w pos y'):
     if not model:
-        model = 'standardModel.model'
+        model = 'standardModelP4.model'
     # Create a tagger with an existing model.
     import pycrfsuite as crfsuite
     tagger = crfsuite.Tagger()

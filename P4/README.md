@@ -26,8 +26,10 @@ in UNIX:
 To train and output a model (to stanardModel.model), run:
 >> cat ./train/* | python part2.py -o trained.txt -m train 
 
-To tag a test set with a trained model (default = standardModel.model), run:
+To tag a test set with a trained model (default = standardModelP4.model), run:
 >> cat ./test-public/* | python part2.py -o taggedPublic.txt -m tag -T 1
+
+Then, the post processing was done with the postProcess script (just run ./postProcess.py)
 
 in Windows:
 No support.  Use cygwin or another similar tool to run the above commands.
